@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
 	curl -X POST \
-	-d "<?xml version=\"1.0\" encoding=\"utf-8\"?><soap:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\"><soap:Body><GetIncidents xmlns=\"http://tempuri.org/\" /></soap:Body></soap:Envelope>"  \
+	-d @post-body.xml
 	https://hfdapp.houstontx.gov/JSONTest/WebService1.asmx --header "Content-Type:text/xml" | \
 	xpath '//GetIncidentsResult/text()' | \
 	jq > incidents.json
