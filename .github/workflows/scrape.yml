@@ -14,11 +14,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-	curl -X POST \
-	-d @post-body.xml
-	https://hfdapp.houstontx.gov/JSONTest/WebService1.asmx --header "Content-Type:text/xml" | \
-	xpath '//GetIncidentsResult/text()' | \
-	jq > incidents.json
+        sudo apt-get install libxml2-utils
+        curl -X POST -d @post-body.xml  --header "Content-Type:text/xml"  https://hfdapp.houstontx.gov/JSONTest/WebService1.asmx | xpath -e "//GetIncidentsResult/text()" | jq .  > incidents.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
