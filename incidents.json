@@ -2,17 +2,73 @@
   "ActiveIncidentDataTable": [
     {
       "Agency": "F",
+      "Address": "TRAVIS ST",
+      "CrossStreet": "BLK WEBSTER ST",
+      "KeyMap": "493P",
+      "XCoord": "-95372374",
+      "YCoord": "29749191",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/04/2020 07:18",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "E001;"
+    },
+    {
+      "Agency": "F",
+      "Address": "CAROLWOOD DR",
+      "CrossStreet": "BLK SEEKER ST",
+      "KeyMap": "455F",
+      "XCoord": "-95276467",
+      "YCoord": "29836192",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/04/2020 07:17",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "E043;"
+    },
+    {
+      "Agency": "F",
+      "Address": "SPELL ST",
+      "CrossStreet": "DEAD-END",
+      "KeyMap": "453E",
+      "XCoord": "-95396135",
+      "YCoord": "29836527",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/04/2020 07:15",
+      "IncidentType": "Check for Fire",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "E031;"
+    },
+    {
+      "Agency": "F",
       "Address": "US290OB-43RD US 290 FWY OB",
       "CrossStreet": "PINEMONT ENTR",
       "KeyMap": "451A",
       "XCoord": "-95483153",
       "YCoord": "29833018",
       "CombinedResponse": "F",
-      "CallTimeOpened": "11/04/2020 07:14",
+      "CallTimeOpened": "11/04/2020 07:15",
       "IncidentType": "Motor Vehicle Incident",
       "AlarmLevel": "0",
       "NumberOfUnits": "3",
       "Units": "A004;E013;E050;"
+    },
+    {
+      "Agency": "F",
+      "Address": "UNDERHILL ST",
+      "CrossStreet": "BLK BOLIN RD",
+      "KeyMap": "451K",
+      "XCoord": "-95481943",
+      "YCoord": "29827313",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/04/2020 07:15",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "3",
+      "Units": "E005;M062;A077;"
     },
     {
       "Agency": "F",
@@ -41,34 +97,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "A037;"
-    },
-    {
-      "Agency": "F",
-      "Address": "CAROLWOOD DR",
-      "CrossStreet": "BLK SEEKER ST",
-      "KeyMap": "455F",
-      "XCoord": "-95276467",
-      "YCoord": "29836192",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "11/04/2020 07:13",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E043;"
-    },
-    {
-      "Agency": "F",
-      "Address": "SPELL ST",
-      "CrossStreet": "DEAD-END",
-      "KeyMap": "453E",
-      "XCoord": "-95396135",
-      "YCoord": "29836527",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "11/04/2020 07:12",
-      "IncidentType": "Check for Fire",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E031;"
     },
     {
       "Agency": "F",
@@ -151,8 +179,8 @@
       "CallTimeOpened": "11/04/2020 06:57",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "A067;M067"
+      "NumberOfUnits": "1",
+      "Units": "M067;"
     },
     {
       "Agency": "F",
@@ -195,20 +223,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "E019;"
-    },
-    {
-      "Agency": "F",
-      "Address": "LOMAX ST",
-      "CrossStreet": "BLK KNIGHT ST",
-      "KeyMap": "454E",
-      "XCoord": "-95347986",
-      "YCoord": "29838026",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "11/04/2020 07:01",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "A034;M058"
     },
     {
       "Agency": "F",
@@ -296,6 +310,20 @@
     },
     {
       "Agency": "F",
+      "Address": "LOMAX ST",
+      "CrossStreet": "BLK KNIGHT ST",
+      "KeyMap": "454E",
+      "XCoord": "-95347986",
+      "YCoord": "29838026",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/04/2020 07:01",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "A034;M058"
+    },
+    {
+      "Agency": "F",
       "Address": "WIRT RD ",
       "CrossStreet": "",
       "KeyMap": "451T",
@@ -352,20 +380,6 @@
     },
     {
       "Agency": "P",
-      "Address": "US290OB-43RD 12124 US 290 FWY OB",
-      "CrossStreet": "PINEMONT ENTR",
-      "KeyMap": "451A",
-      "XCoord": "-95483153",
-      "YCoord": "29833018",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "11/04/2020 07:14",
-      "IncidentType": "CRASH/UNK MAJOR/MINOR",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "97Z43;97Z45"
-    },
-    {
-      "Agency": "P",
       "Address": "869 N VICTORY DR ",
       "CrossStreet": "",
       "KeyMap": "412U",
@@ -389,8 +403,8 @@
       "CallTimeOpened": "11/04/2020 05:54",
       "IncidentType": "CRASH/MAJOR/NON FATAL",
       "AlarmLevel": "0",
-      "NumberOfUnits": "4",
-      "Units": "8C41N;8C32D;70C50;9C30D"
+      "NumberOfUnits": "3",
+      "Units": "8C32D;70C50;9C30D;"
     },
     {
       "Agency": "P",
@@ -422,34 +436,6 @@
     },
     {
       "Agency": "P",
-      "Address": "5015 S WAYSIDE DR",
-      "CrossStreet": "BLK RIDGEMONT ST",
-      "KeyMap": "534Q",
-      "XCoord": "-95319212",
-      "YCoord": "29692300",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "11/04/2020 06:18",
-      "IncidentType": "CRASH/MINOR",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "13D12D;"
-    },
-    {
-      "Agency": "P",
-      "Address": "12600 RICHMOND AVE",
-      "CrossStreet": "BLK ASHLOCK DR",
-      "KeyMap": "488Z",
-      "XCoord": "-95605743",
-      "YCoord": "29729788",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "11/04/2020 06:47",
-      "IncidentType": "TRAFFIC HAZARD/URGENT",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "20G40D;"
-    },
-    {
-      "Agency": "P",
       "Address": "4701 S BRAESWOOD BLVD ",
       "CrossStreet": "",
       "KeyMap": "531U",
@@ -475,6 +461,20 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "2",
       "Units": "76B20D;6B32D"
+    },
+    {
+      "Agency": "P",
+      "Address": "5015 S WAYSIDE DR",
+      "CrossStreet": "BLK RIDGEMONT ST",
+      "KeyMap": "534Q",
+      "XCoord": "-95319212",
+      "YCoord": "29692300",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "11/04/2020 06:18",
+      "IncidentType": "CRASH/MINOR",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "13D12D;"
     },
     {
       "Agency": "P",
@@ -517,6 +517,20 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "22B40D;"
+    },
+    {
+      "Agency": "P",
+      "Address": "US290OB-43RD 12124 US 290 FWY OB",
+      "CrossStreet": "PINEMONT ENTR",
+      "KeyMap": "451A",
+      "XCoord": "-95483153",
+      "YCoord": "29833018",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "11/04/2020 07:14",
+      "IncidentType": "CRASH/UNK MAJOR/MINOR",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "3",
+      "Units": "97Z43;97Z45;71Z30;"
     }
   ]
 }
