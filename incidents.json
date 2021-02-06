@@ -2,20 +2,6 @@
   "ActiveIncidentDataTable": [
     {
       "Agency": "F",
-      "Address": "HIDALGO ST",
-      "CrossStreet": "BLK SAGE RD",
-      "KeyMap": "491U",
-      "XCoord": "-95465430",
-      "YCoord": "29735419",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "02/06/2021 05:36",
-      "IncidentType": "Automatic Alarm",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E028;"
-    },
-    {
-      "Agency": "F",
       "Address": "IRBY ST",
       "CrossStreet": "BLK ELLINGTON ST",
       "KeyMap": "412P",
@@ -37,10 +23,10 @@
       "YCoord": "29588881",
       "CombinedResponse": "F",
       "CallTimeOpened": "02/06/2021 05:35",
-      "IncidentType": "Check for Fire",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E070;"
+      "IncidentType": "House on Fire",
+      "AlarmLevel": "1",
+      "NumberOfUnits": "10",
+      "Units": "E070;E052;D071;E093;D070;E061;L093;M070;L061;SF024"
     },
     {
       "Agency": "F",
@@ -72,20 +58,6 @@
     },
     {
       "Agency": "F",
-      "Address": "MILWEE ST",
-      "CrossStreet": "BLK COSTA RICA RD",
-      "KeyMap": "451L",
-      "XCoord": "-95467458",
-      "YCoord": "29822392",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "02/06/2021 05:34",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E013;"
-    },
-    {
-      "Agency": "F",
       "Address": "WERNER ST",
       "CrossStreet": "BLK E HAMILTON ST",
       "KeyMap": "453A",
@@ -95,8 +67,8 @@
       "CallTimeOpened": "02/06/2021 05:33",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "M058;E058"
+      "NumberOfUnits": "1",
+      "Units": "M058;"
     },
     {
       "Agency": "F",
@@ -109,8 +81,64 @@
       "CallTimeOpened": "02/06/2021 05:33",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "E008;M008"
+    },
+    {
+      "Agency": "F",
+      "Address": "FLEMING DR",
+      "CrossStreet": "BLK MAE DR",
+      "KeyMap": "496G",
+      "XCoord": "-95221017",
+      "YCoord": "29775767",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "02/06/2021 05:49",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
       "NumberOfUnits": "1",
-      "Units": "E008;"
+      "Units": "E044;"
+    },
+    {
+      "Agency": "F",
+      "Address": "EMNORA LN",
+      "CrossStreet": "BLK OTTAWA LN",
+      "KeyMap": "449R",
+      "XCoord": "-95556083",
+      "YCoord": "29815135",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "02/06/2021 05:49",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "A077;M049"
+    },
+    {
+      "Agency": "F",
+      "Address": "MARGARET ST",
+      "CrossStreet": "DEAD-END",
+      "KeyMap": "413Z",
+      "XCoord": "-95346890",
+      "YCoord": "29865327",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "02/06/2021 05:49",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "M034;"
+    },
+    {
+      "Agency": "F",
+      "Address": "HIDALGO ST",
+      "CrossStreet": "BLK SAGE RD",
+      "KeyMap": "491U",
+      "XCoord": "-95465430",
+      "YCoord": "29735419",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "02/06/2021 05:46",
+      "IncidentType": "Automatic Alarm",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "E028;"
     },
     {
       "Agency": "F",
@@ -156,20 +184,6 @@
     },
     {
       "Agency": "F",
-      "Address": "DARDEN ST",
-      "CrossStreet": "BLK EASTEX FWY IB",
-      "KeyMap": "454F",
-      "XCoord": "-95335238",
-      "YCoord": "29835366",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "02/06/2021 05:06",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A034;"
-    },
-    {
-      "Agency": "F",
       "Address": "WESTHEIMER RD",
       "CrossStreet": "BLK WESTHOLLOW DR",
       "KeyMap": "488S",
@@ -195,48 +209,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "2",
       "Units": "A047;M059"
-    },
-    {
-      "Agency": "F",
-      "Address": "CARAVAN",
-      "CrossStreet": "BLK HOYTE DR",
-      "KeyMap": "530X",
-      "XCoord": "-95534168",
-      "YCoord": "29665832",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "02/06/2021 03:58",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M068;"
-    },
-    {
-      "Agency": "F",
-      "Address": "SCENIC GREEN DR",
-      "CrossStreet": "BLK HIGH MOUNTAIN DR",
-      "KeyMap": "411R",
-      "XCoord": "-95458444",
-      "YCoord": "29878922",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "02/06/2021 03:57",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M050;"
-    },
-    {
-      "Agency": "F",
-      "Address": "W LITTLE YORK RD",
-      "CrossStreet": "BLK INWOOD PARK DR",
-      "KeyMap": "411Z",
-      "XCoord": "-95455069",
-      "YCoord": "29863451",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "02/06/2021 02:58",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M067;"
     },
     {
       "Agency": "F",
@@ -282,6 +254,20 @@
     },
     {
       "Agency": "F",
+      "Address": "CARAVAN",
+      "CrossStreet": "BLK HOYTE DR",
+      "KeyMap": "530X",
+      "XCoord": "-95534168",
+      "YCoord": "29665832",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "02/06/2021 03:58",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "M068;"
+    },
+    {
+      "Agency": "F",
       "Address": "SUMMER ST",
       "CrossStreet": "BLK COURT ST",
       "KeyMap": "493E",
@@ -321,20 +307,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "2",
       "Units": "22B23N;22B03N"
-    },
-    {
-      "Agency": "P",
-      "Address": "18398 LEE RD ",
-      "CrossStreet": "",
-      "KeyMap": "374D",
-      "XCoord": "-95308570",
-      "YCoord": "29985540",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "02/06/2021 04:42",
-      "IncidentType": "CRASH/MAJOR/NON FATAL",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "3",
-      "Units": "21I53N;21I58N;21I63N;"
     },
     {
       "Agency": "P",
@@ -408,6 +380,20 @@
     },
     {
       "Agency": "P",
+      "Address": "18398 LEE RD ",
+      "CrossStreet": "",
+      "KeyMap": "374D",
+      "XCoord": "-95308570",
+      "YCoord": "29985540",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "02/06/2021 04:42",
+      "IncidentType": "CRASH/MAJOR/NON FATAL",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "3",
+      "Units": "21I53N;21I58N;21I63N;"
+    },
+    {
+      "Agency": "P",
       "Address": "3798 ROSEMONT ST ",
       "CrossStreet": "",
       "KeyMap": "533U",
@@ -464,11 +450,25 @@
     },
     {
       "Agency": "P",
-      "Address": "3003 COLLINGSWORTH ST ",
+      "Address": "398 S SH 6 ",
       "CrossStreet": "",
+      "KeyMap": "488A",
+      "XCoord": "-95645052",
+      "YCoord": "29784251",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "02/06/2021 05:45",
+      "IncidentType": "TRAFFIC HAZARD/URGENT",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "20G71N;"
+    },
+    {
+      "Agency": "P",
+      "Address": "3100 COLLINGSWORTH ST",
+      "CrossStreet": "BLK BREWSTER ST",
       "KeyMap": "454W",
-      "XCoord": "-95339218",
-      "YCoord": "29793892",
+      "XCoord": "-95338290",
+      "YCoord": "29793896",
       "CombinedResponse": "P",
       "CallTimeOpened": "02/06/2021 05:30",
       "IncidentType": "TRAFFIC HAZARD/URGENT",
