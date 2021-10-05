@@ -2,17 +2,45 @@
   "ActiveIncidentDataTable": [
     {
       "Agency": "F",
-      "Address": "CULLEN BLVD",
-      "CrossStreet": "BLK PEDERSON ST",
-      "KeyMap": "573D",
-      "XCoord": "-95355364",
-      "YCoord": "29654153",
+      "Address": "ARBOLES DR",
+      "CrossStreet": "BLK MULLINS DR",
+      "KeyMap": "571A",
+      "XCoord": "-95484059",
+      "YCoord": "29654685",
       "CombinedResponse": "F",
-      "CallTimeOpened": "10/05/2021 06:11",
+      "CallTimeOpened": "10/05/2021 06:24",
+      "IncidentType": "Smoke Detector",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "E048;"
+    },
+    {
+      "Agency": "F",
+      "Address": "DENNIS ST",
+      "CrossStreet": "BLK HELENA ST",
+      "KeyMap": "493P",
+      "XCoord": "-95382124",
+      "YCoord": "29749202",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "10/05/2021 06:21",
+      "IncidentType": "Fire Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "L007;"
+    },
+    {
+      "Agency": "F",
+      "Address": "ELDRIDGE PKWY",
+      "CrossStreet": "BLK CRESCENT PLAZA DR",
+      "KeyMap": "488K",
+      "XCoord": "-95625220",
+      "YCoord": "29752879",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "10/05/2021 06:16",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
-      "Units": "A055;"
+      "Units": "A083;"
     },
     {
       "Agency": "F",
@@ -39,8 +67,8 @@
       "CallTimeOpened": "10/05/2021 06:08",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "3",
-      "Units": "A074;E084;M058;"
+      "NumberOfUnits": "2",
+      "Units": "M058;A074"
     },
     {
       "Agency": "F",
@@ -65,10 +93,10 @@
       "YCoord": "29727634",
       "CombinedResponse": "F",
       "CallTimeOpened": "10/05/2021 06:07",
-      "IncidentType": "Check Patient*",
+      "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E083;"
+      "NumberOfUnits": "2",
+      "Units": "E083;A069"
     },
     {
       "Agency": "F",
@@ -86,20 +114,6 @@
     },
     {
       "Agency": "F",
-      "Address": "ELDRIDGE PKWY",
-      "CrossStreet": "BLK CRESCENT PLAZA DR",
-      "KeyMap": "488K",
-      "XCoord": "-95625220",
-      "YCoord": "29752879",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "10/05/2021 06:02",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A083;"
-    },
-    {
-      "Agency": "F",
       "Address": "MAIN ST",
       "CrossStreet": "BLK US 90A FWY IB",
       "KeyMap": "532T",
@@ -109,22 +123,8 @@
       "CallTimeOpened": "10/05/2021 05:58",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "A021;M024"
-    },
-    {
-      "Agency": "F",
-      "Address": "WITTE RD",
-      "CrossStreet": "BLK SHADOW LN",
-      "KeyMap": "450S",
-      "XCoord": "-95540269",
-      "YCoord": "29802127",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "10/05/2021 05:56",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
       "NumberOfUnits": "1",
-      "Units": "A077;"
+      "Units": "A021;"
     },
     {
       "Agency": "F",
@@ -198,20 +198,6 @@
     },
     {
       "Agency": "F",
-      "Address": "TREE BRIDGE ST",
-      "CrossStreet": "BLK LETTIE AVE",
-      "KeyMap": "575Z",
-      "XCoord": "-95247981",
-      "YCoord": "29605453",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "10/05/2021 04:45",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M070;"
-    },
-    {
-      "Agency": "F",
       "Address": "WOODWAY DR",
       "CrossStreet": "BLK LAZY HOLLOW DR",
       "KeyMap": "490U",
@@ -277,8 +263,8 @@
       "CallTimeOpened": "10/05/2021 03:20",
       "IncidentType": "CRASH/MAJOR/FATALITY",
       "AlarmLevel": "0",
-      "NumberOfUnits": "6",
-      "Units": "2A43N;3Z09N;70Z65N;1A23N;70Z99N;70Z69N"
+      "NumberOfUnits": "2",
+      "Units": "70Z99N;70Z69N"
     },
     {
       "Agency": "P",
@@ -305,8 +291,8 @@
       "CallTimeOpened": "10/05/2021 00:08",
       "IncidentType": "CRASH/MAJOR/NON FATAL",
       "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "18F43N;"
+      "NumberOfUnits": "2",
+      "Units": "18F43N;18F24D"
     },
     {
       "Agency": "P",
@@ -319,8 +305,8 @@
       "CallTimeOpened": "10/05/2021 05:48",
       "IncidentType": "TRAFFIC HAZARD/URGENT",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "14D31N;13D03N"
+      "NumberOfUnits": "1",
+      "Units": "14D31N;"
     },
     {
       "Agency": "P",
