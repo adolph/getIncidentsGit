@@ -2,6 +2,62 @@
   "ActiveIncidentDataTable": [
     {
       "Agency": "F",
+      "Address": "CHANTILLY LN",
+      "CrossStreet": "BLK DUNSMERE ST",
+      "KeyMap": "452L",
+      "XCoord": "-95417243",
+      "YCoord": "29833182",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/09/2021 05:29",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "M067;A031"
+    },
+    {
+      "Agency": "F",
+      "Address": "NORTHBOROUGH DR",
+      "CrossStreet": "BLK RUSHCREEK DR",
+      "KeyMap": "372L",
+      "XCoord": "-95424227",
+      "YCoord": "29960639",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/09/2021 05:29",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "M074;A084"
+    },
+    {
+      "Agency": "F",
+      "Address": "SYCAMORE VILLAS DR",
+      "CrossStreet": "BLK CEDARVILLE DR",
+      "KeyMap": "337C",
+      "XCoord": "-95164797",
+      "YCoord": "30054294",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/09/2021 05:27",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "E103;"
+    },
+    {
+      "Agency": "F",
+      "Address": "HINTON BLVD",
+      "CrossStreet": "BLK E 32ND 1/2 ST",
+      "KeyMap": "453P",
+      "XCoord": "-95384195",
+      "YCoord": "29815756",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/09/2021 05:27",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "A015;M031"
+    },
+    {
+      "Agency": "F",
       "Address": "CULLEN BLVD ",
       "CrossStreet": "",
       "KeyMap": "573R",
@@ -86,20 +142,6 @@
     },
     {
       "Agency": "F",
-      "Address": "W TIDWELL RD ",
-      "CrossStreet": "",
-      "KeyMap": "450D",
-      "XCoord": "-95504646",
-      "YCoord": "29851591",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "11/09/2021 05:08",
-      "IncidentType": "Dumpster on Fire",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E050;"
-    },
-    {
-      "Agency": "F",
       "Address": "BELARBOR ST",
       "CrossStreet": "BLK S WAYSIDE DR",
       "KeyMap": "534X",
@@ -125,48 +167,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "A008;"
-    },
-    {
-      "Agency": "F",
-      "Address": "FRIAR POINT RD",
-      "CrossStreet": "BLK DUANE ST",
-      "KeyMap": "573G",
-      "XCoord": "-95359437",
-      "YCoord": "29640622",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "11/09/2021 04:55",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M046;"
-    },
-    {
-      "Agency": "F",
-      "Address": "MADIE DR",
-      "CrossStreet": "BLK BERRY RD",
-      "KeyMap": "453F",
-      "XCoord": "-95377605",
-      "YCoord": "29836539",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "11/09/2021 04:49",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M058;"
-    },
-    {
-      "Agency": "F",
-      "Address": "REDFORD ST",
-      "CrossStreet": "BLK GULF FWY IB",
-      "KeyMap": "575H",
-      "XCoord": "-95241185",
-      "YCoord": "29644615",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "11/09/2021 04:32",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "M036;A052"
     },
     {
       "Agency": "F",
@@ -277,8 +277,50 @@
       "CallTimeOpened": "11/09/2021 03:14",
       "IncidentType": "Apartment Fire",
       "AlarmLevel": "1",
-      "NumberOfUnits": "4",
-      "Units": "E029;L029;E036;M029"
+      "NumberOfUnits": "2",
+      "Units": "M029;E029"
+    },
+    {
+      "Agency": "F",
+      "Address": "MADIE DR",
+      "CrossStreet": "BLK BERRY RD",
+      "KeyMap": "453F",
+      "XCoord": "-95377605",
+      "YCoord": "29836539",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/09/2021 04:49",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "M058;"
+    },
+    {
+      "Agency": "F",
+      "Address": "REDFORD ST",
+      "CrossStreet": "BLK GULF FWY IB",
+      "KeyMap": "575H",
+      "XCoord": "-95241185",
+      "YCoord": "29644615",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "11/09/2021 04:32",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "M036;A052"
+    },
+    {
+      "Agency": "P",
+      "Address": "15000 JOHN F KENNEDY BLVD",
+      "CrossStreet": "BLK DRUMMET",
+      "KeyMap": "374T",
+      "XCoord": "-95331297",
+      "YCoord": "29936081",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "11/09/2021 04:28",
+      "IncidentType": "CRASH/MINOR",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "22B45N;"
     },
     {
       "Agency": "P",
@@ -310,20 +352,6 @@
     },
     {
       "Agency": "P",
-      "Address": "15000 JOHN F KENNEDY BLVD",
-      "CrossStreet": "BLK DRUMMET",
-      "KeyMap": "374T",
-      "XCoord": "-95331297",
-      "YCoord": "29936081",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "11/09/2021 04:28",
-      "IncidentType": "CRASH/MINOR",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "22B45N;"
-    },
-    {
-      "Agency": "P",
       "Address": "11002 HAMMERLY BLVD",
       "CrossStreet": "DEAD-END",
       "KeyMap": "449Q",
@@ -335,20 +363,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "4F17N;"
-    },
-    {
-      "Agency": "P",
-      "Address": "",
-      "CrossStreet": "",
-      "KeyMap": "",
-      "XCoord": "",
-      "YCoord": "",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "11/09/2021 04:56",
-      "IncidentType": "TRAFFIC HAZARD/NON URGENT",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "9C44N;"
     }
   ]
 }
