@@ -67,8 +67,8 @@
       "CallTimeOpened": "02/20/2022 11:00",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "M050;E049"
+      "NumberOfUnits": "1",
+      "Units": "M050;"
     },
     {
       "Agency": "F",
@@ -179,8 +179,8 @@
       "CallTimeOpened": "02/20/2022 10:42",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "M062;A005"
+      "NumberOfUnits": "1",
+      "Units": "M062;"
     },
     {
       "Agency": "F",
@@ -249,8 +249,8 @@
       "CallTimeOpened": "02/20/2022 10:35",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "M003;A028"
+      "NumberOfUnits": "1",
+      "Units": "M003;"
     },
     {
       "Agency": "F",
@@ -408,17 +408,59 @@
     },
     {
       "Agency": "F",
-      "Address": "KATY FWY OB",
-      "CrossStreet": "BARKER CYPRESS ENTR",
-      "KeyMap": "487A",
-      "XCoord": "-95697707",
-      "YCoord": "29787089",
+      "Address": "SANDPIPER DR",
+      "CrossStreet": "BLK FONMEADOW DR",
+      "KeyMap": "570H",
+      "XCoord": "-95503167",
+      "YCoord": "29641410",
       "CombinedResponse": "F",
-      "CallTimeOpened": "02/20/2022 11:14",
-      "IncidentType": "EMS Event",
+      "CallTimeOpened": "02/20/2022 11:19",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "L059;A010"
+    },
+    {
+      "Agency": "F",
+      "Address": "FONDREN RD",
+      "CrossStreet": "BLK W AIRPORT BLVD",
+      "KeyMap": "570H",
+      "XCoord": "-95508307",
+      "YCoord": "29646475",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "02/20/2022 11:16",
+      "IncidentType": "Ems Event",
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
-      "Units": "L090;"
+      "Units": "E068;"
+    },
+    {
+      "Agency": "F",
+      "Address": "W PARKER RD",
+      "CrossStreet": "BLK MILLERVIEW DR",
+      "KeyMap": "412Z",
+      "XCoord": "-95406048",
+      "YCoord": "29858779",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "02/20/2022 11:16",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "M067;E058"
+    },
+    {
+      "Agency": "F",
+      "Address": "BENNING DR",
+      "CrossStreet": "BLK ASHCROFT DR",
+      "KeyMap": "531W",
+      "XCoord": "-95489371",
+      "YCoord": "29658977",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "02/20/2022 11:15",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "E048;"
     },
     {
       "Agency": "F",
@@ -428,7 +470,7 @@
       "XCoord": "-95567421",
       "YCoord": "29688969",
       "CombinedResponse": "F",
-      "CallTimeOpened": "02/20/2022 11:14",
+      "CallTimeOpened": "02/20/2022 11:15",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
@@ -447,20 +489,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "2",
       "Units": "E059;A021"
-    },
-    {
-      "Agency": "F",
-      "Address": "PORTER RIDGE DR",
-      "CrossStreet": "BLK DETRIC LN",
-      "KeyMap": "611C",
-      "XCoord": "-95463101",
-      "YCoord": "29588917",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "02/20/2022 11:11",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E080;"
     },
     {
       "Agency": "F",
@@ -489,34 +517,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "E090;"
-    },
-    {
-      "Agency": "F",
-      "Address": "QUAIL GLEN DR",
-      "CrossStreet": "BLK BIRD RUN DR",
-      "KeyMap": "610G",
-      "XCoord": "-95516435",
-      "YCoord": "29576088",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "02/20/2022 11:08",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A080;"
-    },
-    {
-      "Agency": "F",
-      "Address": "BENNING DR",
-      "CrossStreet": "BLK ASHCROFT DR",
-      "KeyMap": "531W",
-      "XCoord": "-95489371",
-      "YCoord": "29658977",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "02/20/2022 11:08",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E048;"
     },
     {
       "Agency": "F",
@@ -573,6 +573,48 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "E105;"
+    },
+    {
+      "Agency": "F",
+      "Address": "QUAIL GLEN DR",
+      "CrossStreet": "BLK BIRD RUN DR",
+      "KeyMap": "610G",
+      "XCoord": "-95516435",
+      "YCoord": "29576088",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "02/20/2022 11:08",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A080;"
+    },
+    {
+      "Agency": "P",
+      "Address": "16111 BOWRIDGE LN",
+      "CrossStreet": "BLK RAMBLERIDGE DR",
+      "KeyMap": "571X",
+      "XCoord": "-95478873",
+      "YCoord": "29594369",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "02/20/2022 11:07",
+      "IncidentType": "CRASH/MAJOR/NON FATAL",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "16E23D;"
+    },
+    {
+      "Agency": "P",
+      "Address": "18500 KATY FWY OB",
+      "CrossStreet": "BARKER CYPRESS ENTR",
+      "KeyMap": "487A",
+      "XCoord": "-95697707",
+      "YCoord": "29787089",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "02/20/2022 11:07",
+      "IncidentType": "TRAFFIC HAZARD/URGENT",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "97Z35;"
     },
     {
       "Agency": "P",
@@ -643,34 +685,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "3",
       "Units": "70Z12D;7C30D;70Z16D;"
-    },
-    {
-      "Agency": "P",
-      "Address": "16111 BOWRIDGE LN",
-      "CrossStreet": "BLK RAMBLERIDGE DR",
-      "KeyMap": "571X",
-      "XCoord": "-95478873",
-      "YCoord": "29594369",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "02/20/2022 11:07",
-      "IncidentType": "CRASH/MAJOR/NON FATAL",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "16E23D;"
-    },
-    {
-      "Agency": "P",
-      "Address": "18500 KATY FWY OB",
-      "CrossStreet": "BARKER CYPRESS ENTR",
-      "KeyMap": "487A",
-      "XCoord": "-95697707",
-      "YCoord": "29787089",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "02/20/2022 11:07",
-      "IncidentType": "TRAFFIC HAZARD/URGENT",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "4F30D;97Z35"
     },
     {
       "Agency": "P",
