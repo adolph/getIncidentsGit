@@ -109,8 +109,8 @@
       "CallTimeOpened": "04/25/2022 03:32",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "E018;M018"
+      "NumberOfUnits": "1",
+      "Units": "M018;"
     },
     {
       "Agency": "F",
@@ -125,6 +125,48 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "A058;"
+    },
+    {
+      "Agency": "F",
+      "Address": "SPRUCE FOREST DR",
+      "CrossStreet": "BLK BIRCHMONT DR",
+      "KeyMap": "451B",
+      "XCoord": "-95475358",
+      "YCoord": "29844405",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "04/25/2022 03:48",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A013;"
+    },
+    {
+      "Agency": "F",
+      "Address": "SIH610IB-SH225OB S IH 610 FWY E",
+      "CrossStreet": "BLK E IH 610 FWY S",
+      "KeyMap": "535G",
+      "XCoord": "-95267652",
+      "YCoord": "29709477",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "04/25/2022 03:48",
+      "IncidentType": "EMS Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "E023;E042"
+    },
+    {
+      "Agency": "F",
+      "Address": "YALE ST",
+      "CrossStreet": "BLK DELZ ST",
+      "KeyMap": "452H",
+      "XCoord": "-95402906",
+      "YCoord": "29839359",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "04/25/2022 03:47",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A031;"
     },
     {
       "Agency": "F",
@@ -156,34 +198,6 @@
     },
     {
       "Agency": "F",
-      "Address": "FONDREN RD",
-      "CrossStreet": "BLK PORTAL DR",
-      "KeyMap": "530Z",
-      "XCoord": "-95508480",
-      "YCoord": "29661782",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "04/25/2022 02:58",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M068;"
-    },
-    {
-      "Agency": "F",
-      "Address": "ELLA BLVD ",
-      "CrossStreet": "",
-      "KeyMap": "372K",
-      "XCoord": "-95429084",
-      "YCoord": "29959917",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "04/25/2022 02:51",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M074;"
-    },
-    {
-      "Agency": "F",
       "Address": "FANNIN ST",
       "CrossStreet": "BLK GREENBRIAR DR",
       "KeyMap": "532R",
@@ -209,20 +223,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "M067;"
-    },
-    {
-      "Agency": "F",
-      "Address": "N SAM HOUSTON PKWY E",
-      "CrossStreet": "LEE ENTR",
-      "KeyMap": "374U",
-      "XCoord": "-95313735",
-      "YCoord": "29939705",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "04/25/2022 02:43",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M063;"
     },
     {
       "Agency": "F",
@@ -277,8 +277,8 @@
       "CallTimeOpened": "04/25/2022 02:22",
       "IncidentType": "Building Fire",
       "AlarmLevel": "1",
-      "NumberOfUnits": "6",
-      "Units": "D005;L002;E005;E002;ARS741;ARS736"
+      "NumberOfUnits": "7",
+      "Units": "L002;E005;D005;E002;ARS736;ARS741;CC002;"
     },
     {
       "Agency": "F",
@@ -380,20 +380,6 @@
     },
     {
       "Agency": "P",
-      "Address": "10000 WESTPARK DR ",
-      "CrossStreet": "",
-      "KeyMap": "490W",
-      "XCoord": "-95539077",
-      "YCoord": "29722099",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "04/25/2022 01:01",
-      "IncidentType": "CRASH/MINOR",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "18F56N;"
-    },
-    {
-      "Agency": "P",
       "Address": "3016 CRICKET LN",
       "CrossStreet": "BLK CHARTER OAKS DR",
       "KeyMap": "414S",
@@ -422,20 +408,6 @@
     },
     {
       "Agency": "P",
-      "Address": "8115 RIVER DR",
-      "CrossStreet": "BLK MERIDIAN ST",
-      "KeyMap": "535T",
-      "XCoord": "-95272252",
-      "YCoord": "29681605",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "04/25/2022 02:46",
-      "IncidentType": "TRAFFIC HAZARD/URGENT",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "11H32N;"
-    },
-    {
-      "Agency": "P",
       "Address": "3600 LAURA KOPPE RD",
       "CrossStreet": "BLK EASTEX FWY OB",
       "KeyMap": "454F",
@@ -447,6 +419,20 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "7C01N;"
+    },
+    {
+      "Agency": "P",
+      "Address": "6798 COOK RD ",
+      "CrossStreet": "",
+      "KeyMap": "529E",
+      "XCoord": "-95596153",
+      "YCoord": "29703615",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "04/25/2022 03:44",
+      "IncidentType": "TRAFFIC HAZARD/URGENT",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "19G33N;19G25N"
     },
     {
       "Agency": "P",
