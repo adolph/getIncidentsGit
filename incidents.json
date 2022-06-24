@@ -2,31 +2,45 @@
   "ActiveIncidentDataTable": [
     {
       "Agency": "F",
+      "Address": "PINEMONT DR",
+      "CrossStreet": "BLK GOLF DR",
+      "KeyMap": "452G",
+      "XCoord": "-95420384",
+      "YCoord": "29840999",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "06/24/2022 04:48",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "M031;"
+    },
+    {
+      "Agency": "F",
+      "Address": "PRAIRIE ST",
+      "CrossStreet": "BLK AUSTIN ST",
+      "KeyMap": "493M",
+      "XCoord": "-95359162",
+      "YCoord": "29759090",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "06/24/2022 04:46",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A017;"
+    },
+    {
+      "Agency": "F",
       "Address": "HIGHCREST DR",
       "CrossStreet": "BLK WESTCREST DR",
       "KeyMap": "451S",
       "XCoord": "-95497271",
       "YCoord": "29803951",
       "CombinedResponse": "F",
-      "CallTimeOpened": "06/24/2022 04:34",
+      "CallTimeOpened": "06/24/2022 04:40",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "A005;"
-    },
-    {
-      "Agency": "F",
-      "Address": "US59OB-KINGWOOD DR N US 59 FWY OB",
-      "CrossStreet": "NORTHPARK EXIT",
-      "KeyMap": "336A",
-      "XCoord": "-95251920",
-      "YCoord": "30052532",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "06/24/2022 04:33",
-      "IncidentType": "EMS Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "E104;L101"
     },
     {
       "Agency": "F",
@@ -36,11 +50,25 @@
       "XCoord": "-95384119",
       "YCoord": "29732779",
       "CombinedResponse": "F",
-      "CallTimeOpened": "06/24/2022 04:33",
+      "CallTimeOpened": "06/24/2022 04:38",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
       "NumberOfUnits": "2",
       "Units": "A007;M008"
+    },
+    {
+      "Agency": "F",
+      "Address": "HILLSIDE FALLS TRL",
+      "CrossStreet": "BLK ORCHARD GLEN CT",
+      "KeyMap": "618G",
+      "XCoord": "-95118726",
+      "YCoord": "29577079",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "06/24/2022 04:38",
+      "IncidentType": "Smoke Detector",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "E071;"
     },
     {
       "Agency": "F",
@@ -53,8 +81,8 @@
       "CallTimeOpened": "06/24/2022 04:30",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "E072;M094"
+      "NumberOfUnits": "1",
+      "Units": "M094;"
     },
     {
       "Agency": "F",
@@ -128,6 +156,34 @@
     },
     {
       "Agency": "F",
+      "Address": "MAIN ST",
+      "CrossStreet": "BLK US 90A FWY IB",
+      "KeyMap": "532T",
+      "XCoord": "-95428479",
+      "YCoord": "29676337",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "06/24/2022 03:52",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A021;"
+    },
+    {
+      "Agency": "F",
+      "Address": "SCOTT ST ",
+      "CrossStreet": "",
+      "KeyMap": "493Z",
+      "XCoord": "-95347656",
+      "YCoord": "29735080",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "06/24/2022 03:52",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A025;"
+    },
+    {
+      "Agency": "F",
       "Address": "WESTERLAND DR",
       "CrossStreet": "BLK WESTHEIMER RD",
       "KeyMap": "490T",
@@ -151,22 +207,8 @@
       "CallTimeOpened": "06/24/2022 03:18",
       "IncidentType": "Building Fire",
       "AlarmLevel": "1",
-      "NumberOfUnits": "9",
-      "Units": "E051;E060;E028;D028;A028;L028;M010;ARS764;ARS731;"
-    },
-    {
-      "Agency": "F",
-      "Address": "ERIN ST",
-      "CrossStreet": "BLK TERRY ST",
-      "KeyMap": "453Z",
-      "XCoord": "-95354035",
-      "YCoord": "29796589",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "06/24/2022 03:14",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A030;"
+      "NumberOfUnits": "8",
+      "Units": "E051;A028;M010;D028;L028;E060;ARS764;ARS731"
     },
     {
       "Agency": "F",
@@ -180,7 +222,7 @@
       "IncidentType": "211 fire",
       "AlarmLevel": "1",
       "NumberOfUnits": "30",
-      "Units": "E015;SF030;L006;A012;D006;D031;L031;E012;E030;M062;E031"
+      "Units": "E030;L006;E031;SF030;E015;D006;D031;L031;E012;M062;A012"
     },
     {
       "Agency": "F",
@@ -209,48 +251,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "M072;"
-    },
-    {
-      "Agency": "F",
-      "Address": "MAIN ST",
-      "CrossStreet": "BLK US 90A FWY IB",
-      "KeyMap": "532T",
-      "XCoord": "-95428479",
-      "YCoord": "29676337",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "06/24/2022 03:52",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "A021;M024"
-    },
-    {
-      "Agency": "F",
-      "Address": "SCOTT ST ",
-      "CrossStreet": "",
-      "KeyMap": "493Z",
-      "XCoord": "-95347656",
-      "YCoord": "29735080",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "06/24/2022 03:52",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A025;"
-    },
-    {
-      "Agency": "P",
-      "Address": "10498 BISSONNET ST ",
-      "CrossStreet": "",
-      "KeyMap": "529U",
-      "XCoord": "-95560844",
-      "YCoord": "29674606",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "06/24/2022 03:44",
-      "IncidentType": "CRASH/MINOR/FSGI",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "96G13;"
     },
     {
       "Agency": "P",
@@ -349,6 +349,20 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "3",
       "Units": "16E31N;16E25N;16E41N;"
+    },
+    {
+      "Agency": "P",
+      "Address": "10498 BISSONNET ST ",
+      "CrossStreet": "",
+      "KeyMap": "529U",
+      "XCoord": "-95560844",
+      "YCoord": "29674606",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "06/24/2022 03:44",
+      "IncidentType": "CRASH/MINOR/FSGI",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "96G13;"
     },
     {
       "Agency": "P",
