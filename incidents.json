@@ -2,13 +2,27 @@
   "ActiveIncidentDataTable": [
     {
       "Agency": "F",
+      "Address": "BUFFALO SPEEDWAY",
+      "CrossStreet": "BLK W BELLFORT AVE",
+      "KeyMap": "532T",
+      "XCoord": "-95424680",
+      "YCoord": "29674672",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/31/2022 11:39",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A048;"
+    },
+    {
+      "Agency": "F",
       "Address": "LAMONTE LN",
       "CrossStreet": "BLK APRIL LN",
       "KeyMap": "451L",
       "XCoord": "-95471781",
       "YCoord": "29824236",
       "CombinedResponse": "F",
-      "CallTimeOpened": "07/31/2022 11:29",
+      "CallTimeOpened": "07/31/2022 11:38",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
@@ -22,11 +36,25 @@
       "XCoord": "-95313483",
       "YCoord": "29937396",
       "CombinedResponse": "F",
-      "CallTimeOpened": "07/31/2022 11:29",
+      "CallTimeOpened": "07/31/2022 11:34",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "A064;"
+    },
+    {
+      "Agency": "F",
+      "Address": "HUMBLE WESTFIELD RD",
+      "CrossStreet": "BLK HIGHTOWER LN",
+      "KeyMap": "335T",
+      "XCoord": "-95281432",
+      "YCoord": "30001531",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/31/2022 11:33",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A056;"
     },
     {
       "Agency": "F",
@@ -36,25 +64,11 @@
       "XCoord": "-95376795",
       "YCoord": "29759285",
       "CombinedResponse": "F",
-      "CallTimeOpened": "07/31/2022 11:29",
+      "CallTimeOpened": "07/31/2022 11:32",
       "IncidentType": "Fire Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E008;"
-    },
-    {
-      "Agency": "F",
-      "Address": "CHETWOOD DR",
-      "CrossStreet": "BLK DASHWOOD DR",
-      "KeyMap": "531F",
-      "XCoord": "-95478425",
-      "YCoord": "29707999",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "07/31/2022 11:28",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E051;"
+      "NumberOfUnits": "2",
+      "Units": "E008;A008"
     },
     {
       "Agency": "F",
@@ -67,8 +81,8 @@
       "CallTimeOpened": "07/31/2022 11:26",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "A032;M043"
+      "NumberOfUnits": "1",
+      "Units": "A032;"
     },
     {
       "Agency": "F",
@@ -81,22 +95,8 @@
       "CallTimeOpened": "07/31/2022 11:24",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "3",
-      "Units": "E047;AS016;M080;"
-    },
-    {
-      "Agency": "F",
-      "Address": "W BELLFORT AVE",
-      "CrossStreet": "BLK NENANA DR",
-      "KeyMap": "531V",
-      "XCoord": "-95456732",
-      "YCoord": "29672667",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "07/31/2022 11:21",
-      "IncidentType": "Smoke Detector",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E021;"
+      "NumberOfUnits": "2",
+      "Units": "M080;E047"
     },
     {
       "Agency": "F",
@@ -123,8 +123,8 @@
       "CallTimeOpened": "07/31/2022 11:21",
       "IncidentType": "House on Fire",
       "AlarmLevel": "1",
-      "NumberOfUnits": "12",
-      "Units": "D008;SF024;E025;E035;L033;D046;E046;E033;A025;M018;L018"
+      "NumberOfUnits": "10",
+      "Units": "SF024;M018;E025;L033;D046;A025;E046;CC023;ARS738;ARS767"
     },
     {
       "Agency": "F",
@@ -151,8 +151,8 @@
       "CallTimeOpened": "07/31/2022 11:17",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "M033;A046"
+      "NumberOfUnits": "1",
+      "Units": "M033;"
     },
     {
       "Agency": "F",
@@ -181,20 +181,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "A037;"
-    },
-    {
-      "Agency": "F",
-      "Address": "W LOOP S",
-      "CrossStreet": "WESTHEIMER OBIB",
-      "KeyMap": "491R",
-      "XCoord": "-95457545",
-      "YCoord": "29741667",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "07/31/2022 11:16",
-      "IncidentType": "Motor Vehicle Incident",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E003;"
     },
     {
       "Agency": "F",
@@ -250,7 +236,7 @@
       "IncidentType": "Gas Leak",
       "AlarmLevel": "1",
       "NumberOfUnits": "8",
-      "Units": "D045;E053;L044;E041;M044;SF030;E044;M027"
+      "Units": "D045;E053;L045;E041;SF030;M044;L044;M027"
     },
     {
       "Agency": "F",
@@ -324,6 +310,118 @@
     },
     {
       "Agency": "F",
+      "Address": "HOLLY HALL ST",
+      "CrossStreet": "BLK CAMBRIDGE ST",
+      "KeyMap": "532R",
+      "XCoord": "-95399636",
+      "YCoord": "29685285",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/31/2022 11:44",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A033;"
+    },
+    {
+      "Agency": "F",
+      "Address": "COACHWOOD DR",
+      "CrossStreet": "BLK BRAESRIDGE DR",
+      "KeyMap": "570C",
+      "XCoord": "-95509615",
+      "YCoord": "29652299",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/31/2022 11:44",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "4",
+      "Units": "E082;AS069;M060;A082"
+    },
+    {
+      "Agency": "F",
+      "Address": "HOLCOMBE BLVD",
+      "CrossStreet": "BLK GRAND BLVD",
+      "KeyMap": "533F",
+      "XCoord": "-95383112",
+      "YCoord": "29704727",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/31/2022 11:44",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "3",
+      "Units": "E033;A046;M017;"
+    },
+    {
+      "Agency": "F",
+      "Address": "TANAGER ST",
+      "CrossStreet": "BLK BRAE ACRES RD",
+      "KeyMap": "530Q",
+      "XCoord": "-95520785",
+      "YCoord": "29689733",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/31/2022 11:43",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "M010;A068"
+    },
+    {
+      "Agency": "F",
+      "Address": "HAROLD ST",
+      "CrossStreet": "BLK PERSA ST",
+      "KeyMap": "492U",
+      "XCoord": "-95411935",
+      "YCoord": "29740648",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/31/2022 11:43",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "A016;M008"
+    },
+    {
+      "Agency": "F",
+      "Address": "N SAN JACINTO ST",
+      "CrossStreet": "BLK ALLEN ST",
+      "KeyMap": "493M",
+      "XCoord": "-95357162",
+      "YCoord": "29764574",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/31/2022 11:43",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "3",
+      "Units": "E009;M009;AS017;"
+    },
+    {
+      "Agency": "F",
+      "Address": "CLUB CREEK DR",
+      "CrossStreet": "BLK GREENFORK DR",
+      "KeyMap": "529R",
+      "XCoord": "-95550524",
+      "YCoord": "29681560",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/31/2022 11:42",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A073;"
+    },
+    {
+      "Agency": "F",
+      "Address": "KATY FWY IB",
+      "CrossStreet": "BLK BUCKINGHAM DR",
+      "KeyMap": "491C",
+      "XCoord": "-95464759",
+      "YCoord": "29783384",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/31/2022 11:42",
+      "IncidentType": "Fire Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "L002;"
+    },
+    {
+      "Agency": "F",
       "Address": "CITY PARK CENTRAL LN",
       "CrossStreet": "BLK GARNIER DR",
       "KeyMap": "573J",
@@ -349,20 +447,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "M046;"
-    },
-    {
-      "Agency": "F",
-      "Address": "BW8IB-US59OB N BW 8 TWY E",
-      "CrossStreet": "N US 59 ENTR",
-      "KeyMap": "375S",
-      "XCoord": "-95294432",
-      "YCoord": "29940002",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "07/31/2022 10:43",
-      "IncidentType": "Motorcycle",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M063;"
     },
     {
       "Agency": "F",
@@ -431,22 +515,8 @@
       "CallTimeOpened": "07/31/2022 10:48",
       "IncidentType": "Building Fire",
       "AlarmLevel": "1",
-      "NumberOfUnits": "4",
-      "Units": "L046;E026;E040;L026"
-    },
-    {
-      "Agency": "F",
-      "Address": "N HUTCHESON ST",
-      "CrossStreet": "BLK N YORK ST",
-      "KeyMap": "494P",
-      "XCoord": "-95333801",
-      "YCoord": "29754747",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "07/31/2022 10:45",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A017;"
+      "NumberOfUnits": "3",
+      "Units": "L046;E040;L026;"
     },
     {
       "Agency": "F",
@@ -475,20 +545,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "M003;"
-    },
-    {
-      "Agency": "F",
-      "Address": "WOODWICK ST",
-      "CrossStreet": "BLK SPINET ST",
-      "KeyMap": "415W",
-      "XCoord": "-95287733",
-      "YCoord": "29865701",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "07/31/2022 09:40",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A056;"
     },
     {
       "Agency": "P",
@@ -590,6 +646,20 @@
     },
     {
       "Agency": "P",
+      "Address": "3154 WASHINGTON AVE ",
+      "CrossStreet": "",
+      "KeyMap": "493E",
+      "XCoord": "-95391898",
+      "YCoord": "29768978",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "07/31/2022 11:41",
+      "IncidentType": "TRAFFIC HAZARD/NON URGENT",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "2A44D;"
+    },
+    {
+      "Agency": "P",
       "Address": "6677 LIMESTONE ST",
       "CrossStreet": "BLK BINGLE RD",
       "KeyMap": "451J",
@@ -601,20 +671,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "6B37D;"
-    },
-    {
-      "Agency": "P",
-      "Address": "2711 BROADWAY ST ",
-      "CrossStreet": "",
-      "KeyMap": "535K",
-      "XCoord": "-95277870",
-      "YCoord": "29700839",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "07/31/2022 10:50",
-      "IncidentType": "CRASH/MINOR",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "11H37D;"
     }
   ]
 }
