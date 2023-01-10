@@ -2,27 +2,13 @@
   "ActiveIncidentDataTable": [
     {
       "Agency": "F",
-      "Address": "DICKSON ST",
-      "CrossStreet": "BLK DURHAM DR",
-      "KeyMap": "492M",
-      "XCoord": "-95408727",
-      "YCoord": "29765364",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "01/10/2023 05:19",
-      "IncidentType": "EMS Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E006;"
-    },
-    {
-      "Agency": "F",
       "Address": "CLAY RD",
       "CrossStreet": "BLK CLAYMOORE PARK DR",
       "KeyMap": "449G",
       "XCoord": "-95564763",
       "YCoord": "29831906",
       "CombinedResponse": "F",
-      "CallTimeOpened": "01/10/2023 05:19",
+      "CallTimeOpened": "01/10/2023 05:28",
       "IncidentType": "Automatic Alarm",
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
@@ -36,11 +22,25 @@
       "XCoord": "-95613124",
       "YCoord": "29759566",
       "CombinedResponse": "F",
-      "CallTimeOpened": "01/10/2023 05:18",
+      "CallTimeOpened": "01/10/2023 05:28",
       "IncidentType": "Fire Event",
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "E075;"
+    },
+    {
+      "Agency": "F",
+      "Address": "N GESSNER RD",
+      "CrossStreet": "BLK MILLS RD",
+      "KeyMap": "370N",
+      "XCoord": "-95547060",
+      "YCoord": "29950589",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "01/10/2023 05:27",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "M096;"
     },
     {
       "Agency": "F",
@@ -114,6 +114,20 @@
     },
     {
       "Agency": "F",
+      "Address": "CEDARBURG DR",
+      "CrossStreet": "BLK SELINSKY RD",
+      "KeyMap": "574J",
+      "XCoord": "-95334339",
+      "YCoord": "29638123",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "01/10/2023 04:38",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "M036;"
+    },
+    {
+      "Agency": "F",
       "Address": "MOURSUND ST",
       "CrossStreet": "BLK LAMAR FLEMING AVE",
       "KeyMap": "533E",
@@ -184,34 +198,6 @@
     },
     {
       "Agency": "F",
-      "Address": "CEDARBURG DR",
-      "CrossStreet": "BLK SELINSKY RD",
-      "KeyMap": "574J",
-      "XCoord": "-95334339",
-      "YCoord": "29638123",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "01/10/2023 04:38",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M036;"
-    },
-    {
-      "Agency": "F",
-      "Address": "BOONE RD",
-      "CrossStreet": "BLK POMPANO LN",
-      "KeyMap": "529K",
-      "XCoord": "-95575054",
-      "YCoord": "29694567",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "01/10/2023 04:34",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A073;"
-    },
-    {
-      "Agency": "F",
       "Address": "GREENS RD",
       "CrossStreet": "BLK IMPERIAL VALLEY DR",
       "KeyMap": "372R",
@@ -268,20 +254,6 @@
     },
     {
       "Agency": "P",
-      "Address": "6414 COSTA MESA DR",
-      "CrossStreet": "BLK BODEGA BAY DR",
-      "KeyMap": "611B",
-      "XCoord": "-95480988",
-      "YCoord": "29589615",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "01/10/2023 02:34",
-      "IncidentType": "CRASH/MINOR",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "16E45N;"
-    },
-    {
-      "Agency": "P",
       "Address": "NUS59OB-BW8IB 15098 N US 59 FWY OB",
       "CrossStreet": "GREENS EXIT",
       "KeyMap": "375S",
@@ -310,20 +282,6 @@
     },
     {
       "Agency": "P",
-      "Address": "9201 SCOTT ST ",
-      "CrossStreet": "",
-      "KeyMap": "573C",
-      "XCoord": "-95368011",
-      "YCoord": "29658261",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "01/10/2023 04:23",
-      "IncidentType": "TRAFFIC HAZARD/NON URGENT",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "14D17N;"
-    },
-    {
-      "Agency": "P",
       "Address": "4999 GASMER DR ",
       "CrossStreet": "",
       "KeyMap": "571C",
@@ -333,8 +291,8 @@
       "CallTimeOpened": "01/10/2023 03:42",
       "IncidentType": "CRASH/MAJOR/NON FATAL",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "15E35N;15E44N"
+      "NumberOfUnits": "1",
+      "Units": "15E35N;"
     },
     {
       "Agency": "P",
@@ -347,8 +305,22 @@
       "CallTimeOpened": "01/10/2023 04:43",
       "IncidentType": "CRASH/UNK MAJOR/MINOR",
       "AlarmLevel": "0",
-      "NumberOfUnits": "7",
-      "Units": "10H06N;10H75N;10H11N;10H45N;7C31N;7C25N;10H51N;"
+      "NumberOfUnits": "6",
+      "Units": "10H75N;10H11N;10H45N;7C31N;7C25N;10H51N"
+    },
+    {
+      "Agency": "P",
+      "Address": "4714 DICKSON ST",
+      "CrossStreet": "BLK DURHAM DR",
+      "KeyMap": "492M",
+      "XCoord": "-95408727",
+      "YCoord": "29765364",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "01/10/2023 05:12",
+      "IncidentType": "CRASH/MAJOR/NON FATAL",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "2",
+      "Units": "2A45N;2A63N"
     }
   ]
 }
