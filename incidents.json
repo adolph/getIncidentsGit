@@ -11,8 +11,8 @@
       "CallTimeOpened": "03/15/2023 03:54",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "A005;E005"
+      "NumberOfUnits": "1",
+      "Units": "A005;"
     },
     {
       "Agency": "F",
@@ -39,8 +39,8 @@
       "CallTimeOpened": "03/15/2023 03:44",
       "IncidentType": "Fire Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "3",
-      "Units": "E072;E071;A093;"
+      "NumberOfUnits": "1",
+      "Units": "A093;"
     },
     {
       "Agency": "F",
@@ -100,13 +100,27 @@
     },
     {
       "Agency": "F",
+      "Address": "FONDREN RD ",
+      "CrossStreet": "",
+      "KeyMap": "490Y",
+      "XCoord": "-95520493",
+      "YCoord": "29729064",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "03/15/2023 04:28",
+      "IncidentType": "Electrical Pole Down",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "E060;"
+    },
+    {
+      "Agency": "F",
       "Address": "BELARBOR ST",
       "CrossStreet": "BLK SOUTHBANK ST",
       "KeyMap": "534W",
       "XCoord": "-95336649",
       "YCoord": "29665453",
       "CombinedResponse": "F",
-      "CallTimeOpened": "03/15/2023 04:18",
+      "CallTimeOpened": "03/15/2023 04:22",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
@@ -139,34 +153,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "E074;"
-    },
-    {
-      "Agency": "F",
-      "Address": "BISSONNET ST",
-      "CrossStreet": "BLK LEAWOOD BLVD",
-      "KeyMap": "529T",
-      "XCoord": "-95576629",
-      "YCoord": "29674577",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "03/15/2023 04:10",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A073;"
-    },
-    {
-      "Agency": "F",
-      "Address": "JEFFERSON ST",
-      "CrossStreet": "BLK BASTROP ST",
-      "KeyMap": "493V",
-      "XCoord": "-95359287",
-      "YCoord": "29744719",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "03/15/2023 04:06",
-      "IncidentType": "Fire Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "L007;"
     },
     {
       "Agency": "F",
@@ -223,34 +209,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "A082;"
-    },
-    {
-      "Agency": "F",
-      "Address": "LUCKY ST",
-      "CrossStreet": "BLK DE PRIEST ST",
-      "KeyMap": "412U",
-      "XCoord": "-95419744",
-      "YCoord": "29870045",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "03/15/2023 03:20",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "M067;"
-    },
-    {
-      "Agency": "P",
-      "Address": "10400 EASTEX FWY OB",
-      "CrossStreet": "BLK SAUNDERS RD",
-      "KeyMap": "414X",
-      "XCoord": "-95332733",
-      "YCoord": "29862758",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "03/15/2023 03:14",
-      "IncidentType": "CRASH/MAJOR/NON FATAL",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "7C30F;"
     },
     {
       "Agency": "P",
@@ -321,6 +279,20 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "20G62N;"
+    },
+    {
+      "Agency": "P",
+      "Address": "10400 EASTEX FWY OB",
+      "CrossStreet": "BLK SAUNDERS RD",
+      "KeyMap": "414X",
+      "XCoord": "-95332733",
+      "YCoord": "29862758",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "03/15/2023 03:14",
+      "IncidentType": "CRASH/MAJOR/NON FATAL",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "7C30F;"
     }
   ]
 }
