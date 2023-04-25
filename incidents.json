@@ -8,11 +8,11 @@
       "XCoord": "-95498565",
       "YCoord": "29843600",
       "CombinedResponse": "F",
-      "CallTimeOpened": "04/25/2023 06:28",
+      "CallTimeOpened": "04/25/2023 06:36",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E050;"
+      "NumberOfUnits": "3",
+      "Units": "E050;M067;A005;"
     },
     {
       "Agency": "F",
@@ -22,25 +22,11 @@
       "XCoord": "-95371901",
       "YCoord": "29854229",
       "CombinedResponse": "F",
-      "CallTimeOpened": "04/25/2023 06:26",
+      "CallTimeOpened": "04/25/2023 06:31",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E058;"
-    },
-    {
-      "Agency": "F",
-      "Address": "AIRPORT BLVD",
-      "CrossStreet": "BLK PANAIR ST",
-      "KeyMap": "575C",
-      "XCoord": "-95261572",
-      "YCoord": "29653612",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "04/25/2023 06:25",
-      "IncidentType": "Smoke Detector",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "E036;"
+      "NumberOfUnits": "2",
+      "Units": "E058;A058"
     },
     {
       "Agency": "F",
@@ -53,8 +39,8 @@
       "CallTimeOpened": "04/25/2023 06:18",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A080;"
+      "NumberOfUnits": "2",
+      "Units": "A080;M080"
     },
     {
       "Agency": "F",
@@ -67,8 +53,8 @@
       "CallTimeOpened": "04/25/2023 06:16",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "L029;A026"
+      "NumberOfUnits": "1",
+      "Units": "A026;"
     },
     {
       "Agency": "F",
@@ -81,8 +67,8 @@
       "CallTimeOpened": "04/25/2023 06:15",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "3",
-      "Units": "M070;E061;A052;"
+      "NumberOfUnits": "1",
+      "Units": "M070;"
     },
     {
       "Agency": "F",
@@ -109,8 +95,8 @@
       "CallTimeOpened": "04/25/2023 06:12",
       "IncidentType": "Motor Vehicle Incident",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "E069;A083"
+      "NumberOfUnits": "1",
+      "Units": "A083;"
     },
     {
       "Agency": "F",
@@ -142,6 +128,34 @@
     },
     {
       "Agency": "F",
+      "Address": "LITTLE YORK RD ",
+      "CrossStreet": "",
+      "KeyMap": "413U",
+      "XCoord": "-95364460",
+      "YCoord": "29870886",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "04/25/2023 06:43",
+      "IncidentType": "EMS Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A034;"
+    },
+    {
+      "Agency": "F",
+      "Address": "FULTON ST",
+      "CrossStreet": "BLK GROTHE LN",
+      "KeyMap": "453F",
+      "XCoord": "-95375617",
+      "YCoord": "29838714",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "04/25/2023 06:41",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "M058;"
+    },
+    {
+      "Agency": "F",
       "Address": "GEORGIA ST",
       "CrossStreet": "BLK MIDWAY BLVD",
       "KeyMap": "495U",
@@ -165,22 +179,8 @@
       "CallTimeOpened": "04/25/2023 05:59",
       "IncidentType": "Motor Vehicle Incident",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "A020;A036"
-    },
-    {
-      "Agency": "F",
-      "Address": "SCOTT ST",
-      "CrossStreet": "BLK BREMOND ST",
-      "KeyMap": "493Z",
-      "XCoord": "-95348036",
-      "YCoord": "29734110",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "04/25/2023 05:50",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
       "NumberOfUnits": "1",
-      "Units": "A018;"
+      "Units": "A020;"
     },
     {
       "Agency": "F",
@@ -235,8 +235,8 @@
       "CallTimeOpened": "04/25/2023 05:11",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "M050;A038"
+      "NumberOfUnits": "1",
+      "Units": "M050;"
     },
     {
       "Agency": "F",
@@ -247,10 +247,24 @@
       "YCoord": "29724511",
       "CombinedResponse": "F",
       "CallTimeOpened": "04/25/2023 04:14",
-      "IncidentType": "Truck Fire",
+      "IncidentType": "Ems Event",
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "SQ028;"
+    },
+    {
+      "Agency": "P",
+      "Address": "2000 N SAM HOUSTON PKWY E ",
+      "CrossStreet": "",
+      "KeyMap": "373V",
+      "XCoord": "-95356252",
+      "YCoord": "29938701",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "04/25/2023 04:42",
+      "IncidentType": "CRASH/MINOR",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "76B32D;"
     },
     {
       "Agency": "P",
@@ -265,6 +279,20 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "2",
       "Units": "20G13N;20G61N"
+    },
+    {
+      "Agency": "P",
+      "Address": "20998 NORTHPARK DR ",
+      "CrossStreet": "",
+      "KeyMap": "296S",
+      "XCoord": "-95254809",
+      "YCoord": "30069948",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "04/25/2023 06:40",
+      "IncidentType": "CRASH/MINOR",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "24C10D;"
     },
     {
       "Agency": "P",
