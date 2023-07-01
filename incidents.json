@@ -2,6 +2,48 @@
   "ActiveIncidentDataTable": [
     {
       "Agency": "F",
+      "Address": "FAIRWAY DR",
+      "CrossStreet": "BLK PLUM DR",
+      "KeyMap": "534R",
+      "XCoord": "-95297860",
+      "YCoord": "29691051",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/01/2023 04:29",
+      "IncidentType": "EMS Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A026;"
+    },
+    {
+      "Agency": "F",
+      "Address": "FONDREN RD",
+      "CrossStreet": "BLK PORTAL DR",
+      "KeyMap": "530Z",
+      "XCoord": "-95508478",
+      "YCoord": "29661915",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/01/2023 04:29",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A082;"
+    },
+    {
+      "Agency": "F",
+      "Address": "SOUTHDOWN TRACE TRL",
+      "CrossStreet": "BLK RURAL OAK ST",
+      "KeyMap": "576V",
+      "XCoord": "-95196901",
+      "YCoord": "29611898",
+      "CombinedResponse": "F",
+      "CallTimeOpened": "07/01/2023 04:28",
+      "IncidentType": "Ems Event",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "A093;"
+    },
+    {
+      "Agency": "F",
       "Address": "SHARP PL",
       "CrossStreet": "BLK STANMORE DR",
       "KeyMap": "492Q",
@@ -55,48 +97,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "A002;"
-    },
-    {
-      "Agency": "F",
-      "Address": "MAIN ST",
-      "CrossStreet": "BLK BUFFALO SPEEDWAY",
-      "KeyMap": "532T",
-      "XCoord": "-95425896",
-      "YCoord": "29680006",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "07/01/2023 04:17",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "L021;"
-    },
-    {
-      "Agency": "F",
-      "Address": "FAIRWAY DR",
-      "CrossStreet": "BLK PLUM DR",
-      "KeyMap": "534R",
-      "XCoord": "-95297860",
-      "YCoord": "29691051",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "07/01/2023 04:17",
-      "IncidentType": "EMS Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A026;"
-    },
-    {
-      "Agency": "F",
-      "Address": "SOUTHDOWN TRACE TRL",
-      "CrossStreet": "BLK RURAL OAK ST",
-      "KeyMap": "576V",
-      "XCoord": "-95196901",
-      "YCoord": "29611898",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "07/01/2023 04:16",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A093;"
     },
     {
       "Agency": "F",
@@ -207,8 +207,8 @@
       "CallTimeOpened": "07/01/2023 03:57",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "3",
-      "Units": "A038;M031;M050;"
+      "NumberOfUnits": "2",
+      "Units": "M031;A038"
     },
     {
       "Agency": "F",
@@ -333,8 +333,8 @@
       "CallTimeOpened": "07/01/2023 03:30",
       "IncidentType": "Ems Event",
       "AlarmLevel": "0",
-      "NumberOfUnits": "2",
-      "Units": "M062;A004"
+      "NumberOfUnits": "1",
+      "Units": "A004;"
     },
     {
       "Agency": "F",
@@ -419,34 +419,6 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "2",
       "Units": "A046;SQ046"
-    },
-    {
-      "Agency": "F",
-      "Address": "SAN JACINTO ST",
-      "CrossStreet": "BLK MCILHENNY ST",
-      "KeyMap": "493U",
-      "XCoord": "-95370923",
-      "YCoord": "29746139",
-      "CombinedResponse": "F",
-      "CallTimeOpened": "07/01/2023 03:13",
-      "IncidentType": "Ems Event",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "1",
-      "Units": "A007;"
-    },
-    {
-      "Agency": "P",
-      "Address": "7527 ABILENE ST",
-      "CrossStreet": "BLK N WAYSIDE DR",
-      "KeyMap": "495E",
-      "XCoord": "-95292575",
-      "YCoord": "29771919",
-      "CombinedResponse": "P",
-      "CallTimeOpened": "07/01/2023 03:11",
-      "IncidentType": "CRASH/MAJOR/FATALITY",
-      "AlarmLevel": "0",
-      "NumberOfUnits": "9",
-      "Units": "9C42F;9C04F;9C38F;70Z92N;3Z05N;70Z77N;70Z81N;70Z99N;96Z05;"
     },
     {
       "Agency": "P",
@@ -643,6 +615,34 @@
       "AlarmLevel": "0",
       "NumberOfUnits": "1",
       "Units": "10H58B;"
+    },
+    {
+      "Agency": "P",
+      "Address": "7527 ABILENE ST",
+      "CrossStreet": "BLK N WAYSIDE DR",
+      "KeyMap": "495E",
+      "XCoord": "-95292575",
+      "YCoord": "29771919",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "07/01/2023 03:11",
+      "IncidentType": "CRASH/MAJOR/FATALITY",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "9",
+      "Units": "9C42F;9C04F;9C38F;70Z92N;3Z05N;70Z77N;70Z81N;70Z99N;96Z05;"
+    },
+    {
+      "Agency": "P",
+      "Address": "6700 S SAM HOUSTON PKWY W",
+      "CrossStreet": "BLK TADLOCK LN",
+      "KeyMap": "571S",
+      "XCoord": "-95485517",
+      "YCoord": "29610170",
+      "CombinedResponse": "P",
+      "CallTimeOpened": "07/01/2023 03:31",
+      "IncidentType": "TRAFFIC HAZARD/NON URGENT",
+      "AlarmLevel": "0",
+      "NumberOfUnits": "1",
+      "Units": "16E47C;"
     },
     {
       "Agency": "P",
