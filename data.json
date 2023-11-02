@@ -93,18 +93,86 @@
   "features": [
     {
       "attributes": {
-        "UID": 29563223,
+        "UID": 29762494,
         "Agency": "F",
-        "Address": "EL DORADO BLVD",
-        "CrossStreet": "BLK LA CABANA DR",
-        "CALL_TIME": 1698916020000,
+        "Address": "TEXAS ST",
+        "CrossStreet": "BLK SMITH ST",
+        "CALL_TIME": 1698917220000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E001",
+        "LONGITUDE": -95.366758,
+        "LATITUDE": 29.762494,
+        "KeyMap": "493L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29683672,
+        "Agency": "F",
+        "Address": "BACON ST",
+        "CrossStreet": "BLK MOSSIDE ST",
+        "CALL_TIME": 1698917040000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E094",
-        "LONGITUDE": -95.138804,
-        "LATITUDE": 29.563223,
-        "KeyMap": "618N",
+        "Units": "E046",
+        "LONGITUDE": -95.377183,
+        "LATITUDE": 29.683672,
+        "KeyMap": "533P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29663457,
+        "Agency": "F",
+        "Address": "BROADWAY ST",
+        "CrossStreet": "BLK MORLEY ST",
+        "CALL_TIME": 1698916800000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A026",
+        "LONGITUDE": -95.276882,
+        "LATITUDE": 29.663457,
+        "KeyMap": "535X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29734074,
+        "Agency": "F",
+        "Address": "CANAL ST",
+        "CrossStreet": "BLK E NAVIGATION BLVD",
+        "CALL_TIME": 1698916620000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A020",
+        "LONGITUDE": -95.282412,
+        "LATITUDE": 29.734074,
+        "KeyMap": "495X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29654029,
+        "Agency": "F",
+        "Address": "GULF FWY OB",
+        "CrossStreet": "AIRPORT OBIB",
+        "CALL_TIME": 1698916440000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "L029",
+        "LONGITUDE": -95.252828,
+        "LATITUDE": 29.654029,
+        "KeyMap": "575D",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +182,7 @@
         "Agency": "F",
         "Address": "RICHMOND AVE",
         "CrossStreet": "BLK UNKNOWN",
-        "CALL_TIME": 1698915780000,
+        "CALL_TIME": 1698916380000,
         "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -131,7 +199,7 @@
         "Agency": "F",
         "Address": "RICHELIEU LN",
         "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1698915660000,
+        "CALL_TIME": 1698916260000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -168,28 +236,11 @@
         "CALL_TIME": 1698915600000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M078,E057",
+        "NO_UNITS": 1,
+        "Units": "M078",
         "LONGITUDE": -95.595378,
         "LATITUDE": 29.776353,
         "KeyMap": "489E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29739447,
-        "Agency": "F",
-        "Address": "WESTERLAND DR",
-        "CrossStreet": "BLK WESTHEIMER RD",
-        "CALL_TIME": 1698915420000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E060",
-        "LONGITUDE": -95.531498,
-        "LATITUDE": 29.739447,
-        "KeyMap": "490T",
         "CombinedResponse": "F"
       }
     },
@@ -212,6 +263,23 @@
     },
     {
       "attributes": {
+        "UID": 29739447,
+        "Agency": "F",
+        "Address": "WESTERLAND DR",
+        "CrossStreet": "BLK WESTHEIMER RD",
+        "CALL_TIME": 1698915420000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A060",
+        "LONGITUDE": -95.531498,
+        "LATITUDE": 29.739447,
+        "KeyMap": "490T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29830602,
         "Agency": "F",
         "Address": "N SH 6",
@@ -229,23 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29808182,
-        "Agency": "F",
-        "Address": "FULTON ST",
-        "CrossStreet": "BLK GRACELAND ST",
-        "CALL_TIME": 1698915180000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A030",
-        "LONGITUDE": -95.36937,
-        "LATITUDE": 29.808182,
-        "KeyMap": "453U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29703207,
         "Agency": "F",
         "Address": "BELLEFONTAINE ST",
@@ -258,23 +309,6 @@
         "LONGITUDE": -95.418337,
         "LATITUDE": 29.703207,
         "KeyMap": "532G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29734257,
-        "Agency": "F",
-        "Address": "RICHMOND AVE",
-        "CrossStreet": "BLK HAZARD ST",
-        "CALL_TIME": 1698914940000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A016",
-        "LONGITUDE": -95.406462,
-        "LATITUDE": 29.734257,
-        "KeyMap": "492Z",
         "CombinedResponse": "F"
       }
     },
@@ -314,23 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29811014,
-        "Agency": "F",
-        "Address": "HAMMERLY BLVD",
-        "CrossStreet": "BLK HOLLISTER ST",
-        "CALL_TIME": 1698914160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A005",
-        "LONGITUDE": -95.50639,
-        "LATITUDE": 29.811014,
-        "KeyMap": "450R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29732338,
         "Agency": "F",
         "Address": "SCOTT ST",
@@ -343,40 +360,6 @@
         "LONGITUDE": -95.34873,
         "LATITUDE": 29.732338,
         "KeyMap": "493Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29762049,
-        "Agency": "P",
-        "Address": "12601 INDUSTRIAL RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1698913740000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "9C22F",
-        "LONGITUDE": -95.213027,
-        "LATITUDE": 29.762049,
-        "KeyMap": "496L",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29787373,
-        "Agency": "F",
-        "Address": "HIGHLAND ST",
-        "CrossStreet": "BLK NORHILL BLVD",
-        "CALL_TIME": 1698913500000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A015",
-        "LONGITUDE": -95.384687,
-        "LATITUDE": 29.787373,
-        "KeyMap": "493B",
         "CombinedResponse": "F"
       }
     },
@@ -530,23 +513,6 @@
         "LONGITUDE": -95.477071,
         "LATITUDE": 29.739589,
         "KeyMap": "491T",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29669476,
-        "Agency": "P",
-        "Address": "5430 NORTHRIDGE DR",
-        "CrossStreet": "BLK ST LO RD",
-        "CALL_TIME": 1698887940000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "13D40N",
-        "LONGITUDE": -95.341868,
-        "LATITUDE": 29.669476,
-        "KeyMap": "534W",
         "CombinedResponse": "P"
       }
     }
