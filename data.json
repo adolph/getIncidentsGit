@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29710650,
+        "UID": 29747803,
         "Agency": "F",
-        "Address": "N MACGREGOR WAY",
-        "CrossStreet": "BLK SCOTT ST",
-        "CALL_TIME": 1698994560000,
+        "Address": "EXIT 130 N US 59 FWY OB",
+        "CrossStreet": "JEFFERSON ST",
+        "CALL_TIME": 1698994980000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "E008,A008,E001",
+        "LONGITUDE": -95.359861,
+        "LATITUDE": 29.747803,
+        "KeyMap": "493U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29648299,
+        "Agency": "F",
+        "Address": "FONDREN RD",
+        "CrossStreet": "BLK SOUTHMEADOW DR",
+        "CALL_TIME": 1698994920000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E025",
-        "LONGITUDE": -95.356897,
-        "LATITUDE": 29.71065,
-        "KeyMap": "533H",
+        "NO_UNITS": 2,
+        "Units": "SQ082,A082",
+        "LONGITUDE": -95.508339,
+        "LATITUDE": 29.648299,
+        "KeyMap": "570C",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "BENNINGTON ST",
         "CrossStreet": "BLK HOMESTEAD RD",
-        "CALL_TIME": 1698994200000,
+        "CALL_TIME": 1698994680000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,18 +144,18 @@
     },
     {
       "attributes": {
-        "UID": 29747803,
+        "UID": 29710650,
         "Agency": "F",
-        "Address": "EXIT 130 N US 59 FWY OB",
-        "CrossStreet": "JEFFERSON ST",
-        "CALL_TIME": 1698994140000,
-        "IncidentType": "CHECK PATIENT*",
+        "Address": "N MACGREGOR WAY",
+        "CrossStreet": "BLK SCOTT ST",
+        "CALL_TIME": 1698994560000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E008,A008,E001",
-        "LONGITUDE": -95.359861,
-        "LATITUDE": 29.747803,
-        "KeyMap": "493U",
+        "NO_UNITS": 2,
+        "Units": "E025,A025",
+        "LONGITUDE": -95.356897,
+        "LATITUDE": 29.71065,
+        "KeyMap": "533H",
         "CombinedResponse": "F"
       }
     },
@@ -156,57 +173,6 @@
         "LONGITUDE": -95.277768,
         "LATITUDE": 29.625969,
         "KeyMap": "575P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29869835,
-        "Agency": "F",
-        "Address": "W LITTLE YORK RD",
-        "CrossStreet": "BLK NORTH FWY OB",
-        "CALL_TIME": 1698993900000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E067",
-        "LONGITUDE": -95.404564,
-        "LATITUDE": 29.869835,
-        "KeyMap": "412V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29699321,
-        "Agency": "F",
-        "Address": "BROMPTON ST",
-        "CrossStreet": "BLK N BRAESWOOD BLVD",
-        "CALL_TIME": 1698993900000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E037",
-        "LONGITUDE": -95.423037,
-        "LATITUDE": 29.699321,
-        "KeyMap": "532K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29742223,
-        "Agency": "F",
-        "Address": "IH45IB-US59OB RAMP S IH 45 FWY IB",
-        "CrossStreet": "PEASE EXIT",
-        "CALL_TIME": 1698993840000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M018",
-        "LONGITUDE": -95.357551,
-        "LATITUDE": 29.742223,
-        "KeyMap": "493V",
         "CombinedResponse": "F"
       }
     },
@@ -365,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29738037,
-        "Agency": "F",
-        "Address": "WESLAYAN ST",
-        "CrossStreet": "BLK W MAIN ST",
-        "CALL_TIME": 1698990900000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A028",
-        "LONGITUDE": -95.441625,
-        "LATITUDE": 29.738037,
-        "KeyMap": "492S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29592958,
         "Agency": "F",
         "Address": "GENTLE BROOK CT",
@@ -394,6 +343,23 @@
         "LONGITUDE": -95.138194,
         "LATITUDE": 29.592958,
         "KeyMap": "618A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29738037,
+        "Agency": "F",
+        "Address": "WESLAYAN ST",
+        "CrossStreet": "BLK W MAIN ST",
+        "CALL_TIME": 1698990900000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A028",
+        "LONGITUDE": -95.441625,
+        "LATITUDE": 29.738037,
+        "KeyMap": "492S",
         "CombinedResponse": "F"
       }
     },
@@ -462,23 +428,6 @@
         "LONGITUDE": -95.4158,
         "LATITUDE": 29.95067,
         "KeyMap": "372Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29792388,
-        "Agency": "F",
-        "Address": "N POST OAK RD",
-        "CrossStreet": "BLK WESTVIEW DR",
-        "CALL_TIME": 1698990120000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A038",
-        "LONGITUDE": -95.457007,
-        "LATITUDE": 29.792388,
-        "KeyMap": "451Z",
         "CombinedResponse": "F"
       }
     },
@@ -586,23 +535,6 @@
     },
     {
       "attributes": {
-        "UID": 29661176,
-        "Agency": "F",
-        "Address": "HERON DR",
-        "CrossStreet": "BLK WHITE FRIARS DR",
-        "CALL_TIME": 1698986340000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A026",
-        "LONGITUDE": -95.311322,
-        "LATITUDE": 29.661176,
-        "KeyMap": "534Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29987414,
         "Agency": "P",
         "Address": "TERMINAL D IAH 3701 N TERMINAL RD",
@@ -632,23 +564,6 @@
         "LONGITUDE": -95.610814,
         "LATITUDE": 29.694521,
         "KeyMap": "528L",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29730804,
-        "Agency": "P",
-        "Address": "12025 RICHMOND AVE",
-        "CrossStreet": "BLK W HOUSTON CENTER BLVD",
-        "CALL_TIME": 1698965580000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "20G50G",
-        "LONGITUDE": -95.590639,
-        "LATITUDE": 29.730804,
-        "KeyMap": "489W",
         "CombinedResponse": "P"
       }
     },
