@@ -93,6 +93,23 @@
   "features": [
     {
       "attributes": {
+        "UID": 29796474,
+        "Agency": "F",
+        "Address": "SEAMIST DR",
+        "CrossStreet": "BLK KURY LN",
+        "CALL_TIME": 1699531440000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E062",
+        "LONGITUDE": -95.438074,
+        "LATITUDE": 29.796474,
+        "KeyMap": "452W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29860803,
         "Agency": "F",
         "Address": "CRESLINE ST",
@@ -134,8 +151,8 @@
         "CALL_TIME": 1699530960000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "MS092,A064",
+        "NO_UNITS": 1,
+        "Units": "MS092",
         "LONGITUDE": -95.350949,
         "LATITUDE": 29.987394,
         "KeyMap": "334W",
@@ -151,8 +168,8 @@
         "CALL_TIME": 1699530660000,
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 7,
-        "Units": "E050,L004,L038,A005,M049,E004,M050",
+        "NO_UNITS": 5,
+        "Units": "E050,L004,L038,M049,M050",
         "LONGITUDE": -95.486246,
         "LATITUDE": 29.830768,
         "KeyMap": "451K",
@@ -168,8 +185,8 @@
         "CALL_TIME": 1699530660000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E030,E012",
+        "NO_UNITS": 1,
+        "Units": "E012",
         "LONGITUDE": -95.374443,
         "LATITUDE": 29.814702,
         "KeyMap": "453P",
@@ -331,23 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29659873,
-        "Agency": "F",
-        "Address": "STANCLIFF RD",
-        "CrossStreet": "BLK SHELTON CT",
-        "CALL_TIME": 1699529340000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A068",
-        "LONGITUDE": -95.571389,
-        "LATITUDE": 29.659873,
-        "KeyMap": "529X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29841888,
         "Agency": "F",
         "Address": "BURRESS ST",
@@ -411,23 +411,6 @@
         "LONGITUDE": -95.497083,
         "LATITUDE": 29.737646,
         "KeyMap": "491S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29857629,
-        "Agency": "F",
-        "Address": "PARKER RD",
-        "CrossStreet": "BLK KELBURN DR",
-        "CALL_TIME": 1699528800000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A056",
-        "LONGITUDE": -95.300055,
-        "LATITUDE": 29.857629,
-        "KeyMap": "414Z",
         "CombinedResponse": "F"
       }
     },
@@ -611,7 +594,7 @@
         "IncidentType": "BUILDING FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 10,
-        "Units": "L078,E057,E078,L075,E075,E086,E069,CC002,SC037,ARS721",
+        "Units": "E057,E078,L078,L075,E086,E075,E069,CC002,ARS721,ARS731",
         "LONGITUDE": -95.604163,
         "LATITUDE": 29.770123,
         "KeyMap": "488H",
