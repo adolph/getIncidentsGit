@@ -93,11 +93,45 @@
   "features": [
     {
       "attributes": {
+        "UID": 29673137,
+        "Agency": "F",
+        "Address": "US90AIB-W BELLFORT AVE US 90A FWY IB",
+        "CrossStreet": "CLEARVIEW ENTR IB",
+        "CALL_TIME": 1699789200000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "A021,L021,E021",
+        "LONGITUDE": -95.431122,
+        "LATITUDE": 29.673137,
+        "KeyMap": "532T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29735391,
+        "Agency": "F",
+        "Address": "HADLEY ST",
+        "CrossStreet": "BLK CANFIELD ST",
+        "CALL_TIME": 1699789140000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A025",
+        "LONGITUDE": -95.350149,
+        "LATITUDE": 29.735391,
+        "KeyMap": "493Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29731563,
         "Agency": "F",
         "Address": "RICHMOND AVE",
         "CrossStreet": "BLK GREENRIDGE DR",
-        "CALL_TIME": 1699788720000,
+        "CALL_TIME": 1699789020000,
         "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -151,8 +185,8 @@
         "CALL_TIME": 1699788720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "HME082",
+        "NO_UNITS": 2,
+        "Units": "HME082,A048",
         "LONGITUDE": -95.502135,
         "LATITUDE": 29.652603,
         "KeyMap": "570D",
@@ -195,40 +229,6 @@
     },
     {
       "attributes": {
-        "UID": 29870256,
-        "Agency": "F",
-        "Address": "NORTH FWY OB",
-        "CrossStreet": null,
-        "CALL_TIME": 1699788300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E067",
-        "LONGITUDE": -95.407602,
-        "LATITUDE": 29.870256,
-        "KeyMap": "412V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29945990,
-        "Agency": "F",
-        "Address": "EXIT 60A N IH 45 FWY IB",
-        "CrossStreet": "BW 8 TWY",
-        "CALL_TIME": 1699788300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E084,L084",
-        "LONGITUDE": -95.416038,
-        "LATITUDE": 29.94599,
-        "KeyMap": "372Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29723137,
         "Agency": "F",
         "Address": "WESTPARK DR",
@@ -242,6 +242,23 @@
         "LATITUDE": 29.723137,
         "KeyMap": "490W",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29658621,
+        "Agency": "P",
+        "Address": "8601 MARTIN LUTHER KING BLVD",
+        "CrossStreet": null,
+        "CALL_TIME": 1699788120000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "13D11N,13D15N,14D06K",
+        "LONGITUDE": -95.336511,
+        "LATITUDE": 29.658621,
+        "KeyMap": "574A",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -280,35 +297,18 @@
     },
     {
       "attributes": {
-        "UID": 29722098,
+        "UID": 29723137,
         "Agency": "P",
-        "Address": "9999 WESTPARK DR",
-        "CrossStreet": null,
+        "Address": "10070 WESTPARK DR",
+        "CrossStreet": "BLK WOODCHASE DR",
         "CALL_TIME": 1699787460000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "18F43K",
-        "LONGITUDE": -95.539078,
-        "LATITUDE": 29.722098,
-        "KeyMap": "530A",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29735337,
-        "Agency": "P",
-        "Address": "4999 HIDALGO ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1699787280000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "18F35K",
-        "LONGITUDE": -95.460616,
-        "LATITUDE": 29.735337,
-        "KeyMap": "491U",
+        "NO_UNITS": 2,
+        "Units": "18F43K,20G29N",
+        "LONGITUDE": -95.543728,
+        "LATITUDE": 29.723137,
+        "KeyMap": "490W",
         "CombinedResponse": "P"
       }
     },
@@ -331,6 +331,23 @@
     },
     {
       "attributes": {
+        "UID": 29735337,
+        "Agency": "P",
+        "Address": "4999 HIDALGO ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1699787280000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "18F35K",
+        "LONGITUDE": -95.460616,
+        "LATITUDE": 29.735337,
+        "KeyMap": "491U",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29725480,
         "Agency": "F",
         "Address": "BISSONNET ST",
@@ -338,8 +355,8 @@
         "CALL_TIME": 1699787100000,
         "IncidentType": "GAS LEAK",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 4,
-        "Units": "E016,L016,A016,SQ008",
+        "NO_UNITS": 2,
+        "Units": "A016,SQ008",
         "LONGITUDE": -95.419239,
         "LATITUDE": 29.72548,
         "KeyMap": "492Y",
@@ -355,8 +372,8 @@
         "CALL_TIME": 1699786980000,
         "IncidentType": "CRASH/MINOR",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "8C02F,8C54F",
+        "NO_UNITS": 1,
+        "Units": "8C54F",
         "LONGITUDE": -95.258737,
         "LATITUDE": 29.850073,
         "KeyMap": "455D",
@@ -620,23 +637,6 @@
     },
     {
       "attributes": {
-        "UID": 29814122,
-        "Agency": "F",
-        "Address": "SHERWOOD LN",
-        "CrossStreet": "BLK HELBERG RD",
-        "CALL_TIME": 1699782540000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A013",
-        "LONGITUDE": -95.451788,
-        "LATITUDE": 29.814122,
-        "KeyMap": "451R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29696136,
         "Agency": "F",
         "Address": "PERRY ST",
@@ -649,23 +649,6 @@
         "LONGITUDE": -95.351802,
         "LATITUDE": 29.696136,
         "KeyMap": "533M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29736516,
-        "Agency": "F",
-        "Address": "WESTHEIMER RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1699782420000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A076",
-        "LONGITUDE": -95.588623,
-        "LATITUDE": 29.736516,
-        "KeyMap": "489S",
         "CombinedResponse": "F"
       }
     },
@@ -684,6 +667,23 @@
         "LATITUDE": 29.569499,
         "KeyMap": "618L",
         "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29736516,
+        "Agency": "F",
+        "Address": "WESTHEIMER RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1699782420000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A076",
+        "LONGITUDE": -95.588623,
+        "LATITUDE": 29.736516,
+        "KeyMap": "489S",
+        "CombinedResponse": "F"
       }
     },
     {
@@ -841,23 +841,6 @@
     },
     {
       "attributes": {
-        "UID": 29737920,
-        "Agency": "P",
-        "Address": "5699 WESTHEIMER RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1699777140000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "18F53K",
-        "LONGITUDE": -95.476578,
-        "LATITUDE": 29.73792,
-        "KeyMap": "491T",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29687754,
         "Agency": "P",
         "Address": "8501 W SAM HOUSTON PKWY S",
@@ -904,23 +887,6 @@
         "LONGITUDE": -95.289616,
         "LATITUDE": 29.772844,
         "KeyMap": "495E",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29626347,
-        "Agency": "P",
-        "Address": "12202 GREENSHIRE DR",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1699765140000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "14D16J",
-        "LONGITUDE": -95.352419,
-        "LATITUDE": 29.626347,
-        "KeyMap": "573R",
         "CombinedResponse": "P"
       }
     },
