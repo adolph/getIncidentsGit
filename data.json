@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29755960,
+        "UID": 29968223,
         "Agency": "F",
-        "Address": "SMITH ST",
-        "CrossStreet": "BLK RUTHVEN ST",
-        "CALL_TIME": 1700569860000,
+        "Address": "WILLOW CHASE BLVD",
+        "CrossStreet": "BLK VERSANTE CT",
+        "CALL_TIME": 1700570400000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E096",
+        "LONGITUDE": -95.544019,
+        "LATITUDE": 29.968223,
+        "KeyMap": "370E",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29823168,
+        "Agency": "F",
+        "Address": "NORTH FWY IB",
+        "CrossStreet": "CROSSTIMBERS ENTR",
+        "CALL_TIME": 1700570220000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ008,A018",
-        "LONGITUDE": -95.370811,
-        "LATITUDE": 29.75596,
-        "KeyMap": "493Q",
+        "NO_UNITS": 1,
+        "Units": "M031",
+        "LONGITUDE": -95.380038,
+        "LATITUDE": 29.823168,
+        "KeyMap": "453P",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "BINZ ST",
         "CrossStreet": "BLK SAN JACINTO ST",
-        "CALL_TIME": 1700569800000,
+        "CALL_TIME": 1700570160000,
         "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -131,14 +148,31 @@
         "Agency": "F",
         "Address": "NIH45IB-PARKER RD W N IH 45 FWY IB",
         "CrossStreet": "LITTLE YORK ENTR",
-        "CALL_TIME": 1700569680000,
+        "CALL_TIME": 1700570040000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A067,L067,E067",
+        "NO_UNITS": 2,
+        "Units": "L067,E067",
         "LONGITUDE": -95.402586,
         "LATITUDE": 29.859406,
         "KeyMap": "412Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29755960,
+        "Agency": "F",
+        "Address": "SMITH ST",
+        "CrossStreet": "BLK RUTHVEN ST",
+        "CALL_TIME": 1700569860000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "SQ008,A018",
+        "LONGITUDE": -95.370811,
+        "LATITUDE": 29.75596,
+        "KeyMap": "493Q",
         "CombinedResponse": "F"
       }
     },
@@ -178,23 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29752475,
-        "Agency": "P",
-        "Address": "1800 LOUISIANA ST",
-        "CrossStreet": "BLK ST JOSEPH PKWY",
-        "CALL_TIME": 1700569140000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "75Z30",
-        "LONGITUDE": -95.372311,
-        "LATITUDE": 29.752475,
-        "KeyMap": "493Q",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29645435,
         "Agency": "F",
         "Address": "LEITRIM WAY",
@@ -219,8 +236,8 @@
         "CALL_TIME": 1700568720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E008,A009",
+        "NO_UNITS": 1,
+        "Units": "A009",
         "LONGITUDE": -95.363941,
         "LATITUDE": 29.759668,
         "KeyMap": "493L",
@@ -253,8 +270,8 @@
         "CALL_TIME": 1700568060000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A082,M024",
+        "NO_UNITS": 1,
+        "Units": "A082",
         "LONGITUDE": -95.453593,
         "LATITUDE": 29.660363,
         "KeyMap": "531Z",
@@ -297,23 +314,6 @@
     },
     {
       "attributes": {
-        "UID": 29750367,
-        "Agency": "F",
-        "Address": "ENCLAVE PKWY",
-        "CrossStreet": "BLK WESTELLA DR",
-        "CALL_TIME": 1700567400000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A083",
-        "LONGITUDE": -95.618741,
-        "LATITUDE": 29.750367,
-        "KeyMap": "488Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29884999,
         "Agency": "F",
         "Address": "HARTWICK RD",
@@ -326,6 +326,23 @@
         "LONGITUDE": -95.294578,
         "LATITUDE": 29.884999,
         "KeyMap": "415N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29750367,
+        "Agency": "F",
+        "Address": "ENCLAVE PKWY",
+        "CrossStreet": "BLK WESTELLA DR",
+        "CALL_TIME": 1700567400000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A083",
+        "LONGITUDE": -95.618741,
+        "LATITUDE": 29.750367,
+        "KeyMap": "488Q",
         "CombinedResponse": "F"
       }
     },
@@ -411,23 +428,6 @@
         "LONGITUDE": -95.361493,
         "LATITUDE": 29.693943,
         "KeyMap": "533L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29630343,
-        "Agency": "F",
-        "Address": "MARTIN LUTHER KING BLVD",
-        "CrossStreet": "BLK PARK VILLAGE DR",
-        "CALL_TIME": 1700563860000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M055",
-        "LONGITUDE": -95.339355,
-        "LATITUDE": 29.630343,
-        "KeyMap": "574J",
         "CombinedResponse": "F"
       }
     },
