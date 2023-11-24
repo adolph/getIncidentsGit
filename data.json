@@ -93,18 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29691028,
+        "UID": 29662186,
         "Agency": "F",
-        "Address": "MAPLE ST",
-        "CrossStreet": "BLK SYLMAR RD",
-        "CALL_TIME": 1700821440000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "MAGGIE ST",
+        "CrossStreet": "BLK CULLEN BLVD",
+        "CALL_TIME": 1700822400000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M055,A035",
+        "LONGITUDE": -95.357198,
+        "LATITUDE": 29.662186,
+        "KeyMap": "533Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29670933,
+        "Agency": "F",
+        "Address": "DUMFRIES DR",
+        "CrossStreet": "BLK SANDPIPER DR",
+        "CALL_TIME": 1700822040000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E048",
-        "LONGITUDE": -95.482555,
-        "LATITUDE": 29.691028,
-        "KeyMap": "531N",
+        "Units": "A082",
+        "LONGITUDE": -95.503141,
+        "LATITUDE": 29.670933,
+        "KeyMap": "530V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29679525,
+        "Agency": "F",
+        "Address": "FONDREN RD",
+        "CrossStreet": "BLK WANDA LN",
+        "CALL_TIME": 1700821860000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E068",
+        "LONGITUDE": -95.508675,
+        "LATITUDE": 29.679525,
+        "KeyMap": "530V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29704404,
+        "Agency": "F",
+        "Address": "GRAMERCY ST",
+        "CrossStreet": "BLK BROMPTON ST",
+        "CALL_TIME": 1700821800000,
+        "IncidentType": "CHECK WATER FLOW ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E037",
+        "LONGITUDE": -95.418371,
+        "LATITUDE": 29.704404,
+        "KeyMap": "532G",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29723758,
+        "Agency": "F",
+        "Address": "VERSAILLES LAKES LN",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1700821800000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "L076",
+        "LONGITUDE": -95.582354,
+        "LATITUDE": 29.723758,
+        "KeyMap": "489X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29738192,
+        "Agency": "F",
+        "Address": "ELDRIDGE PKWY",
+        "CrossStreet": "BLK WICKERSHAM LN",
+        "CALL_TIME": 1700821740000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A083",
+        "LONGITUDE": -95.623534,
+        "LATITUDE": 29.738192,
+        "KeyMap": "488T",
         "CombinedResponse": "F"
       }
     },
@@ -122,40 +207,6 @@
         "LONGITUDE": -95.330403,
         "LATITUDE": 29.829243,
         "KeyMap": "454K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29679525,
-        "Agency": "F",
-        "Address": "FONDREN RD",
-        "CrossStreet": "BLK WANDA LN",
-        "CALL_TIME": 1700821380000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E068",
-        "LONGITUDE": -95.508675,
-        "LATITUDE": 29.679525,
-        "KeyMap": "530V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29704404,
-        "Agency": "F",
-        "Address": "GRAMERCY ST",
-        "CrossStreet": "BLK BROMPTON ST",
-        "CALL_TIME": 1700821260000,
-        "IncidentType": "CHECK WATER FLOW ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E037",
-        "LONGITUDE": -95.418371,
-        "LATITUDE": 29.704404,
-        "KeyMap": "532G",
         "CombinedResponse": "F"
       }
     },
@@ -229,23 +280,6 @@
     },
     {
       "attributes": {
-        "UID": 29723758,
-        "Agency": "F",
-        "Address": "VERSAILLES LAKES LN",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1700820900000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "L076",
-        "LONGITUDE": -95.582354,
-        "LATITUDE": 29.723758,
-        "KeyMap": "489X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29643106,
         "Agency": "F",
         "Address": "SHAFTSBURY DR",
@@ -287,28 +321,11 @@
         "CALL_TIME": 1700820420000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A051,M060,E051",
+        "NO_UNITS": 2,
+        "Units": "M060,A051",
         "LONGITUDE": -95.515903,
         "LATITUDE": 29.713033,
         "KeyMap": "530C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29738192,
-        "Agency": "F",
-        "Address": "ELDRIDGE PKWY",
-        "CrossStreet": "BLK WICKERSHAM LN",
-        "CALL_TIME": 1700819460000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A083",
-        "LONGITUDE": -95.623534,
-        "LATITUDE": 29.738192,
-        "KeyMap": "488T",
         "CombinedResponse": "F"
       }
     },
@@ -326,23 +343,6 @@
         "LONGITUDE": -95.342337,
         "LATITUDE": 29.73248,
         "KeyMap": "494W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29680442,
-        "Agency": "F",
-        "Address": "S BARTELL DR",
-        "CrossStreet": "BLK HEARTH DR",
-        "CALL_TIME": 1700818980000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ046",
-        "LONGITUDE": -95.420945,
-        "LATITUDE": 29.680442,
-        "KeyMap": "532U",
         "CombinedResponse": "F"
       }
     },
@@ -416,23 +416,6 @@
     },
     {
       "attributes": {
-        "UID": 29749576,
-        "Agency": "F",
-        "Address": "MAIN ST",
-        "CrossStreet": "BLK PIERCE ST",
-        "CALL_TIME": 1700817780000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A008",
-        "LONGITUDE": -95.370868,
-        "LATITUDE": 29.749576,
-        "KeyMap": "493Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29633624,
         "Agency": "F",
         "Address": "INNSHIRE LN",
@@ -467,40 +450,6 @@
     },
     {
       "attributes": {
-        "UID": 29769386,
-        "Agency": "F",
-        "Address": "IH10IB-GREGG ST E IH 10 FWY IB",
-        "CrossStreet": "GREGG EXIT",
-        "CALL_TIME": 1700816280000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A027",
-        "LONGITUDE": -95.335716,
-        "LATITUDE": 29.769386,
-        "KeyMap": "494F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29679573,
-        "Agency": "P",
-        "Address": "1500 S IH 610 FWY W",
-        "CrossStreet": null,
-        "CALL_TIME": 1700815320000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "15E43N",
-        "LONGITUDE": -95.400744,
-        "LATITUDE": 29.679573,
-        "KeyMap": "532V",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29824901,
         "Agency": "F",
         "Address": "ROSWELL ST",
@@ -508,8 +457,8 @@
         "CALL_TIME": 1700815260000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M058,A030",
+        "NO_UNITS": 1,
+        "Units": "M058",
         "LONGITUDE": -95.369535,
         "LATITUDE": 29.824901,
         "KeyMap": "453L",
@@ -542,8 +491,8 @@
         "CALL_TIME": 1700813700000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M059,M080",
+        "NO_UNITS": 1,
+        "Units": "M059",
         "LONGITUDE": -95.409003,
         "LATITUDE": 29.609343,
         "KeyMap": "572U",
