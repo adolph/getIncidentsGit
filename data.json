@@ -93,18 +93,18 @@
   "features": [
     {
       "attributes": {
-        "UID": 29938899,
+        "UID": 30046675,
         "Agency": "F",
-        "Address": "N SAM HOUSTON PKWY E",
-        "CrossStreet": null,
-        "CALL_TIME": 1701181020000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "Address": "LADBROOK DR",
+        "CrossStreet": "BLK MILLS CREEK CT",
+        "CALL_TIME": 1701181320000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E064",
-        "LONGITUDE": -95.331727,
-        "LATITUDE": 29.938899,
-        "KeyMap": "374T",
+        "Units": "M101",
+        "LONGITUDE": -95.229022,
+        "LATITUDE": 30.046675,
+        "KeyMap": "336B",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +114,7 @@
         "Agency": "F",
         "Address": "CANAL ST",
         "CrossStreet": "BLK N MAPLEWOOD ST",
-        "CALL_TIME": 1701180960000,
+        "CALL_TIME": 1701181320000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 3,
@@ -123,6 +123,57 @@
         "LATITUDE": 29.748158,
         "KeyMap": "494P",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29953002,
+        "Agency": "F",
+        "Address": "WAYFOREST DR",
+        "CrossStreet": "BLK HARVEST TIME LN",
+        "CALL_TIME": 1701181200000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A074",
+        "LONGITUDE": -95.393232,
+        "LATITUDE": 29.953002,
+        "KeyMap": "373N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29939115,
+        "Agency": "P",
+        "Address": "805 N SAM HOUSTON PKWY E",
+        "CrossStreet": null,
+        "CALL_TIME": 1701181140000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "22B44D",
+        "LONGITUDE": -95.381101,
+        "LATITUDE": 29.939115,
+        "KeyMap": "373T",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29688614,
+        "Agency": "P",
+        "Address": "10804 BEECHNUT ST",
+        "CrossStreet": "BLK WILCREST DR",
+        "CALL_TIME": 1701181020000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "19G14D",
+        "LONGITUDE": -95.569093,
+        "LATITUDE": 29.688614,
+        "KeyMap": "529Q",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -152,7 +203,7 @@
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 10,
-        "Units": "D070,L093,E094,SF024,D026,M094,L071,E071,E070,E052",
+        "Units": "D070,L093,E094,D026,M094,L071,E071,E070,E052,E072",
         "LONGITUDE": -95.151286,
         "LATITUDE": 29.568849,
         "KeyMap": "617M",
@@ -168,8 +219,8 @@
         "CALL_TIME": 1701180840000,
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 8,
-        "Units": "E050,A005,VL001,E049,E077,M049,E005,D005",
+        "NO_UNITS": 2,
+        "Units": "E005,VL001",
         "LONGITUDE": -95.506688,
         "LATITUDE": 29.811021,
         "KeyMap": "450R",
@@ -263,40 +314,6 @@
     },
     {
       "attributes": {
-        "UID": 29812683,
-        "Agency": "F",
-        "Address": "HAMMERLY BLVD",
-        "CrossStreet": "BLK SHADOWDALE DR",
-        "CALL_TIME": 1701180540000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A077,M078",
-        "LONGITUDE": -95.5543,
-        "LATITUDE": 29.812683,
-        "KeyMap": "449R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29689073,
-        "Agency": "F",
-        "Address": "BEECHNUT ST",
-        "CrossStreet": "BLK RENWICK DR",
-        "CALL_TIME": 1701180540000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E051",
-        "LONGITUDE": -95.482532,
-        "LATITUDE": 29.689073,
-        "KeyMap": "531P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29938899,
         "Agency": "P",
         "Address": "3696 N SAM HOUSTON PKWY E",
@@ -310,6 +327,23 @@
         "LATITUDE": 29.938899,
         "KeyMap": "374T",
         "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29812683,
+        "Agency": "F",
+        "Address": "HAMMERLY BLVD",
+        "CrossStreet": "BLK SHADOWDALE DR",
+        "CALL_TIME": 1701180540000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A077,M078",
+        "LONGITUDE": -95.5543,
+        "LATITUDE": 29.812683,
+        "KeyMap": "449R",
+        "CombinedResponse": "F"
       }
     },
     {
@@ -389,8 +423,8 @@
         "CALL_TIME": 1701180180000,
         "IncidentType": "BUILDING FIRE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E033,L033,E037",
+        "NO_UNITS": 2,
+        "Units": "L033,E033",
         "LONGITUDE": -95.4107,
         "LATITUDE": 29.693348,
         "KeyMap": "532L",
@@ -433,23 +467,6 @@
     },
     {
       "attributes": {
-        "UID": 29673048,
-        "Agency": "P",
-        "Address": "1999 W BELLFORT AVE",
-        "CrossStreet": null,
-        "CALL_TIME": 1701179940000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "15E42A",
-        "LONGITUDE": -95.412223,
-        "LATITUDE": 29.673048,
-        "KeyMap": "532U",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29754565,
         "Agency": "F",
         "Address": "BRIAR FOREST DR",
@@ -463,6 +480,23 @@
         "LATITUDE": 29.754565,
         "KeyMap": "488Q",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29673048,
+        "Agency": "P",
+        "Address": "1999 W BELLFORT AVE",
+        "CrossStreet": null,
+        "CALL_TIME": 1701179940000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "15E42A",
+        "LONGITUDE": -95.412223,
+        "LATITUDE": 29.673048,
+        "KeyMap": "532U",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -501,23 +535,6 @@
     },
     {
       "attributes": {
-        "UID": 29884360,
-        "Agency": "F",
-        "Address": "WHITECASTLE LN",
-        "CrossStreet": "BLK DIPLOMAT WAY",
-        "CALL_TIME": 1701179460000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A058,M062",
-        "LONGITUDE": -95.419392,
-        "LATITUDE": 29.88436,
-        "KeyMap": "412Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29723826,
         "Agency": "F",
         "Address": "WESTPARK DR",
@@ -535,18 +552,18 @@
     },
     {
       "attributes": {
-        "UID": 29832562,
+        "UID": 29884360,
         "Agency": "F",
-        "Address": "THORNTON RD",
-        "CrossStreet": "BLK THORNTON GROVE LN",
-        "CALL_TIME": 1701179280000,
+        "Address": "WHITECASTLE LN",
+        "CrossStreet": "BLK DIPLOMAT WAY",
+        "CALL_TIME": 1701179460000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E031",
-        "LONGITUDE": -95.407242,
-        "LATITUDE": 29.832562,
-        "KeyMap": "452M",
+        "NO_UNITS": 2,
+        "Units": "A058,M062",
+        "LONGITUDE": -95.419392,
+        "LATITUDE": 29.88436,
+        "KeyMap": "412Q",
         "CombinedResponse": "F"
       }
     },
@@ -603,19 +620,19 @@
     },
     {
       "attributes": {
-        "UID": 29784360,
-        "Agency": "P",
-        "Address": "7898 KATY FWY OB",
-        "CrossStreet": null,
-        "CALL_TIME": 1701179040000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "UID": 29878575,
+        "Agency": "F",
+        "Address": "HANLEY LN",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1701178800000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "5F10D",
-        "LONGITUDE": -95.475502,
-        "LATITUDE": 29.78436,
-        "KeyMap": "491B",
-        "CombinedResponse": "P"
+        "Units": "M056",
+        "LONGITUDE": -95.292387,
+        "LATITUDE": 29.878575,
+        "KeyMap": "415S",
+        "CombinedResponse": "F"
       }
     },
     {
@@ -637,23 +654,6 @@
     },
     {
       "attributes": {
-        "UID": 29878575,
-        "Agency": "F",
-        "Address": "HANLEY LN",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1701178800000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M056",
-        "LONGITUDE": -95.292387,
-        "LATITUDE": 29.878575,
-        "KeyMap": "415S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29809988,
         "Agency": "P",
         "Address": "2200 N LOOP W",
@@ -666,6 +666,23 @@
         "LONGITUDE": -95.43951,
         "LATITUDE": 29.809988,
         "KeyMap": "452S",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29783910,
+        "Agency": "P",
+        "Address": "10099 KATY FWY IB",
+        "CrossStreet": null,
+        "CALL_TIME": 1701178380000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "20G23D",
+        "LONGITUDE": -95.543983,
+        "LATITUDE": 29.78391,
+        "KeyMap": "490A",
         "CombinedResponse": "P"
       }
     },
@@ -773,6 +790,23 @@
     },
     {
       "attributes": {
+        "UID": 29779923,
+        "Agency": "F",
+        "Address": "DURHAM DR",
+        "CrossStreet": null,
+        "CALL_TIME": 1701177120000,
+        "IncidentType": "GRASS FIRE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E011",
+        "LONGITUDE": -95.410774,
+        "LATITUDE": 29.779923,
+        "KeyMap": "492C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29783303,
         "Agency": "F",
         "Address": "SAKOWITZ ST",
@@ -802,23 +836,6 @@
         "LONGITUDE": -95.278238,
         "LATITUDE": 29.634388,
         "KeyMap": "575K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29779923,
-        "Agency": "F",
-        "Address": "DURHAM DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1701177120000,
-        "IncidentType": "GRASS FIRE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E011",
-        "LONGITUDE": -95.410774,
-        "LATITUDE": 29.779923,
-        "KeyMap": "492C",
         "CombinedResponse": "F"
       }
     },
