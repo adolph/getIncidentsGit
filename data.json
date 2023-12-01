@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29661753,
+        "UID": 29772048,
         "Agency": "F",
-        "Address": "BELDART ST",
-        "CrossStreet": "BLK SOUTHBANK ST",
-        "CALL_TIME": 1701424920000,
+        "Address": "EAST FWY IB",
+        "CrossStreet": "BLK MAE DR",
+        "CALL_TIME": 1701425100000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A035,M055",
-        "LONGITUDE": -95.334123,
-        "LATITUDE": 29.661753,
-        "KeyMap": "534W",
+        "NO_UNITS": 1,
+        "Units": "E044",
+        "LONGITUDE": -95.226425,
+        "LATITUDE": 29.772048,
+        "KeyMap": "496F",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29612131,
+        "Agency": "F",
+        "Address": "FUQUA ST",
+        "CrossStreet": "BLK SABO RD",
+        "CALL_TIME": 1701425040000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E070",
+        "LONGITUDE": -95.223137,
+        "LATITUDE": 29.612131,
+        "KeyMap": "576T",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "BURNING HILLS DR",
         "CrossStreet": "BLK VILLA LEA LN",
-        "CALL_TIME": 1701424920000,
+        "CALL_TIME": 1701425040000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
@@ -127,18 +144,18 @@
     },
     {
       "attributes": {
-        "UID": 29772048,
+        "UID": 29661753,
         "Agency": "F",
-        "Address": "EAST FWY IB",
-        "CrossStreet": "BLK MAE DR",
+        "Address": "BELDART ST",
+        "CrossStreet": "BLK SOUTHBANK ST",
         "CALL_TIME": 1701424920000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E044",
-        "LONGITUDE": -95.226425,
-        "LATITUDE": 29.772048,
-        "KeyMap": "496F",
+        "NO_UNITS": 2,
+        "Units": "A035,M055",
+        "LONGITUDE": -95.334123,
+        "LATITUDE": 29.661753,
+        "KeyMap": "534W",
         "CombinedResponse": "F"
       }
     },
@@ -173,23 +190,6 @@
         "LONGITUDE": -95.533366,
         "LATITUDE": 29.723214,
         "KeyMap": "530B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29612131,
-        "Agency": "F",
-        "Address": "FUQUA ST",
-        "CrossStreet": "BLK SABO RD",
-        "CALL_TIME": 1701424740000,
-        "IncidentType": "CHECK PATIENT*",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E070",
-        "LONGITUDE": -95.223137,
-        "LATITUDE": 29.612131,
-        "KeyMap": "576T",
         "CombinedResponse": "F"
       }
     },
@@ -246,23 +246,6 @@
     },
     {
       "attributes": {
-        "UID": 29640114,
-        "Agency": "F",
-        "Address": "FAIRLAND DR",
-        "CrossStreet": "BLK GROTON DR",
-        "CALL_TIME": 1701424320000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "HME024",
-        "LONGITUDE": -95.376685,
-        "LATITUDE": 29.640114,
-        "KeyMap": "573F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29794850,
         "Agency": "F",
         "Address": "DABNEY ST",
@@ -314,23 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29771220,
-        "Agency": "P",
-        "Address": "12173 EAST FWY IB",
-        "CrossStreet": "BLK MAE DR",
-        "CALL_TIME": 1701423960000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "9C10F",
-        "LONGITUDE": -95.222653,
-        "LATITUDE": 29.77122,
-        "KeyMap": "496F",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29715391,
         "Agency": "F",
         "Address": "BRANT ROCK DR",
@@ -348,6 +314,23 @@
     },
     {
       "attributes": {
+        "UID": 29771220,
+        "Agency": "P",
+        "Address": "12173 EAST FWY IB",
+        "CrossStreet": "BLK MAE DR",
+        "CALL_TIME": 1701423960000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "9C10F",
+        "LONGITUDE": -95.222653,
+        "LATITUDE": 29.77122,
+        "KeyMap": "496F",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29685740,
         "Agency": "F",
         "Address": "CORDER ST",
@@ -360,23 +343,6 @@
         "LONGITUDE": -95.3627,
         "LATITUDE": 29.68574,
         "KeyMap": "533Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29828172,
-        "Agency": "F",
-        "Address": "HIRSCH RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1701423900000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A034",
-        "LONGITUDE": -95.328888,
-        "LATITUDE": 29.828172,
-        "KeyMap": "454K",
         "CombinedResponse": "F"
       }
     },
@@ -411,23 +377,6 @@
         "LONGITUDE": -95.179903,
         "LATITUDE": 29.593315,
         "KeyMap": "617B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29818986,
-        "Agency": "F",
-        "Address": "HOWTON ST",
-        "CrossStreet": "BLK BACHER ST",
-        "CALL_TIME": 1701422880000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.278964,
-        "LATITUDE": 29.818986,
-        "KeyMap": "455P",
         "CombinedResponse": "F"
       }
     },
@@ -518,23 +467,6 @@
     },
     {
       "attributes": {
-        "UID": 29700401,
-        "Agency": "F",
-        "Address": "REDDING RD",
-        "CrossStreet": "BLK ROOS RD",
-        "CALL_TIME": 1701420840000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M010",
-        "LONGITUDE": -95.536143,
-        "LATITUDE": 29.700401,
-        "KeyMap": "530J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29800281,
         "Agency": "F",
         "Address": "JACQUELYN DR",
@@ -565,23 +497,6 @@
         "LATITUDE": 29.679438,
         "KeyMap": "529P",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29660784,
-        "Agency": "F",
-        "Address": "S GESSNER RD",
-        "CrossStreet": "BLK FOSCARI ST",
-        "CALL_TIME": 1701419820000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A068",
-        "LONGITUDE": -95.528048,
-        "LATITUDE": 29.660784,
-        "KeyMap": "530X",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -632,23 +547,6 @@
         "LONGITUDE": -95.52797,
         "LATITUDE": 29.806786,
         "KeyMap": "450T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29710643,
-        "Agency": "F",
-        "Address": "N MACGREGOR WAY",
-        "CrossStreet": "BLK SCOTT ST",
-        "CALL_TIME": 1701416760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M040",
-        "LONGITUDE": -95.36133,
-        "LATITUDE": 29.710643,
-        "KeyMap": "533G",
         "CombinedResponse": "F"
       }
     },
