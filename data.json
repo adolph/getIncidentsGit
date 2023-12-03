@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29945262,
+        "UID": 29699625,
         "Agency": "F",
-        "Address": "BRADFIELD RD",
+        "Address": "OLD SPANISH TRL",
         "CrossStreet": null,
-        "CALL_TIME": 1701612120000,
+        "CALL_TIME": 1701612720000,
+        "IncidentType": "MOTORCYCLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A533",
+        "LONGITUDE": -95.382834,
+        "LATITUDE": 29.699625,
+        "KeyMap": "533K",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29699625,
+        "Agency": "P",
+        "Address": "2951 OLD SPANISH TRL",
+        "CrossStreet": null,
+        "CALL_TIME": 1701612660000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "10H54D",
+        "LONGITUDE": -95.382834,
+        "LATITUDE": 29.699625,
+        "KeyMap": "533K",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29671436,
+        "Agency": "F",
+        "Address": "FORUM PARK DR",
+        "CrossStreet": "BLK SUGAR BRANCH DR",
+        "CALL_TIME": 1701612660000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
-        "Units": "M074,E084",
-        "LONGITUDE": -95.38485,
-        "LATITUDE": 29.945262,
-        "KeyMap": "373P",
+        "Units": "E073,M010",
+        "LONGITUDE": -95.554942,
+        "LATITUDE": 29.671436,
+        "KeyMap": "529V",
         "CombinedResponse": "F"
       }
     },
@@ -114,15 +148,83 @@
         "Agency": "F",
         "Address": "MAGNOLIA WOODS DR",
         "CrossStreet": "BLK DEER RIDGE ESTATES BLVD",
-        "CALL_TIME": 1701612120000,
+        "CALL_TIME": 1701612540000,
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 7,
-        "Units": "L101,L102,E104,M101,E102,AUTOAI,D102",
+        "NO_UNITS": 6,
+        "Units": "L101,L102,M101,D102,E102,E104",
         "LONGITUDE": -95.223674,
         "LATITUDE": 30.03004,
         "KeyMap": "336L",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29729105,
+        "Agency": "F",
+        "Address": "RICHMOND AVE",
+        "CrossStreet": "BLK UNKNOWN",
+        "CALL_TIME": 1701612480000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M086",
+        "LONGITUDE": -95.646417,
+        "LATITUDE": 29.729105,
+        "KeyMap": "488W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29728930,
+        "Agency": "F",
+        "Address": "TRUXILLO ST",
+        "CrossStreet": "BLK DELANO ST",
+        "CALL_TIME": 1701612300000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A025",
+        "LONGITUDE": -95.366606,
+        "LATITUDE": 29.72893,
+        "KeyMap": "493Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29709147,
+        "Agency": "P",
+        "Address": "6531 MYRTLE ST",
+        "CrossStreet": "BLK BOBBY LEE LN",
+        "CALL_TIME": 1701612240000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "11H11D",
+        "LONGITUDE": -95.302919,
+        "LATITUDE": 29.709147,
+        "KeyMap": "534H",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29681292,
+        "Agency": "P",
+        "Address": "3835 S LOOP E",
+        "CrossStreet": null,
+        "CALL_TIME": 1701612120000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "14D27D",
+        "LONGITUDE": -95.367233,
+        "LATITUDE": 29.681292,
+        "KeyMap": "533U",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -173,40 +275,6 @@
         "LONGITUDE": -95.263531,
         "LATITUDE": 29.849418,
         "KeyMap": "455C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29728930,
-        "Agency": "F",
-        "Address": "TRUXILLO ST",
-        "CrossStreet": "BLK DELANO ST",
-        "CALL_TIME": 1701611940000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A025,M040,E007",
-        "LONGITUDE": -95.366606,
-        "LATITUDE": 29.72893,
-        "KeyMap": "493Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29776044,
-        "Agency": "F",
-        "Address": "DAIRY ASHFORD RD",
-        "CrossStreet": "BLK KIMBERLEY LN",
-        "CALL_TIME": 1701611880000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E078",
-        "LONGITUDE": -95.606318,
-        "LATITUDE": 29.776044,
-        "KeyMap": "488H",
         "CombinedResponse": "F"
       }
     },
@@ -287,8 +355,8 @@
         "CALL_TIME": 1701611400000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "HME024,M055,A035",
+        "NO_UNITS": 1,
+        "Units": "A035",
         "LONGITUDE": -95.366074,
         "LATITUDE": 29.654892,
         "KeyMap": "573C",
@@ -450,23 +518,6 @@
     },
     {
       "attributes": {
-        "UID": 29758292,
-        "Agency": "F",
-        "Address": "TEXAS ST",
-        "CrossStreet": "BLK AUSTIN ST",
-        "CALL_TIME": 1701609300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A008",
-        "LONGITUDE": -95.359763,
-        "LATITUDE": 29.758292,
-        "KeyMap": "493M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29784925,
         "Agency": "F",
         "Address": "COMMON PARK DR",
@@ -552,23 +603,6 @@
     },
     {
       "attributes": {
-        "UID": 29713033,
-        "Agency": "F",
-        "Address": "BELLERIVE DR",
-        "CrossStreet": "BLK MARINETTE DR",
-        "CALL_TIME": 1701608280000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ033",
-        "LONGITUDE": -95.515903,
-        "LATITUDE": 29.713033,
-        "KeyMap": "530C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29741610,
         "Agency": "F",
         "Address": "WILCREST DR",
@@ -616,6 +650,23 @@
         "LATITUDE": 29.645284,
         "KeyMap": "570G",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29608616,
+        "Agency": "P",
+        "Address": "10810 TELEPHONE RD",
+        "CrossStreet": "BLK KINGS ROW ST",
+        "CALL_TIME": 1701607080000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "13D19D,13D11D",
+        "LONGITUDE": -95.285801,
+        "LATITUDE": 29.608616,
+        "KeyMap": "575S",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -734,23 +785,6 @@
         "LONGITUDE": -95.623773,
         "LATITUDE": 29.735859,
         "KeyMap": "488T",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29865756,
-        "Agency": "P",
-        "Address": "6499 W LITTLE YORK RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1701591360000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "6B35N",
-        "LONGITUDE": -95.48677,
-        "LATITUDE": 29.865756,
-        "KeyMap": "411T",
         "CombinedResponse": "P"
       }
     },
