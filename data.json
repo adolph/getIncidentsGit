@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29712480,
+        "UID": 29759304,
         "Agency": "F",
-        "Address": "REIMS RD",
-        "CrossStreet": "BLK HORNWOOD DR",
-        "CALL_TIME": 1701937080000,
+        "Address": "SUGAR HILL DR",
+        "CrossStreet": "BLK PINE SHADOWS DR",
+        "CALL_TIME": 1701937860000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "E002,A038,M062",
+        "LONGITUDE": -95.469491,
+        "LATITUDE": 29.759304,
+        "KeyMap": "491L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29731108,
+        "Agency": "F",
+        "Address": "WESTMINSTER PLAZA DR",
+        "CrossStreet": "BLK RICHMOND AVE",
+        "CALL_TIME": 1701937800000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E051",
-        "LONGITUDE": -95.515701,
-        "LATITUDE": 29.71248,
-        "KeyMap": "530C",
+        "Units": "E083",
+        "LONGITUDE": -95.595217,
+        "LATITUDE": 29.731108,
+        "KeyMap": "489W",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "SUS59OB-FOUNTAIN VIEW S US 59 FWY OB",
         "CrossStreet": "WPTW EXIT",
-        "CALL_TIME": 1701937020000,
+        "CALL_TIME": 1701937500000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
@@ -127,28 +144,11 @@
     },
     {
       "attributes": {
-        "UID": 29857185,
-        "Agency": "F",
-        "Address": "WILSHIRE FERN",
-        "CrossStreet": "BLK WILSHIRE PLACE DR",
-        "CALL_TIME": 1701936960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E004",
-        "LONGITUDE": -95.500604,
-        "LATITUDE": 29.857185,
-        "KeyMap": "410Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29739675,
         "Agency": "F",
         "Address": "TARRYTOWN MALL",
         "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1701936780000,
+        "CALL_TIME": 1701937260000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -156,6 +156,40 @@
         "LONGITUDE": -95.4906,
         "LATITUDE": 29.739675,
         "KeyMap": "491S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29712480,
+        "Agency": "F",
+        "Address": "REIMS RD",
+        "CrossStreet": "BLK HORNWOOD DR",
+        "CALL_TIME": 1701937080000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E051,M060",
+        "LONGITUDE": -95.515701,
+        "LATITUDE": 29.71248,
+        "KeyMap": "530C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29857185,
+        "Agency": "F",
+        "Address": "WILSHIRE FERN",
+        "CrossStreet": "BLK WILSHIRE PLACE DR",
+        "CALL_TIME": 1701936960000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E004,A005",
+        "LONGITUDE": -95.500604,
+        "LATITUDE": 29.857185,
+        "KeyMap": "410Z",
         "CombinedResponse": "F"
       }
     },
@@ -185,8 +219,8 @@
         "CALL_TIME": 1701936600000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E033,A046",
+        "NO_UNITS": 1,
+        "Units": "A046",
         "LONGITUDE": -95.399634,
         "LATITUDE": 29.685283,
         "KeyMap": "532R",
@@ -287,8 +321,8 @@
         "CALL_TIME": 1701935220000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A002,SQ028",
+        "NO_UNITS": 3,
+        "Units": "A002,SQ028,AS016",
         "LONGITUDE": -95.469491,
         "LATITUDE": 29.759304,
         "KeyMap": "491L",
@@ -314,23 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29709785,
-        "Agency": "F",
-        "Address": "S GESSNER RD",
-        "CrossStreet": "BLK CLAREWOOD DR",
-        "CALL_TIME": 1701934920000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A010",
-        "LONGITUDE": -95.538842,
-        "LATITUDE": 29.709785,
-        "KeyMap": "530E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29707297,
         "Agency": "F",
         "Address": "BRIAR GLADE DR",
@@ -343,40 +360,6 @@
         "LONGITUDE": -95.57024,
         "LATITUDE": 29.707297,
         "KeyMap": "529G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29665851,
-        "Agency": "F",
-        "Address": "KANSAS ST",
-        "CrossStreet": "BLK WACO ST",
-        "CALL_TIME": 1701934380000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M029",
-        "LONGITUDE": -95.246093,
-        "LATITUDE": 29.665851,
-        "KeyMap": "536W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29685297,
-        "Agency": "F",
-        "Address": "HOLLY HALL ST",
-        "CrossStreet": "BLK CAMBRIDGE ST",
-        "CALL_TIME": 1701934320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A033",
-        "LONGITUDE": -95.396043,
-        "LATITUDE": 29.685297,
-        "KeyMap": "533N",
         "CombinedResponse": "F"
       }
     },
@@ -467,23 +450,6 @@
     },
     {
       "attributes": {
-        "UID": 29710311,
-        "Agency": "F",
-        "Address": "HORNWOOD DR",
-        "CrossStreet": "BLK TARNEF DR",
-        "CALL_TIME": 1701933120000,
-        "IncidentType": "APARTMENT FIRE",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 2,
-        "Units": "ARS736,ARS731",
-        "LONGITUDE": -95.50402,
-        "LATITUDE": 29.710311,
-        "KeyMap": "530H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29734347,
         "Agency": "P",
         "Address": "2750 WALLINGFORD DR",
@@ -514,23 +480,6 @@
         "LATITUDE": 29.742393,
         "KeyMap": "490S",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29803628,
-        "Agency": "F",
-        "Address": "CROSBY FWY IB",
-        "CrossStreet": "BLK WILD OAK RD",
-        "CALL_TIME": 1701931080000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.222126,
-        "LATITUDE": 29.803628,
-        "KeyMap": "456Y",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -598,23 +547,6 @@
         "LONGITUDE": -95.549733,
         "LATITUDE": 29.677686,
         "KeyMap": "529V",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29726292,
-        "Agency": "P",
-        "Address": "3201 ALABAMA ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1701922740000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "10H52N",
-        "LONGITUDE": -95.360708,
-        "LATITUDE": 29.726292,
-        "KeyMap": "493Y",
         "CombinedResponse": "P"
       }
     },
