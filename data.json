@@ -93,11 +93,96 @@
   "features": [
     {
       "attributes": {
+        "UID": 29916635,
+        "Agency": "F",
+        "Address": "AIRLINE DR",
+        "CrossStreet": "BLK HARDWICKE RD",
+        "CALL_TIME": 1702127700000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E074",
+        "LONGITUDE": -95.405573,
+        "LATITUDE": 29.916635,
+        "KeyMap": "412D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29731665,
+        "Agency": "F",
+        "Address": "RICHMOND AVE",
+        "CrossStreet": null,
+        "CALL_TIME": 1702127580000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E060",
+        "LONGITUDE": -95.501184,
+        "LATITUDE": 29.731665,
+        "KeyMap": "490Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29731665,
+        "Agency": "P",
+        "Address": "6999 RICHMOND AVE",
+        "CrossStreet": null,
+        "CALL_TIME": 1702127520000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "18F65D",
+        "LONGITUDE": -95.501184,
+        "LATITUDE": 29.731665,
+        "KeyMap": "490Z",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29707073,
+        "Agency": "P",
+        "Address": "SH225OB-GOODYEAR 9764 SH 225 FWY OB",
+        "CrossStreet": "ALLEN GENOA EXIT",
+        "CALL_TIME": 1702127460000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "11H50D",
+        "LONGITUDE": -95.253735,
+        "LATITUDE": 29.707073,
+        "KeyMap": "535H",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29707073,
+        "Agency": "F",
+        "Address": "SH225OB-GOODYEAR SH 225 FWY OB",
+        "CrossStreet": "ALLEN GENOA EXIT",
+        "CALL_TIME": 1702127340000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "M040,A026,E023",
+        "LONGITUDE": -95.253735,
+        "LATITUDE": 29.707073,
+        "KeyMap": "535H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 30064351,
         "Agency": "F",
         "Address": "EASTEX FWY OB",
         "CrossStreet": "BLK NORTHPINES DR",
-        "CALL_TIME": 1702126920000,
+        "CALL_TIME": 1702127220000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -110,17 +195,17 @@
     },
     {
       "attributes": {
-        "UID": 29737258,
+        "UID": 29742700,
         "Agency": "F",
-        "Address": "WESTHEIMER RD",
-        "CrossStreet": "BLK TANGLEWILDE ST",
-        "CALL_TIME": 1702126740000,
+        "Address": "TANGLEWILDE ST",
+        "CrossStreet": "BLK ELLA LEE LN",
+        "CALL_TIME": 1702127100000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A060",
-        "LONGITUDE": -95.533174,
-        "LATITUDE": 29.737258,
+        "Units": "A069",
+        "LONGITUDE": -95.534499,
+        "LATITUDE": 29.7427,
         "KeyMap": "490T",
         "CombinedResponse": "F"
       }
@@ -144,23 +229,6 @@
     },
     {
       "attributes": {
-        "UID": 29713717,
-        "Agency": "F",
-        "Address": "GRANDVALE DR",
-        "CrossStreet": "BLK HIGH STAR DR",
-        "CALL_TIME": 1702126620000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A010",
-        "LONGITUDE": -95.568892,
-        "LATITUDE": 29.713717,
-        "KeyMap": "529C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29675311,
         "Agency": "F",
         "Address": "HOLMES RD",
@@ -173,6 +241,23 @@
         "LONGITUDE": -95.380505,
         "LATITUDE": 29.675311,
         "KeyMap": "533T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29713717,
+        "Agency": "F",
+        "Address": "GRANDVALE DR",
+        "CrossStreet": "BLK HIGH STAR DR",
+        "CALL_TIME": 1702126620000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A010",
+        "LONGITUDE": -95.568892,
+        "LATITUDE": 29.713717,
+        "KeyMap": "529C",
         "CombinedResponse": "F"
       }
     },
@@ -253,45 +338,11 @@
         "CALL_TIME": 1702126140000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E061,A093",
+        "NO_UNITS": 1,
+        "Units": "A093",
         "LONGITUDE": -95.256826,
         "LATITUDE": 29.607116,
         "KeyMap": "575V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29732142,
-        "Agency": "F",
-        "Address": "FEDERAL RD",
-        "CrossStreet": "BLK N SHAVER ST",
-        "CALL_TIME": 1702125900000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E044,A041",
-        "LONGITUDE": -95.211982,
-        "LATITUDE": 29.732142,
-        "KeyMap": "536C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29845330,
-        "Agency": "F",
-        "Address": "ALGIERS RD",
-        "CrossStreet": "BLK TRIWAY LN",
-        "CALL_TIME": 1702125900000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A077",
-        "LONGITUDE": -95.546396,
-        "LATITUDE": 29.84533,
-        "KeyMap": "450A",
         "CombinedResponse": "F"
       }
     },
@@ -314,19 +365,36 @@
     },
     {
       "attributes": {
-        "UID": 29732037,
-        "Agency": "P",
-        "Address": "SUS59OB-MONTROSE BLVD 998 S US 59 FWY OB",
-        "CrossStreet": "SHEPHERD EXIT",
-        "CALL_TIME": 1702125840000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "UID": 29845330,
+        "Agency": "F",
+        "Address": "ALGIERS RD",
+        "CrossStreet": "BLK TRIWAY LN",
+        "CALL_TIME": 1702125900000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "1A20D",
-        "LONGITUDE": -95.39105,
-        "LATITUDE": 29.732037,
-        "KeyMap": "493W",
-        "CombinedResponse": "P"
+        "Units": "A077",
+        "LONGITUDE": -95.546396,
+        "LATITUDE": 29.84533,
+        "KeyMap": "450A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29732142,
+        "Agency": "F",
+        "Address": "FEDERAL RD",
+        "CrossStreet": "BLK N SHAVER ST",
+        "CALL_TIME": 1702125900000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A041",
+        "LONGITUDE": -95.211982,
+        "LATITUDE": 29.732142,
+        "KeyMap": "536C",
+        "CombinedResponse": "F"
       }
     },
     {
@@ -474,12 +542,29 @@
         "CALL_TIME": 1702125000000,
         "IncidentType": "CAR FIRE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E048",
+        "NO_UNITS": 2,
+        "Units": "E048,ARS768",
         "LONGITUDE": -95.460553,
         "LATITUDE": 29.616141,
         "KeyMap": "571Q",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29729307,
+        "Agency": "P",
+        "Address": "8601 RICHMOND AVE",
+        "CrossStreet": null,
+        "CALL_TIME": 1702124880000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "18F56D,18F54D,18F31D",
+        "LONGITUDE": -95.514058,
+        "LATITUDE": 29.729307,
+        "KeyMap": "490Y",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -497,23 +582,6 @@
         "LATITUDE": 29.685322,
         "KeyMap": "533Q",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29729307,
-        "Agency": "P",
-        "Address": "8601 RICHMOND AVE",
-        "CrossStreet": null,
-        "CALL_TIME": 1702124880000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "18F56D,18F54D",
-        "LONGITUDE": -95.514058,
-        "LATITUDE": 29.729307,
-        "KeyMap": "490Y",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -569,23 +637,6 @@
     },
     {
       "attributes": {
-        "UID": 29661082,
-        "Agency": "F",
-        "Address": "CLOVER ST",
-        "CrossStreet": "BLK NOEL ST",
-        "CALL_TIME": 1702123560000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A025",
-        "LONGITUDE": -95.347109,
-        "LATITUDE": 29.661082,
-        "KeyMap": "534W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29619588,
         "Agency": "F",
         "Address": "TANNER PARK CT",
@@ -610,8 +661,8 @@
         "CALL_TIME": 1702122720000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "21I67N,21I59N,21I50D",
+        "NO_UNITS": 2,
+        "Units": "21I67N,21I50D",
         "LONGITUDE": -95.318565,
         "LATITUDE": 29.984763,
         "KeyMap": "374C",
@@ -637,23 +688,6 @@
     },
     {
       "attributes": {
-        "UID": 29675574,
-        "Agency": "F",
-        "Address": "PERSHING ST",
-        "CrossStreet": "BLK CRESTMONT ST",
-        "CALL_TIME": 1702121820000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A046",
-        "LONGITUDE": -95.331381,
-        "LATITUDE": 29.675574,
-        "KeyMap": "534T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29631352,
         "Agency": "P",
         "Address": "8965 N BROADWAY ST",
@@ -667,23 +701,6 @@
         "LATITUDE": 29.631352,
         "KeyMap": "576L",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29694678,
-        "Agency": "F",
-        "Address": "BROWNCROFT ST",
-        "CrossStreet": "BLK BEEKMAN RD",
-        "CALL_TIME": 1702121340000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A026",
-        "LONGITUDE": -95.333713,
-        "LATITUDE": 29.694678,
-        "KeyMap": "534K",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -773,23 +790,6 @@
     },
     {
       "attributes": {
-        "UID": 29728780,
-        "Agency": "P",
-        "Address": "US59IB-IH610OB 5003 S US 59 FWY IB",
-        "CrossStreet": "IH 610 EXIT",
-        "CALL_TIME": 1702117680000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "17E31N",
-        "LONGITUDE": -95.460429,
-        "LATITUDE": 29.72878,
-        "KeyMap": "491Y",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29841951,
         "Agency": "P",
         "Address": "5207 AIRLINE DR",
@@ -865,8 +865,8 @@
         "CALL_TIME": 1702114980000,
         "IncidentType": "TRASH FIRE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E080,B080,E047",
+        "NO_UNITS": 2,
+        "Units": "E080,B080",
         "LONGITUDE": -95.438583,
         "LATITUDE": 29.59616,
         "KeyMap": "572W",
@@ -892,23 +892,6 @@
     },
     {
       "attributes": {
-        "UID": 29588286,
-        "Agency": "P",
-        "Address": "1901 CLEAR LAKE CITY BLVD",
-        "CrossStreet": null,
-        "CALL_TIME": 1702108080000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "12D51N",
-        "LONGITUDE": -95.144721,
-        "LATITUDE": 29.588286,
-        "KeyMap": "618A",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29958697,
         "Agency": "P",
         "Address": "16402 LEE RD",
@@ -921,23 +904,6 @@
         "LONGITUDE": -95.305842,
         "LATITUDE": 29.958697,
         "KeyMap": "374M",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29640018,
-        "Agency": "P",
-        "Address": "12931 AMBROSE ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1702105500000,
-        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "16E22A",
-        "LONGITUDE": -95.422852,
-        "LATITUDE": 29.640018,
-        "KeyMap": "572F",
         "CombinedResponse": "P"
       }
     },
