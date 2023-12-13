@@ -93,18 +93,137 @@
   "features": [
     {
       "attributes": {
-        "UID": 29716464,
+        "UID": 29794030,
         "Agency": "F",
-        "Address": "ROGERDALE RD",
+        "Address": "TAPPENBECK DR",
+        "CrossStreet": "BLK BUNKER HILL RD",
+        "CALL_TIME": 1702470060000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E049",
+        "LONGITUDE": -95.531322,
+        "LATITUDE": 29.79403,
+        "KeyMap": "450X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29627643,
+        "Agency": "F",
+        "Address": "ALMEDA GENOA RD",
         "CrossStreet": null,
-        "CALL_TIME": 1702468860000,
+        "CALL_TIME": 1702470060000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E052",
+        "LONGITUDE": -95.234136,
+        "LATITUDE": 29.627643,
+        "KeyMap": "576P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29682299,
+        "Agency": "F",
+        "Address": "MAIN ST",
+        "CrossStreet": "BLK BUFFALO SPEEDWAY",
+        "CALL_TIME": 1702470060000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "SQ033,L021,A046",
+        "LONGITUDE": -95.424101,
+        "LATITUDE": 29.682299,
+        "KeyMap": "532P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29846932,
+        "Agency": "F",
+        "Address": "OAKHAVEN LN",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1702469760000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E010",
-        "LONGITUDE": -95.559418,
-        "LATITUDE": 29.716464,
-        "KeyMap": "529C",
+        "Units": "A013",
+        "LONGITUDE": -95.470233,
+        "LATITUDE": 29.846932,
+        "KeyMap": "451C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29582371,
+        "Agency": "F",
+        "Address": "BAY POINTE CT",
+        "CrossStreet": "BLK CLEAR LAKE CITY BLVD",
+        "CALL_TIME": 1702469760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M071",
+        "LONGITUDE": -95.156587,
+        "LATITUDE": 29.582371,
+        "KeyMap": "617H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29752351,
+        "Agency": "F",
+        "Address": "MAIN ST",
+        "CrossStreet": "BLK PEASE ST",
+        "CALL_TIME": 1702469700000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E008,A008",
+        "LONGITUDE": -95.368676,
+        "LATITUDE": 29.752351,
+        "KeyMap": "493Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29727615,
+        "Agency": "P",
+        "Address": "3199 ROGERDALE RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1702469520000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "20G13N,20G12D",
+        "LONGITUDE": -95.559675,
+        "LATITUDE": 29.727615,
+        "KeyMap": "489Y",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29674674,
+        "Agency": "F",
+        "Address": "BUFFALO SPEEDWAY",
+        "CrossStreet": "BLK W BELLFORT AVE",
+        "CALL_TIME": 1702469280000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A048",
+        "LONGITUDE": -95.424678,
+        "LATITUDE": 29.674674,
+        "KeyMap": "532T",
         "CombinedResponse": "F"
       }
     },
@@ -117,28 +236,11 @@
         "CALL_TIME": 1702468800000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M019,A039",
+        "NO_UNITS": 1,
+        "Units": "A039",
         "LONGITUDE": -95.334422,
         "LATITUDE": 29.81512,
         "KeyMap": "454P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29694843,
-        "Agency": "F",
-        "Address": "BROWNCROFT ST",
-        "CrossStreet": "BLK BEEKMAN RD",
-        "CALL_TIME": 1702468560000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E035",
-        "LONGITUDE": -95.334343,
-        "LATITUDE": 29.694843,
-        "KeyMap": "534K",
         "CombinedResponse": "F"
       }
     },
@@ -185,8 +287,8 @@
         "CALL_TIME": 1702468380000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "HME066",
+        "NO_UNITS": 2,
+        "Units": "HME066,A004",
         "LONGITUDE": -95.515415,
         "LATITUDE": 29.85305,
         "KeyMap": "450C",
@@ -195,19 +297,19 @@
     },
     {
       "attributes": {
-        "UID": 29707297,
-        "Agency": "F",
-        "Address": "BRIAR GLADE DR",
-        "CrossStreet": "BLK BELLFAIR DR",
-        "CALL_TIME": 1702468140000,
-        "IncidentType": "EMS EVENT",
+        "UID": 29851500,
+        "Agency": "P",
+        "Address": "5770 HOLLISTER ST",
+        "CrossStreet": "BLK W TIDWELL RD",
+        "CALL_TIME": 1702468080000,
+        "IncidentType": "CRASH/MINOR",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A010",
-        "LONGITUDE": -95.57024,
-        "LATITUDE": 29.707297,
-        "KeyMap": "529G",
-        "CombinedResponse": "F"
+        "Units": "5F10D",
+        "LONGITUDE": -95.504647,
+        "LATITUDE": 29.8515,
+        "KeyMap": "450D",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -229,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29683616,
-        "Agency": "F",
-        "Address": "BUFFALO SPEEDWAY",
-        "CrossStreet": "BLK CLOVERDALE ST",
-        "CALL_TIME": 1702467660000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A047",
-        "LONGITUDE": -95.427182,
-        "LATITUDE": 29.683616,
-        "KeyMap": "532P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29709768,
         "Agency": "F",
         "Address": "CLAREWOOD DR",
@@ -263,18 +348,18 @@
     },
     {
       "attributes": {
-        "UID": 29832428,
+        "UID": 29683616,
         "Agency": "F",
-        "Address": "W 43RD ST",
-        "CrossStreet": "BLK COSTA RICA RD",
-        "CALL_TIME": 1702467000000,
+        "Address": "BUFFALO SPEEDWAY",
+        "CrossStreet": "BLK CLOVERDALE ST",
+        "CALL_TIME": 1702467660000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A013",
-        "LONGITUDE": -95.468237,
-        "LATITUDE": 29.832428,
-        "KeyMap": "451L",
+        "Units": "A047",
+        "LONGITUDE": -95.427182,
+        "LATITUDE": 29.683616,
+        "KeyMap": "532P",
         "CombinedResponse": "F"
       }
     },
@@ -326,23 +411,6 @@
         "LONGITUDE": -95.222535,
         "LATITUDE": 29.775729,
         "KeyMap": "496G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29706214,
-        "Agency": "F",
-        "Address": "HOLCOMBE BLVD",
-        "CrossStreet": "BLK S BRAESWOOD BLVD",
-        "CALL_TIME": 1702466340000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A533",
-        "LONGITUDE": -95.395518,
-        "LATITUDE": 29.706214,
-        "KeyMap": "533E",
         "CombinedResponse": "F"
       }
     },
@@ -406,28 +474,11 @@
         "CALL_TIME": 1702464420000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ046,A046",
+        "NO_UNITS": 1,
+        "Units": "SQ046",
         "LONGITUDE": -95.368139,
         "LATITUDE": 29.701311,
         "KeyMap": "533L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29734092,
-        "Agency": "F",
-        "Address": "S SANDMAN ST",
-        "CrossStreet": "BLK PORTSMOUTH ST",
-        "CALL_TIME": 1702464300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A016",
-        "LONGITUDE": -95.411443,
-        "LATITUDE": 29.734092,
-        "KeyMap": "492Y",
         "CombinedResponse": "F"
       }
     },
@@ -440,8 +491,8 @@
         "CALL_TIME": 1702463520000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A060,M060",
+        "NO_UNITS": 1,
+        "Units": "A060",
         "LONGITUDE": -95.50503,
         "LATITUDE": 29.735878,
         "KeyMap": "490V",
@@ -457,8 +508,8 @@
         "CALL_TIME": 1702463280000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M062,A038",
+        "NO_UNITS": 1,
+        "Units": "A038",
         "LONGITUDE": -95.481823,
         "LATITUDE": 29.786353,
         "KeyMap": "491B",
@@ -501,23 +552,6 @@
     },
     {
       "attributes": {
-        "UID": 29867898,
-        "Agency": "F",
-        "Address": "W LITTLE YORK RD",
-        "CrossStreet": "BLK GREEN MEADOW LN",
-        "CALL_TIME": 1702461600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M067",
-        "LONGITUDE": -95.416251,
-        "LATITUDE": 29.867898,
-        "KeyMap": "412U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29805399,
         "Agency": "P",
         "Address": "4851 HOMESTEAD RD",
@@ -531,23 +565,6 @@
         "LATITUDE": 29.805399,
         "KeyMap": "454Z",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29841541,
-        "Agency": "F",
-        "Address": "GOODRUM RD",
-        "CrossStreet": "BLK E PAGEWICK DR",
-        "CALL_TIME": 1702459800000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M049",
-        "LONGITUDE": -95.548129,
-        "LATITUDE": 29.841541,
-        "KeyMap": "450E",
-        "CombinedResponse": "F"
       }
     },
     {
