@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29785122,
+        "UID": 29675650,
         "Agency": "F",
-        "Address": "IKEA KATY FWY RETAIL KATY FWY OB",
-        "CrossStreet": "ANTOINE OBIB",
-        "CALL_TIME": 1704360420000,
-        "IncidentType": "CHECK PATIENT*",
+        "Address": "LAKES AT 610 DR",
+        "CrossStreet": "BLK W BELLFORT AVE",
+        "CALL_TIME": 1704361320000,
+        "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E038",
-        "LONGITUDE": -95.471526,
-        "LATITUDE": 29.785122,
-        "KeyMap": "491B",
+        "Units": "E021",
+        "LONGITUDE": -95.419061,
+        "LATITUDE": 29.67565,
+        "KeyMap": "532U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29746338,
+        "Agency": "F",
+        "Address": "STRATFORD ST",
+        "CrossStreet": "BLK WHITNEY ST",
+        "CALL_TIME": 1704361320000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A007",
+        "LONGITUDE": -95.38628,
+        "LATITUDE": 29.746338,
+        "KeyMap": "493S",
         "CombinedResponse": "F"
       }
     },
@@ -114,14 +131,116 @@
         "Agency": "F",
         "Address": "LAUREL SPRINGS LN",
         "CrossStreet": "BLK MYSTIC GLEN LP",
-        "CALL_TIME": 1704360420000,
-        "IncidentType": "CHECK PATIENT*",
+        "CALL_TIME": 1704361140000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E104",
+        "NO_UNITS": 2,
+        "Units": "E104,M101",
         "LONGITUDE": -95.249486,
         "LATITUDE": 30.03636,
         "KeyMap": "336E",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29830001,
+        "Agency": "F",
+        "Address": "NORTH FWY OB",
+        "CrossStreet": "CROSSTIMBERS IBOB",
+        "CALL_TIME": 1704360960000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A030",
+        "LONGITUDE": -95.377168,
+        "LATITUDE": 29.830001,
+        "KeyMap": "453K",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29605202,
+        "Agency": "F",
+        "Address": "BRIMRIDGE LN",
+        "CrossStreet": "BLK GOODRIDGE DR",
+        "CALL_TIME": 1704360840000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A055",
+        "LONGITUDE": -95.310287,
+        "LATITUDE": 29.605202,
+        "KeyMap": "574Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29667840,
+        "Agency": "F",
+        "Address": "BROADWAY ST",
+        "CrossStreet": "BLK ROCKHILL ST",
+        "CALL_TIME": 1704360840000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A023",
+        "LONGITUDE": -95.277011,
+        "LATITUDE": 29.66784,
+        "KeyMap": "535X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29671339,
+        "Agency": "F",
+        "Address": "WINKLER DR",
+        "CrossStreet": "BLK JULIABORA ST",
+        "CALL_TIME": 1704360840000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A052",
+        "LONGITUDE": -95.26156,
+        "LATITUDE": 29.671339,
+        "KeyMap": "535Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29730612,
+        "Agency": "F",
+        "Address": "MILBY ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1704360780000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E025",
+        "LONGITUDE": -95.347001,
+        "LATITUDE": 29.730612,
+        "KeyMap": "494W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29785122,
+        "Agency": "F",
+        "Address": "IKEA KATY FWY RETAIL KATY FWY OB",
+        "CrossStreet": "ANTOINE OBIB",
+        "CALL_TIME": 1704360660000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E038",
+        "LONGITUDE": -95.471526,
+        "LATITUDE": 29.785122,
+        "KeyMap": "491B",
         "CombinedResponse": "F"
       }
     },
@@ -144,40 +263,6 @@
     },
     {
       "attributes": {
-        "UID": 29730612,
-        "Agency": "F",
-        "Address": "MILBY ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1704360360000,
-        "IncidentType": "CHECK PATIENT*",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E025",
-        "LONGITUDE": -95.347001,
-        "LATITUDE": 29.730612,
-        "KeyMap": "494W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29712576,
-        "Agency": "F",
-        "Address": "BEN TAUB HOSP TAUB LP",
-        "CrossStreet": "BLK LAMAR FLEMING AVE",
-        "CALL_TIME": 1704360300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "A016,E033,SQ046,AS016",
-        "LONGITUDE": -95.393683,
-        "LATITUDE": 29.712576,
-        "KeyMap": "533E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29832539,
         "Agency": "F",
         "Address": "LARKSTONE ST",
@@ -190,40 +275,6 @@
         "LONGITUDE": -95.30597,
         "LATITUDE": 29.832539,
         "KeyMap": "454M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29749415,
-        "Agency": "F",
-        "Address": "ENCLAVE PKWY",
-        "CrossStreet": "BLK WESTELLA DR",
-        "CALL_TIME": 1704360240000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "L075",
-        "LONGITUDE": -95.618427,
-        "LATITUDE": 29.749415,
-        "KeyMap": "488Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29605202,
-        "Agency": "F",
-        "Address": "BRIMRIDGE LN",
-        "CrossStreet": "BLK GOODRIDGE DR",
-        "CALL_TIME": 1704360180000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A055",
-        "LONGITUDE": -95.310287,
-        "LATITUDE": 29.605202,
-        "KeyMap": "574Y",
         "CombinedResponse": "F"
       }
     },
@@ -270,8 +321,8 @@
         "CALL_TIME": 1704359160000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M058,A074",
+        "NO_UNITS": 1,
+        "Units": "M058",
         "LONGITUDE": -95.38616,
         "LATITUDE": 29.938386,
         "KeyMap": "373T",
@@ -304,8 +355,8 @@
         "CALL_TIME": 1704358560000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A060,SQ028",
+        "NO_UNITS": 1,
+        "Units": "A060",
         "LONGITUDE": -95.4932,
         "LATITUDE": 29.710508,
         "KeyMap": "531E",
@@ -514,40 +565,6 @@
         "LATITUDE": 29.67867,
         "KeyMap": "532V",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29674687,
-        "Agency": "F",
-        "Address": "S DAIRY ASHFORD RD",
-        "CrossStreet": "BLK HUNTINGTON ESTATES DR",
-        "CALL_TIME": 1704353400000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M083",
-        "LONGITUDE": -95.603913,
-        "LATITUDE": 29.674687,
-        "KeyMap": "528V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29686125,
-        "Agency": "P",
-        "Address": "4551 E VILLA ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1704352260000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "11H32N",
-        "LONGITUDE": -95.259102,
-        "LATITUDE": 29.686125,
-        "KeyMap": "535R",
-        "CombinedResponse": "P"
       }
     },
     {
