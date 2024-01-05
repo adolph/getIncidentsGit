@@ -93,6 +93,91 @@
   "features": [
     {
       "attributes": {
+        "UID": 29640603,
+        "Agency": "F",
+        "Address": "DUNLAP ST",
+        "CrossStreet": "BLK FONMEADOW DR",
+        "CALL_TIME": 1704452760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A048",
+        "LONGITUDE": -95.495407,
+        "LATITUDE": 29.640603,
+        "KeyMap": "571E",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29809315,
+        "Agency": "F",
+        "Address": "NIH610OB-TC JESTER BLVD E N IH 610 FWY W",
+        "CrossStreet": "US 290 ENTR",
+        "CALL_TIME": 1704452760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E062,E031",
+        "LONGITUDE": -95.440349,
+        "LATITUDE": 29.809315,
+        "KeyMap": "452S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29802910,
+        "Agency": "F",
+        "Address": "W 19TH ST",
+        "CrossStreet": "BLK ASHLAND ST",
+        "CALL_TIME": 1704452700000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A031",
+        "LONGITUDE": -95.402124,
+        "LATITUDE": 29.80291,
+        "KeyMap": "452V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29791497,
+        "Agency": "P",
+        "Address": "8899 HEMPSTEAD RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1704452640000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "2A65N",
+        "LONGITUDE": -95.446428,
+        "LATITUDE": 29.791497,
+        "KeyMap": "452W",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29691003,
+        "Agency": "F",
+        "Address": "LANGDON LN",
+        "CrossStreet": "BLK BELLE GLEN DR",
+        "CALL_TIME": 1704452580000,
+        "IncidentType": "CK APPILANCE OR FIXTURE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E076",
+        "LONGITUDE": -95.584806,
+        "LATITUDE": 29.691003,
+        "KeyMap": "529J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29729080,
         "Agency": "F",
         "Address": "US59IB-EDLOE S US 59 FWY IB",
@@ -117,8 +202,8 @@
         "CALL_TIME": 1704452460000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E064,HME063",
+        "NO_UNITS": 1,
+        "Units": "HME063",
         "LONGITUDE": -95.290511,
         "LATITUDE": 29.952376,
         "KeyMap": "375J",
@@ -144,40 +229,6 @@
     },
     {
       "attributes": {
-        "UID": 29859416,
-        "Agency": "F",
-        "Address": "US290IB-FAIRBANKS N HOUSTON US 290 FWY IB",
-        "CrossStreet": "FAIRBANKS N HOUSTON EXIT",
-        "CALL_TIME": 1704452340000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "HME066",
-        "LONGITUDE": -95.524359,
-        "LATITUDE": 29.859416,
-        "KeyMap": "410Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29691003,
-        "Agency": "F",
-        "Address": "LANGDON LN",
-        "CrossStreet": "BLK BELLE GLEN DR",
-        "CALL_TIME": 1704452340000,
-        "IncidentType": "CK APPILANCE OR FIXTURE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E076",
-        "LONGITUDE": -95.584806,
-        "LATITUDE": 29.691003,
-        "KeyMap": "529J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29785427,
         "Agency": "F",
         "Address": "GREGG ST",
@@ -190,6 +241,23 @@
         "LONGITUDE": -95.335841,
         "LATITUDE": 29.785427,
         "KeyMap": "494B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29859416,
+        "Agency": "F",
+        "Address": "US290IB-FAIRBANKS N HOUSTON US 290 FWY IB",
+        "CrossStreet": "FAIRBANKS N HOUSTON EXIT",
+        "CALL_TIME": 1704452340000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "HME066",
+        "LONGITUDE": -95.524359,
+        "LATITUDE": 29.859416,
+        "KeyMap": "410Y",
         "CombinedResponse": "F"
       }
     },
@@ -246,23 +314,6 @@
     },
     {
       "attributes": {
-        "UID": 29802910,
-        "Agency": "F",
-        "Address": "W 19TH ST",
-        "CrossStreet": "BLK ASHLAND ST",
-        "CALL_TIME": 1704452100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A031",
-        "LONGITUDE": -95.402124,
-        "LATITUDE": 29.80291,
-        "KeyMap": "452V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29814339,
         "Agency": "F",
         "Address": "SHERWOOD LN",
@@ -314,23 +365,6 @@
     },
     {
       "attributes": {
-        "UID": 29846023,
-        "Agency": "F",
-        "Address": "BAYOU VISTA DR",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1704451200000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A013",
-        "LONGITUDE": -95.461448,
-        "LATITUDE": 29.846023,
-        "KeyMap": "451D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29658018,
         "Agency": "F",
         "Address": "ST LO RD",
@@ -343,6 +377,23 @@
         "LONGITUDE": -95.342115,
         "LATITUDE": 29.658018,
         "KeyMap": "574A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29846023,
+        "Agency": "F",
+        "Address": "BAYOU VISTA DR",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1704451200000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A013",
+        "LONGITUDE": -95.461448,
+        "LATITUDE": 29.846023,
+        "KeyMap": "451D",
         "CombinedResponse": "F"
       }
     },
@@ -433,6 +484,23 @@
     },
     {
       "attributes": {
+        "UID": 29673219,
+        "Agency": "F",
+        "Address": "W BELLFORT AVE",
+        "CrossStreet": "BLK GREENWILLOW DR",
+        "CALL_TIME": 1704450660000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A021",
+        "LONGITUDE": -95.446365,
+        "LATITUDE": 29.673219,
+        "KeyMap": "531V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29935245,
         "Agency": "F",
         "Address": "ELMTEX DR",
@@ -450,18 +518,18 @@
     },
     {
       "attributes": {
-        "UID": 29673219,
+        "UID": 29740076,
         "Agency": "F",
-        "Address": "W BELLFORT AVE",
-        "CrossStreet": "BLK GREENWILLOW DR",
-        "CALL_TIME": 1704450660000,
+        "Address": "HAYES RD",
+        "CrossStreet": "BLK WICKERSHAM LN",
+        "CALL_TIME": 1704450600000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A021",
-        "LONGITUDE": -95.446365,
-        "LATITUDE": 29.673219,
-        "KeyMap": "531V",
+        "Units": "A083",
+        "LONGITUDE": -95.576195,
+        "LATITUDE": 29.740076,
+        "KeyMap": "489T",
         "CombinedResponse": "F"
       }
     },
@@ -491,28 +559,11 @@
         "CALL_TIME": 1704450600000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A002,SQ028",
+        "NO_UNITS": 1,
+        "Units": "SQ028",
         "LONGITUDE": -95.49665,
         "LATITUDE": 29.756051,
         "KeyMap": "491N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29740076,
-        "Agency": "F",
-        "Address": "HAYES RD",
-        "CrossStreet": "BLK WICKERSHAM LN",
-        "CALL_TIME": 1704450600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A083",
-        "LONGITUDE": -95.576195,
-        "LATITUDE": 29.740076,
-        "KeyMap": "489T",
         "CombinedResponse": "F"
       }
     },
@@ -542,8 +593,8 @@
         "CALL_TIME": 1704449400000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "3B51N,2A11N,2A01N",
+        "NO_UNITS": 4,
+        "Units": "3B51N,2A11N,2A01N,3B05N",
         "LONGITUDE": -95.351698,
         "LATITUDE": 29.813313,
         "KeyMap": "453R",
