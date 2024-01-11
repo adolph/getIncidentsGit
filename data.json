@@ -93,18 +93,69 @@
   "features": [
     {
       "attributes": {
-        "UID": 29753540,
+        "UID": 29730198,
+        "Agency": "P",
+        "Address": "2601 SOUTHWEST FWY IB",
+        "CrossStreet": null,
+        "CALL_TIME": 1704976620000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "1A32D",
+        "LONGITUDE": -95.418649,
+        "LATITUDE": 29.730198,
+        "KeyMap": "492Y",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29987394,
         "Agency": "F",
-        "Address": "SUMMERDALE DR",
-        "CrossStreet": "BLK HEATHWOOD DR",
-        "CALL_TIME": 1704976320000,
+        "Address": "N TERMINAL RD",
+        "CrossStreet": "BLK UNKNOWN",
+        "CALL_TIME": 1704976500000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A069",
-        "LONGITUDE": -95.589077,
-        "LATITUDE": 29.75354,
-        "KeyMap": "489N",
+        "Units": "MS092",
+        "LONGITUDE": -95.350949,
+        "LATITUDE": 29.987394,
+        "KeyMap": "334W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29931753,
+        "Agency": "F",
+        "Address": "ALDINE BENDER RD",
+        "CrossStreet": "BLK IMPERIAL VALLEY DR",
+        "CALL_TIME": 1704976440000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A074",
+        "LONGITUDE": -95.404438,
+        "LATITUDE": 29.931753,
+        "KeyMap": "372Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29694505,
+        "Agency": "F",
+        "Address": "W SAM HOUSTON PKWY S",
+        "CrossStreet": "BLK PARKWOOD CIRCLE DR",
+        "CALL_TIME": 1704976380000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A073",
+        "LONGITUDE": -95.55669,
+        "LATITUDE": 29.694505,
+        "KeyMap": "529M",
         "CombinedResponse": "F"
       }
     },
@@ -127,6 +178,23 @@
     },
     {
       "attributes": {
+        "UID": 29753540,
+        "Agency": "F",
+        "Address": "SUMMERDALE DR",
+        "CrossStreet": "BLK HEATHWOOD DR",
+        "CALL_TIME": 1704976320000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A069",
+        "LONGITUDE": -95.589077,
+        "LATITUDE": 29.75354,
+        "KeyMap": "489N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29836200,
         "Agency": "F",
         "Address": "CAROLWOOD DR",
@@ -134,8 +202,8 @@
         "CALL_TIME": 1704976260000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E043",
+        "NO_UNITS": 2,
+        "Units": "E043,A032",
         "LONGITUDE": -95.28346,
         "LATITUDE": 29.8362,
         "KeyMap": "455F",
@@ -157,40 +225,6 @@
         "LATITUDE": 29.987418,
         "KeyMap": "334X",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29931753,
-        "Agency": "F",
-        "Address": "ALDINE BENDER RD",
-        "CrossStreet": "BLK IMPERIAL VALLEY DR",
-        "CALL_TIME": 1704976020000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A074",
-        "LONGITUDE": -95.404438,
-        "LATITUDE": 29.931753,
-        "KeyMap": "372Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29813202,
-        "Agency": "F",
-        "Address": "NIH45IB-IH610IB N IH 45 FWY IB",
-        "CrossStreet": "N IH 610 EXIT",
-        "CALL_TIME": 1704976020000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "L031",
-        "LONGITUDE": -95.375286,
-        "LATITUDE": 29.813202,
-        "KeyMap": "453T",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -246,32 +280,15 @@
     },
     {
       "attributes": {
-        "UID": 29760728,
-        "Agency": "F",
-        "Address": "BAGBY ST",
-        "CrossStreet": "WALKER - MCKINNEY UTRN",
-        "CALL_TIME": 1704975660000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A008",
-        "LONGITUDE": -95.36955,
-        "LATITUDE": 29.760728,
-        "KeyMap": "493L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29813202,
         "Agency": "P",
         "Address": "NIH45IB-IH610IB 3451 N IH 45 FWY IB",
         "CrossStreet": "N IH 610 EXIT",
         "CALL_TIME": 1704975660000,
-        "IncidentType": "CRASH/MAJOR/FSRA",
+        "IncidentType": "CRASH/MINOR/FSGI",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "6B20D,3B30D",
+        "NO_UNITS": 1,
+        "Units": "6B20D",
         "LONGITUDE": -95.375286,
         "LATITUDE": 29.813202,
         "KeyMap": "453T",
@@ -309,23 +326,6 @@
         "LONGITUDE": -95.215793,
         "LATITUDE": 29.660745,
         "KeyMap": "576C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29694505,
-        "Agency": "F",
-        "Address": "W SAM HOUSTON PKWY S",
-        "CrossStreet": "BLK PARKWOOD CIRCLE DR",
-        "CALL_TIME": 1704975360000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A073",
-        "LONGITUDE": -95.55669,
-        "LATITUDE": 29.694505,
-        "KeyMap": "529M",
         "CombinedResponse": "F"
       }
     },
@@ -484,23 +484,6 @@
     },
     {
       "attributes": {
-        "UID": 29694747,
-        "Agency": "P",
-        "Address": "1645 OLD SPANISH TRL",
-        "CrossStreet": null,
-        "CALL_TIME": 1704974340000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "15E43N,15E37N",
-        "LONGITUDE": -95.404857,
-        "LATITUDE": 29.694747,
-        "KeyMap": "532M",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29837244,
         "Agency": "P",
         "Address": "1 BERRY RD",
@@ -513,6 +496,23 @@
         "LONGITUDE": -95.384346,
         "LATITUDE": 29.837244,
         "KeyMap": "453F",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29694747,
+        "Agency": "P",
+        "Address": "1645 OLD SPANISH TRL",
+        "CrossStreet": null,
+        "CALL_TIME": 1704974340000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "15E37N",
+        "LONGITUDE": -95.404857,
+        "LATITUDE": 29.694747,
+        "KeyMap": "532M",
         "CombinedResponse": "P"
       }
     },
@@ -547,23 +547,6 @@
         "LONGITUDE": -95.41886,
         "LATITUDE": 29.845209,
         "KeyMap": "452C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29808840,
-        "Agency": "F",
-        "Address": "N DURHAM DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1704973740000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A031",
-        "LONGITUDE": -95.412354,
-        "LATITUDE": 29.80884,
-        "KeyMap": "452U",
         "CombinedResponse": "F"
       }
     },
@@ -695,28 +678,11 @@
         "CALL_TIME": 1704972300000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A033,M024",
+        "NO_UNITS": 1,
+        "Units": "M024",
         "LONGITUDE": -95.418181,
         "LATITUDE": 29.698088,
         "KeyMap": "532L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29789799,
-        "Agency": "F",
-        "Address": "NIH45OB-N MAIN ST N IH 45 FWY OB",
-        "CrossStreet": "PATTON EXIT",
-        "CALL_TIME": 1704972180000,
-        "IncidentType": "WOODS ON FIRE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E009",
-        "LONGITUDE": -95.37166,
-        "LATITUDE": 29.789799,
-        "KeyMap": "493C",
         "CombinedResponse": "F"
       }
     },
@@ -739,23 +705,6 @@
     },
     {
       "attributes": {
-        "UID": 29773238,
-        "Agency": "F",
-        "Address": "IH610OB-MEMORIAL DR W IH 610 FWY N",
-        "CrossStreet": "W IH 610 OB ENTR",
-        "CALL_TIME": 1704971820000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A038",
-        "LONGITUDE": -95.456136,
-        "LATITUDE": 29.773238,
-        "KeyMap": "491H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29731035,
         "Agency": "F",
         "Address": "SAGE RD",
@@ -773,6 +722,23 @@
     },
     {
       "attributes": {
+        "UID": 29773238,
+        "Agency": "F",
+        "Address": "IH610OB-MEMORIAL DR W IH 610 FWY N",
+        "CrossStreet": "W IH 610 OB ENTR",
+        "CALL_TIME": 1704971820000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A038",
+        "LONGITUDE": -95.456136,
+        "LATITUDE": 29.773238,
+        "KeyMap": "491H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29621206,
         "Agency": "F",
         "Address": "SKYVIEW DOWNS DR",
@@ -785,23 +751,6 @@
         "LONGITUDE": -95.383329,
         "LATITUDE": 29.621206,
         "KeyMap": "573N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29705454,
-        "Agency": "F",
-        "Address": "PRODUCE ROW",
-        "CrossStreet": "PRODUCE ROW RAMP OB",
-        "CALL_TIME": 1704968940000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M040",
-        "LONGITUDE": -95.326184,
-        "LATITUDE": 29.705454,
-        "KeyMap": "534F",
         "CombinedResponse": "F"
       }
     },
