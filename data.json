@@ -93,18 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29737182,
+        "UID": 29851388,
         "Agency": "F",
-        "Address": "WESTHEIMER RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1705484520000,
-        "IncidentType": "EMS EVENT",
+        "Address": "MESA DR",
+        "CrossStreet": "BLK TEXAS ACORN AVE",
+        "CALL_TIME": 1705485420000,
+        "IncidentType": "CHECK WATER FLOW ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E060",
+        "Units": "E032",
+        "LONGITUDE": -95.262363,
+        "LATITUDE": 29.851388,
+        "KeyMap": "455C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29752937,
+        "Agency": "F",
+        "Address": "AVENIDA DE LAS AMERICAS",
+        "CrossStreet": "BLK LAMAR ST",
+        "CALL_TIME": 1705485360000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E001",
+        "LONGITUDE": -95.358389,
+        "LATITUDE": 29.752937,
+        "KeyMap": "493R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29737182,
+        "Agency": "P",
+        "Address": "9699 WESTHEIMER RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1705485240000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "20G29N",
         "LONGITUDE": -95.538871,
         "LATITUDE": 29.737182,
         "KeyMap": "490S",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29987394,
+        "Agency": "F",
+        "Address": "N TERMINAL RD",
+        "CrossStreet": "BLK UNKNOWN",
+        "CALL_TIME": 1705485060000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "HME063",
+        "LONGITUDE": -95.350949,
+        "LATITUDE": 29.987394,
+        "KeyMap": "334W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29665606,
+        "Agency": "F",
+        "Address": "KIBER DR",
+        "CrossStreet": "BLK HUFF DR",
+        "CALL_TIME": 1705484940000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A082",
+        "LONGITUDE": -95.530498,
+        "LATITUDE": 29.665606,
+        "KeyMap": "530X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29987394,
+        "Agency": "F",
+        "Address": "N TERMINAL RD",
+        "CrossStreet": "BLK UNKNOWN",
+        "CALL_TIME": 1705484580000,
+        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "MS092",
+        "LONGITUDE": -95.350949,
+        "LATITUDE": 29.987394,
+        "KeyMap": "334W",
         "CombinedResponse": "F"
       }
     },
@@ -134,8 +219,8 @@
         "CALL_TIME": 1705484400000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A036,M040,E029",
+        "NO_UNITS": 2,
+        "Units": "M040,A036",
         "LONGITUDE": -95.263197,
         "LATITUDE": 29.673015,
         "KeyMap": "535U",
@@ -185,28 +270,11 @@
         "CALL_TIME": 1705484220000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A046",
+        "NO_UNITS": 2,
+        "Units": "A046,M055",
         "LONGITUDE": -95.375438,
         "LATITUDE": 29.656535,
         "KeyMap": "573B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29987394,
-        "Agency": "F",
-        "Address": "N TERMINAL RD",
-        "CrossStreet": "BLK UNKNOWN",
-        "CALL_TIME": 1705484160000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "MS092",
-        "LONGITUDE": -95.350949,
-        "LATITUDE": 29.987394,
-        "KeyMap": "334W",
         "CombinedResponse": "F"
       }
     },
@@ -219,28 +287,11 @@
         "CALL_TIME": 1705483920000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "M083,E068,A010",
+        "NO_UNITS": 1,
+        "Units": "M083",
         "LONGITUDE": -95.570259,
         "LATITUDE": 29.688375,
         "KeyMap": "529Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29671835,
-        "Agency": "F",
-        "Address": "S BRAESWOOD BLVD",
-        "CrossStreet": "BLK BRAEBURN GLEN BLVD",
-        "CALL_TIME": 1705483920000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "L068",
-        "LONGITUDE": -95.531902,
-        "LATITUDE": 29.671835,
-        "KeyMap": "530T",
         "CombinedResponse": "F"
       }
     },
@@ -271,7 +322,7 @@
         "IncidentType": "BUILDING FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 10,
-        "Units": "L007,D006,E003,D008,E006,M006,E016,SF024,E007,L016",
+        "Units": "L016,E007,L007,D006,E003,E006,M006,E016,SF024,ARS717",
         "LONGITUDE": -95.418719,
         "LATITUDE": 29.739637,
         "KeyMap": "492U",
@@ -321,28 +372,11 @@
         "CALL_TIME": 1705483260000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A077,M049",
+        "NO_UNITS": 1,
+        "Units": "M049",
         "LONGITUDE": -95.548618,
         "LATITUDE": 29.812692,
         "KeyMap": "449R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29731571,
-        "Agency": "F",
-        "Address": "ASHFORD PINE DR",
-        "CrossStreet": "BLK ASHFORD OAK DR",
-        "CALL_TIME": 1705482960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A069,M075",
-        "LONGITUDE": -95.613077,
-        "LATITUDE": 29.731571,
-        "KeyMap": "488Y",
         "CombinedResponse": "F"
       }
     },
@@ -382,6 +416,23 @@
     },
     {
       "attributes": {
+        "UID": 29731571,
+        "Agency": "F",
+        "Address": "ASHFORD PINE DR",
+        "CrossStreet": "BLK ASHFORD OAK DR",
+        "CALL_TIME": 1705482960000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A069,M075",
+        "LONGITUDE": -95.613077,
+        "LATITUDE": 29.731571,
+        "KeyMap": "488Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29724249,
         "Agency": "F",
         "Address": "CAROLINE ST",
@@ -389,8 +440,8 @@
         "CALL_TIME": 1705482300000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A007,SQ008",
+        "NO_UNITS": 1,
+        "Units": "A007",
         "LONGITUDE": -95.387001,
         "LATITUDE": 29.724249,
         "KeyMap": "533A",
@@ -450,40 +501,6 @@
     },
     {
       "attributes": {
-        "UID": 29731764,
-        "Agency": "F",
-        "Address": "DREW ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1705482060000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A025",
-        "LONGITUDE": -95.350722,
-        "LATITUDE": 29.731764,
-        "KeyMap": "493Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29865210,
-        "Agency": "F",
-        "Address": "GREEN MEADOW LN",
-        "CrossStreet": "BLK KNOX ST",
-        "CALL_TIME": 1705481940000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A058",
-        "LONGITUDE": -95.420193,
-        "LATITUDE": 29.86521,
-        "KeyMap": "412Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29838470,
         "Agency": "F",
         "Address": "LAVENDER ST",
@@ -496,23 +513,6 @@
         "LONGITUDE": -95.321443,
         "LATITUDE": 29.83847,
         "KeyMap": "454G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29754738,
-        "Agency": "F",
-        "Address": "W SAM HOUSTON PKWY S",
-        "CrossStreet": "BLK HOLLY SPRINGS DR",
-        "CALL_TIME": 1705481820000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A060",
-        "LONGITUDE": -95.558418,
-        "LATITUDE": 29.754738,
-        "KeyMap": "489M",
         "CombinedResponse": "F"
       }
     },
@@ -559,8 +559,8 @@
         "CALL_TIME": 1705481520000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "M067,A004,E096,AS050",
+        "NO_UNITS": 3,
+        "Units": "M067,A004,AS050",
         "LONGITUDE": -95.560731,
         "LATITUDE": 29.96692,
         "KeyMap": "369H",
@@ -581,23 +581,6 @@
         "LONGITUDE": -95.431221,
         "LATITUDE": 29.695502,
         "KeyMap": "532K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29709632,
-        "Agency": "F",
-        "Address": "REDDING RD",
-        "CrossStreet": "BLK CLAREWOOD DR",
-        "CALL_TIME": 1705480920000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M010",
-        "LONGITUDE": -95.536213,
-        "LATITUDE": 29.709632,
-        "KeyMap": "530E",
         "CombinedResponse": "F"
       }
     },
@@ -717,23 +700,6 @@
         "LONGITUDE": -95.541269,
         "LATITUDE": 29.796894,
         "KeyMap": "450W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29640603,
-        "Agency": "F",
-        "Address": "DUNLAP ST",
-        "CrossStreet": "BLK FONMEADOW DR",
-        "CALL_TIME": 1705478100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A048",
-        "LONGITUDE": -95.495407,
-        "LATITUDE": 29.640603,
-        "KeyMap": "571E",
         "CombinedResponse": "F"
       }
     },
