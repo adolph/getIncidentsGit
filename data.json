@@ -93,6 +93,57 @@
   "features": [
     {
       "attributes": {
+        "UID": 29619659,
+        "Agency": "F",
+        "Address": "INGRAM GAP LN",
+        "CrossStreet": "BLK KATIE RIDGE LN",
+        "CALL_TIME": 1707388620000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M055",
+        "LONGITUDE": -95.332003,
+        "LATITUDE": 29.619659,
+        "KeyMap": "574P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29703163,
+        "Agency": "F",
+        "Address": "FANNIN ST",
+        "CrossStreet": "BLK S BRAESWOOD BLVD",
+        "CALL_TIME": 1707388560000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E033",
+        "LONGITUDE": -95.402829,
+        "LATITUDE": 29.703163,
+        "KeyMap": "532H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29672325,
+        "Agency": "F",
+        "Address": "OMEARA DR",
+        "CrossStreet": "BLK STELLA LINK RD",
+        "CALL_TIME": 1707388140000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A021",
+        "LONGITUDE": -95.436794,
+        "LATITUDE": 29.672325,
+        "KeyMap": "532S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29667840,
         "Agency": "F",
         "Address": "BROADWAY ST",
@@ -132,7 +183,7 @@
         "Address": "600 MILAM ST",
         "CrossStreet": "BLK CAPITOL ST",
         "CALL_TIME": 1707387840000,
-        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
+        "IncidentType": "CRASH/MINOR/FSGI",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
         "Units": "3Y46N",
@@ -156,23 +207,6 @@
         "LONGITUDE": -95.478959,
         "LATITUDE": 29.651021,
         "KeyMap": "571B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29672325,
-        "Agency": "F",
-        "Address": "OMEARA DR",
-        "CrossStreet": "BLK STELLA LINK RD",
-        "CALL_TIME": 1707387660000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A021",
-        "LONGITUDE": -95.436794,
-        "LATITUDE": 29.672325,
-        "KeyMap": "532S",
         "CombinedResponse": "F"
       }
     },
@@ -212,23 +246,6 @@
     },
     {
       "attributes": {
-        "UID": 29731774,
-        "Agency": "F",
-        "Address": "RICHMOND AVE",
-        "CrossStreet": "BLK UNITY DR",
-        "CALL_TIME": 1707387300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A060,SQ028",
-        "LONGITUDE": -95.490815,
-        "LATITUDE": 29.731774,
-        "KeyMap": "491W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29763874,
         "Agency": "F",
         "Address": "BAKER ST",
@@ -253,8 +270,8 @@
         "CALL_TIME": 1707387000000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E049,M060,A077",
+        "NO_UNITS": 2,
+        "Units": "M060,A077",
         "LONGITUDE": -95.539543,
         "LATITUDE": 29.777794,
         "KeyMap": "490E",
@@ -292,23 +309,6 @@
         "LONGITUDE": -95.494628,
         "LATITUDE": 29.679966,
         "KeyMap": "531N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29766396,
-        "Agency": "F",
-        "Address": "SILVER ST",
-        "CrossStreet": "BLK DECATUR ST",
-        "CALL_TIME": 1707386100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M006",
-        "LONGITUDE": -95.37714,
-        "LATITUDE": 29.766396,
-        "KeyMap": "493K",
         "CombinedResponse": "F"
       }
     },
@@ -382,23 +382,6 @@
     },
     {
       "attributes": {
-        "UID": 29699154,
-        "Agency": "F",
-        "Address": "BISSONNET ST",
-        "CrossStreet": "MULLINS DR",
-        "CALL_TIME": 1707384060000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A028",
-        "LONGITUDE": -95.484668,
-        "LATITUDE": 29.699154,
-        "KeyMap": "531J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29735984,
         "Agency": "F",
         "Address": "WESTHEIMER RD",
@@ -411,6 +394,23 @@
         "LONGITUDE": -95.615861,
         "LATITUDE": 29.735984,
         "KeyMap": "488U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29699154,
+        "Agency": "F",
+        "Address": "BISSONNET ST",
+        "CrossStreet": "MULLINS DR",
+        "CALL_TIME": 1707384060000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A028",
+        "LONGITUDE": -95.484668,
+        "LATITUDE": 29.699154,
+        "KeyMap": "531J",
         "CombinedResponse": "F"
       }
     },
@@ -467,40 +467,6 @@
     },
     {
       "attributes": {
-        "UID": 29843212,
-        "Agency": "F",
-        "Address": "TALTON ST",
-        "CrossStreet": "BLK TREMONT ST",
-        "CALL_TIME": 1707383100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M043",
-        "LONGITUDE": -95.281724,
-        "LATITUDE": 29.843212,
-        "KeyMap": "455F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29848899,
-        "Agency": "F",
-        "Address": "GROW LN",
-        "CrossStreet": "BLK DOW RD",
-        "CALL_TIME": 1707381900000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A005",
-        "LONGITUDE": -95.508877,
-        "LATITUDE": 29.848899,
-        "KeyMap": "450D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29778608,
         "Agency": "F",
         "Address": "BARRYKNOLL LN",
@@ -547,23 +513,6 @@
         "LONGITUDE": -95.49598,
         "LATITUDE": 29.674448,
         "KeyMap": "531S",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29821497,
-        "Agency": "P",
-        "Address": "895 WAKEFIELD DR",
-        "CrossStreet": "BLK ALBA RD",
-        "CALL_TIME": 1707367200000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "76B10N",
-        "LONGITUDE": -95.420052,
-        "LATITUDE": 29.821497,
-        "KeyMap": "452Q",
         "CombinedResponse": "P"
       }
     },
