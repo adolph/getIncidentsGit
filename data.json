@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29739447,
+        "UID": 29772374,
         "Agency": "F",
-        "Address": "WESTERLAND DR",
-        "CrossStreet": "BLK WESTHEIMER RD",
-        "CALL_TIME": 1707372120000,
+        "Address": "SABINE ST",
+        "CrossStreet": "BLK SUMMER ST",
+        "CALL_TIME": 1707372420000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E009",
+        "LONGITUDE": -95.375858,
+        "LATITUDE": 29.772374,
+        "KeyMap": "493F",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29846825,
+        "Agency": "F",
+        "Address": "W TIDWELL RD",
+        "CrossStreet": "BLK GOLDSPIER ST",
+        "CALL_TIME": 1707372360000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A060",
-        "LONGITUDE": -95.531498,
-        "LATITUDE": 29.739447,
-        "KeyMap": "490T",
+        "Units": "M067",
+        "LONGITUDE": -95.444828,
+        "LATITUDE": 29.846825,
+        "KeyMap": "452A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29673389,
+        "Agency": "F",
+        "Address": "W BELLFORT AVE",
+        "CrossStreet": "BLK FANNIN ST",
+        "CALL_TIME": 1707372300000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A047",
+        "LONGITUDE": -95.399905,
+        "LATITUDE": 29.673389,
+        "KeyMap": "532V",
         "CombinedResponse": "F"
       }
     },
@@ -117,8 +151,8 @@
         "CALL_TIME": 1707372000000,
         "IncidentType": "MOTOR VEHICLE INCIDENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E055,A026",
+        "NO_UNITS": 3,
+        "Units": "E055,A026,M055",
         "LONGITUDE": -95.352644,
         "LATITUDE": 29.657163,
         "KeyMap": "573D",
@@ -212,23 +246,6 @@
     },
     {
       "attributes": {
-        "UID": 29688930,
-        "Agency": "F",
-        "Address": "BEECHNUT ST",
-        "CrossStreet": "BLK BROOKWULF DR",
-        "CALL_TIME": 1707371220000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A010",
-        "LONGITUDE": -95.604555,
-        "LATITUDE": 29.68893,
-        "KeyMap": "528R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29668099,
         "Agency": "F",
         "Address": "ELMWOOD ST",
@@ -241,6 +258,23 @@
         "LONGITUDE": -95.361341,
         "LATITUDE": 29.668099,
         "KeyMap": "533Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29688930,
+        "Agency": "F",
+        "Address": "BEECHNUT ST",
+        "CrossStreet": "BLK BROOKWULF DR",
+        "CALL_TIME": 1707371220000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A010",
+        "LONGITUDE": -95.604555,
+        "LATITUDE": 29.68893,
+        "KeyMap": "528R",
         "CombinedResponse": "F"
       }
     },
@@ -411,23 +445,6 @@
         "LONGITUDE": -95.688365,
         "LATITUDE": 29.792196,
         "KeyMap": "447W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29832562,
-        "Agency": "F",
-        "Address": "THORNTON RD",
-        "CrossStreet": "BLK THORNTON GROVE LN",
-        "CALL_TIME": 1707369300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A015",
-        "LONGITUDE": -95.407242,
-        "LATITUDE": 29.832562,
-        "KeyMap": "452M",
         "CombinedResponse": "F"
       }
     },
@@ -615,40 +632,6 @@
         "LONGITUDE": -95.430075,
         "LATITUDE": 29.938638,
         "KeyMap": "372T",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29695707,
-        "Agency": "F",
-        "Address": "SCHROEDER RD",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1707363840000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A035",
-        "LONGITUDE": -95.341856,
-        "LATITUDE": 29.695707,
-        "KeyMap": "534J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29735834,
-        "Agency": "P",
-        "Address": "2620 S DAIRY ASHFORD RD",
-        "CrossStreet": "BLK ASHFORD MEADOW DR",
-        "CALL_TIME": 1707352080000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "20G51N",
-        "LONGITUDE": -95.605844,
-        "LATITUDE": 29.735834,
-        "KeyMap": "488V",
         "CombinedResponse": "P"
       }
     },
