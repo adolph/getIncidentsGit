@@ -93,18 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29660738,
+        "UID": 29725123,
         "Agency": "F",
-        "Address": "WINDMARK PL",
-        "CrossStreet": "BLK WINDMARK DR",
-        "CALL_TIME": 1707908340000,
-        "IncidentType": "FIRE EVENT",
+        "Address": "ROSEWOOD ST",
+        "CrossStreet": "BLK DELANO ST",
+        "CALL_TIME": 1707909120000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 4,
+        "Units": "A007,AS016,SQ008,L007",
+        "LONGITUDE": -95.369518,
+        "LATITUDE": 29.725123,
+        "KeyMap": "533C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29661303,
+        "Agency": "F",
+        "Address": "VICKIJOHN DR",
+        "CrossStreet": "BLK PLAINFIELD ST",
+        "CALL_TIME": 1707909120000,
+        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "L068",
-        "LONGITUDE": -95.575765,
-        "LATITUDE": 29.660738,
-        "KeyMap": "529X",
+        "Units": "A068",
+        "LONGITUDE": -95.54271,
+        "LATITUDE": 29.661303,
+        "KeyMap": "530W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29698694,
+        "Agency": "F",
+        "Address": "W SAM HOUSTON PKWY S",
+        "CrossStreet": "BLK SHARPCREST ST",
+        "CALL_TIME": 1707909120000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E010",
+        "LONGITUDE": -95.556714,
+        "LATITUDE": 29.698694,
+        "KeyMap": "529M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29740009,
+        "Agency": "F",
+        "Address": "LAZY HOLLOW DR",
+        "CrossStreet": "BLK WESTHEIMER RD",
+        "CALL_TIME": 1707909060000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M060",
+        "LONGITUDE": -95.517148,
+        "LATITUDE": 29.740009,
+        "KeyMap": "490U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29863470,
+        "Agency": "F",
+        "Address": "W LITTLE YORK RD",
+        "CrossStreet": "BLK EASTER ST",
+        "CALL_TIME": 1707909000000,
+        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E067",
+        "LONGITUDE": -95.446505,
+        "LATITUDE": 29.86347,
+        "KeyMap": "412W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29777660,
+        "Agency": "F",
+        "Address": "WIH10IB-TAYLOR ST W IH 10 FWY IB",
+        "CrossStreet": "BLK W IH 10 HOV",
+        "CALL_TIME": 1707909000000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "M006,L006,E006",
+        "LONGITUDE": -95.38103,
+        "LATITUDE": 29.77766,
+        "KeyMap": "493F",
         "CombinedResponse": "F"
       }
     },
@@ -145,48 +230,14 @@
     {
       "attributes": {
         "UID": 29727633,
-        "Agency": "F",
-        "Address": "RICHMOND AVE",
-        "CrossStreet": null,
-        "CALL_TIME": 1707907920000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E010",
-        "LONGITUDE": -95.556984,
-        "LATITUDE": 29.727633,
-        "KeyMap": "489Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 30070247,
-        "Agency": "F",
-        "Address": "HICKORY GLEN CT",
-        "CrossStreet": "BLK ARELI LN",
-        "CALL_TIME": 1707907740000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M102",
-        "LONGITUDE": -95.213151,
-        "LATITUDE": 30.070247,
-        "KeyMap": "296V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29727633,
         "Agency": "P",
         "Address": "10395 RICHMOND AVE",
         "CrossStreet": null,
         "CALL_TIME": 1707907440000,
         "IncidentType": "CRASH/MAJOR/FSRA",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "20G59N,55G11,19G13N,98G35N",
+        "NO_UNITS": 5,
+        "Units": "20G59N,55G11,19G13N,98G35N,19G35N",
         "LONGITUDE": -95.556984,
         "LATITUDE": 29.727633,
         "KeyMap": "489Z",
@@ -395,23 +446,6 @@
         "LATITUDE": 29.655903,
         "KeyMap": "573D",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29728331,
-        "Agency": "F",
-        "Address": "HOLMAN ST",
-        "CrossStreet": "BLK BRILEY ST",
-        "CALL_TIME": 1707894600000,
-        "IncidentType": "APARTMENT FIRE",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 1,
-        "Units": "E018",
-        "LONGITUDE": -95.359358,
-        "LATITUDE": 29.728331,
-        "KeyMap": "493Z",
-        "CombinedResponse": "F"
       }
     },
     {
