@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 30001933,
+        "UID": 29809353,
         "Agency": "F",
-        "Address": "W SHOREWOOD LP",
-        "CrossStreet": "BLK LAKERIDGE LN",
-        "CALL_TIME": 1707905400000,
+        "Address": "DACOMA ST",
+        "CrossStreet": "BLK W GOVERNORS CIR",
+        "CALL_TIME": 1707906420000,
         "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E065",
-        "LONGITUDE": -95.113019,
-        "LATITUDE": 30.001933,
-        "KeyMap": "338V",
+        "Units": "E062",
+        "LONGITUDE": -95.448323,
+        "LATITUDE": 29.809353,
+        "KeyMap": "451V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29705984,
+        "Agency": "F",
+        "Address": "HOLCOMBE BLVD",
+        "CrossStreet": "BLK ALMEDA RD",
+        "CALL_TIME": 1707906120000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E033",
+        "LONGITUDE": -95.385465,
+        "LATITUDE": 29.705984,
+        "KeyMap": "533E",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "W TIDWELL RD",
         "CrossStreet": "BLK LUMBERDALE RD",
-        "CALL_TIME": 1707905160000,
+        "CALL_TIME": 1707905640000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -131,7 +148,7 @@
         "Agency": "F",
         "Address": "WESTHEIMER RD",
         "CrossStreet": "BLK WESTHOLLOW DR",
-        "CALL_TIME": 1707904980000,
+        "CALL_TIME": 1707905580000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -144,6 +161,23 @@
     },
     {
       "attributes": {
+        "UID": 29660294,
+        "Agency": "P",
+        "Address": "11000 STANCLIFF RD",
+        "CrossStreet": "BLK LANDSBURY DR",
+        "CALL_TIME": 1707904860000,
+        "IncidentType": "CRASH/MINOR/FSGI",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "19G57N",
+        "LONGITUDE": -95.572695,
+        "LATITUDE": 29.660294,
+        "KeyMap": "529X",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29880840,
         "Agency": "F",
         "Address": "ROARING POINT DR",
@@ -151,8 +185,8 @@
         "CALL_TIME": 1707904440000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M050,E067",
+        "NO_UNITS": 1,
+        "Units": "M050",
         "LONGITUDE": -95.462938,
         "LATITUDE": 29.88084,
         "KeyMap": "411Q",
@@ -185,8 +219,8 @@
         "CALL_TIME": 1707904020000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A008,SQ008,AS016",
+        "NO_UNITS": 1,
+        "Units": "SQ008",
         "LONGITUDE": -95.374385,
         "LATITUDE": 29.748215,
         "KeyMap": "493P",
@@ -423,12 +457,29 @@
         "CALL_TIME": 1707897960000,
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 9,
-        "Units": "E080,L059,E059,E048,L068,HME082,CC002,ARS738,ARS717",
+        "NO_UNITS": 8,
+        "Units": "E080,L059,E059,E048,L068,CC002,ARS717,ARS738",
         "LONGITUDE": -95.504706,
         "LATITUDE": 29.607928,
         "KeyMap": "570V",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29655903,
+        "Agency": "P",
+        "Address": "4807 WILMINGTON ST",
+        "CrossStreet": "BLK JUTLAND RD",
+        "CALL_TIME": 1707897840000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "14D25N",
+        "LONGITUDE": -95.352409,
+        "LATITUDE": 29.655903,
+        "KeyMap": "573D",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -462,6 +513,23 @@
         "LONGITUDE": -95.351466,
         "LATITUDE": 29.642391,
         "KeyMap": "573H",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29753112,
+        "Agency": "P",
+        "Address": "1999 BALDWIN ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1707893220000,
+        "IncidentType": "CRASH/MINOR/FSGI",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "1A57N",
+        "LONGITUDE": -95.37684,
+        "LATITUDE": 29.753112,
+        "KeyMap": "493P",
         "CombinedResponse": "P"
       }
     },
