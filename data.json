@@ -93,11 +93,45 @@
   "features": [
     {
       "attributes": {
+        "UID": 29660738,
+        "Agency": "F",
+        "Address": "WINDMARK PL",
+        "CrossStreet": "BLK WINDMARK DR",
+        "CALL_TIME": 1707908340000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "L068",
+        "LONGITUDE": -95.575765,
+        "LATITUDE": 29.660738,
+        "KeyMap": "529X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29814087,
+        "Agency": "F",
+        "Address": "SHERWOOD LN",
+        "CrossStreet": null,
+        "CALL_TIME": 1707908100000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A013",
+        "LONGITUDE": -95.459253,
+        "LATITUDE": 29.814087,
+        "KeyMap": "451R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29643597,
         "Agency": "F",
         "Address": "W MONROE RD",
         "CrossStreet": "BLK SCRANTON ST",
-        "CALL_TIME": 1707907620000,
+        "CALL_TIME": 1707907980000,
         "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -114,7 +148,7 @@
         "Agency": "F",
         "Address": "RICHMOND AVE",
         "CrossStreet": null,
-        "CALL_TIME": 1707907560000,
+        "CALL_TIME": 1707907920000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,6 +161,23 @@
     },
     {
       "attributes": {
+        "UID": 30070247,
+        "Agency": "F",
+        "Address": "HICKORY GLEN CT",
+        "CrossStreet": "BLK ARELI LN",
+        "CALL_TIME": 1707907740000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M102",
+        "LONGITUDE": -95.213151,
+        "LATITUDE": 30.070247,
+        "KeyMap": "296V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29727633,
         "Agency": "P",
         "Address": "10395 RICHMOND AVE",
@@ -134,8 +185,8 @@
         "CALL_TIME": 1707907440000,
         "IncidentType": "CRASH/MAJOR/FSRA",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "20G59N",
+        "NO_UNITS": 4,
+        "Units": "20G59N,55G11,19G13N,98G35N",
         "LONGITUDE": -95.556984,
         "LATITUDE": 29.727633,
         "KeyMap": "489Z",
@@ -161,70 +212,19 @@
     },
     {
       "attributes": {
-        "UID": 30070247,
-        "Agency": "F",
-        "Address": "HICKORY GLEN CT",
-        "CrossStreet": "BLK ARELI LN",
-        "CALL_TIME": 1707907260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M102",
-        "LONGITUDE": -95.213151,
-        "LATITUDE": 30.070247,
-        "KeyMap": "296V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29954504,
-        "Agency": "F",
-        "Address": "N GESSNER RD",
-        "CrossStreet": "BLK TOMBALL PKWY IB",
-        "CALL_TIME": 1707907260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M096",
-        "LONGITUDE": -95.546177,
-        "LATITUDE": 29.954504,
-        "KeyMap": "370J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29656746,
-        "Agency": "F",
-        "Address": "W BELLFORT AVE",
-        "CrossStreet": "BLK LANDSBURY DR",
-        "CALL_TIME": 1707907260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M073",
-        "LONGITUDE": -95.574782,
-        "LATITUDE": 29.656746,
-        "KeyMap": "569B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29814087,
-        "Agency": "F",
-        "Address": "SHERWOOD LN",
+        "UID": 29898264,
+        "Agency": "P",
+        "Address": "705 W MOUNT HOUSTON RD",
         "CrossStreet": null,
-        "CALL_TIME": 1707907200000,
-        "IncidentType": "EMS EVENT",
+        "CALL_TIME": 1707906840000,
+        "IncidentType": "CRASH/MINOR",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A013",
-        "LONGITUDE": -95.459253,
-        "LATITUDE": 29.814087,
-        "KeyMap": "451R",
-        "CombinedResponse": "F"
+        "Units": "6B42N",
+        "LONGITUDE": -95.412619,
+        "LATITUDE": 29.898264,
+        "KeyMap": "412L",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -297,40 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29735287,
-        "Agency": "F",
-        "Address": "DENNIS ST",
-        "CrossStreet": "BLK SAUER ST",
-        "CALL_TIME": 1707904320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A007",
-        "LONGITUDE": -95.359036,
-        "LATITUDE": 29.735287,
-        "KeyMap": "493Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29748215,
-        "Agency": "F",
-        "Address": "MILAM ST",
-        "CrossStreet": "BLK MCGOWEN ST",
-        "CALL_TIME": 1707904020000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ008",
-        "LONGITUDE": -95.374385,
-        "LATITUDE": 29.748215,
-        "KeyMap": "493P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29667840,
         "Agency": "F",
         "Address": "BROADWAY ST",
@@ -365,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29841078,
-        "Agency": "F",
-        "Address": "HARRELL ST",
-        "CrossStreet": "BLK FIRNAT ST",
-        "CALL_TIME": 1707902460000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A034",
-        "LONGITUDE": -95.344887,
-        "LATITUDE": 29.841078,
-        "KeyMap": "454E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29833806,
         "Agency": "F",
         "Address": "DE MILO DR",
@@ -394,23 +343,6 @@
         "LONGITUDE": -95.479372,
         "LATITUDE": 29.833806,
         "KeyMap": "451F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29710961,
-        "Agency": "F",
-        "Address": "HIGH STAR DR",
-        "CrossStreet": "BLK CONTINENTAL DR",
-        "CALL_TIME": 1707901020000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A076,M083",
-        "LONGITUDE": -95.590675,
-        "LATITUDE": 29.710961,
-        "KeyMap": "529E",
         "CombinedResponse": "F"
       }
     },
@@ -433,23 +365,6 @@
     },
     {
       "attributes": {
-        "UID": 29680604,
-        "Agency": "F",
-        "Address": "IH610IB-ALMEDA E S IH 610 FWY W",
-        "CrossStreet": "FANNIN EXIT",
-        "CALL_TIME": 1707898800000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A046",
-        "LONGITUDE": -95.392905,
-        "LATITUDE": 29.680604,
-        "KeyMap": "533S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29607928,
         "Agency": "F",
         "Address": "CHASEWAY DR",
@@ -457,8 +372,8 @@
         "CALL_TIME": 1707897960000,
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 8,
-        "Units": "E080,L059,E059,E048,L068,CC002,ARS717,ARS738",
+        "NO_UNITS": 6,
+        "Units": "E080,L059,E048,E059,ARS738,ARS717",
         "LONGITUDE": -95.504706,
         "LATITUDE": 29.607928,
         "KeyMap": "570V",
@@ -491,8 +406,8 @@
         "CALL_TIME": 1707894600000,
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 2,
-        "Units": "E008,E018",
+        "NO_UNITS": 1,
+        "Units": "E018",
         "LONGITUDE": -95.359358,
         "LATITUDE": 29.728331,
         "KeyMap": "493Z",
@@ -547,23 +462,6 @@
         "LONGITUDE": -95.371722,
         "LATITUDE": 29.735554,
         "KeyMap": "493Y",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 30051777,
-        "Agency": "P",
-        "Address": "549 KINGWOOD DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1707887760000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "24C10N",
-        "LONGITUDE": -95.247263,
-        "LATITUDE": 30.051777,
-        "KeyMap": "336A",
         "CombinedResponse": "P"
       }
     },
