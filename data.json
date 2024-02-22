@@ -93,36 +93,53 @@
   "features": [
     {
       "attributes": {
-        "UID": 29753721,
+        "UID": 29824516,
         "Agency": "F",
-        "Address": "TEXAS ST",
-        "CrossStreet": "BLK BASTROP ST",
-        "CALL_TIME": 1708604520000,
-        "IncidentType": "SMOKE DETECTOR",
+        "Address": "NORWICH ST",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1708605240000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E017",
-        "LONGITUDE": -95.35209,
-        "LATITUDE": 29.753721,
-        "KeyMap": "493R",
+        "Units": "A032",
+        "LONGITUDE": -95.267867,
+        "LATITUDE": 29.824516,
+        "KeyMap": "455L",
         "CombinedResponse": "F"
       }
     },
     {
       "attributes": {
-        "UID": 29778608,
+        "UID": 29650269,
         "Agency": "F",
-        "Address": "BARRYKNOLL LN",
-        "CrossStreet": "BLK MEMORIAL CITY WAY",
-        "CALL_TIME": 1708604400000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "Address": "DILLON ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1708605060000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E049",
-        "LONGITUDE": -95.534993,
-        "LATITUDE": 29.778608,
-        "KeyMap": "490B",
+        "Units": "E036",
+        "LONGITUDE": -95.310416,
+        "LATITUDE": 29.650269,
+        "KeyMap": "574C",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29650269,
+        "Agency": "P",
+        "Address": "6799 DILLON ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1708605000000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "13D24D",
+        "LONGITUDE": -95.310416,
+        "LATITUDE": 29.650269,
+        "KeyMap": "574C",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -131,14 +148,31 @@
         "Agency": "F",
         "Address": "CULLEN BLVD",
         "CrossStreet": "BLK SUNBEAM ST",
-        "CALL_TIME": 1708604280000,
+        "CALL_TIME": 1708604700000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M036,A055",
+        "NO_UNITS": 1,
+        "Units": "A055",
         "LONGITUDE": -95.355882,
         "LATITUDE": 29.650985,
         "KeyMap": "573D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29670446,
+        "Agency": "F",
+        "Address": "FS021 MAIN ST IB",
+        "CrossStreet": "CLEARVIEW ENTR IB",
+        "CALL_TIME": 1708604640000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "L021",
+        "LONGITUDE": -95.43281,
+        "LATITUDE": 29.670446,
+        "KeyMap": "532T",
         "CombinedResponse": "F"
       }
     },
@@ -151,8 +185,8 @@
         "CALL_TIME": 1708604220000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A002,M062,E038",
+        "NO_UNITS": 2,
+        "Units": "M062,A002",
         "LONGITUDE": -95.464759,
         "LATITUDE": 29.783384,
         "KeyMap": "491C",
@@ -195,23 +229,6 @@
     },
     {
       "attributes": {
-        "UID": 29668638,
-        "Agency": "P",
-        "Address": "9299 FANNIN ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1708603260000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "15E43C",
-        "LONGITUDE": -95.402998,
-        "LATITUDE": 29.668638,
-        "KeyMap": "532Z",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29696248,
         "Agency": "F",
         "Address": "S BRAESWOOD BLVD",
@@ -246,6 +263,23 @@
     },
     {
       "attributes": {
+        "UID": 29982832,
+        "Agency": "P",
+        "Address": "US59IB-WILL CLAYTON PKWY 18031 N US 59 FWY IB",
+        "CrossStreet": "FM 1960 ENTR RD",
+        "CALL_TIME": 1708603020000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "76B32D",
+        "LONGITUDE": -95.277055,
+        "LATITUDE": 29.982832,
+        "KeyMap": "375B",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29700453,
         "Agency": "F",
         "Address": "TURTLEWOOD CT",
@@ -259,23 +293,6 @@
         "LATITUDE": 29.700453,
         "KeyMap": "529L",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29626278,
-        "Agency": "P",
-        "Address": "11901 GULF FWY IB",
-        "CrossStreet": "FUQUA ENTR",
-        "CALL_TIME": 1708602840000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "12D19N",
-        "LONGITUDE": -95.226656,
-        "LATITUDE": 29.626278,
-        "KeyMap": "576P",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -304,8 +321,8 @@
         "CALL_TIME": 1708602600000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M017,A008",
+        "NO_UNITS": 1,
+        "Units": "M017",
         "LONGITUDE": -95.3548,
         "LATITUDE": 29.744132,
         "KeyMap": "493V",
@@ -348,23 +365,6 @@
     },
     {
       "attributes": {
-        "UID": 29781171,
-        "Agency": "F",
-        "Address": "N POST OAK RD",
-        "CrossStreet": "BLK KATY FWY IB",
-        "CALL_TIME": 1708600260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A038",
-        "LONGITUDE": -95.456715,
-        "LATITUDE": 29.781171,
-        "KeyMap": "491D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29687840,
         "Agency": "F",
         "Address": "ILONA LN",
@@ -378,57 +378,6 @@
         "LATITUDE": 29.68784,
         "KeyMap": "532N",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29719839,
-        "Agency": "F",
-        "Address": "S DAIRY ASHFORD RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1708599240000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A069",
-        "LONGITUDE": -95.604774,
-        "LATITUDE": 29.719839,
-        "KeyMap": "528D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29783736,
-        "Agency": "F",
-        "Address": "T C JESTER BLVD",
-        "CrossStreet": "T C JESTER IBOB",
-        "CALL_TIME": 1708599120000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M006",
-        "LONGITUDE": -95.417678,
-        "LATITUDE": 29.783736,
-        "KeyMap": "492C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29740836,
-        "Agency": "P",
-        "Address": "2599 POST OAK BLVD",
-        "CrossStreet": null,
-        "CALL_TIME": 1708598700000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "18F35N",
-        "LONGITUDE": -95.4609,
-        "LATITUDE": 29.740836,
-        "KeyMap": "491U",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -457,8 +406,8 @@
         "CALL_TIME": 1708597560000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "AS036,M070",
+        "NO_UNITS": 1,
+        "Units": "M070",
         "LONGITUDE": -95.224881,
         "LATITUDE": 29.614373,
         "KeyMap": "576T",
@@ -467,19 +416,19 @@
     },
     {
       "attributes": {
-        "UID": 29800186,
-        "Agency": "F",
-        "Address": "FULTON ST",
-        "CrossStreet": "BLK AMUNDSEN ST",
-        "CALL_TIME": 1708597140000,
-        "IncidentType": "EMS EVENT",
+        "UID": 29792908,
+        "Agency": "P",
+        "Address": "9629 WESTVIEW DR",
+        "CrossStreet": "BLK CONFEDERATE RD",
+        "CALL_TIME": 1708596120000,
+        "IncidentType": "CRASH/MINOR",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "M009",
-        "LONGITUDE": -95.368021,
-        "LATITUDE": 29.800186,
-        "KeyMap": "453Y",
-        "CombinedResponse": "F"
+        "Units": "4F19N",
+        "LONGITUDE": -95.527407,
+        "LATITUDE": 29.792908,
+        "KeyMap": "450X",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -525,8 +474,8 @@
         "CALL_TIME": 1708590240000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "17E13N,76E76",
+        "NO_UNITS": 1,
+        "Units": "76E76",
         "LONGITUDE": -95.466884,
         "LATITUDE": 29.726339,
         "KeyMap": "491Y",
