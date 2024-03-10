@@ -93,6 +93,74 @@
   "features": [
     {
       "attributes": {
+        "UID": 29664117,
+        "Agency": "F",
+        "Address": "BELMARK ST",
+        "CrossStreet": "BLK BELGARD ST",
+        "CALL_TIME": 1710068160000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A035,M036",
+        "LONGITUDE": -95.325845,
+        "LATITUDE": 29.664117,
+        "KeyMap": "534X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29741547,
+        "Agency": "F",
+        "Address": "WOODWAY DR",
+        "CrossStreet": "BLK LAZY HOLLOW DR",
+        "CALL_TIME": 1710068040000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A069",
+        "LONGITUDE": -95.516601,
+        "LATITUDE": 29.741547,
+        "KeyMap": "490U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29674430,
+        "Agency": "P",
+        "Address": "10525 BISSONNET ST",
+        "CrossStreet": "BLK BOONE LOOP RD",
+        "CALL_TIME": 1710067980000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "19G35N",
+        "LONGITUDE": -95.563237,
+        "LATITUDE": 29.67443,
+        "KeyMap": "529U",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29721110,
+        "Agency": "F",
+        "Address": "CHIMNEY ROCK RD",
+        "CrossStreet": "BLK GLENMONT DR",
+        "CALL_TIME": 1710067680000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A051",
+        "LONGITUDE": -95.47645,
+        "LATITUDE": 29.72111,
+        "KeyMap": "531B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29673289,
         "Agency": "F",
         "Address": "S BRAESWOOD BLVD",
@@ -110,23 +178,6 @@
     },
     {
       "attributes": {
-        "UID": 29741547,
-        "Agency": "F",
-        "Address": "WOODWAY DR",
-        "CrossStreet": "BLK LAZY HOLLOW DR",
-        "CALL_TIME": 1710067440000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A069",
-        "LONGITUDE": -95.516601,
-        "LATITUDE": 29.741547,
-        "KeyMap": "490U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29673015,
         "Agency": "F",
         "Address": "WINKLER DR",
@@ -139,23 +190,6 @@
         "LONGITUDE": -95.263197,
         "LATITUDE": 29.673015,
         "KeyMap": "535U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29674430,
-        "Agency": "F",
-        "Address": "BISSONNET ST",
-        "CrossStreet": "BLK BOONE LOOP RD",
-        "CALL_TIME": 1710067320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E073",
-        "LONGITUDE": -95.563237,
-        "LATITUDE": 29.67443,
-        "KeyMap": "529U",
         "CombinedResponse": "F"
       }
     },
@@ -202,29 +236,12 @@
         "CALL_TIME": 1710067080000,
         "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "12D17N",
+        "NO_UNITS": 2,
+        "Units": "12D17N,12D15N",
         "LONGITUDE": -95.215736,
         "LATITUDE": 29.616321,
         "KeyMap": "576U",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29721110,
-        "Agency": "F",
-        "Address": "CHIMNEY ROCK RD",
-        "CrossStreet": "BLK GLENMONT DR",
-        "CALL_TIME": 1710067080000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A051",
-        "LONGITUDE": -95.47645,
-        "LATITUDE": 29.72111,
-        "KeyMap": "531B",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -275,23 +292,6 @@
         "LONGITUDE": -95.412588,
         "LATITUDE": 29.869221,
         "KeyMap": "412V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29816648,
-        "Agency": "F",
-        "Address": "MANGUM RD",
-        "CrossStreet": "BLK W 34TH ST",
-        "CALL_TIME": 1710066720000,
-        "IncidentType": "APARTMENT FIRE",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 1,
-        "Units": "E013",
-        "LONGITUDE": -95.459327,
-        "LATITUDE": 29.816648,
-        "KeyMap": "451R",
         "CombinedResponse": "F"
       }
     },
@@ -406,8 +406,8 @@
         "CALL_TIME": 1710065460000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M060,A028",
+        "NO_UNITS": 1,
+        "Units": "M060",
         "LONGITUDE": -95.458567,
         "LATITUDE": 29.753331,
         "KeyMap": "491R",
@@ -501,23 +501,6 @@
     },
     {
       "attributes": {
-        "UID": 29709834,
-        "Agency": "F",
-        "Address": "LEOPOLD DR",
-        "CrossStreet": "BLK S MACGREGOR WAY",
-        "CALL_TIME": 1710064500000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A025",
-        "LONGITUDE": -95.357806,
-        "LATITUDE": 29.709834,
-        "KeyMap": "533H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29748052,
         "Agency": "F",
         "Address": "FANNIN ST",
@@ -542,8 +525,8 @@
         "CALL_TIME": 1710064260000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "A002,SQ028,E002,AS069",
+        "NO_UNITS": 2,
+        "Units": "SQ028,A002",
         "LONGITUDE": -95.482653,
         "LATITUDE": 29.74989,
         "KeyMap": "491P",
@@ -739,23 +722,6 @@
     },
     {
       "attributes": {
-        "UID": 29944481,
-        "Agency": "P",
-        "Address": "15525 MILNER RD",
-        "CrossStreet": "BLK GREENS RD",
-        "CALL_TIME": 1710056640000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "22B41N",
-        "LONGITUDE": -95.337484,
-        "LATITUDE": 29.944481,
-        "KeyMap": "374P",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29675491,
         "Agency": "P",
         "Address": "9700 BISSONNET ST",
@@ -819,23 +785,6 @@
         "LONGITUDE": -95.386328,
         "LATITUDE": 29.615227,
         "KeyMap": "573N",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29757549,
-        "Agency": "P",
-        "Address": "1999 W DALLAS ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1710037800000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "1A39N",
-        "LONGITUDE": -95.388945,
-        "LATITUDE": 29.757549,
-        "KeyMap": "493N",
         "CombinedResponse": "P"
       }
     }
