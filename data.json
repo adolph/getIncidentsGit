@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29828075,
+        "UID": 29781171,
         "Agency": "F",
-        "Address": "AZALEA ST",
-        "CrossStreet": "BLK ALBA RD",
-        "CALL_TIME": 1710241920000,
+        "Address": "N POST OAK RD",
+        "CrossStreet": "BLK KATY FWY IB",
+        "CALL_TIME": 1710242820000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E038",
+        "LONGITUDE": -95.456715,
+        "LATITUDE": 29.781171,
+        "KeyMap": "491D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29704485,
+        "Agency": "F",
+        "Address": "W SAM HOUSTON PKWY S",
+        "CrossStreet": null,
+        "CALL_TIME": 1710242700000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E031",
-        "LONGITUDE": -95.41583,
-        "LATITUDE": 29.828075,
-        "KeyMap": "452L",
+        "Units": "E010",
+        "LONGITUDE": -95.557816,
+        "LATITUDE": 29.704485,
+        "KeyMap": "529H",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "WOODWAY DR",
         "CrossStreet": "BLK S RIPPLE CREEK DR",
-        "CALL_TIME": 1710241920000,
+        "CALL_TIME": 1710242700000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,11 +144,45 @@
     },
     {
       "attributes": {
+        "UID": 29762139,
+        "Agency": "F",
+        "Address": "EAGLE VISTA DR",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1710242520000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A090",
+        "LONGITUDE": -95.644478,
+        "LATITUDE": 29.762139,
+        "KeyMap": "488J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29774068,
+        "Agency": "F",
+        "Address": "EAST FWY IB",
+        "CrossStreet": "MCCARTY ENTR",
+        "CALL_TIME": 1710242220000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A041",
+        "LONGITUDE": -95.249928,
+        "LATITUDE": 29.774068,
+        "KeyMap": "495H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29683183,
         "Agency": "F",
         "Address": "BEXLEY DR",
         "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1710241740000,
+        "CALL_TIME": 1710242100000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -151,28 +202,11 @@
         "CALL_TIME": 1710241560000,
         "IncidentType": "BUILDING FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 7,
-        "Units": "SQ028,A037,L028,E051,E028,E037,E003",
+        "NO_UNITS": 2,
+        "Units": "E028,L028",
         "LONGITUDE": -95.468146,
         "LATITUDE": 29.723781,
         "KeyMap": "531C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29774068,
-        "Agency": "F",
-        "Address": "EAST FWY IB",
-        "CrossStreet": "MCCARTY ENTR",
-        "CALL_TIME": 1710241140000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A041",
-        "LONGITUDE": -95.249928,
-        "LATITUDE": 29.774068,
-        "KeyMap": "495H",
         "CombinedResponse": "F"
       }
     },
@@ -331,74 +365,6 @@
     },
     {
       "attributes": {
-        "UID": 29835095,
-        "Agency": "F",
-        "Address": "JUNE ST",
-        "CrossStreet": "BLK GLASS ST",
-        "CALL_TIME": 1710238080000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A034",
-        "LONGITUDE": -95.326924,
-        "LATITUDE": 29.835095,
-        "KeyMap": "454F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29734878,
-        "Agency": "F",
-        "Address": "BRIARHURST DR",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1710237780000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A028",
-        "LONGITUDE": -95.492771,
-        "LATITUDE": 29.734878,
-        "KeyMap": "491S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29837730,
-        "Agency": "P",
-        "Address": "8599 MILLICENT ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1710236880000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "7C10F",
-        "LONGITUDE": -95.348211,
-        "LATITUDE": 29.83773,
-        "KeyMap": "454E",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29619609,
-        "Agency": "F",
-        "Address": "DALMATIAN DR",
-        "CrossStreet": "BLK CASTLEREAGH RD",
-        "CALL_TIME": 1710236340000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A047",
-        "LONGITUDE": -95.442023,
-        "LATITUDE": 29.619609,
-        "KeyMap": "572N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29783647,
         "Agency": "F",
         "Address": "FULTON ST",
@@ -440,8 +406,8 @@
         "CALL_TIME": 1710234540000,
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 2,
-        "Units": "E033,L021",
+        "NO_UNITS": 1,
+        "Units": "E033",
         "LONGITUDE": -95.399749,
         "LATITUDE": 29.681592,
         "KeyMap": "532R",
@@ -467,23 +433,6 @@
     },
     {
       "attributes": {
-        "UID": 29734347,
-        "Agency": "F",
-        "Address": "GREENRIDGE DR",
-        "CrossStreet": "BLK FAIRDALE LN",
-        "CALL_TIME": 1710232860000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A051",
-        "LONGITUDE": -95.489802,
-        "LATITUDE": 29.734347,
-        "KeyMap": "491W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29702305,
         "Agency": "F",
         "Address": "OLD SPANISH TRL",
@@ -496,23 +445,6 @@
         "LONGITUDE": -95.359181,
         "LATITUDE": 29.702305,
         "KeyMap": "533M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29606216,
-        "Agency": "F",
-        "Address": "BRIMRIDGE LN",
-        "CrossStreet": "BLK MYSTIC SHORES LN",
-        "CALL_TIME": 1710232560000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M055",
-        "LONGITUDE": -95.305016,
-        "LATITUDE": 29.606216,
-        "KeyMap": "574Z",
         "CombinedResponse": "F"
       }
     },
