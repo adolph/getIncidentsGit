@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29778046,
+        "UID": 29577552,
         "Agency": "F",
-        "Address": "KATY FWY OB",
-        "CrossStreet": "BLK WASHINGTON AVE",
-        "CALL_TIME": 1710487920000,
-        "IncidentType": "ASSIST POLICE",
+        "Address": "ST CLOUD DR",
+        "CrossStreet": "BLK BLAIRMONT LN",
+        "CALL_TIME": 1710488220000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E011",
-        "LONGITUDE": -95.429355,
-        "LATITUDE": 29.778046,
-        "KeyMap": "492F",
+        "Units": "M071",
+        "LONGITUDE": -95.129148,
+        "LATITUDE": 29.577552,
+        "KeyMap": "618F",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29949050,
+        "Agency": "F",
+        "Address": "NIH45OB-GREENS N IH 45 FWY OB",
+        "CrossStreet": "N BW 8 ENTR",
+        "CALL_TIME": 1710488160000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "E084,A084,L084",
+        "LONGITUDE": -95.41675,
+        "LATITUDE": 29.94905,
+        "KeyMap": "372Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29676915,
+        "Agency": "F",
+        "Address": "SOUTHWIND ST",
+        "CrossStreet": "BLK JUTLAND RD",
+        "CALL_TIME": 1710488160000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "SQ046,A035",
+        "LONGITUDE": -95.346499,
+        "LATITUDE": 29.676915,
+        "KeyMap": "533V",
         "CombinedResponse": "F"
       }
     },
@@ -122,6 +156,23 @@
         "LONGITUDE": -95.528685,
         "LATITUDE": 29.728902,
         "KeyMap": "490X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29778046,
+        "Agency": "F",
+        "Address": "KATY FWY OB",
+        "CrossStreet": "BLK WASHINGTON AVE",
+        "CALL_TIME": 1710487920000,
+        "IncidentType": "ASSIST POLICE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E011",
+        "LONGITUDE": -95.429355,
+        "LATITUDE": 29.778046,
+        "KeyMap": "492F",
         "CombinedResponse": "F"
       }
     },
@@ -152,27 +203,10 @@
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 9,
-        "Units": "D068,E010,E076,D083,L076,L068,M073,E068,E073",
+        "Units": "D068,E010,L068,E068,E073,L076,M073,ARS721,ARS731",
         "LONGITUDE": -95.566081,
         "LATITUDE": 29.689156,
         "KeyMap": "529Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29746646,
-        "Agency": "F",
-        "Address": "SAN FELIPE ST",
-        "CrossStreet": "BLK MID LN",
-        "CALL_TIME": 1710487740000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E028",
-        "LONGITUDE": -95.449178,
-        "LATITUDE": 29.746646,
-        "KeyMap": "491R",
         "CombinedResponse": "F"
       }
     },
@@ -195,40 +229,6 @@
     },
     {
       "attributes": {
-        "UID": 29776926,
-        "Agency": "P",
-        "Address": "391 T C JESTER BLVD",
-        "CrossStreet": null,
-        "CALL_TIME": 1710487500000,
-        "IncidentType": "CRASH/MAJOR/FSRA",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "2A10N,1A55N,2A35N,2A51N",
-        "LONGITUDE": -95.418073,
-        "LATITUDE": 29.776926,
-        "KeyMap": "492G",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29643580,
-        "Agency": "F",
-        "Address": "SH288OB-AIRPORT BLVD SH 288 HWY OB",
-        "CrossStreet": "AIRPORT ENTR",
-        "CALL_TIME": 1710487440000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "HME024,E046,M024",
-        "LONGITUDE": -95.387477,
-        "LATITUDE": 29.64358,
-        "KeyMap": "573E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29781006,
         "Agency": "F",
         "Address": "STAPLES ST",
@@ -241,6 +241,23 @@
         "LONGITUDE": -95.335011,
         "LATITUDE": 29.781006,
         "KeyMap": "494B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29643580,
+        "Agency": "F",
+        "Address": "SH288OB-AIRPORT BLVD SH 288 HWY OB",
+        "CrossStreet": "AIRPORT ENTR",
+        "CALL_TIME": 1710487440000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M024,HME024",
+        "LONGITUDE": -95.387477,
+        "LATITUDE": 29.64358,
+        "KeyMap": "573E",
         "CombinedResponse": "F"
       }
     },
@@ -365,23 +382,6 @@
     },
     {
       "attributes": {
-        "UID": 29657835,
-        "Agency": "F",
-        "Address": "AIRPORT BLVD",
-        "CrossStreet": "HOBBY AIRPORT LOOP RAMP",
-        "CALL_TIME": 1710486540000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A040",
-        "LONGITUDE": -95.278492,
-        "LATITUDE": 29.657835,
-        "KeyMap": "575B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29737413,
         "Agency": "F",
         "Address": "WESTHEIMER RD",
@@ -394,6 +394,23 @@
         "LONGITUDE": -95.517356,
         "LATITUDE": 29.737413,
         "KeyMap": "490U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29657835,
+        "Agency": "F",
+        "Address": "AIRPORT BLVD",
+        "CrossStreet": "HOBBY AIRPORT LOOP RAMP",
+        "CALL_TIME": 1710486540000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A040",
+        "LONGITUDE": -95.278492,
+        "LATITUDE": 29.657835,
+        "KeyMap": "575B",
         "CombinedResponse": "F"
       }
     },
@@ -480,23 +497,6 @@
         "LATITUDE": 29.622699,
         "KeyMap": "576P",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29834130,
-        "Agency": "F",
-        "Address": "WEAVER RD",
-        "CrossStreet": "BLK LAVENDER ST",
-        "CALL_TIME": 1710485340000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M034",
-        "LONGITUDE": -95.321626,
-        "LATITUDE": 29.83413,
-        "KeyMap": "454L",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -637,23 +637,6 @@
     },
     {
       "attributes": {
-        "UID": 29822693,
-        "Agency": "F",
-        "Address": "KEMPWOOD DR",
-        "CrossStreet": "BLK GESSNER RD",
-        "CALL_TIME": 1710482700000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A077",
-        "LONGITUDE": -95.541761,
-        "LATITUDE": 29.822693,
-        "KeyMap": "450J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29730948,
         "Agency": "F",
         "Address": "WESTMINSTER PLAZA DR",
@@ -751,6 +734,23 @@
         "LONGITUDE": -95.484103,
         "LATITUDE": 29.833245,
         "KeyMap": "451F",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29670203,
+        "Agency": "P",
+        "Address": "9903 S DAIRY ASHFORD RD",
+        "CrossStreet": "BLK HUNTINGTON VALLEY DR",
+        "CALL_TIME": 1710467280000,
+        "IncidentType": "CRASH/MINOR/FSGI",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "19G23N",
+        "LONGITUDE": -95.603986,
+        "LATITUDE": 29.670203,
+        "KeyMap": "528V",
         "CombinedResponse": "P"
       }
     },
