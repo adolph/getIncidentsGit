@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29948754,
-        "Agency": "F",
-        "Address": "W GREENS RD",
-        "CrossStreet": "BLK ELLA BLVD",
-        "CALL_TIME": 1710594120000,
-        "IncidentType": "TRASH FIRE",
+        "UID": 29759588,
+        "Agency": "P",
+        "Address": "1212 PRAIRIE ST",
+        "CrossStreet": "BLK CAROLINE ST",
+        "CALL_TIME": 1710594360000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E084",
-        "LONGITUDE": -95.431107,
-        "LATITUDE": 29.948754,
-        "KeyMap": "372P",
+        "Units": "1Y31D",
+        "LONGITUDE": -95.360027,
+        "LATITUDE": 29.759588,
+        "KeyMap": "493M",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29712088,
+        "Agency": "F",
+        "Address": "SCOTT ST",
+        "CrossStreet": "BLK SOUTHMORE BLVD",
+        "CALL_TIME": 1710594240000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A018",
+        "LONGITUDE": -95.355611,
+        "LATITUDE": 29.712088,
+        "KeyMap": "533H",
         "CombinedResponse": "F"
       }
     },
@@ -114,14 +131,31 @@
         "Agency": "F",
         "Address": "TOWN PARK DR",
         "CrossStreet": "BLK W SAM HOUSTON PKWY S",
-        "CALL_TIME": 1710594060000,
+        "CALL_TIME": 1710594180000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A010,E010",
+        "NO_UNITS": 1,
+        "Units": "A010",
         "LONGITUDE": -95.556273,
         "LATITUDE": 29.711776,
         "KeyMap": "529H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29688970,
+        "Agency": "F",
+        "Address": "BEECHNUT ST",
+        "CrossStreet": "BLK WILCREST DR",
+        "CALL_TIME": 1710594180000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A073,M010",
+        "LONGITUDE": -95.567419,
+        "LATITUDE": 29.68897,
+        "KeyMap": "529Q",
         "CombinedResponse": "F"
       }
     },
@@ -178,19 +212,19 @@
     },
     {
       "attributes": {
-        "UID": 29688970,
-        "Agency": "F",
-        "Address": "BEECHNUT ST",
-        "CrossStreet": "BLK WILCREST DR",
-        "CALL_TIME": 1710593880000,
-        "IncidentType": "EMS EVENT",
+        "UID": 29606595,
+        "Agency": "P",
+        "Address": "1306 E ANDERSON RD",
+        "CrossStreet": "BLK ANAGNOST RD",
+        "CALL_TIME": 1710593760000,
+        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A073,M010",
-        "LONGITUDE": -95.567419,
-        "LATITUDE": 29.68897,
-        "KeyMap": "529Q",
-        "CombinedResponse": "F"
+        "NO_UNITS": 1,
+        "Units": "16E22D",
+        "LONGITUDE": -95.404678,
+        "LATITUDE": 29.606595,
+        "KeyMap": "572V",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -208,23 +242,6 @@
         "LATITUDE": 29.723007,
         "KeyMap": "530D",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29712088,
-        "Agency": "F",
-        "Address": "SCOTT ST",
-        "CrossStreet": "BLK SOUTHMORE BLVD",
-        "CALL_TIME": 1710593700000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A018",
-        "LONGITUDE": -95.355611,
-        "LATITUDE": 29.712088,
-        "KeyMap": "533H",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -280,23 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29685366,
-        "Agency": "F",
-        "Address": "HOLLY HALL ST",
-        "CrossStreet": "BLK ALMEDA RD",
-        "CALL_TIME": 1710593220000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "SQ008,E033,A046",
-        "LONGITUDE": -95.392393,
-        "LATITUDE": 29.685366,
-        "KeyMap": "533N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29655615,
         "Agency": "P",
         "Address": "8599 AIRPORT BLVD",
@@ -310,6 +310,23 @@
         "LATITUDE": 29.655615,
         "KeyMap": "575C",
         "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29685366,
+        "Agency": "F",
+        "Address": "HOLLY HALL ST",
+        "CrossStreet": "BLK ALMEDA RD",
+        "CALL_TIME": 1710593220000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A046,SQ008",
+        "LONGITUDE": -95.392393,
+        "LATITUDE": 29.685366,
+        "KeyMap": "533N",
+        "CombinedResponse": "F"
       }
     },
     {
@@ -372,8 +389,8 @@
         "CALL_TIME": 1710592560000,
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 3,
-        "Units": "D064,L064,HME063",
+        "NO_UNITS": 1,
+        "Units": "HME063",
         "LONGITUDE": -95.287065,
         "LATITUDE": 30.004986,
         "KeyMap": "335T",
@@ -428,23 +445,6 @@
         "LONGITUDE": -95.554427,
         "LATITUDE": 29.664964,
         "KeyMap": "529Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29782866,
-        "Agency": "F",
-        "Address": "KATY FWY IB",
-        "CrossStreet": null,
-        "CALL_TIME": 1710591960000,
-        "IncidentType": "WOODS ON FIRE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E038",
-        "LONGITUDE": -95.458353,
-        "LATITUDE": 29.782866,
-        "KeyMap": "491D",
         "CombinedResponse": "F"
       }
     },
@@ -542,8 +542,8 @@
         "CALL_TIME": 1710590820000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E002,A028",
+        "NO_UNITS": 1,
+        "Units": "A028",
         "LONGITUDE": -95.485483,
         "LATITUDE": 29.745921,
         "KeyMap": "491S",
@@ -700,23 +700,6 @@
         "LONGITUDE": -95.293971,
         "LATITUDE": 29.708529,
         "KeyMap": "535E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29740801,
-        "Agency": "F",
-        "Address": "WESTHEIMER RD",
-        "CrossStreet": "BLK MCCUE RD",
-        "CALL_TIME": 1710588240000,
-        "IncidentType": "GAS LEAK",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 1,
-        "Units": "E028",
-        "LONGITUDE": -95.461529,
-        "LATITUDE": 29.740801,
-        "KeyMap": "491U",
         "CombinedResponse": "F"
       }
     },
