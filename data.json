@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29663052,
+        "UID": 29632677,
         "Agency": "F",
-        "Address": "BANKSIDE DR",
-        "CrossStreet": "BLK SANDPIPER DR",
-        "CALL_TIME": 1710924960000,
-        "IncidentType": "APARTMENT FIRE",
+        "Address": "TRAIL LAKE DR",
+        "CrossStreet": "BLK WATERLOO DR",
+        "CALL_TIME": 1710925920000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 5,
+        "Units": "E047,AS082,M059,A047,PG710",
+        "LONGITUDE": -95.425268,
+        "LATITUDE": 29.632677,
+        "KeyMap": "572K",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29721265,
+        "Agency": "F",
+        "Address": "WESTPARK DR",
+        "CrossStreet": "BLK WILCREST DR",
+        "CALL_TIME": 1710925920000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "HME082",
-        "LONGITUDE": -95.502891,
-        "LATITUDE": 29.663052,
-        "KeyMap": "530Z",
+        "Units": "A083",
+        "LONGITUDE": -95.567582,
+        "LATITUDE": 29.721265,
+        "KeyMap": "529C",
         "CombinedResponse": "F"
       }
     },
@@ -122,40 +139,6 @@
         "LONGITUDE": -95.559203,
         "LATITUDE": 29.736905,
         "KeyMap": "489V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29830418,
-        "Agency": "F",
-        "Address": "GLASS ST",
-        "CrossStreet": "BLK GLASS CIR",
-        "CALL_TIME": 1710924780000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A034",
-        "LONGITUDE": -95.325765,
-        "LATITUDE": 29.830418,
-        "KeyMap": "454K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29661108,
-        "Agency": "F",
-        "Address": "FANNIN ST",
-        "CrossStreet": "BLK FELDMAN RD",
-        "CALL_TIME": 1710924660000,
-        "IncidentType": "CAR FIRE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "HME024",
-        "LONGITUDE": -95.40493,
-        "LATITUDE": 29.661108,
-        "KeyMap": "532Z",
         "CombinedResponse": "F"
       }
     },
@@ -202,8 +185,8 @@
         "CALL_TIME": 1710924000000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A007,SQ008",
+        "NO_UNITS": 1,
+        "Units": "A007",
         "LONGITUDE": -95.37792,
         "LATITUDE": 29.72523,
         "KeyMap": "493X",
@@ -263,23 +246,6 @@
     },
     {
       "attributes": {
-        "UID": 29958367,
-        "Agency": "F",
-        "Address": "KUYKENDAHL RD",
-        "CrossStreet": "BLK RUSHCREEK DR",
-        "CALL_TIME": 1710923760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A084",
-        "LONGITUDE": -95.419305,
-        "LATITUDE": 29.958367,
-        "KeyMap": "372L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29678321,
         "Agency": "F",
         "Address": "GULF FWY OB",
@@ -297,18 +263,18 @@
     },
     {
       "attributes": {
-        "UID": 29695617,
+        "UID": 29958367,
         "Agency": "F",
-        "Address": "YELLOWSTONE BLVD",
-        "CrossStreet": "BLK WINTON ST",
-        "CALL_TIME": 1710923280000,
+        "Address": "KUYKENDAHL RD",
+        "CrossStreet": "BLK RUSHCREEK DR",
+        "CALL_TIME": 1710923760000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ046,A046",
-        "LONGITUDE": -95.368337,
-        "LATITUDE": 29.695617,
-        "KeyMap": "533L",
+        "NO_UNITS": 1,
+        "Units": "A084",
+        "LONGITUDE": -95.419305,
+        "LATITUDE": 29.958367,
+        "KeyMap": "372L",
         "CombinedResponse": "F"
       }
     },
@@ -331,6 +297,23 @@
     },
     {
       "attributes": {
+        "UID": 29695617,
+        "Agency": "F",
+        "Address": "YELLOWSTONE BLVD",
+        "CrossStreet": "BLK WINTON ST",
+        "CALL_TIME": 1710923280000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A046",
+        "LONGITUDE": -95.368337,
+        "LATITUDE": 29.695617,
+        "KeyMap": "533L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29664596,
         "Agency": "F",
         "Address": "ANACORTES ST",
@@ -348,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29837595,
-        "Agency": "F",
-        "Address": "BERRY RD",
-        "CrossStreet": "BLK MELROSE ST",
-        "CALL_TIME": 1710922320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A030",
-        "LONGITUDE": -95.368042,
-        "LATITUDE": 29.837595,
-        "KeyMap": "453G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29750251,
         "Agency": "F",
         "Address": "SAN FELIPE ST",
@@ -377,23 +343,6 @@
         "LONGITUDE": -95.463735,
         "LATITUDE": 29.750251,
         "KeyMap": "491Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29738239,
-        "Agency": "F",
-        "Address": "W ALABAMA ST",
-        "CrossStreet": "BLK WESLAYAN ST",
-        "CALL_TIME": 1710922080000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ033",
-        "LONGITUDE": -95.439062,
-        "LATITUDE": 29.738239,
-        "KeyMap": "492S",
         "CombinedResponse": "F"
       }
     },
@@ -440,28 +389,11 @@
         "CALL_TIME": 1710921120000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A020,M040",
+        "NO_UNITS": 1,
+        "Units": "M040",
         "LONGITUDE": -95.302266,
         "LATITUDE": 29.735605,
         "KeyMap": "494Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29799966,
-        "Agency": "F",
-        "Address": "STORY ST",
-        "CrossStreet": "BLK TELUCO ST",
-        "CALL_TIME": 1710920940000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A038",
-        "LONGITUDE": -95.462566,
-        "LATITUDE": 29.799966,
-        "KeyMap": "451Y",
         "CombinedResponse": "F"
       }
     },
