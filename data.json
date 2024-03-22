@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29986091,
+        "UID": 29948943,
         "Agency": "F",
-        "Address": "S TERMINAL RD",
-        "CrossStreet": "BLK JOHN F KENNEDY BLVD IB",
-        "CALL_TIME": 1711082520000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "GREENSPOINT DR",
+        "CrossStreet": "BLK GREENS RD",
+        "CALL_TIME": 1711082760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M074,A084",
+        "LONGITUDE": -95.410495,
+        "LATITUDE": 29.948943,
+        "KeyMap": "372R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29987418,
+        "Agency": "F",
+        "Address": "N TERMINAL RD",
+        "CrossStreet": "BLK UNKNOWN",
+        "CALL_TIME": 1711082760000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "AR0854",
-        "LONGITUDE": -95.344446,
-        "LATITUDE": 29.986091,
-        "KeyMap": "374A",
+        "Units": "M063",
+        "LONGITUDE": -95.339408,
+        "LATITUDE": 29.987418,
+        "KeyMap": "334X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29749895,
+        "Agency": "F",
+        "Address": "TC DOWNTOWN MAIN MAIN ST",
+        "CrossStreet": "BLK PIERCE ST",
+        "CALL_TIME": 1711082640000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "A007,SQ008,A008",
+        "LONGITUDE": -95.370612,
+        "LATITUDE": 29.749895,
+        "KeyMap": "493Q",
         "CombinedResponse": "F"
       }
     },
@@ -144,69 +178,18 @@
     },
     {
       "attributes": {
-        "UID": 29749895,
+        "UID": 29986091,
         "Agency": "F",
-        "Address": "TC DOWNTOWN MAIN MAIN ST",
-        "CrossStreet": "BLK PIERCE ST",
-        "CALL_TIME": 1711082460000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ008,A007",
-        "LONGITUDE": -95.370612,
-        "LATITUDE": 29.749895,
-        "KeyMap": "493Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29948943,
-        "Agency": "F",
-        "Address": "GREENSPOINT DR",
-        "CrossStreet": "BLK GREENS RD",
-        "CALL_TIME": 1711082460000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M074,A084",
-        "LONGITUDE": -95.410495,
-        "LATITUDE": 29.948943,
-        "KeyMap": "372R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29724882,
-        "Agency": "F",
-        "Address": "MAIN ST",
-        "CrossStreet": "BLK MONTROSE BLVD",
-        "CALL_TIME": 1711082340000,
+        "Address": "S TERMINAL RD",
+        "CrossStreet": "BLK JOHN F KENNEDY BLVD IB",
+        "CALL_TIME": 1711082520000,
         "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E016",
-        "LONGITUDE": -95.390306,
-        "LATITUDE": 29.724882,
-        "KeyMap": "533A",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29987418,
-        "Agency": "F",
-        "Address": "N TERMINAL RD",
-        "CrossStreet": "BLK UNKNOWN",
-        "CALL_TIME": 1711082280000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M063",
-        "LONGITUDE": -95.339408,
-        "LATITUDE": 29.987418,
-        "KeyMap": "334X",
+        "Units": "AR0854",
+        "LONGITUDE": -95.344446,
+        "LATITUDE": 29.986091,
+        "KeyMap": "374A",
         "CombinedResponse": "F"
       }
     },
@@ -263,23 +246,6 @@
     },
     {
       "attributes": {
-        "UID": 30062938,
-        "Agency": "F",
-        "Address": "WOODLAND HILLS DR",
-        "CrossStreet": "BLK OAK SHORES DR",
-        "CALL_TIME": 1711082160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E102",
-        "LONGITUDE": -95.21136,
-        "LATITUDE": 30.062938,
-        "KeyMap": "296Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29732156,
         "Agency": "F",
         "Address": "W SAM HOUSTON PKWY S",
@@ -297,6 +263,23 @@
     },
     {
       "attributes": {
+        "UID": 30062938,
+        "Agency": "F",
+        "Address": "WOODLAND HILLS DR",
+        "CrossStreet": "BLK OAK SHORES DR",
+        "CALL_TIME": 1711082160000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E102",
+        "LONGITUDE": -95.21136,
+        "LATITUDE": 30.062938,
+        "KeyMap": "296Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29759232,
         "Agency": "F",
         "Address": "CAPITOL ST",
@@ -304,28 +287,11 @@
         "CALL_TIME": 1711082040000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "M006,E001,A017",
+        "NO_UNITS": 2,
+        "Units": "A017,M006",
         "LONGITUDE": -95.363209,
         "LATITUDE": 29.759232,
         "KeyMap": "493L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29748666,
-        "Agency": "F",
-        "Address": "ST JOSEPH PKWY",
-        "CrossStreet": null,
-        "CALL_TIME": 1711081980000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A008",
-        "LONGITUDE": -95.367646,
-        "LATITUDE": 29.748666,
-        "KeyMap": "493Q",
         "CombinedResponse": "F"
       }
     },
@@ -348,6 +314,23 @@
     },
     {
       "attributes": {
+        "UID": 29987394,
+        "Agency": "F",
+        "Address": "N TERMINAL RD",
+        "CrossStreet": "BLK UNKNOWN",
+        "CALL_TIME": 1711081740000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "HME063",
+        "LONGITUDE": -95.350949,
+        "LATITUDE": 29.987394,
+        "KeyMap": "334W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 30062938,
         "Agency": "P",
         "Address": "3600 WOODLAND HILLS DR",
@@ -365,19 +348,19 @@
     },
     {
       "attributes": {
-        "UID": 29987394,
-        "Agency": "F",
-        "Address": "N TERMINAL RD",
-        "CrossStreet": "BLK UNKNOWN",
-        "CALL_TIME": 1711081740000,
-        "IncidentType": "EMS EVENT",
+        "UID": 29704627,
+        "Agency": "P",
+        "Address": "9889 BELLAIRE BLVD",
+        "CrossStreet": "BLK W SAM HOUSTON PKWY S",
+        "CALL_TIME": 1711081500000,
+        "IncidentType": "CRASH/MINOR/FSGI",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "HME063",
-        "LONGITUDE": -95.350949,
-        "LATITUDE": 29.987394,
-        "KeyMap": "334W",
-        "CombinedResponse": "F"
+        "Units": "19G35N",
+        "LONGITUDE": -95.554824,
+        "LATITUDE": 29.704627,
+        "KeyMap": "529H",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -559,29 +542,12 @@
         "CALL_TIME": 1711079820000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A021,SQ033",
+        "NO_UNITS": 1,
+        "Units": "SQ033",
         "LONGITUDE": -95.419391,
         "LATITUDE": 29.675142,
         "KeyMap": "532U",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29746491,
-        "Agency": "P",
-        "Address": "2003 PEASE ST",
-        "CrossStreet": "BLK SAINT EMANUEL ST",
-        "CALL_TIME": 1711079640000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "10H30N",
-        "LONGITUDE": -95.360377,
-        "LATITUDE": 29.746491,
-        "KeyMap": "493V",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -598,6 +564,23 @@
         "LONGITUDE": -95.226554,
         "LATITUDE": 29.645382,
         "KeyMap": "576F",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29746491,
+        "Agency": "P",
+        "Address": "2003 PEASE ST",
+        "CrossStreet": "BLK SAINT EMANUEL ST",
+        "CALL_TIME": 1711079640000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "10H30N",
+        "LONGITUDE": -95.360377,
+        "LATITUDE": 29.746491,
+        "KeyMap": "493V",
         "CombinedResponse": "P"
       }
     },
@@ -837,23 +820,6 @@
         "LATITUDE": 29.891234,
         "KeyMap": "412K",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29952166,
-        "Agency": "P",
-        "Address": "5900 GREENS RD",
-        "CrossStreet": "BLK GREEN MANOR DR",
-        "CALL_TIME": 1711076640000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "22B46N",
-        "LONGITUDE": -95.302266,
-        "LATITUDE": 29.952166,
-        "KeyMap": "375N",
-        "CombinedResponse": "P"
       }
     },
     {
