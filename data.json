@@ -93,19 +93,19 @@
   "features": [
     {
       "attributes": {
-        "UID": 29987328,
-        "Agency": "P",
-        "Address": "3100 N TERMINAL RD",
-        "CrossStreet": "BLK JOHN F KENNEDY BLVD IB",
-        "CALL_TIME": 1711626360000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "UID": 29862282,
+        "Agency": "F",
+        "Address": "WOLBROOK ST",
+        "CrossStreet": "BLK CALGARY LN",
+        "CALL_TIME": 1711626720000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "21I58D",
-        "LONGITUDE": -95.345531,
-        "LATITUDE": 29.987328,
-        "KeyMap": "334W",
-        "CombinedResponse": "P"
+        "Units": "A034",
+        "LONGITUDE": -95.305863,
+        "LATITUDE": 29.862282,
+        "KeyMap": "414Z",
+        "CombinedResponse": "F"
       }
     },
     {
@@ -114,7 +114,7 @@
         "Agency": "F",
         "Address": "FULTON ST",
         "CrossStreet": "BLK STYERS ST",
-        "CALL_TIME": 1711626300000,
+        "CALL_TIME": 1711626600000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -123,6 +123,40 @@
         "LATITUDE": 29.817067,
         "KeyMap": "453Q",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29694919,
+        "Agency": "F",
+        "Address": "KINGSBURY ST",
+        "CrossStreet": "BLK CAVANAUGH ST",
+        "CALL_TIME": 1711626480000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A035,M040",
+        "LONGITUDE": -95.33776,
+        "LATITUDE": 29.694919,
+        "KeyMap": "534J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29987328,
+        "Agency": "P",
+        "Address": "3100 N TERMINAL RD",
+        "CrossStreet": "BLK JOHN F KENNEDY BLVD IB",
+        "CALL_TIME": 1711626360000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "21I58D,21I40D",
+        "LONGITUDE": -95.345531,
+        "LATITUDE": 29.987328,
+        "KeyMap": "334W",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -139,40 +173,6 @@
         "LONGITUDE": -95.466749,
         "LATITUDE": 29.736656,
         "KeyMap": "491U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29862282,
-        "Agency": "F",
-        "Address": "WOLBROOK ST",
-        "CrossStreet": "BLK CALGARY LN",
-        "CALL_TIME": 1711626180000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A034",
-        "LONGITUDE": -95.305863,
-        "LATITUDE": 29.862282,
-        "KeyMap": "414Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29694919,
-        "Agency": "F",
-        "Address": "KINGSBURY ST",
-        "CrossStreet": "BLK CAVANAUGH ST",
-        "CALL_TIME": 1711626000000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A035,M040",
-        "LONGITUDE": -95.33776,
-        "LATITUDE": 29.694919,
-        "KeyMap": "534J",
         "CombinedResponse": "F"
       }
     },
@@ -297,23 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29685236,
-        "Agency": "F",
-        "Address": "HOLLY HALL ST",
-        "CrossStreet": "BLK KNIGHT RD",
-        "CALL_TIME": 1711624980000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A046",
-        "LONGITUDE": -95.402116,
-        "LATITUDE": 29.685236,
-        "KeyMap": "532R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29823891,
         "Agency": "F",
         "Address": "TEAGUE RD",
@@ -326,6 +309,23 @@
         "LONGITUDE": -95.541312,
         "LATITUDE": 29.823891,
         "KeyMap": "450J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29685236,
+        "Agency": "F",
+        "Address": "HOLLY HALL ST",
+        "CrossStreet": "BLK KNIGHT RD",
+        "CALL_TIME": 1711624980000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A046",
+        "LONGITUDE": -95.402116,
+        "LATITUDE": 29.685236,
+        "KeyMap": "532R",
         "CombinedResponse": "F"
       }
     },
@@ -518,23 +518,6 @@
     },
     {
       "attributes": {
-        "UID": 29671464,
-        "Agency": "F",
-        "Address": "S BRAESWOOD BLVD",
-        "CrossStreet": "BLK SAPLING WAY",
-        "CALL_TIME": 1711621860000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M073",
-        "LONGITUDE": -95.530599,
-        "LATITUDE": 29.671464,
-        "KeyMap": "530T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29882163,
         "Agency": "F",
         "Address": "CARDIFF RD",
@@ -547,23 +530,6 @@
         "LONGITUDE": -95.369573,
         "LATITUDE": 29.882163,
         "KeyMap": "413Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29752880,
-        "Agency": "F",
-        "Address": "ELDRIDGE PKWY",
-        "CrossStreet": "BLK CRESCENT PLAZA DR",
-        "CALL_TIME": 1711621080000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M078",
-        "LONGITUDE": -95.62522,
-        "LATITUDE": 29.75288,
-        "KeyMap": "488P",
         "CombinedResponse": "F"
       }
     },
@@ -598,23 +564,6 @@
         "LONGITUDE": -95.588626,
         "LATITUDE": 29.7432,
         "KeyMap": "489S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29854238,
-        "Agency": "F",
-        "Address": "STERLINGSHIRE ST",
-        "CrossStreet": "BLK GILLMAN ST",
-        "CALL_TIME": 1711619400000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M043",
-        "LONGITUDE": -95.258584,
-        "LATITUDE": 29.854238,
-        "KeyMap": "455D",
         "CombinedResponse": "F"
       }
     },
