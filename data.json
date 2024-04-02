@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29665978,
+        "UID": 29961372,
         "Agency": "F",
-        "Address": "ROCKFORD DR",
-        "CrossStreet": "BLK WESTOVER ST",
-        "CALL_TIME": 1712051760000,
+        "Address": "NORTHBOROUGH DR",
+        "CrossStreet": "BLK W RANKIN RD",
+        "CALL_TIME": 1712052660000,
+        "IncidentType": "APARTMENT FIRE",
+        "ALARM_LEVEL": 1,
+        "NO_UNITS": 10,
+        "Units": "E074,ALDEQ031,E084,ALDFD,D031,SF030,D064,M074,L084,E064",
+        "LONGITUDE": -95.424678,
+        "LATITUDE": 29.961372,
+        "KeyMap": "372L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29793027,
+        "Agency": "F",
+        "Address": "COLLINGSWORTH ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1712052480000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
-        "Units": "SQ046,A035",
-        "LONGITUDE": -95.342683,
-        "LATITUDE": 29.665978,
-        "KeyMap": "534W",
+        "Units": "M009,A012",
+        "LONGITUDE": -95.362903,
+        "LATITUDE": 29.793027,
+        "KeyMap": "453Y",
         "CombinedResponse": "F"
       }
     },
@@ -114,11 +131,11 @@
         "Agency": "F",
         "Address": "BATTERSON ST",
         "CrossStreet": "BLK MELBOURNE ST",
-        "CALL_TIME": 1712051520000,
+        "CALL_TIME": 1712052060000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A012,M019,A030",
+        "NO_UNITS": 2,
+        "Units": "M019,A030",
         "LONGITUDE": -95.348308,
         "LATITUDE": 29.816102,
         "KeyMap": "454N",
@@ -131,7 +148,7 @@
         "Agency": "F",
         "Address": "FAWNRIDGE DR",
         "CrossStreet": "BLK ELBERT ST",
-        "CALL_TIME": 1712051460000,
+        "CALL_TIME": 1712051940000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +156,23 @@
         "LONGITUDE": -95.295413,
         "LATITUDE": 29.842517,
         "KeyMap": "455E",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29665978,
+        "Agency": "F",
+        "Address": "ROCKFORD DR",
+        "CrossStreet": "BLK WESTOVER ST",
+        "CALL_TIME": 1712051760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "SQ046,A035",
+        "LONGITUDE": -95.342683,
+        "LATITUDE": 29.665978,
+        "KeyMap": "534W",
         "CombinedResponse": "F"
       }
     },
@@ -195,23 +229,6 @@
     },
     {
       "attributes": {
-        "UID": 29822381,
-        "Agency": "F",
-        "Address": "MILWEE ST",
-        "CrossStreet": "BLK COSTA RICA RD",
-        "CALL_TIME": 1712051160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A038",
-        "LONGITUDE": -95.468631,
-        "LATITUDE": 29.822381,
-        "KeyMap": "451L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29751774,
         "Agency": "F",
         "Address": "FANNIN ST",
@@ -236,8 +253,8 @@
         "CALL_TIME": 1712051040000,
         "IncidentType": "MOTORCYCLE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E050,A005",
+        "NO_UNITS": 1,
+        "Units": "A005",
         "LONGITUDE": -95.494843,
         "LATITUDE": 29.826003,
         "KeyMap": "451J",
@@ -280,23 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29611024,
-        "Agency": "F",
-        "Address": "HOFFER ST",
-        "CrossStreet": "BLK CARMALEE ST",
-        "CALL_TIME": 1712050560000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M070",
-        "LONGITUDE": -95.241308,
-        "LATITUDE": 29.611024,
-        "KeyMap": "576S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29765537,
         "Agency": "F",
         "Address": "STOKESMOUNT DR",
@@ -304,28 +304,11 @@
         "CALL_TIME": 1712049780000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E086,A090",
+        "NO_UNITS": 1,
+        "Units": "A090",
         "LONGITUDE": -95.635426,
         "LATITUDE": 29.765537,
         "KeyMap": "488E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29811940,
-        "Agency": "F",
-        "Address": "EASTLAND ST",
-        "CrossStreet": "BLK CINDERELLA ST",
-        "CALL_TIME": 1712049600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M043",
-        "LONGITUDE": -95.280955,
-        "LATITUDE": 29.81194,
-        "KeyMap": "455T",
         "CombinedResponse": "F"
       }
     },
@@ -416,23 +399,6 @@
     },
     {
       "attributes": {
-        "UID": 29671339,
-        "Agency": "F",
-        "Address": "WINKLER DR",
-        "CrossStreet": "BLK JULIABORA ST",
-        "CALL_TIME": 1712048160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A036",
-        "LONGITUDE": -95.26156,
-        "LATITUDE": 29.671339,
-        "KeyMap": "535Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29721063,
         "Agency": "P",
         "Address": "9201 WESTPARK DR",
@@ -518,23 +484,6 @@
     },
     {
       "attributes": {
-        "UID": 29721122,
-        "Agency": "F",
-        "Address": "MARTIN LUTHER KING BLVD",
-        "CrossStreet": "BLK UNIVERSITY DR",
-        "CALL_TIME": 1712045700000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A025",
-        "LONGITUDE": -95.338189,
-        "LATITUDE": 29.721122,
-        "KeyMap": "534A",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29951463,
         "Agency": "P",
         "Address": "15999 JOHN F KENNEDY BLVD IB",
@@ -542,8 +491,8 @@
         "CALL_TIME": 1712040060000,
         "IncidentType": "CRASH/MAJOR/CITY VEH",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 10,
-        "Units": "21I62N,21I64N,21I51N,21I54N,21I03N,21I55N,21I61N,22B41N,3Z01N,22B04N",
+        "NO_UNITS": 8,
+        "Units": "21I03N,21I61N,22B41N,3Z01N,22B04N,70Z79N,22B37N,70Z82N",
         "LONGITUDE": -95.331871,
         "LATITUDE": 29.951463,
         "KeyMap": "374P",
