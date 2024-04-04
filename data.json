@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29746709,
+        "UID": 29807025,
         "Agency": "F",
-        "Address": "PACIFIC ST",
-        "CrossStreet": "BLK GRANT ST",
-        "CALL_TIME": 1712214000000,
+        "Address": "JACQUELYN DR",
+        "CrossStreet": "BLK KIVU LN",
+        "CALL_TIME": 1712214720000,
+        "IncidentType": "SMOKE DETECTOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E005",
+        "LONGITUDE": -95.48084,
+        "LATITUDE": 29.807025,
+        "KeyMap": "451T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29851419,
+        "Agency": "F",
+        "Address": "W TIDWELL RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1712214720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E007",
-        "LONGITUDE": -95.389788,
-        "LATITUDE": 29.746709,
-        "KeyMap": "493S",
+        "Units": "E050",
+        "LONGITUDE": -95.50927,
+        "LATITUDE": 29.851419,
+        "KeyMap": "450D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29673505,
+        "Agency": "F",
+        "Address": "TC FANNIN SOUTH BELLFORT W BELLFORT AVE",
+        "CrossStreet": "BLK FANNIN ST",
+        "CALL_TIME": 1712214600000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A021",
+        "LONGITUDE": -95.401166,
+        "LATITUDE": 29.673505,
+        "KeyMap": "532V",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +148,7 @@
         "Agency": "F",
         "Address": "PARKES ST",
         "CrossStreet": "BLK DOLLY WRIGHT ST",
-        "CALL_TIME": 1712213880000,
+        "CALL_TIME": 1712214420000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -122,6 +156,23 @@
         "LONGITUDE": -95.438677,
         "LATITUDE": 29.866072,
         "KeyMap": "412S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29637839,
+        "Agency": "F",
+        "Address": "BROOKSTON ST",
+        "CrossStreet": "BLK TOWNWOOD DR",
+        "CALL_TIME": 1712214360000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A047",
+        "LONGITUDE": -95.427847,
+        "LATITUDE": 29.637839,
+        "KeyMap": "572F",
         "CombinedResponse": "F"
       }
     },
@@ -144,57 +195,6 @@
     },
     {
       "attributes": {
-        "UID": 29604849,
-        "Agency": "F",
-        "Address": "BLUME AVE",
-        "CrossStreet": "BLK SNEIDER ST",
-        "CALL_TIME": 1712213640000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E093",
-        "LONGITUDE": -95.16856,
-        "LATITUDE": 29.604849,
-        "KeyMap": "577Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29673505,
-        "Agency": "F",
-        "Address": "TC FANNIN SOUTH BELLFORT W BELLFORT AVE",
-        "CrossStreet": "BLK FANNIN ST",
-        "CALL_TIME": 1712213400000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A021",
-        "LONGITUDE": -95.401166,
-        "LATITUDE": 29.673505,
-        "KeyMap": "532V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29672280,
-        "Agency": "F",
-        "Address": "WINKLER DR",
-        "CrossStreet": "BLK GARLAND DR",
-        "CALL_TIME": 1712213100000,
-        "IncidentType": "CHECK PATIENT*",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E029,A026",
-        "LONGITUDE": -95.2625,
-        "LATITUDE": 29.67228,
-        "KeyMap": "535U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29761783,
         "Agency": "F",
         "Address": "N CHENEVERT ST",
@@ -212,18 +212,18 @@
     },
     {
       "attributes": {
-        "UID": 29685078,
+        "UID": 29672280,
         "Agency": "F",
-        "Address": "CULLEN BLVD",
-        "CrossStreet": "BLK SWANSON ST",
-        "CALL_TIME": 1712213040000,
-        "IncidentType": "FIRE EVENT",
+        "Address": "WINKLER DR",
+        "CrossStreet": "BLK GARLAND DR",
+        "CALL_TIME": 1712213100000,
+        "IncidentType": "CHECK PATIENT*",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A046",
-        "LONGITUDE": -95.355282,
-        "LATITUDE": 29.685078,
-        "KeyMap": "533R",
+        "Units": "A026",
+        "LONGITUDE": -95.2625,
+        "LATITUDE": 29.67228,
+        "KeyMap": "535U",
         "CombinedResponse": "F"
       }
     },
@@ -258,23 +258,6 @@
         "LONGITUDE": -95.515415,
         "LATITUDE": 29.85305,
         "KeyMap": "450C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29734256,
-        "Agency": "F",
-        "Address": "RICHMOND AVE",
-        "CrossStreet": "BLK MCDUFFIE ST",
-        "CALL_TIME": 1712212500000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A016",
-        "LONGITUDE": -95.407147,
-        "LATITUDE": 29.734256,
-        "KeyMap": "492Z",
         "CombinedResponse": "F"
       }
     },
@@ -399,23 +382,6 @@
     },
     {
       "attributes": {
-        "UID": 29690580,
-        "Agency": "F",
-        "Address": "WEDNESBURY LN",
-        "CrossStreet": null,
-        "CALL_TIME": 1712210940000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A051",
-        "LONGITUDE": -95.526033,
-        "LATITUDE": 29.69058,
-        "KeyMap": "530K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29771301,
         "Agency": "F",
         "Address": "MOSES ST",
@@ -428,23 +394,6 @@
         "LONGITUDE": -95.335492,
         "LATITUDE": 29.771301,
         "KeyMap": "494F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29743200,
-        "Agency": "F",
-        "Address": "S KIRKWOOD RD",
-        "CrossStreet": "BLK POPLAR CREEK DR",
-        "CALL_TIME": 1712210220000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A083",
-        "LONGITUDE": -95.588626,
-        "LATITUDE": 29.7432,
-        "KeyMap": "489S",
         "CombinedResponse": "F"
       }
     },
@@ -484,23 +433,6 @@
     },
     {
       "attributes": {
-        "UID": 29725566,
-        "Agency": "F",
-        "Address": "S 80TH ST",
-        "CrossStreet": "BLK GOODE ST",
-        "CALL_TIME": 1712209320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A020",
-        "LONGITUDE": -95.283245,
-        "LATITUDE": 29.725566,
-        "KeyMap": "535B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29759286,
         "Agency": "F",
         "Address": "PRESTON ST",
@@ -535,6 +467,23 @@
     },
     {
       "attributes": {
+        "UID": 29701569,
+        "Agency": "P",
+        "Address": "3351 OLD SPANISH TRL",
+        "CrossStreet": null,
+        "CALL_TIME": 1712205420000,
+        "IncidentType": "CRASH/MINOR/FSGI",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "10H11N",
+        "LONGITUDE": -95.371804,
+        "LATITUDE": 29.701569,
+        "KeyMap": "533L",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29663849,
         "Agency": "P",
         "Address": "5611 BELMARK ST",
@@ -547,23 +496,6 @@
         "LONGITUDE": -95.340251,
         "LATITUDE": 29.663849,
         "KeyMap": "534W",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29741499,
-        "Agency": "P",
-        "Address": "SUS59OB-MCILHENNY 72 S US 59 FWY OB",
-        "CrossStreet": "WEBSTER ENTR",
-        "CALL_TIME": 1712202840000,
-        "IncidentType": "CRASH/MAJOR/FSRA",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "10H57N",
-        "LONGITUDE": -95.365327,
-        "LATITUDE": 29.741499,
-        "KeyMap": "493U",
         "CombinedResponse": "P"
       }
     },
