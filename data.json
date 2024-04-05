@@ -93,11 +93,45 @@
   "features": [
     {
       "attributes": {
+        "UID": 29775966,
+        "Agency": "F",
+        "Address": "LYONS AVE",
+        "CrossStreet": "BLK WORMS ST",
+        "CALL_TIME": 1712312820000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E019",
+        "LONGITUDE": -95.331742,
+        "LATITUDE": 29.775966,
+        "KeyMap": "494F",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29583188,
+        "Agency": "F",
+        "Address": "RIDGECREEK DR",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1712312700000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E080",
+        "LONGITUDE": -95.462571,
+        "LATITUDE": 29.583188,
+        "KeyMap": "611C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29754677,
         "Agency": "F",
         "Address": "N EVERTON ST",
         "CrossStreet": "BLK FOX ST",
-        "CALL_TIME": 1712311920000,
+        "CALL_TIME": 1712312400000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -110,28 +144,11 @@
     },
     {
       "attributes": {
-        "UID": 29861656,
-        "Agency": "F",
-        "Address": "BOGGESS RD",
-        "CrossStreet": "BLK WOODWICK ST",
-        "CALL_TIME": 1712311920000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A056",
-        "LONGITUDE": -95.289349,
-        "LATITUDE": 29.861656,
-        "KeyMap": "415W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29814815,
         "Agency": "F",
         "Address": "EAGLEROCK DR",
         "CrossStreet": "BLK VOGUE LN",
-        "CALL_TIME": 1712311800000,
+        "CALL_TIME": 1712312280000,
         "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +156,23 @@
         "LONGITUDE": -95.532591,
         "LATITUDE": 29.814815,
         "KeyMap": "450P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29861656,
+        "Agency": "F",
+        "Address": "BOGGESS RD",
+        "CrossStreet": "BLK WOODWICK ST",
+        "CALL_TIME": 1712311920000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A056,M043",
+        "LONGITUDE": -95.289349,
+        "LATITUDE": 29.861656,
+        "KeyMap": "415W",
         "CombinedResponse": "F"
       }
     },
@@ -178,40 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29570938,
-        "Agency": "F",
-        "Address": "SEAHORSE DR",
-        "CrossStreet": "BLK BAY AREA BLVD",
-        "CALL_TIME": 1712311440000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M072",
-        "LONGITUDE": -95.110589,
-        "LATITUDE": 29.570938,
-        "KeyMap": "618L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29770324,
-        "Agency": "F",
-        "Address": "MARKET ST",
-        "CrossStreet": "BLK LAURENTIDE ST",
-        "CALL_TIME": 1712311440000,
-        "IncidentType": "SMOKE DETECTOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E041",
-        "LONGITUDE": -95.270186,
-        "LATITUDE": 29.770324,
-        "KeyMap": "495G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29723926,
         "Agency": "F",
         "Address": "SHADOWPOINT DR",
@@ -242,23 +242,6 @@
         "LATITUDE": 29.833686,
         "KeyMap": "453L",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29831362,
-        "Agency": "P",
-        "Address": "8100 LEY RD",
-        "CrossStreet": "BLK DENTON ST",
-        "CALL_TIME": 1712310780000,
-        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "8C60F",
-        "LONGITUDE": -95.278593,
-        "LATITUDE": 29.831362,
-        "KeyMap": "455K",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -360,23 +343,6 @@
         "LONGITUDE": -95.496219,
         "LATITUDE": 29.666203,
         "KeyMap": "530Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29802961,
-        "Agency": "F",
-        "Address": "WAYNE ST",
-        "CrossStreet": "BLK RAND ST",
-        "CALL_TIME": 1712308620000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M019",
-        "LONGITUDE": -95.325884,
-        "LATITUDE": 29.802961,
-        "KeyMap": "454T",
         "CombinedResponse": "F"
       }
     },
@@ -644,8 +610,8 @@
         "CALL_TIME": 1712287500000,
         "IncidentType": "CRASH/MAJOR/CITY VEH",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 7,
-        "Units": "19G57E,19G05E,19G22E,19G36N,3Z04N,70Z73N,19G44N",
+        "NO_UNITS": 4,
+        "Units": "19G22E,19G36N,3Z04N,70Z73N",
         "LONGITUDE": -95.588066,
         "LATITUDE": 29.714862,
         "KeyMap": "529A",
@@ -695,8 +661,8 @@
         "CALL_TIME": 1712260980000,
         "IncidentType": "CRASH/MINOR",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "22B49E,22B41E,22B48N",
+        "NO_UNITS": 4,
+        "Units": "22B49E,22B41E,22B48N,22B47N",
         "LONGITUDE": -95.304314,
         "LATITUDE": 29.952237,
         "KeyMap": "375N",
