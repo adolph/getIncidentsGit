@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29761725,
+        "UID": 29727847,
         "Agency": "F",
-        "Address": "CONGRESS ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1714041720000,
+        "Address": "GLENDALE ST",
+        "CrossStreet": "BLK FUNSTON ST",
+        "CALL_TIME": 1714042260000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E009",
-        "LONGITUDE": -95.359848,
-        "LATITUDE": 29.761725,
-        "KeyMap": "493M",
+        "Units": "A020",
+        "LONGITUDE": -95.290435,
+        "LATITUDE": 29.727847,
+        "KeyMap": "495W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29870920,
+        "Agency": "F",
+        "Address": "IDA WELLS FOREST DR",
+        "CrossStreet": "BLK PRILLERMAN TRAILS DR",
+        "CALL_TIME": 1714042200000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E056",
+        "LONGITUDE": -95.294821,
+        "LATITUDE": 29.87092,
+        "KeyMap": "415S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29845641,
+        "Agency": "F",
+        "Address": "TIDWELL RD",
+        "CrossStreet": "BLK BAUMAN RD",
+        "CALL_TIME": 1714042080000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A058",
+        "LONGITUDE": -95.373177,
+        "LATITUDE": 29.845641,
+        "KeyMap": "453C",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +148,7 @@
         "Agency": "F",
         "Address": "ARBOLES DR",
         "CrossStreet": "BLK KIRKSIDE DR",
-        "CALL_TIME": 1714041660000,
+        "CALL_TIME": 1714042080000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,11 +161,45 @@
     },
     {
       "attributes": {
+        "UID": 29761725,
+        "Agency": "F",
+        "Address": "CONGRESS ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1714042020000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "E009,M009,A009",
+        "LONGITUDE": -95.359848,
+        "LATITUDE": 29.761725,
+        "KeyMap": "493M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29664969,
+        "Agency": "F",
+        "Address": "CREEKBEND DR",
+        "CrossStreet": "BLK SANDPIPER DR",
+        "CALL_TIME": 1714041960000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A082",
+        "LONGITUDE": -95.502788,
+        "LATITUDE": 29.664969,
+        "KeyMap": "530Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29762139,
         "Agency": "F",
         "Address": "EAGLE VISTA DR",
         "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1714041660000,
+        "CALL_TIME": 1714041900000,
         "IncidentType": "SMOKE DETECTOR",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -151,29 +219,12 @@
         "CALL_TIME": 1714041600000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "3Y27N,3Y33N",
+        "NO_UNITS": 3,
+        "Units": "3Y27N,3Y33N,3Y21N",
         "LONGITUDE": -95.359848,
         "LATITUDE": 29.761725,
         "KeyMap": "493M",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29845641,
-        "Agency": "F",
-        "Address": "TIDWELL RD",
-        "CrossStreet": "BLK BAUMAN RD",
-        "CALL_TIME": 1714041600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A058",
-        "LONGITUDE": -95.373177,
-        "LATITUDE": 29.845641,
-        "KeyMap": "453C",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -377,40 +428,6 @@
         "LONGITUDE": -95.326848,
         "LATITUDE": 29.628854,
         "KeyMap": "574K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29723727,
-        "Agency": "P",
-        "Address": "6188 SOUTHWEST FWY OB",
-        "CrossStreet": null,
-        "CALL_TIME": 1714037040000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "18F64N",
-        "LONGITUDE": -95.491851,
-        "LATITUDE": 29.723727,
-        "KeyMap": "531A",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29703343,
-        "Agency": "F",
-        "Address": "DITMAS LN",
-        "CrossStreet": "BLK NASSAU RD",
-        "CALL_TIME": 1714036740000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M040",
-        "LONGITUDE": -95.33291,
-        "LATITUDE": 29.703343,
-        "KeyMap": "534K",
         "CombinedResponse": "F"
       }
     },
