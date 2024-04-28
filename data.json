@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29965586,
+        "UID": 29802818,
         "Agency": "F",
-        "Address": "RANKIN RD",
-        "CrossStreet": "BLK RANKIN CIR W",
-        "CALL_TIME": 1714310220000,
+        "Address": "LONG POINT RD",
+        "CrossStreet": "BLK JOHANNA DR",
+        "CALL_TIME": 1714310520000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "L038,A013",
+        "LONGITUDE": -95.482139,
+        "LATITUDE": 29.802818,
+        "KeyMap": "451T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29802910,
+        "Agency": "F",
+        "Address": "W 19TH ST",
+        "CrossStreet": "BLK ASHLAND ST",
+        "CALL_TIME": 1714310520000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A084",
-        "LONGITUDE": -95.418458,
-        "LATITUDE": 29.965586,
-        "KeyMap": "372G",
+        "Units": "A015",
+        "LONGITUDE": -95.402124,
+        "LATITUDE": 29.80291,
+        "KeyMap": "452V",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "SYNOTT RD",
         "CrossStreet": "BLK WILDE GLEN LN",
-        "CALL_TIME": 1714310040000,
+        "CALL_TIME": 1714310460000,
         "IncidentType": "TRASH FIRE",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,11 +144,62 @@
     },
     {
       "attributes": {
+        "UID": 29820080,
+        "Agency": "F",
+        "Address": "BEAUMONT HWY",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1714310400000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A039",
+        "LONGITUDE": -95.239512,
+        "LATITUDE": 29.82008,
+        "KeyMap": "456N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29674740,
+        "Agency": "F",
+        "Address": "MONTGLEN",
+        "CrossStreet": "BLK GLENLOCH DR",
+        "CALL_TIME": 1714310400000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E036",
+        "LONGITUDE": -95.283112,
+        "LATITUDE": 29.67474,
+        "KeyMap": "535T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29965586,
+        "Agency": "F",
+        "Address": "RANKIN RD",
+        "CrossStreet": "BLK RANKIN CIR W",
+        "CALL_TIME": 1714310280000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A084",
+        "LONGITUDE": -95.418458,
+        "LATITUDE": 29.965586,
+        "KeyMap": "372G",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29774553,
         "Agency": "F",
         "Address": "LONGBOW LN",
         "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1714309980000,
+        "CALL_TIME": 1714310280000,
         "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -144,36 +212,19 @@
     },
     {
       "attributes": {
-        "UID": 29715432,
-        "Agency": "F",
-        "Address": "BRANT ROCK DR",
-        "CrossStreet": "BLK ASHBURNHAM DR",
-        "CALL_TIME": 1714309920000,
-        "IncidentType": "EMS EVENT",
+        "UID": 29738874,
+        "Agency": "P",
+        "Address": "3799 MILAM ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1714310100000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E076",
-        "LONGITUDE": -95.605095,
-        "LATITUDE": 29.715432,
-        "KeyMap": "528D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29834202,
-        "Agency": "F",
-        "Address": "WEAVER RD",
-        "CrossStreet": "BLK PEACHTREE ST",
-        "CALL_TIME": 1714309860000,
-        "IncidentType": "SMOKE DETECTOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E039",
-        "LONGITUDE": -95.316424,
-        "LATITUDE": 29.834202,
-        "KeyMap": "454L",
-        "CombinedResponse": "F"
+        "Units": "10H59D",
+        "LONGITUDE": -95.381803,
+        "LATITUDE": 29.738874,
+        "KeyMap": "493T",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -270,8 +321,8 @@
         "CALL_TIME": 1714309680000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A007",
+        "NO_UNITS": 2,
+        "Units": "A007,E016",
         "LONGITUDE": -95.408844,
         "LATITUDE": 29.74897,
         "KeyMap": "492R",
@@ -297,23 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29771457,
-        "Agency": "F",
-        "Address": "RODRIGO ST",
-        "CrossStreet": "BLK COPPAGE ST",
-        "CALL_TIME": 1714309560000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A038",
-        "LONGITUDE": -95.425761,
-        "LATITUDE": 29.771457,
-        "KeyMap": "492F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29651082,
         "Agency": "F",
         "Address": "RUE ST",
@@ -326,6 +360,23 @@
         "LONGITUDE": -95.338307,
         "LATITUDE": 29.651082,
         "KeyMap": "574A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29771457,
+        "Agency": "F",
+        "Address": "RODRIGO ST",
+        "CrossStreet": "BLK COPPAGE ST",
+        "CALL_TIME": 1714309560000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A038",
+        "LONGITUDE": -95.425761,
+        "LATITUDE": 29.771457,
+        "KeyMap": "492F",
         "CombinedResponse": "F"
       }
     },
@@ -365,6 +416,23 @@
     },
     {
       "attributes": {
+        "UID": 29715379,
+        "Agency": "P",
+        "Address": "11800 ALIEF CLODINE RD",
+        "CrossStreet": "BLK S KIRKWOOD RD",
+        "CALL_TIME": 1714309260000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "19G34D",
+        "LONGITUDE": -95.586745,
+        "LATITUDE": 29.715379,
+        "KeyMap": "529A",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29831352,
         "Agency": "F",
         "Address": "LEY RD",
@@ -378,23 +446,6 @@
         "LATITUDE": 29.831352,
         "KeyMap": "455J",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29715379,
-        "Agency": "P",
-        "Address": "11800 ALIEF CLODINE RD",
-        "CrossStreet": "BLK S KIRKWOOD RD",
-        "CALL_TIME": 1714309260000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "19G04D,19G34D",
-        "LONGITUDE": -95.586745,
-        "LATITUDE": 29.715379,
-        "KeyMap": "529A",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -569,23 +620,6 @@
     },
     {
       "attributes": {
-        "UID": 29703898,
-        "Agency": "F",
-        "Address": "GRIGGS RD",
-        "CrossStreet": "BLK SAINT AUGUSTINE ST",
-        "CALL_TIME": 1714306260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A040",
-        "LONGITUDE": -95.355618,
-        "LATITUDE": 29.703898,
-        "KeyMap": "533H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29788258,
         "Agency": "P",
         "Address": "130 MCCARTY ST",
@@ -615,40 +649,6 @@
         "LONGITUDE": -95.216989,
         "LATITUDE": 29.805413,
         "KeyMap": "456U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29689235,
-        "Agency": "P",
-        "Address": "9900 BEECHNUT ST",
-        "CrossStreet": "BLK W SAM HOUSTON PKWY S",
-        "CALL_TIME": 1714306020000,
-        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "19G42D",
-        "LONGITUDE": -95.554959,
-        "LATITUDE": 29.689235,
-        "KeyMap": "529R",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29635673,
-        "Agency": "F",
-        "Address": "PENTACLE LN",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1714305600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A021",
-        "LONGITUDE": -95.472065,
-        "LATITUDE": 29.635673,
-        "KeyMap": "571K",
         "CombinedResponse": "F"
       }
     },
