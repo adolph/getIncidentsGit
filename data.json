@@ -93,11 +93,45 @@
   "features": [
     {
       "attributes": {
+        "UID": 29665255,
+        "Agency": "F",
+        "Address": "ST LO RD",
+        "CrossStreet": "BLK WESTOVER ST",
+        "CALL_TIME": 1715771220000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A026",
+        "LONGITUDE": -95.341806,
+        "LATITUDE": 29.665255,
+        "KeyMap": "534W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29612629,
+        "Agency": "F",
+        "Address": "CHASECREEK DR",
+        "CrossStreet": "BLK CHASEFOREST DR",
+        "CALL_TIME": 1715771160000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M080",
+        "LONGITUDE": -95.503324,
+        "LATITUDE": 29.612629,
+        "KeyMap": "570V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29818839,
         "Agency": "F",
         "Address": "SAINT LOUIS ST",
         "CrossStreet": "BLK ELBERT ST",
-        "CALL_TIME": 1715770620000,
+        "CALL_TIME": 1715771040000,
         "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -161,23 +195,6 @@
     },
     {
       "attributes": {
-        "UID": 29734730,
-        "Agency": "F",
-        "Address": "SHADOWBRIAR DR",
-        "CrossStreet": "BLK OXFORD PARK DR",
-        "CALL_TIME": 1715770320000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E075",
-        "LONGITUDE": -95.598044,
-        "LATITUDE": 29.73473,
-        "KeyMap": "488V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29677496,
         "Agency": "F",
         "Address": "LANSDALE DR",
@@ -185,8 +202,8 @@
         "CALL_TIME": 1715770200000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A068",
+        "NO_UNITS": 2,
+        "Units": "A068,M010",
         "LONGITUDE": -95.556313,
         "LATITUDE": 29.677496,
         "KeyMap": "529V",
@@ -287,8 +304,8 @@
         "CALL_TIME": 1715769660000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E061,M036",
+        "NO_UNITS": 1,
+        "Units": "M036",
         "LONGITUDE": -95.277839,
         "LATITUDE": 29.630856,
         "KeyMap": "575K",
@@ -423,8 +440,8 @@
         "CALL_TIME": 1715767740000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M071,E071",
+        "NO_UNITS": 1,
+        "Units": "M071",
         "LONGITUDE": -95.118837,
         "LATITUDE": 29.598662,
         "KeyMap": "578Y",
@@ -445,23 +462,6 @@
         "LONGITUDE": -95.338544,
         "LATITUDE": 29.663122,
         "KeyMap": "534W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29774994,
-        "Agency": "F",
-        "Address": "FARMER ST",
-        "CrossStreet": "BLK DITTMANS CT",
-        "CALL_TIME": 1715767560000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A019",
-        "LONGITUDE": -95.338547,
-        "LATITUDE": 29.774994,
-        "KeyMap": "494E",
         "CombinedResponse": "F"
       }
     },
@@ -526,27 +526,10 @@
         "IncidentType": "BUILDING FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 10,
-        "Units": "D046,E047,E033,SF024,M055,E025,L033,L055,E055,D021",
+        "Units": "E055,E033,D046,L055,E047,E025,L033,M055,D021,E035",
         "LONGITUDE": -95.368569,
         "LATITUDE": 29.653834,
         "KeyMap": "573C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29812249,
-        "Agency": "F",
-        "Address": "OAK BROOK DR",
-        "CrossStreet": "BLK OATES RD",
-        "CALL_TIME": 1715766960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M044",
-        "LONGITUDE": -95.241543,
-        "LATITUDE": 29.812249,
-        "KeyMap": "456S",
         "CombinedResponse": "F"
       }
     },
