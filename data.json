@@ -93,18 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29717339,
+        "UID": 29725110,
         "Agency": "F",
-        "Address": "SOUTHWEST FWY OB",
-        "CrossStreet": "HILLCROFT OBIB",
-        "CALL_TIME": 1716280020000,
+        "Address": "ROSEDALE ST",
+        "CrossStreet": "BLK SOUTH FWY OB",
+        "CALL_TIME": 1716280920000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E007",
+        "LONGITUDE": -95.377707,
+        "LATITUDE": 29.72511,
+        "KeyMap": "533B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29789280,
+        "Agency": "F",
+        "Address": "WICKHOLLOW LN",
+        "CrossStreet": "BLK MOORWICK LN",
+        "CALL_TIME": 1716280920000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E057,M078",
+        "LONGITUDE": -95.589622,
+        "LATITUDE": 29.78928,
+        "KeyMap": "449W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29718148,
+        "Agency": "F",
+        "Address": "MANCHESTER ST",
+        "CrossStreet": "BLK S 77TH ST",
+        "CALL_TIME": 1716280860000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A051",
-        "LONGITUDE": -95.498975,
-        "LATITUDE": 29.717339,
-        "KeyMap": "530D",
+        "Units": "E023",
+        "LONGITUDE": -95.292903,
+        "LATITUDE": 29.718148,
+        "KeyMap": "535A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29580119,
+        "Agency": "F",
+        "Address": "MCHARD RD",
+        "CrossStreet": "BLK BLUE RIDGE COMMERCE DR",
+        "CALL_TIME": 1716280740000,
+        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A080",
+        "LONGITUDE": -95.511864,
+        "LATITUDE": 29.580119,
+        "KeyMap": "610G",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29729600,
+        "Agency": "F",
+        "Address": "BLODGETT ST",
+        "CrossStreet": "BLK CRAWFORD ST",
+        "CALL_TIME": 1716280680000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A007",
+        "LONGITUDE": -95.380035,
+        "LATITUDE": 29.7296,
+        "KeyMap": "493X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29624133,
+        "Agency": "F",
+        "Address": "CREEGAN PARK CT",
+        "CrossStreet": "BLK CAMBY PARK DR",
+        "CALL_TIME": 1716280620000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A047",
+        "LONGITUDE": -95.399523,
+        "LATITUDE": 29.624133,
+        "KeyMap": "572R",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +199,7 @@
         "Agency": "F",
         "Address": "EASTEX FWY IB",
         "CrossStreet": "GREENS OBIB",
-        "CALL_TIME": 1716279960000,
+        "CALL_TIME": 1716280560000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,19 +212,70 @@
     },
     {
       "attributes": {
-        "UID": 29731503,
+        "UID": 29688555,
         "Agency": "F",
-        "Address": "FOUNTAIN VIEW DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1716279960000,
+        "Address": "FAULKNER ST",
+        "CrossStreet": "BLK SHERWOOD DR",
+        "CALL_TIME": 1716280560000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E028",
+        "Units": "A046",
+        "LONGITUDE": -95.363399,
+        "LATITUDE": 29.688555,
+        "KeyMap": "533Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29717339,
+        "Agency": "F",
+        "Address": "SOUTHWEST FWY OB",
+        "CrossStreet": "HILLCROFT OBIB",
+        "CALL_TIME": 1716280380000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A051",
+        "LONGITUDE": -95.498975,
+        "LATITUDE": 29.717339,
+        "KeyMap": "530D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29781171,
+        "Agency": "F",
+        "Address": "N POST OAK RD",
+        "CrossStreet": "BLK KATY FWY IB",
+        "CALL_TIME": 1716280200000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A002",
+        "LONGITUDE": -95.456715,
+        "LATITUDE": 29.781171,
+        "KeyMap": "491D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29731503,
+        "Agency": "P",
+        "Address": "3199 FOUNTAIN VIEW DR",
+        "CrossStreet": null,
+        "CALL_TIME": 1716279960000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "18F47N",
         "LONGITUDE": -95.484205,
         "LATITUDE": 29.731503,
         "KeyMap": "491X",
-        "CombinedResponse": "F"
+        "CombinedResponse": "P"
       }
     },
     {
@@ -156,57 +292,6 @@
         "LONGITUDE": -95.402893,
         "LATITUDE": 29.926901,
         "KeyMap": "372Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29781171,
-        "Agency": "F",
-        "Address": "N POST OAK RD",
-        "CrossStreet": "BLK KATY FWY IB",
-        "CALL_TIME": 1716279660000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A002",
-        "LONGITUDE": -95.456715,
-        "LATITUDE": 29.781171,
-        "KeyMap": "491D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 30068613,
-        "Agency": "F",
-        "Address": "NORTHPARK DR",
-        "CrossStreet": "BLK RUSSELL PALMER RD",
-        "CALL_TIME": 1716279360000,
-        "IncidentType": "CHECK PATIENT*",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "L101",
-        "LONGITUDE": -95.233634,
-        "LATITUDE": 30.068613,
-        "KeyMap": "296T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29731431,
-        "Agency": "F",
-        "Address": "MEADOWGLEN LN",
-        "CrossStreet": null,
-        "CALL_TIME": 1716279300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E083",
-        "LONGITUDE": -95.563981,
-        "LATITUDE": 29.731431,
-        "KeyMap": "489Y",
         "CombinedResponse": "F"
       }
     },
@@ -229,23 +314,6 @@
     },
     {
       "attributes": {
-        "UID": 29783917,
-        "Agency": "F",
-        "Address": "OLD KATY RD",
-        "CrossStreet": "POST OAK - OLD KATY TOLL ENTR",
-        "CALL_TIME": 1716278940000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A038",
-        "LONGITUDE": -95.454903,
-        "LATITUDE": 29.783917,
-        "KeyMap": "491D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29625383,
         "Agency": "F",
         "Address": "RED HUMMINGBIRD DR",
@@ -258,23 +326,6 @@
         "LONGITUDE": -95.406077,
         "LATITUDE": 29.625383,
         "KeyMap": "572R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29849552,
-        "Agency": "F",
-        "Address": "CROFTON ST",
-        "CrossStreet": "BLK TRUDY",
-        "CALL_TIME": 1716278040000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M056",
-        "LONGITUDE": -95.29882,
-        "LATITUDE": 29.849552,
-        "KeyMap": "455A",
         "CombinedResponse": "F"
       }
     },
@@ -314,23 +365,6 @@
     },
     {
       "attributes": {
-        "UID": 29703015,
-        "Agency": "P",
-        "Address": "7831 SARITA ST",
-        "CrossStreet": "BLK FENNELL ST",
-        "CALL_TIME": 1716277740000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "11H21N,11H10N",
-        "LONGITUDE": -95.281304,
-        "LATITUDE": 29.703015,
-        "KeyMap": "535K",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29732004,
         "Agency": "F",
         "Address": "PEASE ST",
@@ -343,23 +377,6 @@
         "LONGITUDE": -95.322591,
         "LATITUDE": 29.732004,
         "KeyMap": "494X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29630343,
-        "Agency": "F",
-        "Address": "MARTIN LUTHER KING BLVD",
-        "CrossStreet": "BLK PARK VILLAGE DR",
-        "CALL_TIME": 1716277440000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M055",
-        "LONGITUDE": -95.339355,
-        "LATITUDE": 29.630343,
-        "KeyMap": "574J",
         "CombinedResponse": "F"
       }
     },
@@ -450,23 +467,6 @@
     },
     {
       "attributes": {
-        "UID": 29683919,
-        "Agency": "F",
-        "Address": "BATAAN RD",
-        "CrossStreet": "BLK CHERBOURG RD",
-        "CALL_TIME": 1716275760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A035",
-        "LONGITUDE": -95.338138,
-        "LATITUDE": 29.683919,
-        "KeyMap": "534N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 30076452,
         "Agency": "P",
         "Address": "25103BLK  NORTHPARK LAKE DR",
@@ -547,23 +547,6 @@
         "LONGITUDE": -95.351502,
         "LATITUDE": 29.669065,
         "KeyMap": "533Z",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29704908,
-        "Agency": "P",
-        "Address": "9300 BELLAIRE BLVD",
-        "CrossStreet": "BLK CORPORATE DR",
-        "CALL_TIME": 1716259440000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "80E12",
-        "LONGITUDE": -95.546787,
-        "LATITUDE": 29.704908,
-        "KeyMap": "529H",
         "CombinedResponse": "P"
       }
     },
