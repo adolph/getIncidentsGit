@@ -93,35 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29917234,
+        "UID": 29721264,
         "Agency": "F",
-        "Address": "EXIT 60A N IH 45 FWY OB",
-        "CrossStreet": "ALDINE BENDER EXIT",
-        "CALL_TIME": 1716463620000,
+        "Address": "WOODCHASE DR",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1716464520000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A074,E084,L084",
-        "LONGITUDE": -95.412427,
-        "LATITUDE": 29.917234,
-        "KeyMap": "412D",
+        "NO_UNITS": 2,
+        "Units": "M083,A010",
+        "LONGITUDE": -95.54506,
+        "LATITUDE": 29.721264,
+        "KeyMap": "530A",
         "CombinedResponse": "F"
       }
     },
     {
       "attributes": {
-        "UID": 29784261,
+        "UID": 29656535,
         "Agency": "F",
-        "Address": "S SH 6",
-        "CrossStreet": null,
-        "CALL_TIME": 1716463560000,
+        "Address": "CATHEDRAL DR",
+        "CrossStreet": "BLK WILMINGTON ST",
+        "CALL_TIME": 1716464340000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "L090",
-        "LONGITUDE": -95.644567,
-        "LATITUDE": 29.784261,
-        "KeyMap": "488A",
+        "Units": "A046",
+        "LONGITUDE": -95.375438,
+        "LATITUDE": 29.656535,
+        "KeyMap": "573B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29655911,
+        "Agency": "F",
+        "Address": "WILMINGTON ST",
+        "CrossStreet": "BLK JUTLAND RD",
+        "CALL_TIME": 1716464280000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A055",
+        "LONGITUDE": -95.35016,
+        "LATITUDE": 29.655911,
+        "KeyMap": "573D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29580195,
+        "Agency": "P",
+        "Address": "13799 GALVESTON RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1716464220000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "12D40D",
+        "LONGITUDE": -95.157798,
+        "LATITUDE": 29.580195,
+        "KeyMap": "617G",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29774802,
+        "Agency": "F",
+        "Address": "CHISUM ST",
+        "CrossStreet": "BLK YATES ST",
+        "CALL_TIME": 1716464160000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E019,A019",
+        "LONGITUDE": -95.324478,
+        "LATITUDE": 29.774802,
+        "KeyMap": "494F",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29917234,
+        "Agency": "F",
+        "Address": "EXIT 60A N IH 45 FWY OB",
+        "CrossStreet": "ALDINE BENDER EXIT",
+        "CALL_TIME": 1716463980000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E084,L084",
+        "LONGITUDE": -95.412427,
+        "LATITUDE": 29.917234,
+        "KeyMap": "412D",
         "CombinedResponse": "F"
       }
     },
@@ -131,11 +199,11 @@
         "Agency": "F",
         "Address": "AIRPORT BLVD",
         "CrossStreet": "BLK TEWANTIN DR",
-        "CALL_TIME": 1716463560000,
+        "CALL_TIME": 1716463920000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A036",
+        "NO_UNITS": 2,
+        "Units": "A036,M036",
         "LONGITUDE": -95.295035,
         "LATITUDE": 29.652708,
         "KeyMap": "575A",
@@ -157,6 +225,23 @@
         "LATITUDE": 29.794495,
         "KeyMap": "446Z",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29917234,
+        "Agency": "P",
+        "Address": "EXIT 60A 10398 N IH 45 FWY OB",
+        "CrossStreet": "ALDINE BENDER EXIT",
+        "CALL_TIME": 1716463500000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "22B24D",
+        "LONGITUDE": -95.412427,
+        "LATITUDE": 29.917234,
+        "KeyMap": "412D",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -185,8 +270,8 @@
         "CALL_TIME": 1716463200000,
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 4,
-        "Units": "D068,A073,E073,L068",
+        "NO_UNITS": 1,
+        "Units": "A073",
         "LONGITUDE": -95.561335,
         "LATITUDE": 29.689459,
         "KeyMap": "529Q",
@@ -202,28 +287,11 @@
         "CALL_TIME": 1716463200000,
         "IncidentType": "HOUSE FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 5,
-        "Units": "E083,A076,E075,L075,M086",
+        "NO_UNITS": 2,
+        "Units": "E075,E083",
         "LONGITUDE": -95.590356,
         "LATITUDE": 29.71155,
         "KeyMap": "529E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29774802,
-        "Agency": "F",
-        "Address": "CHISUM ST",
-        "CrossStreet": "BLK YATES ST",
-        "CALL_TIME": 1716463200000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E019",
-        "LONGITUDE": -95.324478,
-        "LATITUDE": 29.774802,
-        "KeyMap": "494F",
         "CombinedResponse": "F"
       }
     },
@@ -287,8 +355,8 @@
         "CALL_TIME": 1716462720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M056,E043",
+        "NO_UNITS": 1,
+        "Units": "E043",
         "LONGITUDE": -95.305577,
         "LATITUDE": 29.834527,
         "KeyMap": "454M",
@@ -382,23 +450,6 @@
     },
     {
       "attributes": {
-        "UID": 29727471,
-        "Agency": "P",
-        "Address": "3400 FONDREN RD",
-        "CrossStreet": "BLK BELLFLOWER ST",
-        "CALL_TIME": 1716460620000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "18F55N",
-        "LONGITUDE": -95.520603,
-        "LATITUDE": 29.727471,
-        "KeyMap": "490Y",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29656020,
         "Agency": "F",
         "Address": "W BELLFORT AVE",
@@ -457,8 +508,8 @@
         "CALL_TIME": 1716459780000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "M074,A038,E074",
+        "NO_UNITS": 2,
+        "Units": "M074,A038",
         "LONGITUDE": -95.391788,
         "LATITUDE": 29.95294,
         "KeyMap": "373N",
@@ -474,8 +525,8 @@
         "CALL_TIME": 1716459720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A093,M070",
+        "NO_UNITS": 1,
+        "Units": "A093",
         "LONGITUDE": -95.204754,
         "LATITUDE": 29.601887,
         "KeyMap": "576Z",
@@ -518,23 +569,6 @@
     },
     {
       "attributes": {
-        "UID": 29827649,
-        "Agency": "F",
-        "Address": "MILLIKEN ST",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1716459000000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M034",
-        "LONGITUDE": -95.32682,
-        "LATITUDE": 29.827649,
-        "KeyMap": "454K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29806281,
         "Agency": "F",
         "Address": "E T C JESTER BLVD",
@@ -547,57 +581,6 @@
         "LONGITUDE": -95.434868,
         "LATITUDE": 29.806281,
         "KeyMap": "452T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29749377,
-        "Agency": "F",
-        "Address": "WESTLEIGH DR",
-        "CrossStreet": "BLK WESTMEAD DR",
-        "CALL_TIME": 1716457380000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M075",
-        "LONGITUDE": -95.613212,
-        "LATITUDE": 29.749377,
-        "KeyMap": "488Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29862715,
-        "Agency": "F",
-        "Address": "T C JESTER BLVD",
-        "CrossStreet": "BLK W LITTLE YORK RD",
-        "CALL_TIME": 1716457320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M067",
-        "LONGITUDE": -95.458808,
-        "LATITUDE": 29.862715,
-        "KeyMap": "411Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29674704,
-        "Agency": "F",
-        "Address": "CHEENA DR",
-        "CrossStreet": "BLK GREENWILLOW DR",
-        "CALL_TIME": 1716456840000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M059",
-        "LONGITUDE": -95.449228,
-        "LATITUDE": 29.674704,
-        "KeyMap": "531V",
         "CombinedResponse": "F"
       }
     },
