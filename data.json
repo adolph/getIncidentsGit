@@ -93,53 +93,19 @@
   "features": [
     {
       "attributes": {
-        "UID": 29649387,
-        "Agency": "F",
-        "Address": "ELTON ST",
-        "CrossStreet": "BLK RODNEY ST",
-        "CALL_TIME": 1716543360000,
-        "IncidentType": "EMS EVENT",
+        "UID": 29987414,
+        "Agency": "P",
+        "Address": "3701 N TERMINAL RD",
+        "CrossStreet": "BLK UNKNOWN",
+        "CALL_TIME": 1716543780000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A052",
-        "LONGITUDE": -95.234158,
-        "LATITUDE": 29.649387,
-        "KeyMap": "576E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29753942,
-        "Agency": "F",
-        "Address": "WARWICKSHIRE DR",
-        "CrossStreet": "BLK PEBBLE ROCK DR",
-        "CALL_TIME": 1716543300000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E075",
-        "LONGITUDE": -95.587757,
-        "LATITUDE": 29.753942,
-        "KeyMap": "489N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29784705,
-        "Agency": "F",
-        "Address": "EXIT 758 W IH 10 FWY OB",
-        "CrossStreet": "BUNKER HILL EXIT",
-        "CALL_TIME": 1716543240000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E005,E038,A005",
-        "LONGITUDE": -95.524465,
-        "LATITUDE": 29.784705,
-        "KeyMap": "490C",
-        "CombinedResponse": "F"
+        "NO_UNITS": 2,
+        "Units": "21I54N,21I62N",
+        "LONGITUDE": -95.33746,
+        "LATITUDE": 29.987414,
+        "KeyMap": "334X",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -148,7 +114,7 @@
         "Agency": "F",
         "Address": "N GESSNER RD",
         "CrossStreet": "BLK MILLS RD",
-        "CALL_TIME": 1716543180000,
+        "CALL_TIME": 1716543780000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -161,18 +127,18 @@
     },
     {
       "attributes": {
-        "UID": 29608267,
+        "UID": 29649387,
         "Agency": "F",
-        "Address": "COTTINGHAM ST",
-        "CrossStreet": "BLK SCHURMIER RD",
-        "CALL_TIME": 1716543120000,
+        "Address": "ELTON ST",
+        "CrossStreet": "BLK RODNEY ST",
+        "CALL_TIME": 1716543720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
-        "Units": "E055,A036",
-        "LONGITUDE": -95.340966,
-        "LATITUDE": 29.608267,
-        "KeyMap": "574S",
+        "Units": "A052,M029",
+        "LONGITUDE": -95.234158,
+        "LATITUDE": 29.649387,
+        "KeyMap": "576E",
         "CombinedResponse": "F"
       }
     },
@@ -182,7 +148,7 @@
         "Agency": "F",
         "Address": "ELDRIDGE PKWY",
         "CrossStreet": "BLK PARKWAY PLAZA DR",
-        "CALL_TIME": 1716543120000,
+        "CALL_TIME": 1716543660000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -199,14 +165,48 @@
         "Agency": "F",
         "Address": "QUAIL BURG LN",
         "CrossStreet": "BLK QUAIL PARK DR",
-        "CALL_TIME": 1716542880000,
+        "CALL_TIME": 1716543480000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A080",
+        "NO_UNITS": 2,
+        "Units": "A080,E080",
         "LONGITUDE": -95.517533,
         "LATITUDE": 29.578764,
         "KeyMap": "610G",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29784705,
+        "Agency": "F",
+        "Address": "EXIT 758 W IH 10 FWY OB",
+        "CrossStreet": "BUNKER HILL EXIT",
+        "CALL_TIME": 1716543240000,
+        "IncidentType": "ALS EMERGENCY RESPONSE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A005,M049",
+        "LONGITUDE": -95.524465,
+        "LATITUDE": 29.784705,
+        "KeyMap": "490C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29608267,
+        "Agency": "F",
+        "Address": "COTTINGHAM ST",
+        "CrossStreet": "BLK SCHURMIER RD",
+        "CALL_TIME": 1716543120000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A036",
+        "LONGITUDE": -95.340966,
+        "LATITUDE": 29.608267,
+        "KeyMap": "574S",
         "CombinedResponse": "F"
       }
     },
@@ -355,8 +355,8 @@
         "CALL_TIME": 1716540900000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "2A35N,2A33N",
+        "NO_UNITS": 1,
+        "Units": "2A35N",
         "LONGITUDE": -95.384422,
         "LATITUDE": 29.803962,
         "KeyMap": "453T",
@@ -433,18 +433,18 @@
     },
     {
       "attributes": {
-        "UID": 29817745,
+        "UID": 29655665,
         "Agency": "F",
-        "Address": "W 34TH ST",
-        "CrossStreet": "BLK HELBERG RD",
-        "CALL_TIME": 1716539940000,
+        "Address": "ROSEHAVEN DR",
+        "CrossStreet": "BLK WILMINGTON ST",
+        "CALL_TIME": 1716539340000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A013",
-        "LONGITUDE": -95.452653,
-        "LATITUDE": 29.817745,
-        "KeyMap": "451R",
+        "Units": "M024",
+        "LONGITUDE": -95.376251,
+        "LATITUDE": 29.655665,
+        "KeyMap": "573B",
         "CombinedResponse": "F"
       }
     },
@@ -462,23 +462,6 @@
         "LONGITUDE": -95.331119,
         "LATITUDE": 29.669628,
         "KeyMap": "534X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29655665,
-        "Agency": "F",
-        "Address": "ROSEHAVEN DR",
-        "CrossStreet": "BLK WILMINGTON ST",
-        "CALL_TIME": 1716539340000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M024",
-        "LONGITUDE": -95.376251,
-        "LATITUDE": 29.655665,
-        "KeyMap": "573B",
         "CombinedResponse": "F"
       }
     },
@@ -576,8 +559,8 @@
         "CALL_TIME": 1716533940000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "3Y21N,3Y19N,96Z16",
+        "NO_UNITS": 4,
+        "Units": "3Y21N,3Y33N,3Y19N,96Z16",
         "LONGITUDE": -95.359618,
         "LATITUDE": 29.763795,
         "KeyMap": "493M",
