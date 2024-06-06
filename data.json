@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29754717,
+        "UID": 29677466,
         "Agency": "F",
-        "Address": "LOUISIANA ST",
-        "CrossStreet": "BLK LEELAND ST",
-        "CALL_TIME": 1717666320000,
+        "Address": "CALHOUN RD",
+        "CrossStreet": "BLK JARMESE ST",
+        "CALL_TIME": 1717667220000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E035",
+        "LONGITUDE": -95.35264,
+        "LATITUDE": 29.677466,
+        "KeyMap": "533V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29732359,
+        "Agency": "F",
+        "Address": "SYNOTT RD",
+        "CrossStreet": "BLK MEADOW BRIAR DR",
+        "CALL_TIME": 1717667160000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E008",
-        "LONGITUDE": -95.370535,
-        "LATITUDE": 29.754717,
-        "KeyMap": "493Q",
+        "Units": "A083",
+        "LONGITUDE": -95.619646,
+        "LATITUDE": 29.732359,
+        "KeyMap": "488Y",
         "CombinedResponse": "F"
       }
     },
@@ -114,14 +131,31 @@
         "Agency": "F",
         "Address": "SOUTHWEST FWY OB",
         "CrossStreet": "KIRBY EXIT",
-        "CALL_TIME": 1717666260000,
+        "CALL_TIME": 1717666620000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ033,A016",
+        "NO_UNITS": 1,
+        "Units": "A016",
         "LONGITUDE": -95.415255,
         "LATITUDE": 29.73104,
         "KeyMap": "492Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29754717,
+        "Agency": "F",
+        "Address": "LOUISIANA ST",
+        "CrossStreet": "BLK LEELAND ST",
+        "CALL_TIME": 1717666500000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E008,A008",
+        "LONGITUDE": -95.370535,
+        "LATITUDE": 29.754717,
+        "KeyMap": "493Q",
         "CombinedResponse": "F"
       }
     },
@@ -134,8 +168,8 @@
         "CALL_TIME": 1717666080000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E015,A015",
+        "NO_UNITS": 1,
+        "Units": "A015",
         "LONGITUDE": -95.382008,
         "LATITUDE": 29.810424,
         "KeyMap": "453T",
@@ -212,23 +246,6 @@
     },
     {
       "attributes": {
-        "UID": 29679348,
-        "Agency": "F",
-        "Address": "CALHOUN RD",
-        "CrossStreet": "BLK SOUTHWIND ST",
-        "CALL_TIME": 1717665360000,
-        "IncidentType": "CHECK PATIENT*",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E035",
-        "LONGITUDE": -95.352069,
-        "LATITUDE": 29.679348,
-        "KeyMap": "533V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29679116,
         "Agency": "F",
         "Address": "N BRAESWOOD BLVD",
@@ -241,23 +258,6 @@
         "LONGITUDE": -95.494935,
         "LATITUDE": 29.679116,
         "KeyMap": "531S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29737819,
-        "Agency": "F",
-        "Address": "WESTHEIMER RD",
-        "CrossStreet": "BLK NANTUCKET DR",
-        "CALL_TIME": 1717664880000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A002,M060",
-        "LONGITUDE": -95.484394,
-        "LATITUDE": 29.737819,
-        "KeyMap": "491T",
         "CombinedResponse": "F"
       }
     },
@@ -348,40 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29809467,
-        "Agency": "F",
-        "Address": "PINEGATE DR",
-        "CrossStreet": "BLK CITADEL PLAZA DR",
-        "CALL_TIME": 1717663380000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A011",
-        "LONGITUDE": -95.435392,
-        "LATITUDE": 29.809467,
-        "KeyMap": "452T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29602473,
-        "Agency": "F",
-        "Address": "KIRKVALLEY DR",
-        "CrossStreet": "BLK KIRKWYN DR",
-        "CALL_TIME": 1717663260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A052",
-        "LONGITUDE": -95.230537,
-        "LATITUDE": 29.602473,
-        "KeyMap": "576X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29707477,
         "Agency": "F",
         "Address": "DASHWOOD DR",
@@ -389,8 +355,8 @@
         "CALL_TIME": 1717662540000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ028,A028",
+        "NO_UNITS": 1,
+        "Units": "A028",
         "LONGITUDE": -95.472824,
         "LATITUDE": 29.707477,
         "KeyMap": "531F",
@@ -428,40 +394,6 @@
         "LONGITUDE": -95.476611,
         "LATITUDE": 29.849429,
         "KeyMap": "451B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29738192,
-        "Agency": "F",
-        "Address": "ELDRIDGE PKWY",
-        "CrossStreet": "BLK WICKERSHAM LN",
-        "CALL_TIME": 1717661820000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A083",
-        "LONGITUDE": -95.623534,
-        "LATITUDE": 29.738192,
-        "KeyMap": "488T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29785459,
-        "Agency": "F",
-        "Address": "KATY FWY OB",
-        "CrossStreet": "PARK TEN OBIB",
-        "CALL_TIME": 1717661760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A090",
-        "LONGITUDE": -95.665824,
-        "LATITUDE": 29.785459,
-        "KeyMap": "487C",
         "CombinedResponse": "F"
       }
     },
@@ -531,23 +463,6 @@
         "LATITUDE": 29.848233,
         "KeyMap": "450B",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29849214,
-        "Agency": "P",
-        "Address": "5705 HOLLISTER ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1717657500000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "4F13N",
-        "LONGITUDE": -95.505301,
-        "LATITUDE": 29.849214,
-        "KeyMap": "450D",
-        "CombinedResponse": "P"
       }
     },
     {
