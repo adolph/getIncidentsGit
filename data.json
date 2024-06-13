@@ -93,6 +93,74 @@
   "features": [
     {
       "attributes": {
+        "UID": 29848675,
+        "Agency": "F",
+        "Address": "TIDWELL RD",
+        "CrossStreet": "BLK LUNDY RD",
+        "CALL_TIME": 1718276220000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E034",
+        "LONGITUDE": -95.327155,
+        "LATITUDE": 29.848675,
+        "KeyMap": "454B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29633896,
+        "Agency": "F",
+        "Address": "LAWNHAVEN DR",
+        "CrossStreet": "BLK TRAIL LAKE DR",
+        "CALL_TIME": 1718276220000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "A047,E059,SQ033",
+        "LONGITUDE": -95.456092,
+        "LATITUDE": 29.633896,
+        "KeyMap": "571M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29612653,
+        "Agency": "F",
+        "Address": "CHASECREEK DR",
+        "CrossStreet": "BLK STEEPLE CHASE RD",
+        "CALL_TIME": 1718275980000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M073,A080",
+        "LONGITUDE": -95.501931,
+        "LATITUDE": 29.612653,
+        "KeyMap": "570V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29859141,
+        "Agency": "F",
+        "Address": "FAIRBANKS N HOUSTON RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1718275740000,
+        "IncidentType": "PEDESTRIAN",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "A004,AS050,M050",
+        "LONGITUDE": -95.52435,
+        "LATITUDE": 29.859141,
+        "KeyMap": "410Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29702838,
         "Agency": "F",
         "Address": "WOODRIDGE ENTR",
@@ -127,23 +195,6 @@
     },
     {
       "attributes": {
-        "UID": 29612653,
-        "Agency": "F",
-        "Address": "CHASECREEK DR",
-        "CrossStreet": "BLK STEEPLE CHASE RD",
-        "CALL_TIME": 1718275380000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M073,A080",
-        "LONGITUDE": -95.501931,
-        "LATITUDE": 29.612653,
-        "KeyMap": "570V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29691669,
         "Agency": "F",
         "Address": "S IH 45 FWY IB",
@@ -161,57 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29786905,
-        "Agency": "F",
-        "Address": "STAPLES ST",
-        "CrossStreet": "BLK SARAH ST",
-        "CALL_TIME": 1718275320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M019",
-        "LONGITUDE": -95.335057,
-        "LATITUDE": 29.786905,
-        "KeyMap": "494B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29820080,
-        "Agency": "F",
-        "Address": "BEAUMONT HWY",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1718275260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M043,E045",
-        "LONGITUDE": -95.239512,
-        "LATITUDE": 29.82008,
-        "KeyMap": "456N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29859141,
-        "Agency": "F",
-        "Address": "FAIRBANKS N HOUSTON RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1718275260000,
-        "IncidentType": "PEDESTRIAN",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "A004,AS050,M050,HME066",
-        "LONGITUDE": -95.52435,
-        "LATITUDE": 29.859141,
-        "KeyMap": "410Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29948943,
         "Agency": "F",
         "Address": "TC GREENSPOINT GREENSPOINT DR",
@@ -224,6 +224,23 @@
         "LONGITUDE": -95.410495,
         "LATITUDE": 29.948943,
         "KeyMap": "372R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29820080,
+        "Agency": "F",
+        "Address": "BEAUMONT HWY",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1718275260000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M043",
+        "LONGITUDE": -95.239512,
+        "LATITUDE": 29.82008,
+        "KeyMap": "456N",
         "CombinedResponse": "F"
       }
     },
@@ -270,8 +287,8 @@
         "CALL_TIME": 1718274720000,
         "IncidentType": "MOTOR VEHICLE INCIDENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E060,M060,A060",
+        "NO_UNITS": 4,
+        "Units": "E060,M060,A060,A028",
         "LONGITUDE": -95.514198,
         "LATITUDE": 29.737452,
         "KeyMap": "490U",
@@ -406,8 +423,8 @@
         "CALL_TIME": 1718272980000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A048,M080",
+        "NO_UNITS": 1,
+        "Units": "M080",
         "LONGITUDE": -95.456979,
         "LATITUDE": 29.642323,
         "KeyMap": "571H",
@@ -501,23 +518,6 @@
     },
     {
       "attributes": {
-        "UID": 29695829,
-        "Agency": "F",
-        "Address": "MEINEKE ST",
-        "CrossStreet": "BLK PECAN ST",
-        "CALL_TIME": 1718269440000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A040",
-        "LONGITUDE": -95.308907,
-        "LATITUDE": 29.695829,
-        "KeyMap": "534M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29651655,
         "Agency": "F",
         "Address": "BARBERRY DR",
@@ -535,23 +535,6 @@
     },
     {
       "attributes": {
-        "UID": 29771400,
-        "Agency": "F",
-        "Address": "EIH10IB-NORMANDY E IH 10 FWY IB",
-        "CrossStreet": "NORMANDY EXIT",
-        "CALL_TIME": 1718268540000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A039",
-        "LONGITUDE": -95.20612,
-        "LATITUDE": 29.7714,
-        "KeyMap": "496H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29764570,
         "Agency": "F",
         "Address": "N SAN JACINTO ST",
@@ -564,6 +547,23 @@
         "LONGITUDE": -95.357144,
         "LATITUDE": 29.76457,
         "KeyMap": "493M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29771400,
+        "Agency": "F",
+        "Address": "EIH10IB-NORMANDY E IH 10 FWY IB",
+        "CrossStreet": "NORMANDY EXIT",
+        "CALL_TIME": 1718268540000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A039",
+        "LONGITUDE": -95.20612,
+        "LATITUDE": 29.7714,
+        "KeyMap": "496H",
         "CombinedResponse": "F"
       }
     },
