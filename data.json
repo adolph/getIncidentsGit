@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29773861,
+        "UID": 29742596,
         "Agency": "F",
-        "Address": "EAST FWY OB",
-        "CrossStreet": "BLK LOCKWOOD DR",
-        "CALL_TIME": 1719397020000,
-        "IncidentType": "EMS EVENT",
+        "Address": "WOODHEAD ST",
+        "CrossStreet": "BLK HAWTHORNE ST",
+        "CALL_TIME": 1719397920000,
+        "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E027",
-        "LONGITUDE": -95.315155,
-        "LATITUDE": 29.773861,
-        "KeyMap": "494G",
+        "Units": "E016",
+        "LONGITUDE": -95.404588,
+        "LATITUDE": 29.742596,
+        "KeyMap": "492V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29784370,
+        "Agency": "F",
+        "Address": "KATY FWY IB",
+        "CrossStreet": "BLK BP WAY",
+        "CALL_TIME": 1719397560000,
+        "IncidentType": "NON EMERGENCY RESPONSE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E078",
+        "LONGITUDE": -95.62516,
+        "LATITUDE": 29.78437,
+        "KeyMap": "488B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29820080,
+        "Agency": "F",
+        "Address": "BEAUMONT HWY",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1719397440000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M044,A045",
+        "LONGITUDE": -95.239512,
+        "LATITUDE": 29.82008,
+        "KeyMap": "456N",
         "CombinedResponse": "F"
       }
     },
@@ -134,8 +168,8 @@
         "CALL_TIME": 1719396600000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "L101,M101",
+        "NO_UNITS": 1,
+        "Units": "M101",
         "LONGITUDE": -95.233858,
         "LATITUDE": 30.047985,
         "KeyMap": "336B",
@@ -229,23 +263,6 @@
     },
     {
       "attributes": {
-        "UID": 29749032,
-        "Agency": "F",
-        "Address": "PEASE ST",
-        "CrossStreet": "BLK CRAWFORD ST",
-        "CALL_TIME": 1719395760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A008",
-        "LONGITUDE": -95.364564,
-        "LATITUDE": 29.749032,
-        "KeyMap": "493Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29739165,
         "Agency": "F",
         "Address": "CLINTON DR",
@@ -321,8 +338,8 @@
         "CALL_TIME": 1719394320000,
         "IncidentType": "CRASH/MINOR",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "3B30N,6B20N",
+        "NO_UNITS": 1,
+        "Units": "3B30N",
         "LONGITUDE": -95.444385,
         "LATITUDE": 29.820504,
         "KeyMap": "452N",
@@ -338,28 +355,11 @@
         "CALL_TIME": 1719394320000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M094,A093",
+        "NO_UNITS": 1,
+        "Units": "M094",
         "LONGITUDE": -95.182318,
         "LATITUDE": 29.58544,
         "KeyMap": "617F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29633652,
-        "Agency": "F",
-        "Address": "TIDEWATER DR",
-        "CrossStreet": "BLK BUXLEY ST",
-        "CALL_TIME": 1719394140000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A048",
-        "LONGITUDE": -95.45046,
-        "LATITUDE": 29.633652,
-        "KeyMap": "571M",
         "CombinedResponse": "F"
       }
     },
@@ -382,18 +382,18 @@
     },
     {
       "attributes": {
-        "UID": 29652078,
+        "UID": 29633652,
         "Agency": "F",
-        "Address": "EASTHAVEN BLVD",
-        "CrossStreet": "BLK LASKEY ST",
-        "CALL_TIME": 1719393720000,
+        "Address": "TIDEWATER DR",
+        "CrossStreet": "BLK BUXLEY ST",
+        "CALL_TIME": 1719394140000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A052",
-        "LONGITUDE": -95.249171,
-        "LATITUDE": 29.652078,
-        "KeyMap": "575D",
+        "Units": "A048",
+        "LONGITUDE": -95.45046,
+        "LATITUDE": 29.633652,
+        "KeyMap": "571M",
         "CombinedResponse": "F"
       }
     },
@@ -411,6 +411,23 @@
         "LONGITUDE": -95.110207,
         "LATITUDE": 29.570958,
         "KeyMap": "618L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29652078,
+        "Agency": "F",
+        "Address": "EASTHAVEN BLVD",
+        "CrossStreet": "BLK LASKEY ST",
+        "CALL_TIME": 1719393720000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A052",
+        "LONGITUDE": -95.249171,
+        "LATITUDE": 29.652078,
+        "KeyMap": "575D",
         "CombinedResponse": "F"
       }
     },
@@ -497,23 +514,6 @@
         "LATITUDE": 29.616573,
         "KeyMap": "574S",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29658261,
-        "Agency": "P",
-        "Address": "9201 SCOTT ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1719377760000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "14D30N",
-        "LONGITUDE": -95.368011,
-        "LATITUDE": 29.658261,
-        "KeyMap": "573C",
-        "CombinedResponse": "P"
       }
     },
     {
