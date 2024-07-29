@@ -93,35 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29744082,
+        "UID": 29729032,
         "Agency": "F",
-        "Address": "DENNIS ST",
-        "CrossStreet": "BLK SAN JACINTO ST",
-        "CALL_TIME": 1722237360000,
-        "IncidentType": "CHECK PATIENT*",
+        "Address": "LA PLAYA ST",
+        "CrossStreet": "BLK HOLGUIN HOLLOW ST",
+        "CALL_TIME": 1722237900000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E007",
-        "LONGITUDE": -95.373682,
-        "LATITUDE": 29.744082,
-        "KeyMap": "493T",
+        "Units": "A020",
+        "LONGITUDE": -95.319903,
+        "LATITUDE": 29.729032,
+        "KeyMap": "494Y",
         "CombinedResponse": "F"
       }
     },
     {
       "attributes": {
-        "UID": 29742382,
+        "UID": 29684145,
         "Agency": "F",
-        "Address": "EASTSIDE ST",
-        "CrossStreet": "BLK WESTHEIMER RD",
-        "CALL_TIME": 1722237360000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "EDNA ST",
+        "CrossStreet": "BLK LANCASTER ST",
+        "CALL_TIME": 1722237720000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E003",
-        "LONGITUDE": -95.42501,
-        "LATITUDE": 29.742382,
-        "KeyMap": "492T",
+        "Units": "A018",
+        "LONGITUDE": -95.300772,
+        "LATITUDE": 29.684145,
+        "KeyMap": "534R",
         "CombinedResponse": "F"
       }
     },
@@ -131,7 +131,7 @@
         "Agency": "F",
         "Address": "TELEPHONE RD",
         "CrossStreet": null,
-        "CALL_TIME": 1722237360000,
+        "CALL_TIME": 1722237720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +139,57 @@
         "LONGITUDE": -95.316275,
         "LATITUDE": 29.71281,
         "KeyMap": "534G",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29695535,
+        "Agency": "F",
+        "Address": "ALMEDA RD",
+        "CrossStreet": "BLK CORDER ST",
+        "CALL_TIME": 1722237660000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "SQ033,A033",
+        "LONGITUDE": -95.388059,
+        "LATITUDE": 29.695535,
+        "KeyMap": "533J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29678988,
+        "Agency": "F",
+        "Address": "BRAESVALLEY DR",
+        "CrossStreet": "BLK BURDINE ST",
+        "CALL_TIME": 1722237600000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "SQ082,A048",
+        "LONGITUDE": -95.481541,
+        "LATITUDE": 29.678988,
+        "KeyMap": "531T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29744082,
+        "Agency": "F",
+        "Address": "DENNIS ST",
+        "CrossStreet": "BLK SAN JACINTO ST",
+        "CALL_TIME": 1722237600000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E007",
+        "LONGITUDE": -95.373682,
+        "LATITUDE": 29.744082,
+        "KeyMap": "493T",
         "CombinedResponse": "F"
       }
     },
@@ -156,57 +207,6 @@
         "LONGITUDE": -95.470751,
         "LATITUDE": 29.743033,
         "KeyMap": "491U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29814430,
-        "Agency": "F",
-        "Address": "LOS ANGELES ST",
-        "CrossStreet": "BLK CAPLIN ST",
-        "CALL_TIME": 1722237240000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A034",
-        "LONGITUDE": -95.327219,
-        "LATITUDE": 29.81443,
-        "KeyMap": "454P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29695535,
-        "Agency": "F",
-        "Address": "ALMEDA RD",
-        "CrossStreet": "BLK CORDER ST",
-        "CALL_TIME": 1722237180000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ033,A033",
-        "LONGITUDE": -95.388059,
-        "LATITUDE": 29.695535,
-        "KeyMap": "533J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29762382,
-        "Agency": "F",
-        "Address": "MILAM ST",
-        "CrossStreet": "BLK PRAIRIE ST",
-        "CALL_TIME": 1722237000000,
-        "IncidentType": "SMOKE DETECTOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E008",
-        "LONGITUDE": -95.363197,
-        "LATITUDE": 29.762382,
-        "KeyMap": "493L",
         "CombinedResponse": "F"
       }
     },
@@ -297,40 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29716347,
-        "Agency": "F",
-        "Address": "GULFTON ST",
-        "CrossStreet": "BLK RAMPART ST",
-        "CALL_TIME": 1722236040000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A002",
-        "LONGITUDE": -95.493007,
-        "LATITUDE": 29.716347,
-        "KeyMap": "531A",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29676335,
-        "Agency": "F",
-        "Address": "S GESSNER RD",
-        "CrossStreet": "BLK S BRAESWOOD BLVD",
-        "CALL_TIME": 1722236040000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A068",
-        "LONGITUDE": -95.528304,
-        "LATITUDE": 29.676335,
-        "KeyMap": "530T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29653239,
         "Agency": "F",
         "Address": "AIRPORT BLVD",
@@ -416,23 +382,6 @@
     },
     {
       "attributes": {
-        "UID": 29713358,
-        "Agency": "F",
-        "Address": "DALE CARNEGIE LN",
-        "CrossStreet": "BLK REGENCY SQUARE BLVD",
-        "CALL_TIME": 1722235200000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A060",
-        "LONGITUDE": -95.504645,
-        "LATITUDE": 29.713358,
-        "KeyMap": "530D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29764575,
         "Agency": "F",
         "Address": "N SAN JACINTO ST",
@@ -491,8 +440,8 @@
         "CALL_TIME": 1722234420000,
         "IncidentType": "CRASH/MAJOR/FSRA",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "22B34N,22B18N",
+        "NO_UNITS": 3,
+        "Units": "22B34N,22B18N,22B04N",
         "LONGITUDE": -95.412418,
         "LATITUDE": 29.917407,
         "KeyMap": "372Z",
@@ -547,40 +496,6 @@
         "LONGITUDE": -95.577355,
         "LATITUDE": 29.673796,
         "KeyMap": "529T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29610032,
-        "Agency": "F",
-        "Address": "ALDIS ST",
-        "CrossStreet": "BLK CARMALEE ST",
-        "CALL_TIME": 1722231240000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M070",
-        "LONGITUDE": -95.242023,
-        "LATITUDE": 29.610032,
-        "KeyMap": "576S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29656053,
-        "Agency": "F",
-        "Address": "W BELLFORT AVE",
-        "CrossStreet": "BLK GALLO DR",
-        "CALL_TIME": 1722230580000,
-        "IncidentType": "EMS EVENT THRU FESY",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ082",
-        "LONGITUDE": -95.503473,
-        "LATITUDE": 29.656053,
-        "KeyMap": "570D",
         "CombinedResponse": "F"
       }
     },
@@ -649,23 +564,6 @@
         "LONGITUDE": -95.517487,
         "LATITUDE": 29.700021,
         "KeyMap": "530L",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29719990,
-        "Agency": "P",
-        "Address": "6111 GLENMONT DR",
-        "CrossStreet": "BLK WESTWARD ST",
-        "CALL_TIME": 1722223740000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "17E10N",
-        "LONGITUDE": -95.489309,
-        "LATITUDE": 29.71999,
-        "KeyMap": "531A",
         "CombinedResponse": "P"
       }
     },
