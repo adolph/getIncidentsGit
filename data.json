@@ -93,18 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29688375,
+        "UID": 29779386,
         "Agency": "F",
-        "Address": "BEECHNUT ST",
+        "Address": "MAJESTIC ST",
+        "CrossStreet": "BLK HERSHE ST",
+        "CALL_TIME": 1726043520000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E027",
+        "LONGITUDE": -95.302188,
+        "LATITUDE": 29.779386,
+        "KeyMap": "494H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29860447,
+        "Agency": "F",
+        "Address": "KNOX ST",
+        "CrossStreet": "BLK GRANVILLE DR",
+        "CALL_TIME": 1726043460000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E067",
+        "LONGITUDE": -95.422791,
+        "LATITUDE": 29.860447,
+        "KeyMap": "412Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29938278,
+        "Agency": "F",
+        "Address": "JOHN F KENNEDY BLVD OB",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1726043460000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E064",
+        "LONGITUDE": -95.331174,
+        "LATITUDE": 29.938278,
+        "KeyMap": "374T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29952318,
+        "Agency": "F",
+        "Address": "EASTEX FWY IB",
         "CrossStreet": null,
-        "CALL_TIME": 1726042920000,
+        "CALL_TIME": 1726043460000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "M073",
-        "LONGITUDE": -95.570259,
-        "LATITUDE": 29.688375,
-        "KeyMap": "529Q",
+        "Units": "A064",
+        "LONGITUDE": -95.290809,
+        "LATITUDE": 29.952318,
+        "KeyMap": "375N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29725930,
+        "Agency": "F",
+        "Address": "WINDSWEPT LN",
+        "CrossStreet": "BLK UNITY DR",
+        "CALL_TIME": 1726043340000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A028,SQ028",
+        "LONGITUDE": -95.495639,
+        "LATITUDE": 29.72593,
+        "KeyMap": "491W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29707221,
+        "Agency": "F",
+        "Address": "OLD MAIN ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1726043340000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A033",
+        "LONGITUDE": -95.404452,
+        "LATITUDE": 29.707221,
+        "KeyMap": "532H",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +199,7 @@
         "Agency": "F",
         "Address": "FONDREN RD",
         "CrossStreet": null,
-        "CALL_TIME": 1726042920000,
+        "CALL_TIME": 1726043280000,
         "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,11 +212,28 @@
     },
     {
       "attributes": {
+        "UID": 29756694,
+        "Agency": "F",
+        "Address": "AUGUSTA DR",
+        "CrossStreet": "BLK VALLEY FORGE DR",
+        "CALL_TIME": 1726043280000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A002",
+        "LONGITUDE": -95.482743,
+        "LATITUDE": 29.756694,
+        "KeyMap": "491P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29665781,
         "Agency": "F",
         "Address": "HUFF DR",
         "CrossStreet": "BLK WILLOW MEADOW DR",
-        "CALL_TIME": 1726042860000,
+        "CALL_TIME": 1726043160000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +241,23 @@
         "LONGITUDE": -95.529593,
         "LATITUDE": 29.665781,
         "KeyMap": "530X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29688375,
+        "Agency": "F",
+        "Address": "BEECHNUT ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1726043040000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M073",
+        "LONGITUDE": -95.570259,
+        "LATITUDE": 29.688375,
+        "KeyMap": "529Q",
         "CombinedResponse": "F"
       }
     },
@@ -195,23 +314,6 @@
     },
     {
       "attributes": {
-        "UID": 29707221,
-        "Agency": "F",
-        "Address": "OLD MAIN ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1726042680000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A033",
-        "LONGITUDE": -95.404452,
-        "LATITUDE": 29.707221,
-        "KeyMap": "532H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29585733,
         "Agency": "F",
         "Address": "HEATHER VALLEY WAY",
@@ -236,8 +338,8 @@
         "CALL_TIME": 1726042080000,
         "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "15E41C,16E43N,15E21C,15E43N",
+        "NO_UNITS": 3,
+        "Units": "15E41C,16E43N,15E21C",
         "LONGITUDE": -95.427802,
         "LATITUDE": 29.677206,
         "KeyMap": "532T",
@@ -314,23 +416,6 @@
     },
     {
       "attributes": {
-        "UID": 29697783,
-        "Agency": "F",
-        "Address": "TRIOLA LN",
-        "CrossStreet": "BLK BELLE GLEN DR",
-        "CALL_TIME": 1726039320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A076",
-        "LONGITUDE": -95.585504,
-        "LATITUDE": 29.697783,
-        "KeyMap": "529J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29646658,
         "Agency": "F",
         "Address": "CATHEDRAL DR",
@@ -361,23 +446,6 @@
         "LATITUDE": 29.678801,
         "KeyMap": "532T",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29734501,
-        "Agency": "P",
-        "Address": "1510 TRUXILLO ST",
-        "CrossStreet": "BLK ALMEDA RD",
-        "CALL_TIME": 1726036320000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "10H41N",
-        "LONGITUDE": -95.37606,
-        "LATITUDE": 29.734501,
-        "KeyMap": "493X",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -428,23 +496,6 @@
         "LONGITUDE": -95.619468,
         "LATITUDE": 29.785367,
         "KeyMap": "488C",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29829352,
-        "Agency": "P",
-        "Address": "8655 PITNER RD",
-        "CrossStreet": "BLK HOLLISTER ST",
-        "CALL_TIME": 1726027860000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "5F25N",
-        "LONGITUDE": -95.504693,
-        "LATITUDE": 29.829352,
-        "KeyMap": "450M",
         "CombinedResponse": "P"
       }
     },
