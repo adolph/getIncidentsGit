@@ -93,69 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29731746,
+        "UID": 29821980,
         "Agency": "F",
-        "Address": "FANNIN ST",
+        "Address": "KEMPWOOD DR",
         "CrossStreet": null,
-        "CALL_TIME": 1726215720000,
-        "IncidentType": "EMS EVENT",
+        "CALL_TIME": 1726216320000,
+        "IncidentType": "CAR FIRE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A007",
-        "LONGITUDE": -95.383603,
-        "LATITUDE": 29.731746,
-        "KeyMap": "493X",
+        "NO_UNITS": 2,
+        "Units": "E077,E005",
+        "LONGITUDE": -95.52259,
+        "LATITUDE": 29.82198,
+        "KeyMap": "450L",
         "CombinedResponse": "F"
       }
     },
     {
       "attributes": {
-        "UID": 29841861,
-        "Agency": "P",
-        "Address": "8901 LOCKWOOD DR",
-        "CrossStreet": "BLK BOICEWOOD ST",
-        "CALL_TIME": 1726215660000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "8C44F",
-        "LONGITUDE": -95.318996,
-        "LATITUDE": 29.841861,
-        "KeyMap": "454G",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29841861,
+        "UID": 29717236,
         "Agency": "F",
-        "Address": "LOCKWOOD DR",
-        "CrossStreet": "BLK BOICEWOOD ST",
-        "CALL_TIME": 1726215660000,
-        "IncidentType": "HOUSE ON FIRE",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 10,
-        "Units": "E043,E056,L056,E039,M034,SF030,E034,L034,D019,D034",
-        "LONGITUDE": -95.318996,
-        "LATITUDE": 29.841861,
-        "KeyMap": "454G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29676403,
-        "Agency": "F",
-        "Address": "MAIN ST",
-        "CrossStreet": "BLK US 90A FWY IB",
-        "CALL_TIME": 1726215660000,
+        "Address": "COUGAR VILLAGE DR",
+        "CrossStreet": "BLK UNIVERSITY DR",
+        "CALL_TIME": 1726216200000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E021,M024,A037",
-        "LONGITUDE": -95.428426,
-        "LATITUDE": 29.676403,
-        "KeyMap": "532T",
+        "NO_UNITS": 1,
+        "Units": "E025",
+        "LONGITUDE": -95.341234,
+        "LATITUDE": 29.717236,
+        "KeyMap": "534A",
         "CombinedResponse": "F"
       }
     },
@@ -165,7 +131,7 @@
         "Agency": "F",
         "Address": "PLUM CREEK LN",
         "CrossStreet": "BLK PLUM CREEK TRAIL LN",
-        "CALL_TIME": 1726215540000,
+        "CALL_TIME": 1726216020000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -178,19 +144,70 @@
     },
     {
       "attributes": {
-        "UID": 29690306,
+        "UID": 29731746,
         "Agency": "F",
-        "Address": "PARIS ST",
-        "CrossStreet": "BLK WARD ST",
-        "CALL_TIME": 1726215360000,
+        "Address": "FANNIN ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1726216020000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E046",
-        "LONGITUDE": -95.350658,
-        "LATITUDE": 29.690306,
-        "KeyMap": "533R",
+        "Units": "A007",
+        "LONGITUDE": -95.383603,
+        "LATITUDE": 29.731746,
+        "KeyMap": "493X",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29676403,
+        "Agency": "F",
+        "Address": "MAIN ST",
+        "CrossStreet": "BLK US 90A FWY IB",
+        "CALL_TIME": 1726215900000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "E021,M024,A037",
+        "LONGITUDE": -95.428426,
+        "LATITUDE": 29.676403,
+        "KeyMap": "532T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29841861,
+        "Agency": "F",
+        "Address": "LOCKWOOD DR",
+        "CrossStreet": "BLK BOICEWOOD ST",
+        "CALL_TIME": 1726215660000,
+        "IncidentType": "HOUSE ON FIRE",
+        "ALARM_LEVEL": 1,
+        "NO_UNITS": 10,
+        "Units": "E043,E056,L056,E039,D034,SF030,E034,L034,D019,M034",
+        "LONGITUDE": -95.318996,
+        "LATITUDE": 29.841861,
+        "KeyMap": "454G",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29841861,
+        "Agency": "P",
+        "Address": "8901 LOCKWOOD DR",
+        "CrossStreet": "BLK BOICEWOOD ST",
+        "CALL_TIME": 1726215660000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "8C44F,8C60F",
+        "LONGITUDE": -95.318996,
+        "LATITUDE": 29.841861,
+        "KeyMap": "454G",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -219,8 +236,8 @@
         "CALL_TIME": 1726215300000,
         "IncidentType": "CHECK PATIENT*",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E051",
+        "NO_UNITS": 2,
+        "Units": "E051,A051",
         "LONGITUDE": -95.496936,
         "LATITUDE": 29.708886,
         "KeyMap": "530H",
@@ -263,23 +280,6 @@
     },
     {
       "attributes": {
-        "UID": 29555391,
-        "Agency": "F",
-        "Address": "NASA PKWY",
-        "CrossStreet": null,
-        "CALL_TIME": 1726214700000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M072",
-        "LONGITUDE": -95.07737,
-        "LATITUDE": 29.555391,
-        "KeyMap": "619P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29674065,
         "Agency": "F",
         "Address": "W SAM HOUSTON PKWY S",
@@ -287,8 +287,8 @@
         "CALL_TIME": 1726214640000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A073,SQ082",
+        "NO_UNITS": 1,
+        "Units": "SQ082",
         "LONGITUDE": -95.560869,
         "LATITUDE": 29.674065,
         "KeyMap": "529U",
@@ -701,23 +701,6 @@
         "LATITUDE": 29.660988,
         "KeyMap": "572B",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29987394,
-        "Agency": "F",
-        "Address": "N TERMINAL RD",
-        "CrossStreet": "BLK JOHN F KENNEDY BLVD IB",
-        "CALL_TIME": 1726209120000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A064",
-        "LONGITUDE": -95.350949,
-        "LATITUDE": 29.987394,
-        "KeyMap": "334W",
-        "CombinedResponse": "F"
       }
     },
     {
