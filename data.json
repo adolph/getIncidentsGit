@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29850294,
+        "UID": 29632294,
         "Agency": "F",
-        "Address": "TANNER RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1726923720000,
+        "Address": "BUNGALOW LN",
+        "CrossStreet": "BLK MARTIN LUTHER KING BLVD",
+        "CALL_TIME": 1726924440000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 4,
+        "Units": "A036,E055,CAT001,SQ046",
+        "LONGITUDE": -95.341182,
+        "LATITUDE": 29.632294,
+        "KeyMap": "574J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29813357,
+        "Agency": "F",
+        "Address": "KELLEY ST",
+        "CrossStreet": "KELLEY UTRN OB",
+        "CALL_TIME": 1726924260000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E039",
+        "LONGITUDE": -95.311396,
+        "LATITUDE": 29.813357,
+        "KeyMap": "454Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29680694,
+        "Agency": "F",
+        "Address": "KALEWOOD DR",
+        "CrossStreet": "BLK HERALD SQUARE DR",
+        "CALL_TIME": 1726924200000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "HME066",
-        "LONGITUDE": -95.56327,
-        "LATITUDE": 29.850294,
-        "KeyMap": "449C",
+        "Units": "A073",
+        "LONGITUDE": -95.586033,
+        "LATITUDE": 29.680694,
+        "KeyMap": "529N",
         "CombinedResponse": "F"
       }
     },
@@ -114,15 +148,49 @@
         "Agency": "F",
         "Address": "KENLAKE GROVE DR",
         "CrossStreet": "BLK ELK CREEK DR",
-        "CALL_TIME": 1726923660000,
+        "CALL_TIME": 1726923960000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E103",
+        "NO_UNITS": 2,
+        "Units": "E103,M101",
         "LONGITUDE": -95.168597,
         "LATITUDE": 30.049224,
         "KeyMap": "337C",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29893259,
+        "Agency": "F",
+        "Address": "RUTHERFORD LN",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1726923840000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E067,M058",
+        "LONGITUDE": -95.426224,
+        "LATITUDE": 29.893259,
+        "KeyMap": "412K",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29850294,
+        "Agency": "P",
+        "Address": "10631 TANNER RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1726923600000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "5F38D,5F15D",
+        "LONGITUDE": -95.56327,
+        "LATITUDE": 29.850294,
+        "KeyMap": "449C",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -144,23 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29893259,
-        "Agency": "F",
-        "Address": "RUTHERFORD LN",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1726923420000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E067,M058",
-        "LONGITUDE": -95.426224,
-        "LATITUDE": 29.893259,
-        "KeyMap": "412K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29599146,
         "Agency": "F",
         "Address": "SAGEHURST LN",
@@ -168,8 +219,8 @@
         "CALL_TIME": 1726923360000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E070,M094,A093",
+        "NO_UNITS": 2,
+        "Units": "M094,A093",
         "LONGITUDE": -95.212643,
         "LATITUDE": 29.599146,
         "KeyMap": "576Y",
@@ -202,8 +253,8 @@
         "CALL_TIME": 1726923120000,
         "IncidentType": "MOTOR VEHICLE ACCIDENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "RE042,E043,L045,A039",
+        "NO_UNITS": 2,
+        "Units": "A039,RE042",
         "LONGITUDE": -95.276886,
         "LATITUDE": 29.831622,
         "KeyMap": "455K",
@@ -253,28 +304,11 @@
         "CALL_TIME": 1726922940000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "M036,E046,A025",
+        "NO_UNITS": 2,
+        "Units": "A025,M036",
         "LONGITUDE": -95.359877,
         "LATITUDE": 29.672085,
         "KeyMap": "533U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29608381,
-        "Agency": "F",
-        "Address": "SPRINGTIME LN",
-        "CrossStreet": "BLK WINGTIP DR",
-        "CALL_TIME": 1726922940000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M070",
-        "LONGITUDE": -95.273291,
-        "LATITUDE": 29.608381,
-        "KeyMap": "575T",
         "CombinedResponse": "F"
       }
     },
@@ -297,18 +331,18 @@
     },
     {
       "attributes": {
-        "UID": 29596890,
+        "UID": 29608381,
         "Agency": "F",
-        "Address": "SBW8OB-KIRBY DR S BW 8 TWY W",
-        "CrossStreet": "KIRBY EXIT",
-        "CALL_TIME": 1726922880000,
+        "Address": "SPRINGTIME LN",
+        "CrossStreet": "BLK WINGTIP DR",
+        "CALL_TIME": 1726922940000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A047",
-        "LONGITUDE": -95.400588,
-        "LATITUDE": 29.59689,
-        "KeyMap": "572Z",
+        "Units": "M070",
+        "LONGITUDE": -95.273291,
+        "LATITUDE": 29.608381,
+        "KeyMap": "575T",
         "CombinedResponse": "F"
       }
     },
@@ -327,6 +361,23 @@
         "LATITUDE": 29.831622,
         "KeyMap": "455K",
         "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29596890,
+        "Agency": "F",
+        "Address": "SBW8OB-KIRBY DR S BW 8 TWY W",
+        "CrossStreet": "KIRBY EXIT",
+        "CALL_TIME": 1726922880000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A047",
+        "LONGITUDE": -95.400588,
+        "LATITUDE": 29.59689,
+        "KeyMap": "572Z",
+        "CombinedResponse": "F"
       }
     },
     {
@@ -355,28 +406,11 @@
         "CALL_TIME": 1726922580000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "AR0854,M063",
+        "NO_UNITS": 1,
+        "Units": "M063",
         "LONGITUDE": -95.339408,
         "LATITUDE": 29.987418,
         "KeyMap": "334X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29751685,
-        "Agency": "F",
-        "Address": "POST OAK BLVD",
-        "CrossStreet": "BLK SAN FELIPE ST",
-        "CALL_TIME": 1726922460000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "L028",
-        "LONGITUDE": -95.460737,
-        "LATITUDE": 29.751685,
-        "KeyMap": "491Q",
         "CombinedResponse": "F"
       }
     },
@@ -406,28 +440,11 @@
         "CALL_TIME": 1726922280000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A046,SQ046",
+        "NO_UNITS": 1,
+        "Units": "A046",
         "LONGITUDE": -95.349858,
         "LATITUDE": 29.677887,
         "KeyMap": "533V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29691939,
-        "Agency": "F",
-        "Address": "SOUTHWEST FWY IB",
-        "CrossStreet": null,
-        "CALL_TIME": 1726922280000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E068",
-        "LONGITUDE": -95.526672,
-        "LATITUDE": 29.691939,
-        "KeyMap": "530K",
         "CombinedResponse": "F"
       }
     },
@@ -457,8 +474,8 @@
         "CALL_TIME": 1726921980000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M067,A004",
+        "NO_UNITS": 1,
+        "Units": "A004",
         "LONGITUDE": -95.505379,
         "LATITUDE": 29.856422,
         "KeyMap": "410Z",
@@ -491,28 +508,11 @@
         "CALL_TIME": 1726921860000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A035,M040",
+        "NO_UNITS": 1,
+        "Units": "A035",
         "LONGITUDE": -95.329817,
         "LATITUDE": 29.6773,
         "KeyMap": "534T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29820080,
-        "Agency": "F",
-        "Address": "BEAUMONT HWY",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1726921800000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.239512,
-        "LATITUDE": 29.82008,
-        "KeyMap": "456N",
         "CombinedResponse": "F"
       }
     },
@@ -535,23 +535,6 @@
     },
     {
       "attributes": {
-        "UID": 29596479,
-        "Agency": "F",
-        "Address": "KENBROOK DR",
-        "CrossStreet": "BLK MCCULLUM ST",
-        "CALL_TIME": 1726921740000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M080",
-        "LONGITUDE": -95.494148,
-        "LATITUDE": 29.596479,
-        "KeyMap": "571W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29747675,
         "Agency": "F",
         "Address": "AVENUE O",
@@ -569,18 +552,18 @@
     },
     {
       "attributes": {
-        "UID": 29848164,
+        "UID": 29596479,
         "Agency": "F",
-        "Address": "DAVIDSON ST",
-        "CrossStreet": "BLK DAVIDSON LANDING LN",
-        "CALL_TIME": 1726921560000,
+        "Address": "KENBROOK DR",
+        "CrossStreet": "BLK MCCULLUM ST",
+        "CALL_TIME": 1726921740000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A031",
-        "LONGITUDE": -95.415364,
-        "LATITUDE": 29.848164,
-        "KeyMap": "452C",
+        "Units": "M080",
+        "LONGITUDE": -95.494148,
+        "LATITUDE": 29.596479,
+        "KeyMap": "571W",
         "CombinedResponse": "F"
       }
     },
@@ -654,23 +637,6 @@
     },
     {
       "attributes": {
-        "UID": 29809842,
-        "Agency": "F",
-        "Address": "AURORA ST",
-        "CrossStreet": "BLK PRINCETON ST",
-        "CALL_TIME": 1726920480000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M009",
-        "LONGITUDE": -95.38858,
-        "LATITUDE": 29.809842,
-        "KeyMap": "453S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29616714,
         "Agency": "F",
         "Address": "CITYSCAPE AVE",
@@ -705,23 +671,6 @@
     },
     {
       "attributes": {
-        "UID": 29940285,
-        "Agency": "P",
-        "Address": "198 N SAM HOUSTON PKWY E",
-        "CrossStreet": null,
-        "CALL_TIME": 1726920000000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "22B20D",
-        "LONGITUDE": -95.407507,
-        "LATITUDE": 29.940285,
-        "KeyMap": "372V",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29642421,
         "Agency": "P",
         "Address": "12401 CHIMNEY ROCK RD",
@@ -734,23 +683,6 @@
         "LONGITUDE": -95.482221,
         "LATITUDE": 29.642421,
         "KeyMap": "571F",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29686638,
-        "Agency": "P",
-        "Address": "3199 HOLLY HALL ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1726918920000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "16E26A",
-        "LONGITUDE": -95.381691,
-        "LATITUDE": 29.686638,
-        "KeyMap": "533P",
         "CombinedResponse": "P"
       }
     },
@@ -785,23 +717,6 @@
         "LONGITUDE": -95.548375,
         "LATITUDE": 29.737065,
         "KeyMap": "489V",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29783676,
-        "Agency": "P",
-        "Address": "300 HOFFMAN ST",
-        "CrossStreet": "BLK GLENARM ST",
-        "CALL_TIME": 1726903320000,
-        "IncidentType": "CRASH/MAJOR/FATALITY",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "3Z07N,70Z92N",
-        "LONGITUDE": -95.310481,
-        "LATITUDE": 29.783676,
-        "KeyMap": "494D",
         "CombinedResponse": "P"
       }
     },
