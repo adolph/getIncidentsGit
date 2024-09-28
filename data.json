@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
+        "UID": 29583978,
+        "Agency": "P",
+        "Address": "1301 DIXIE FARM RD",
+        "CrossStreet": "BLK ALPINE RIDGE WAY",
+        "CALL_TIME": 1727517720000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "12D39N",
+        "LONGITUDE": -95.187353,
+        "LATITUDE": 29.583978,
+        "KeyMap": "617E",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29734651,
         "Agency": "F",
         "Address": "MEADOWGLEN LN",
         "CrossStreet": "BLK S KIRKWOOD RD",
-        "CALL_TIME": 1727516820000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "CALL_TIME": 1727517660000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E083",
+        "NO_UNITS": 2,
+        "Units": "E083,A076",
         "LONGITUDE": -95.585089,
         "LATITUDE": 29.734651,
         "KeyMap": "489S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29664676,
+        "Agency": "F",
+        "Address": "CEDARHURST DR",
+        "CrossStreet": "BLK STILLBROOKE DR",
+        "CALL_TIME": 1727517600000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A048,SQ082",
+        "LONGITUDE": -95.471807,
+        "LATITUDE": 29.664676,
+        "KeyMap": "531X",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +148,7 @@
         "Agency": "F",
         "Address": "PIPING ROCK LN",
         "CrossStreet": "BLK WALNUT BEND LN",
-        "CALL_TIME": 1727516760000,
+        "CALL_TIME": 1727517240000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
@@ -122,23 +156,6 @@
         "LONGITUDE": -95.563336,
         "LATITUDE": 29.740692,
         "KeyMap": "489U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29782083,
-        "Agency": "F",
-        "Address": "HUTTON ST",
-        "CrossStreet": "BLK CAMPBELL ST",
-        "CALL_TIME": 1727516520000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A019",
-        "LONGITUDE": -95.33181,
-        "LATITUDE": 29.782083,
-        "KeyMap": "494B",
         "CombinedResponse": "F"
       }
     },
@@ -156,23 +173,6 @@
         "LONGITUDE": -95.350751,
         "LATITUDE": 29.672108,
         "KeyMap": "533V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29692173,
-        "Agency": "F",
-        "Address": "SOUTHWEST FWY OB",
-        "CrossStreet": null,
-        "CALL_TIME": 1727515920000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "L068",
-        "LONGITUDE": -95.527428,
-        "LATITUDE": 29.692173,
-        "KeyMap": "530K",
         "CombinedResponse": "F"
       }
     },
@@ -338,8 +338,8 @@
         "CALL_TIME": 1727514480000,
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 10,
-        "Units": "D064,E056,E064,D034,L034,M056,SF030,E034,L064,E074",
+        "NO_UNITS": 8,
+        "Units": "D064,E056,E064,L064,E074,M056,SF030,D034",
         "LONGITUDE": -95.332012,
         "LATITUDE": 29.904824,
         "KeyMap": "414F",
@@ -382,23 +382,6 @@
     },
     {
       "attributes": {
-        "UID": 29600805,
-        "Agency": "F",
-        "Address": "S SAM HOUSTON PKWY E",
-        "CrossStreet": "BLK HALL RD",
-        "CALL_TIME": 1727513880000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A052",
-        "LONGITUDE": -95.265495,
-        "LATITUDE": 29.600805,
-        "KeyMap": "575Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29734293,
         "Agency": "F",
         "Address": "W HOUSTON CENTER BLVD",
@@ -433,23 +416,6 @@
     },
     {
       "attributes": {
-        "UID": 29705180,
-        "Agency": "F",
-        "Address": "BROAD ST",
-        "CrossStreet": "BLK HUEY ST",
-        "CALL_TIME": 1727513700000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E040,M040",
-        "LONGITUDE": -95.30764,
-        "LATITUDE": 29.70518,
-        "KeyMap": "534H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29745217,
         "Agency": "F",
         "Address": "BRIARGLEN DR",
@@ -462,6 +428,23 @@
         "LONGITUDE": -95.450622,
         "LATITUDE": 29.745217,
         "KeyMap": "491V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29705180,
+        "Agency": "F",
+        "Address": "BROAD ST",
+        "CrossStreet": "BLK HUEY ST",
+        "CALL_TIME": 1727513700000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M040",
+        "LONGITUDE": -95.30764,
+        "LATITUDE": 29.70518,
+        "KeyMap": "534H",
         "CombinedResponse": "F"
       }
     },
@@ -552,23 +535,6 @@
     },
     {
       "attributes": {
-        "UID": 29851307,
-        "Agency": "F",
-        "Address": "MESA DR",
-        "CrossStreet": "BLK TEXAS ACORN AVE",
-        "CALL_TIME": 1727512380000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.262363,
-        "LATITUDE": 29.851307,
-        "KeyMap": "455C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29724709,
         "Agency": "F",
         "Address": "LOOP CENTRAL DR",
@@ -581,23 +547,6 @@
         "LONGITUDE": -95.455069,
         "LATITUDE": 29.724709,
         "KeyMap": "491Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29737150,
-        "Agency": "F",
-        "Address": "POST OAK BLVD",
-        "CrossStreet": "BLK HIDALGO ST",
-        "CALL_TIME": 1727511540000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ028",
-        "LONGITUDE": -95.460642,
-        "LATITUDE": 29.73715,
-        "KeyMap": "491U",
         "CombinedResponse": "F"
       }
     },
@@ -722,6 +671,23 @@
     },
     {
       "attributes": {
+        "UID": 29703537,
+        "Agency": "P",
+        "Address": "12468 BELLAIRE BLVD",
+        "CrossStreet": "BLK S DAIRY ASHFORD RD",
+        "CALL_TIME": 1727506380000,
+        "IncidentType": "CRASH/MINOR/FSGI",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "19G35N",
+        "LONGITUDE": -95.601574,
+        "LATITUDE": 29.703537,
+        "KeyMap": "528H",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29695683,
         "Agency": "P",
         "Address": "7500 COOK RD",
@@ -734,23 +700,6 @@
         "LONGITUDE": -95.596026,
         "LATITUDE": 29.695683,
         "KeyMap": "529J",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29819433,
-        "Agency": "P",
-        "Address": "5403 W 34TH ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1727505000000,
-        "IncidentType": "CRASH/MAJOR/FSRA",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "3B17N",
-        "LONGITUDE": -95.469171,
-        "LATITUDE": 29.819433,
-        "KeyMap": "451Q",
         "CombinedResponse": "P"
       }
     },
@@ -836,6 +785,23 @@
         "LONGITUDE": -95.378319,
         "LATITUDE": 29.826331,
         "KeyMap": "453K",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29709131,
+        "Agency": "P",
+        "Address": "6118 CLAREWOOD DR",
+        "CrossStreet": "BLK ASHCROFT DR",
+        "CALL_TIME": 1727491260000,
+        "IncidentType": "CRASH/MINOR/FSGI",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "17E15N",
+        "LONGITUDE": -95.489517,
+        "LATITUDE": 29.709131,
+        "KeyMap": "531E",
         "CombinedResponse": "P"
       }
     }
