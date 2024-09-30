@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29761545,
+        "UID": 29652648,
         "Agency": "F",
-        "Address": "MAIN ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1727684340000,
+        "Address": "COLLEGE AVE",
+        "CrossStreet": "BLK GULF FWY IB",
+        "CALL_TIME": 1727685000000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E009",
-        "LONGITUDE": -95.3614,
-        "LATITUDE": 29.761545,
-        "KeyMap": "493L",
+        "Units": "E052",
+        "LONGITUDE": -95.250845,
+        "LATITUDE": 29.652648,
+        "KeyMap": "575D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29803066,
+        "Agency": "F",
+        "Address": "LONG POINT RD",
+        "CrossStreet": "BLK SPRINGWOOD DR",
+        "CALL_TIME": 1727684820000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "E005,A005,M050",
+        "LONGITUDE": -95.507057,
+        "LATITUDE": 29.803066,
+        "KeyMap": "450V",
         "CombinedResponse": "F"
       }
     },
@@ -117,11 +134,45 @@
         "CALL_TIME": 1727684340000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E061,M055",
+        "NO_UNITS": 1,
+        "Units": "M055",
         "LONGITUDE": -95.306419,
         "LATITUDE": 29.606992,
         "KeyMap": "574V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29761545,
+        "Agency": "F",
+        "Address": "MAIN ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1727684340000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E009,A009",
+        "LONGITUDE": -95.3614,
+        "LATITUDE": 29.761545,
+        "KeyMap": "493L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29750508,
+        "Agency": "F",
+        "Address": "WILCREST DR",
+        "CrossStreet": "BLK BRIAR FOREST DR",
+        "CALL_TIME": 1727684280000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M083",
+        "LONGITUDE": -95.572148,
+        "LATITUDE": 29.750508,
+        "KeyMap": "489Q",
         "CombinedResponse": "F"
       }
     },
@@ -139,23 +190,6 @@
         "LONGITUDE": -95.264583,
         "LATITUDE": 29.85296,
         "KeyMap": "455C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29750508,
-        "Agency": "F",
-        "Address": "WILCREST DR",
-        "CrossStreet": "BLK BRIAR FOREST DR",
-        "CALL_TIME": 1727684280000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "L069,M083",
-        "LONGITUDE": -95.572148,
-        "LATITUDE": 29.750508,
-        "KeyMap": "489Q",
         "CombinedResponse": "F"
       }
     },
@@ -202,8 +236,8 @@
         "CALL_TIME": 1727684040000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E001,M009",
+        "NO_UNITS": 1,
+        "Units": "M009",
         "LONGITUDE": -95.368022,
         "LATITUDE": 29.753172,
         "KeyMap": "493Q",
@@ -263,40 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29740917,
-        "Agency": "P",
-        "Address": "2500 SH 288 HWY OB",
-        "CrossStreet": "S US 59 EXIT",
-        "CALL_TIME": 1727683320000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "10H61N",
-        "LONGITUDE": -95.365505,
-        "LATITUDE": 29.740917,
-        "KeyMap": "493U",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29676106,
-        "Agency": "F",
-        "Address": "BISSONNET ST",
-        "CrossStreet": "BLK SOUTHWEST FWY IB",
-        "CALL_TIME": 1727683320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A073",
-        "LONGITUDE": -95.538057,
-        "LATITUDE": 29.676106,
-        "KeyMap": "530S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29709182,
         "Agency": "F",
         "Address": "CLAREWOOD DR",
@@ -348,57 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29685765,
-        "Agency": "F",
-        "Address": "CORDER ST",
-        "CrossStreet": "BLK SAINT AUGUSTINE ST",
-        "CALL_TIME": 1727682960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A040",
-        "LONGITUDE": -95.362721,
-        "LATITUDE": 29.685765,
-        "KeyMap": "533Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29787017,
-        "Agency": "F",
-        "Address": "ASH CREEK DR",
-        "CrossStreet": "BLK OAK STREAM DR",
-        "CALL_TIME": 1727682720000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M049",
-        "LONGITUDE": -95.581359,
-        "LATITUDE": 29.787017,
-        "KeyMap": "489B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29853050,
-        "Agency": "F",
-        "Address": "GUHN RD",
-        "CrossStreet": "BLK CASTLEFORD ST",
-        "CALL_TIME": 1727682000000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A004",
-        "LONGITUDE": -95.515415,
-        "LATITUDE": 29.85305,
-        "KeyMap": "450C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29750295,
         "Agency": "F",
         "Address": "WILCREST DR",
@@ -445,40 +394,6 @@
         "LONGITUDE": -95.398116,
         "LATITUDE": 29.757333,
         "KeyMap": "492R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29950610,
-        "Agency": "F",
-        "Address": "GREENS RD",
-        "CrossStreet": "BLK WAYFOREST DR",
-        "CALL_TIME": 1727681580000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A074",
-        "LONGITUDE": -95.397222,
-        "LATITUDE": 29.95061,
-        "KeyMap": "373N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29685168,
-        "Agency": "F",
-        "Address": "LYDIA ST",
-        "CrossStreet": "BLK TIERWESTER ST",
-        "CALL_TIME": 1727681460000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A046",
-        "LONGITUDE": -95.374834,
-        "LATITUDE": 29.685168,
-        "KeyMap": "533P",
         "CombinedResponse": "F"
       }
     },
@@ -593,8 +508,8 @@
         "CALL_TIME": 1727678340000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "11H21N,11H12N,11H32N",
+        "NO_UNITS": 2,
+        "Units": "11H21N,11H12N",
         "LONGITUDE": -95.26011,
         "LATITUDE": 29.718516,
         "KeyMap": "535C",
