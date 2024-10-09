@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29811062,
+        "UID": 29734667,
         "Agency": "F",
-        "Address": "HAMMERLY BLVD",
-        "CrossStreet": "BLK LAVERNE ST",
-        "CALL_TIME": 1728469920000,
-        "IncidentType": "EMS EVENT",
+        "Address": "SHADOWBRIAR DR",
+        "CrossStreet": "BLK OXFORD PARK DR",
+        "CALL_TIME": 1728470400000,
+        "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A005",
-        "LONGITUDE": -95.509653,
-        "LATITUDE": 29.811062,
-        "KeyMap": "450R",
+        "Units": "E075",
+        "LONGITUDE": -95.59807,
+        "LATITUDE": 29.734667,
+        "KeyMap": "488V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29813934,
+        "Agency": "F",
+        "Address": "NIH610IB-AIRLINE DR N IH 610 FWY",
+        "CrossStreet": "BLK N IH 610 FWY E",
+        "CALL_TIME": 1728470400000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "A015,E031,E015",
+        "LONGITUDE": -95.382653,
+        "LATITUDE": 29.813934,
+        "KeyMap": "453P",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "FONDREN RD",
         "CrossStreet": "BLK TURK LN",
-        "CALL_TIME": 1728469920000,
+        "CALL_TIME": 1728470400000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
@@ -122,6 +139,57 @@
         "LONGITUDE": -95.508307,
         "LATITUDE": 29.644141,
         "KeyMap": "570G",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29813934,
+        "Agency": "P",
+        "Address": "NIH610IB-AIRLINE DR 1296 N IH 610 FWY",
+        "CrossStreet": "BLK N IH 610 FWY E",
+        "CALL_TIME": 1728470340000,
+        "IncidentType": "CRASH/MAJOR/FSRA",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "3B49N",
+        "LONGITUDE": -95.382653,
+        "LATITUDE": 29.813934,
+        "KeyMap": "453P",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29734483,
+        "Agency": "F",
+        "Address": "RICHMOND AVE",
+        "CrossStreet": "BLK GRAUSTARK ST",
+        "CALL_TIME": 1728470040000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A007",
+        "LONGITUDE": -95.394071,
+        "LATITUDE": 29.734483,
+        "KeyMap": "493W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29807922,
+        "Agency": "F",
+        "Address": "HOLLISTER ST",
+        "CrossStreet": "BLK ASHBLOOM LN",
+        "CALL_TIME": 1728470040000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M050",
+        "LONGITUDE": -95.506537,
+        "LATITUDE": 29.807922,
+        "KeyMap": "450V",
         "CombinedResponse": "F"
       }
     },
@@ -139,6 +207,23 @@
         "LONGITUDE": -95.450081,
         "LATITUDE": 29.743755,
         "KeyMap": "491V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29811062,
+        "Agency": "F",
+        "Address": "HAMMERLY BLVD",
+        "CrossStreet": "BLK LAVERNE ST",
+        "CALL_TIME": 1728469920000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A005",
+        "LONGITUDE": -95.509653,
+        "LATITUDE": 29.811062,
+        "KeyMap": "450R",
         "CombinedResponse": "F"
       }
     },
@@ -207,23 +292,6 @@
         "LONGITUDE": -95.526225,
         "LATITUDE": 29.817448,
         "KeyMap": "450P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29807922,
-        "Agency": "F",
-        "Address": "HOLLISTER ST",
-        "CrossStreet": "BLK ASHBLOOM LN",
-        "CALL_TIME": 1728469380000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M050",
-        "LONGITUDE": -95.506537,
-        "LATITUDE": 29.807922,
-        "KeyMap": "450V",
         "CombinedResponse": "F"
       }
     },
@@ -616,23 +684,6 @@
         "LATITUDE": 29.785638,
         "KeyMap": "495D",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29657518,
-        "Agency": "F",
-        "Address": "SPELLMAN RD",
-        "CrossStreet": "BLK GATLINBURG DR",
-        "CALL_TIME": 1728460920000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M073",
-        "LONGITUDE": -95.537967,
-        "LATITUDE": 29.657518,
-        "KeyMap": "570A",
-        "CombinedResponse": "F"
       }
     },
     {
