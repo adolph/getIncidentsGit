@@ -93,15 +93,32 @@
   "features": [
     {
       "attributes": {
+        "UID": 29950599,
+        "Agency": "F",
+        "Address": "GREENS RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1729334760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E074",
+        "LONGITUDE": -95.399475,
+        "LATITUDE": 29.950599,
+        "KeyMap": "373N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29743329,
         "Agency": "F",
         "Address": "TRAVIS ST",
         "CrossStreet": null,
-        "CALL_TIME": 1729333920000,
+        "CALL_TIME": 1729334460000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E016",
+        "NO_UNITS": 2,
+        "Units": "E016,A007",
         "LONGITUDE": -95.376997,
         "LATITUDE": 29.743329,
         "KeyMap": "493T",
@@ -110,19 +127,53 @@
     },
     {
       "attributes": {
-        "UID": 29784076,
+        "UID": 29806052,
         "Agency": "F",
-        "Address": "IH10OB-ANTOINE W IH 10 FWY OB",
-        "CrossStreet": "ANTOINE ENTR",
-        "CALL_TIME": 1729333680000,
-        "IncidentType": "EMS EVENT",
+        "Address": "ENID ST",
+        "CrossStreet": "BLK LINK RD",
+        "CALL_TIME": 1729334280000,
+        "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E002",
-        "LONGITUDE": -95.475514,
-        "LATITUDE": 29.784076,
-        "KeyMap": "491B",
+        "Units": "E015",
+        "LONGITUDE": -95.37564,
+        "LATITUDE": 29.806052,
+        "KeyMap": "453T",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29719650,
+        "Agency": "P",
+        "Address": "6699 HARWIN DR",
+        "CrossStreet": null,
+        "CALL_TIME": 1729334160000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "18F31N",
+        "LONGITUDE": -95.500999,
+        "LATITUDE": 29.71965,
+        "KeyMap": "530D",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29743329,
+        "Agency": "P",
+        "Address": "2999 TRAVIS ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1729333920000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "10H71N",
+        "LONGITUDE": -95.376997,
+        "LATITUDE": 29.743329,
+        "KeyMap": "493T",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -161,23 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29859804,
-        "Agency": "F",
-        "Address": "RADCLIFFE ST",
-        "CrossStreet": "BLK LOVERS LN",
-        "CALL_TIME": 1729333440000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A031",
-        "LONGITUDE": -95.421966,
-        "LATITUDE": 29.859804,
-        "KeyMap": "412Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29767953,
         "Agency": "F",
         "Address": "COKE ST",
@@ -195,40 +229,6 @@
     },
     {
       "attributes": {
-        "UID": 29890855,
-        "Agency": "F",
-        "Address": "EXIT 57B N IH 45 FWY OB",
-        "CrossStreet": "MOUNT HOUSTON EXIT",
-        "CALL_TIME": 1729332960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E067",
-        "LONGITUDE": -95.411941,
-        "LATITUDE": 29.890855,
-        "KeyMap": "412M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29876925,
-        "Agency": "F",
-        "Address": "NIH45OB-SHEPHERD CURVE N IH 45 FWY OB",
-        "CrossStreet": "SHEPHERD ENTR",
-        "CALL_TIME": 1729332600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A058",
-        "LONGITUDE": -95.411102,
-        "LATITUDE": 29.876925,
-        "KeyMap": "412V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29726291,
         "Agency": "F",
         "Address": "BURKETT ST",
@@ -236,8 +236,8 @@
         "CALL_TIME": 1729332600000,
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 7,
-        "Units": "E008,L007,M018,A025,E025,ARS770,ARS746",
+        "NO_UNITS": 6,
+        "Units": "L007,M018,A025,E025,ARS770,ARS746",
         "LONGITUDE": -95.358608,
         "LATITUDE": 29.726291,
         "KeyMap": "493Z",
@@ -304,8 +304,8 @@
         "CALL_TIME": 1729332360000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "3B45N,6B23N",
+        "NO_UNITS": 1,
+        "Units": "3B45N",
         "LONGITUDE": -95.411941,
         "LATITUDE": 29.890855,
         "KeyMap": "412M",
@@ -382,23 +382,6 @@
     },
     {
       "attributes": {
-        "UID": 29912606,
-        "Agency": "P",
-        "Address": "10200 NORTH FWY OB",
-        "CrossStreet": "WEST OBIB",
-        "CALL_TIME": 1729331340000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "22B13N",
-        "LONGITUDE": -95.412119,
-        "LATITUDE": 29.912606,
-        "KeyMap": "412D",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29776066,
         "Agency": "F",
         "Address": "COLORADO ST",
@@ -416,19 +399,19 @@
     },
     {
       "attributes": {
-        "UID": 29757556,
-        "Agency": "F",
-        "Address": "ELDRIDGE PKWY",
-        "CrossStreet": "BLK OLIVE HILL DR",
-        "CALL_TIME": 1729330920000,
-        "IncidentType": "EMS EVENT",
+        "UID": 29912606,
+        "Agency": "P",
+        "Address": "10200 NORTH FWY OB",
+        "CrossStreet": "WEST OBIB",
+        "CALL_TIME": 1729331340000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "M086",
-        "LONGITUDE": -95.625316,
-        "LATITUDE": 29.757556,
-        "KeyMap": "488K",
-        "CombinedResponse": "F"
+        "Units": "22B13N",
+        "LONGITUDE": -95.412119,
+        "LATITUDE": 29.912606,
+        "KeyMap": "412D",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -446,6 +429,23 @@
         "LATITUDE": 29.735337,
         "KeyMap": "491Y",
         "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29757556,
+        "Agency": "F",
+        "Address": "ELDRIDGE PKWY",
+        "CrossStreet": "BLK OLIVE HILL DR",
+        "CALL_TIME": 1729330920000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M086",
+        "LONGITUDE": -95.625316,
+        "LATITUDE": 29.757556,
+        "KeyMap": "488K",
+        "CombinedResponse": "F"
       }
     },
     {
@@ -661,8 +661,8 @@
         "CALL_TIME": 1729325580000,
         "IncidentType": "SMOKE DETECTOR",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 5,
-        "Units": "E064,E084,L064,ARS765,ARS719",
+        "NO_UNITS": 3,
+        "Units": "E084,ARS719,ARS765",
         "LONGITUDE": -95.415029,
         "LATITUDE": 29.945258,
         "KeyMap": "372Q",
@@ -780,8 +780,8 @@
         "CALL_TIME": 1729320360000,
         "IncidentType": "CRASH/MAJOR/CITY VEH",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 5,
-        "Units": "22B30N,22B06N,96Z19,22B29N,22B37N",
+        "NO_UNITS": 3,
+        "Units": "22B30N,22B06N,22B29N",
         "LONGITUDE": -95.412101,
         "LATITUDE": 29.923171,
         "KeyMap": "372Z",
@@ -865,8 +865,8 @@
         "CALL_TIME": 1729315560000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "10H38B,10H22N,10H47N,10H77N",
+        "NO_UNITS": 3,
+        "Units": "10H38B,10H47N,10H77N",
         "LONGITUDE": -95.351523,
         "LATITUDE": 29.757819,
         "KeyMap": "493R",
