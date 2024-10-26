@@ -93,11 +93,62 @@
   "features": [
     {
       "attributes": {
+        "UID": 29806127,
+        "Agency": "F",
+        "Address": "GANO ST",
+        "CrossStreet": "BLK HAMBLEN ST",
+        "CALL_TIME": 1729936920000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E012",
+        "LONGITUDE": -95.355453,
+        "LATITUDE": 29.806127,
+        "KeyMap": "453V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29728732,
+        "Agency": "F",
+        "Address": "EXIT 125 S US 59 FWY IB",
+        "CrossStreet": "WESLAYAN EXIT",
+        "CALL_TIME": 1729936860000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E037,E003",
+        "LONGITUDE": -95.440493,
+        "LATITUDE": 29.728732,
+        "KeyMap": "492W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29695474,
+        "Agency": "F",
+        "Address": "S LOOP E",
+        "CrossStreet": "WAYSIDE EXIT DR",
+        "CALL_TIME": 1729936680000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A023",
+        "LONGITUDE": -95.318947,
+        "LATITUDE": 29.695474,
+        "KeyMap": "534L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29691348,
         "Agency": "F",
         "Address": "KELSO ST",
         "CrossStreet": "BLK MILART ST",
-        "CALL_TIME": 1729936020000,
+        "CALL_TIME": 1729936500000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
@@ -114,7 +165,7 @@
         "Agency": "F",
         "Address": "EAGLE VISTA DR",
         "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1729935960000,
+        "CALL_TIME": 1729936440000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -123,6 +174,40 @@
         "LATITUDE": 29.762139,
         "KeyMap": "488J",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29569454,
+        "Agency": "F",
+        "Address": "RAMADA DR",
+        "CrossStreet": "BLK SEAKALE LN",
+        "CALL_TIME": 1729936380000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E072",
+        "LONGITUDE": -95.115794,
+        "LATITUDE": 29.569454,
+        "KeyMap": "618L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29728732,
+        "Agency": "P",
+        "Address": "EXIT 125 3903 S US 59 FWY IB",
+        "CrossStreet": "WESLAYAN EXIT",
+        "CALL_TIME": 1729936200000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "1A53N,1A52N",
+        "LONGITUDE": -95.440493,
+        "LATITUDE": 29.728732,
+        "KeyMap": "492W",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -219,8 +304,8 @@
         "CALL_TIME": 1729935000000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "L004,A013",
+        "NO_UNITS": 1,
+        "Units": "A013",
         "LONGITUDE": -95.473302,
         "LATITUDE": 29.852537,
         "KeyMap": "451C",
@@ -237,27 +322,10 @@
         "IncidentType": "BUILDING FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 10,
-        "Units": "E028,E060,RE010,E051,D068,A028,E002,D028,L051,SF057",
+        "Units": "E028,E060,E051,SQ028,L028,L051,A028,D028,ARS770,ARS769",
         "LONGITUDE": -95.490815,
         "LATITUDE": 29.731774,
         "KeyMap": "491W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29864508,
-        "Agency": "F",
-        "Address": "VINCA MINOR LN",
-        "CrossStreet": "BLK HOLLOW ROOT LN",
-        "CALL_TIME": 1729934640000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.283266,
-        "LATITUDE": 29.864508,
-        "KeyMap": "415X",
         "CombinedResponse": "F"
       }
     },
@@ -275,6 +343,23 @@
         "LONGITUDE": -95.361208,
         "LATITUDE": 29.725554,
         "KeyMap": "533C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29864508,
+        "Agency": "F",
+        "Address": "VINCA MINOR LN",
+        "CrossStreet": "BLK HOLLOW ROOT LN",
+        "CALL_TIME": 1729934640000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A032",
+        "LONGITUDE": -95.283266,
+        "LATITUDE": 29.864508,
+        "KeyMap": "415X",
         "CombinedResponse": "F"
       }
     },
@@ -518,23 +603,6 @@
     },
     {
       "attributes": {
-        "UID": 29752343,
-        "Agency": "F",
-        "Address": "CRESCENT PLAZA DR",
-        "CrossStreet": "BLK ELDRIDGE PKWY",
-        "CALL_TIME": 1729931820000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A083",
-        "LONGITUDE": -95.623895,
-        "LATITUDE": 29.752343,
-        "KeyMap": "488P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29723007,
         "Agency": "P",
         "Address": "7701 WESTPARK DR",
@@ -564,23 +632,6 @@
         "LONGITUDE": -95.505322,
         "LATITUDE": 29.730552,
         "KeyMap": "490Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29731872,
-        "Agency": "F",
-        "Address": "BRAILSFORT ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1729930320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A018",
-        "LONGITUDE": -95.357918,
-        "LATITUDE": 29.731872,
-        "KeyMap": "493Z",
         "CombinedResponse": "F"
       }
     },
@@ -807,18 +858,18 @@
     },
     {
       "attributes": {
-        "UID": 29759178,
+        "UID": 29781815,
         "Agency": "P",
-        "Address": "3499 ALLEN PKWY IB",
-        "CrossStreet": null,
-        "CALL_TIME": 1729914300000,
-        "IncidentType": "CRASH/MAJOR/CITY VEH",
+        "Address": "11627 CRYSTALWOOD DR",
+        "CrossStreet": "BLK JOHN RALSTON RD",
+        "CALL_TIME": 1729917840000,
+        "IncidentType": "CRASH/MINOR/DISTURBANCE",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "70Z67N",
-        "LONGITUDE": -95.402391,
-        "LATITUDE": 29.759178,
-        "KeyMap": "492M",
+        "Units": "9C10F",
+        "LONGITUDE": -95.230098,
+        "LATITUDE": 29.781815,
+        "KeyMap": "496B",
         "CombinedResponse": "P"
       }
     },
@@ -836,6 +887,23 @@
         "LONGITUDE": -95.500316,
         "LATITUDE": 29.829571,
         "KeyMap": "450M",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29797377,
+        "Agency": "P",
+        "Address": "8899 N LOOP E",
+        "CrossStreet": "BLK N MCCARTY ST",
+        "CALL_TIME": 1729904220000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "9C14F",
+        "LONGITUDE": -95.271338,
+        "LATITUDE": 29.797377,
+        "KeyMap": "455Y",
         "CombinedResponse": "P"
       }
     }
