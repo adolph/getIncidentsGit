@@ -93,45 +93,11 @@
   "features": [
     {
       "attributes": {
-        "UID": 29698158,
-        "Agency": "F",
-        "Address": "OLD SPANISH TRL",
-        "CrossStreet": null,
-        "CALL_TIME": 1730975520000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A033",
-        "LONGITUDE": -95.39061,
-        "LATITUDE": 29.698158,
-        "KeyMap": "533J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29712379,
-        "Agency": "F",
-        "Address": "MARINETTE DR",
-        "CrossStreet": "BLK HORNWOOD DR",
-        "CALL_TIME": 1730975460000,
-        "IncidentType": "APARTMENT FIRE",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 10,
-        "Units": "E051,L028,SF057,D083,E060,E068,L068,RE010,D028,A051",
-        "LONGITUDE": -95.518038,
-        "LATITUDE": 29.712379,
-        "KeyMap": "530C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29692506,
         "Agency": "F",
         "Address": "HAZEN ST",
         "CrossStreet": "BLK CONCHO ST",
-        "CALL_TIME": 1730975460000,
+        "CALL_TIME": 1730976060000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +105,40 @@
         "LONGITUDE": -95.566938,
         "LATITUDE": 29.692506,
         "KeyMap": "529L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29732480,
+        "Agency": "F",
+        "Address": "GULF FWY IB",
+        "CrossStreet": "CULLEN OBIB",
+        "CALL_TIME": 1730975880000,
+        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A017",
+        "LONGITUDE": -95.342337,
+        "LATITUDE": 29.73248,
+        "KeyMap": "494W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29698158,
+        "Agency": "F",
+        "Address": "OLD SPANISH TRL",
+        "CrossStreet": null,
+        "CALL_TIME": 1730975760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A033,AS016",
+        "LONGITUDE": -95.39061,
+        "LATITUDE": 29.698158,
+        "KeyMap": "533J",
         "CombinedResponse": "F"
       }
     },
@@ -161,52 +161,18 @@
     },
     {
       "attributes": {
-        "UID": 29867150,
+        "UID": 29712379,
         "Agency": "F",
-        "Address": "REBEL RD",
-        "CrossStreet": "BLK FEROL RD",
-        "CALL_TIME": 1730975400000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
+        "Address": "MARINETTE DR",
+        "CrossStreet": "BLK HORNWOOD DR",
+        "CALL_TIME": 1730975460000,
+        "IncidentType": "APARTMENT FIRE",
+        "ALARM_LEVEL": 1,
         "NO_UNITS": 1,
-        "Units": "E056",
-        "LONGITUDE": -95.291616,
-        "LATITUDE": 29.86715,
-        "KeyMap": "415W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29758453,
-        "Agency": "F",
-        "Address": "LOUISIANA ST",
-        "CrossStreet": "BLK LAMAR ST",
-        "CALL_TIME": 1730975340000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E009",
-        "LONGITUDE": -95.367575,
-        "LATITUDE": 29.758453,
-        "KeyMap": "493L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29742998,
-        "Agency": "F",
-        "Address": "YORKTOWN ST",
-        "CrossStreet": "BLK PIPING ROCK LN",
-        "CALL_TIME": 1730975100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A060",
-        "LONGITUDE": -95.47075,
-        "LATITUDE": 29.742998,
-        "KeyMap": "491U",
+        "Units": "E060",
+        "LONGITUDE": -95.518038,
+        "LATITUDE": 29.712379,
+        "KeyMap": "530C",
         "CombinedResponse": "F"
       }
     },
@@ -224,6 +190,23 @@
         "LONGITUDE": -95.593964,
         "LATITUDE": 29.725622,
         "KeyMap": "489W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29742998,
+        "Agency": "F",
+        "Address": "YORKTOWN ST",
+        "CrossStreet": "BLK PIPING ROCK LN",
+        "CALL_TIME": 1730975100000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A060",
+        "LONGITUDE": -95.47075,
+        "LATITUDE": 29.742998,
+        "KeyMap": "491U",
         "CombinedResponse": "F"
       }
     },
@@ -270,8 +253,8 @@
         "CALL_TIME": 1730973960000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "2A22N,2A38N,2A10N",
+        "NO_UNITS": 4,
+        "Units": "2A22N,2A38N,2A10N,2A35N",
         "LONGITUDE": -95.437243,
         "LATITUDE": 29.765235,
         "KeyMap": "492K",
@@ -433,23 +416,6 @@
     },
     {
       "attributes": {
-        "UID": 29750313,
-        "Agency": "F",
-        "Address": "HALLMARK DR",
-        "CrossStreet": "BLK HOLLYHURST LN",
-        "CALL_TIME": 1730969460000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A002",
-        "LONGITUDE": -95.456639,
-        "LATITUDE": 29.750313,
-        "KeyMap": "491R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29854030,
         "Agency": "F",
         "Address": "FARRAGUT ST",
@@ -594,7 +560,7 @@
         "IncidentType": "311 FIRE",
         "ALARM_LEVEL": 2,
         "NO_UNITS": 10,
-        "Units": "M040,D020,D008,L020,E018,E023,E020,E040,L018,A020",
+        "Units": "E018,D020,D008,L020,E020,E023,E040,L018,A020,M018",
         "LONGITUDE": -95.312432,
         "LATITUDE": 29.732592,
         "KeyMap": "494Y",
