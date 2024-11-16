@@ -93,6 +93,74 @@
   "features": [
     {
       "attributes": {
+        "UID": 29757297,
+        "Agency": "F",
+        "Address": "EXIT 10 W IH 610 FWY S",
+        "CrossStreet": "SAN FELIPE ENTR",
+        "CALL_TIME": 1731762120000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 4,
+        "Units": "SQ028,E003,E028,A028",
+        "LONGITUDE": -95.455427,
+        "LATITUDE": 29.757297,
+        "KeyMap": "491R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29820649,
+        "Agency": "F",
+        "Address": "BLEKER ST",
+        "CrossStreet": "BLK BENNINGTON ST",
+        "CALL_TIME": 1731762060000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A039",
+        "LONGITUDE": -95.334397,
+        "LATITUDE": 29.820649,
+        "KeyMap": "454P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29987394,
+        "Agency": "F",
+        "Address": "N TERMINAL RD",
+        "CrossStreet": "BLK JOHN F KENNEDY BLVD IB",
+        "CALL_TIME": 1731762000000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "MS092,M063",
+        "LONGITUDE": -95.350949,
+        "LATITUDE": 29.987394,
+        "KeyMap": "334W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29932393,
+        "Agency": "F",
+        "Address": "HEATHROW FOREST PKWY",
+        "CrossStreet": "BLK INTERWOOD NORTH PKWY",
+        "CALL_TIME": 1731761820000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E064",
+        "LONGITUDE": -95.324737,
+        "LATITUDE": 29.932393,
+        "KeyMap": "374U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29879474,
         "Agency": "F",
         "Address": "ORION ST",
@@ -111,18 +179,35 @@
     {
       "attributes": {
         "UID": 29863569,
-        "Agency": "F",
+        "Agency": "P",
         "Address": "W LITTLE YORK RD",
         "CrossStreet": null,
-        "CALL_TIME": 1731761520000,
-        "IncidentType": "EMS EVENT",
+        "CALL_TIME": 1731761400000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E067",
+        "NO_UNITS": 2,
+        "Units": "6B24D,6B20D",
         "LONGITUDE": -95.42944,
         "LATITUDE": 29.863569,
         "KeyMap": "412X",
-        "CombinedResponse": "F"
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29987394,
+        "Agency": "P",
+        "Address": "2800 N TERMINAL RD",
+        "CrossStreet": "BLK JOHN F KENNEDY BLVD IB",
+        "CALL_TIME": 1731760980000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "21I10D",
+        "LONGITUDE": -95.350949,
+        "LATITUDE": 29.987394,
+        "KeyMap": "334W",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -134,8 +219,8 @@
         "CALL_TIME": 1731760980000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A033,E021",
+        "NO_UNITS": 1,
+        "Units": "E021",
         "LONGITUDE": -95.436417,
         "LATITUDE": 29.682393,
         "KeyMap": "532N",
@@ -151,8 +236,8 @@
         "CALL_TIME": 1731760920000,
         "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "2A12D",
+        "NO_UNITS": 2,
+        "Units": "2A12D,1A20D",
         "LONGITUDE": -95.379706,
         "LATITUDE": 29.777934,
         "KeyMap": "493F",
@@ -229,23 +314,6 @@
     },
     {
       "attributes": {
-        "UID": 29638578,
-        "Agency": "F",
-        "Address": "DUNLAP ST",
-        "CrossStreet": "BLK GREENCRAIG DR",
-        "CALL_TIME": 1731759960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M080,A082",
-        "LONGITUDE": -95.495402,
-        "LATITUDE": 29.638578,
-        "KeyMap": "571E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29732988,
         "Agency": "F",
         "Address": "WALLINGFORD DR",
@@ -258,6 +326,23 @@
         "LONGITUDE": -95.563843,
         "LATITUDE": 29.732988,
         "KeyMap": "489Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29638578,
+        "Agency": "F",
+        "Address": "DUNLAP ST",
+        "CrossStreet": "BLK GREENCRAIG DR",
+        "CALL_TIME": 1731759960000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M080,A082",
+        "LONGITUDE": -95.495402,
+        "LATITUDE": 29.638578,
+        "KeyMap": "571E",
         "CombinedResponse": "F"
       }
     },
@@ -276,23 +361,6 @@
         "LATITUDE": 29.627157,
         "KeyMap": "575R",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29777837,
-        "Agency": "F",
-        "Address": "IH10IB-HOUSTON AVE W IH 10 FWY IB",
-        "CrossStreet": "TAYLOR ENTR",
-        "CALL_TIME": 1731759720000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E006,L006,A009",
-        "LONGITUDE": -95.372431,
-        "LATITUDE": 29.777837,
-        "KeyMap": "493F",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -416,23 +484,6 @@
     },
     {
       "attributes": {
-        "UID": 29677209,
-        "Agency": "F",
-        "Address": "S BRAESWOOD BLVD",
-        "CrossStreet": "BLK CHIMNEY ROCK RD",
-        "CALL_TIME": 1731758400000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A048",
-        "LONGITUDE": -95.47437,
-        "LATITUDE": 29.677209,
-        "KeyMap": "531T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29744224,
         "Agency": "F",
         "Address": "SAGE RD",
@@ -496,23 +547,6 @@
         "LONGITUDE": -95.188132,
         "LATITUDE": 29.78356,
         "KeyMap": "497A",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29804320,
-        "Agency": "F",
-        "Address": "IH610OB-IH10OB RAMP N IH 610 FWY W",
-        "CrossStreet": "IH 10 EXIT",
-        "CALL_TIME": 1731755520000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M062",
-        "LONGITUDE": -95.447748,
-        "LATITUDE": 29.80432,
-        "KeyMap": "452S",
         "CombinedResponse": "F"
       }
     },
