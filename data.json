@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29672958,
+        "UID": 29706285,
         "Agency": "F",
-        "Address": "W BELLFORT AVE",
-        "CrossStreet": "BLK BUFFALO SPEEDWAY",
-        "CALL_TIME": 1732695720000,
+        "Address": "HOLCOMBE BLVD",
+        "CrossStreet": null,
+        "CALL_TIME": 1732696320000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A033",
+        "LONGITUDE": -95.403178,
+        "LATITUDE": 29.706285,
+        "KeyMap": "532H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29768879,
+        "Agency": "F",
+        "Address": "HUNTINGWICK DR",
+        "CrossStreet": "BLK MEMORIAL DR",
+        "CALL_TIME": 1732696020000,
         "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E021",
-        "LONGITUDE": -95.420733,
-        "LATITUDE": 29.672958,
-        "KeyMap": "532U",
+        "Units": "E057",
+        "LONGITUDE": -95.556377,
+        "LATITUDE": 29.768879,
+        "KeyMap": "489H",
         "CombinedResponse": "F"
       }
     },
@@ -115,30 +132,13 @@
         "Address": "W LOOP S",
         "CrossStreet": "SAN FELIPE ENTR",
         "CALL_TIME": 1732695660000,
-        "IncidentType": "CHECK PATIENT*",
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E003",
+        "NO_UNITS": 2,
+        "Units": "E003,A028",
         "LONGITUDE": -95.455183,
         "LATITUDE": 29.751336,
         "KeyMap": "491R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29697902,
-        "Agency": "F",
-        "Address": "DAPHNE ST",
-        "CrossStreet": "BLK BURKETT ST",
-        "CALL_TIME": 1732695600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A046",
-        "LONGITUDE": -95.370492,
-        "LATITUDE": 29.697902,
-        "KeyMap": "533L",
         "CombinedResponse": "F"
       }
     },
@@ -151,8 +151,8 @@
         "CALL_TIME": 1732695540000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M070,A093",
+        "NO_UNITS": 1,
+        "Units": "A093",
         "LONGITUDE": -95.199977,
         "LATITUDE": 29.593338,
         "KeyMap": "616D",
@@ -229,23 +229,6 @@
     },
     {
       "attributes": {
-        "UID": 29848212,
-        "Agency": "F",
-        "Address": "TIDWELL RD",
-        "CrossStreet": "BLK PEACHTREE ST",
-        "CALL_TIME": 1732695180000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A034",
-        "LONGITUDE": -95.317214,
-        "LATITUDE": 29.848212,
-        "KeyMap": "454C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29769554,
         "Agency": "F",
         "Address": "CONTI ST",
@@ -270,8 +253,8 @@
         "CALL_TIME": 1732694520000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M062,A077",
+        "NO_UNITS": 1,
+        "Units": "M062",
         "LONGITUDE": -95.509653,
         "LATITUDE": 29.811062,
         "KeyMap": "450R",
@@ -297,23 +280,6 @@
     },
     {
       "attributes": {
-        "UID": 29714806,
-        "Agency": "P",
-        "Address": "6115 HILLCROFT AVE",
-        "CrossStreet": "BLK SANDS POINT DR",
-        "CALL_TIME": 1732693860000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "17E15N,17E21N",
-        "LONGITUDE": -95.496962,
-        "LATITUDE": 29.714806,
-        "KeyMap": "531A",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29637561,
         "Agency": "F",
         "Address": "SELINSKY RD",
@@ -331,18 +297,18 @@
     },
     {
       "attributes": {
-        "UID": 29848728,
+        "UID": 29714806,
         "Agency": "P",
-        "Address": "9300 EASTEX FWY OB",
-        "CrossStreet": null,
-        "CALL_TIME": 1732693740000,
+        "Address": "6115 HILLCROFT AVE",
+        "CrossStreet": "BLK SANDS POINT DR",
+        "CALL_TIME": 1732693860000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "7C38F,7C22F,7C32F",
-        "LONGITUDE": -95.332961,
-        "LATITUDE": 29.848728,
-        "KeyMap": "454B",
+        "NO_UNITS": 2,
+        "Units": "17E15N,17E21N",
+        "LONGITUDE": -95.496962,
+        "LATITUDE": 29.714806,
+        "KeyMap": "531A",
         "CombinedResponse": "P"
       }
     },
@@ -412,23 +378,6 @@
         "LATITUDE": 29.709473,
         "KeyMap": "529H",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29783910,
-        "Agency": "P",
-        "Address": "995 GESSNER RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1732691520000,
-        "IncidentType": "CRASH/MAJOR/FSRA",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "20G67N",
-        "LONGITUDE": -95.543983,
-        "LATITUDE": 29.78391,
-        "KeyMap": "490A",
-        "CombinedResponse": "P"
       }
     },
     {
