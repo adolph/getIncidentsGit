@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29845524,
+        "UID": 29750508,
         "Agency": "F",
-        "Address": "AIRLINE DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1733482020000,
-        "IncidentType": "FIRE EVENT",
+        "Address": "WILCREST DR",
+        "CrossStreet": "BLK BRIAR FOREST DR",
+        "CALL_TIME": 1733482860000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A069,M083",
+        "LONGITUDE": -95.572148,
+        "LATITUDE": 29.750508,
+        "KeyMap": "489Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29736838,
+        "Agency": "F",
+        "Address": "BRANARD ST",
+        "CrossStreet": "BLK MCDUFFIE ST",
+        "CALL_TIME": 1733482500000,
+        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E031",
-        "LONGITUDE": -95.384436,
-        "LATITUDE": 29.845524,
-        "KeyMap": "453B",
+        "Units": "A016",
+        "LONGITUDE": -95.407299,
+        "LATITUDE": 29.736838,
+        "KeyMap": "492V",
         "CombinedResponse": "F"
       }
     },
@@ -122,40 +139,6 @@
         "LONGITUDE": -95.636392,
         "LATITUDE": 29.785447,
         "KeyMap": "488A",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29750508,
-        "Agency": "F",
-        "Address": "WILCREST DR",
-        "CrossStreet": "BLK BRIAR FOREST DR",
-        "CALL_TIME": 1733481900000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A069,M083",
-        "LONGITUDE": -95.572148,
-        "LATITUDE": 29.750508,
-        "KeyMap": "489Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29866307,
-        "Agency": "F",
-        "Address": "NORTHLINE DR",
-        "CrossStreet": "BLK E LITTLE YORK RD",
-        "CALL_TIME": 1733481420000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E058",
-        "LONGITUDE": -95.397751,
-        "LATITUDE": 29.866307,
-        "KeyMap": "413W",
         "CombinedResponse": "F"
       }
     },
@@ -195,36 +178,19 @@
     },
     {
       "attributes": {
-        "UID": 29621460,
-        "Agency": "F",
-        "Address": "HONEYVINE DR",
-        "CrossStreet": "BLK FAWNWAY DR",
-        "CALL_TIME": 1733480580000,
-        "IncidentType": "CHECK FOR FIRE",
+        "UID": 29722451,
+        "Agency": "P",
+        "Address": "1313 HERMANN DR",
+        "CrossStreet": "BLK AUSTIN ST",
+        "CALL_TIME": 1733480400000,
+        "IncidentType": "CRASH/MINOR",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E035",
-        "LONGITUDE": -95.344713,
-        "LATITUDE": 29.62146,
-        "KeyMap": "574N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29633936,
-        "Agency": "F",
-        "Address": "AMBROSE ST",
-        "CrossStreet": "BLK KNOTTY OAKS TRL",
-        "CALL_TIME": 1733480280000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A047",
-        "LONGITUDE": -95.422518,
-        "LATITUDE": 29.633936,
-        "KeyMap": "572K",
-        "CombinedResponse": "F"
+        "Units": "10H77N",
+        "LONGITUDE": -95.388145,
+        "LATITUDE": 29.722451,
+        "KeyMap": "533A",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -236,8 +202,8 @@
         "CALL_TIME": 1733479440000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A013,M058",
+        "NO_UNITS": 1,
+        "Units": "A013",
         "LONGITUDE": -95.448536,
         "LATITUDE": 29.882479,
         "KeyMap": "412N",
@@ -270,8 +236,8 @@
         "CALL_TIME": 1733478960000,
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 6,
-        "Units": "E019,E012,L019,M019,ARS723,ARS727",
+        "NO_UNITS": 7,
+        "Units": "E019,E012,L019,M019,ARS723,ARS727,ARS764",
         "LONGITUDE": -95.327429,
         "LATITUDE": 29.788665,
         "KeyMap": "494B",
@@ -355,8 +321,8 @@
         "CALL_TIME": 1733477400000,
         "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "6B19N,6B30N,3B40N",
+        "NO_UNITS": 2,
+        "Units": "6B30N,3B40N",
         "LONGITUDE": -95.490438,
         "LATITUDE": 29.884727,
         "KeyMap": "411N",
@@ -382,23 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29820080,
-        "Agency": "F",
-        "Address": "BEAUMONT HWY",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1733477040000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.239512,
-        "LATITUDE": 29.82008,
-        "KeyMap": "456N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29723444,
         "Agency": "P",
         "Address": "4044 HILLCROFT AVE",
@@ -416,23 +365,6 @@
     },
     {
       "attributes": {
-        "UID": 29750686,
-        "Agency": "F",
-        "Address": "TRAVIS ST",
-        "CrossStreet": "BLK PIERCE ST",
-        "CALL_TIME": 1733476260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A008",
-        "LONGITUDE": -95.371184,
-        "LATITUDE": 29.750686,
-        "KeyMap": "493Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29581894,
         "Agency": "F",
         "Address": "PURPLE PLUM LN",
@@ -440,8 +372,8 @@
         "CALL_TIME": 1733475420000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M071,AS036",
+        "NO_UNITS": 1,
+        "Units": "M071",
         "LONGITUDE": -95.120387,
         "LATITUDE": 29.581894,
         "KeyMap": "618G",
