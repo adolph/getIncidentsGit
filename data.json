@@ -93,6 +93,40 @@
   "features": [
     {
       "attributes": {
+        "UID": 29751968,
+        "Agency": "F",
+        "Address": "INVERNESS DR",
+        "CrossStreet": "BLK WILLOWICK RD",
+        "CALL_TIME": 1734433980000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E003",
+        "LONGITUDE": -95.438041,
+        "LATITUDE": 29.751968,
+        "KeyMap": "492N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29891578,
+        "Agency": "F",
+        "Address": "SADDLE ROCK DR",
+        "CrossStreet": "BLK GLEN SHADOW DR",
+        "CALL_TIME": 1734433740000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A084",
+        "LONGITUDE": -95.421248,
+        "LATITUDE": 29.891578,
+        "KeyMap": "412L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29681762,
         "Agency": "F",
         "Address": "HEARTH DR",
@@ -117,12 +151,29 @@
         "CALL_TIME": 1734433200000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
+        "NO_UNITS": 2,
+        "Units": "A032,M043",
         "LONGITUDE": -95.27583,
         "LATITUDE": 29.8562,
         "KeyMap": "455B",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29674605,
+        "Agency": "P",
+        "Address": "9598 W SAM HOUSTON PKWY S",
+        "CrossStreet": null,
+        "CALL_TIME": 1734433140000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "19G11N,19G27N",
+        "LONGITUDE": -95.560845,
+        "LATITUDE": 29.674605,
+        "KeyMap": "529U",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -139,23 +190,6 @@
         "LONGITUDE": -95.428054,
         "LATITUDE": 29.884467,
         "KeyMap": "412P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29891578,
-        "Agency": "F",
-        "Address": "SADDLE ROCK DR",
-        "CrossStreet": "BLK GLEN SHADOW DR",
-        "CALL_TIME": 1734432960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A084",
-        "LONGITUDE": -95.421248,
-        "LATITUDE": 29.891578,
-        "KeyMap": "412L",
         "CombinedResponse": "F"
       }
     },
@@ -219,8 +253,8 @@
         "CALL_TIME": 1734432480000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A060,SQ028",
+        "NO_UNITS": 1,
+        "Units": "SQ028",
         "LONGITUDE": -95.508105,
         "LATITUDE": 29.73875,
         "KeyMap": "490V",
@@ -356,7 +390,7 @@
         "IncidentType": "BUILDING FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 10,
-        "Units": "M050,E049,L077,D005,HME066,L004,E004,FM022,D004,A077",
+        "Units": "M050,HM3066,L077,D005,HME066,L004,E004,D004,E049,A077",
         "LONGITUDE": -95.540651,
         "LATITUDE": 29.852888,
         "KeyMap": "450A",
@@ -406,8 +440,8 @@
         "CALL_TIME": 1734430920000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E008,A008,SQ008",
+        "NO_UNITS": 1,
+        "Units": "SQ008",
         "LONGITUDE": -95.378145,
         "LATITUDE": 29.763638,
         "KeyMap": "493K",
@@ -462,23 +496,6 @@
         "LONGITUDE": -95.2186,
         "LATITUDE": 29.780733,
         "KeyMap": "496C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29787883,
-        "Agency": "F",
-        "Address": "FULTON ST",
-        "CrossStreet": "BLK HAYS ST",
-        "CALL_TIME": 1734428220000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A009",
-        "LONGITUDE": -95.360524,
-        "LATITUDE": 29.787883,
-        "KeyMap": "493D",
         "CombinedResponse": "F"
       }
     },
@@ -576,8 +593,8 @@
         "CALL_TIME": 1734424320000,
         "IncidentType": "CRASH/MAJOR/FATALITY",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 8,
-        "Units": "1A57N,1A59N,1A39N,1A29N,70Z65N,3Z02N,70Z69N,70Z82N",
+        "NO_UNITS": 7,
+        "Units": "1A57N,1A59N,1A39N,1A29N,3Z02N,70Z69N,70Z82N",
         "LONGITUDE": -95.413508,
         "LATITUDE": 29.758771,
         "KeyMap": "492L",
