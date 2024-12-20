@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29739552,
+        "UID": 29751336,
         "Agency": "F",
-        "Address": "LIVE OAK ST",
-        "CrossStreet": "BLK HADLEY ST",
-        "CALL_TIME": 1734694320000,
+        "Address": "W LOOP S",
+        "CrossStreet": "SAN FELIPE ENTR",
+        "CALL_TIME": 1734694920000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "M006,A038,E003",
+        "LONGITUDE": -95.455183,
+        "LATITUDE": 29.751336,
+        "KeyMap": "491R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29676995,
+        "Agency": "F",
+        "Address": "N BRAESWOOD BLVD",
+        "CrossStreet": "BLK BURDINE ST",
+        "CALL_TIME": 1734694920000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A008",
-        "LONGITUDE": -95.358441,
-        "LATITUDE": 29.739552,
-        "KeyMap": "493V",
+        "Units": "A051",
+        "LONGITUDE": -95.480353,
+        "LATITUDE": 29.676995,
+        "KeyMap": "531T",
         "CombinedResponse": "F"
       }
     },
@@ -114,48 +131,14 @@
         "Agency": "F",
         "Address": "WESTHEIMER RD",
         "CrossStreet": null,
-        "CALL_TIME": 1734694320000,
+        "CALL_TIME": 1734694800000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E007",
+        "NO_UNITS": 2,
+        "Units": "E007,A016",
         "LONGITUDE": -95.388846,
         "LATITUDE": 29.744508,
         "KeyMap": "493S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29761400,
-        "Agency": "F",
-        "Address": "MAIN ST",
-        "CrossStreet": "BLK PRAIRIE ST",
-        "CALL_TIME": 1734694260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "SQ008,A017,E009",
-        "LONGITUDE": -95.361526,
-        "LATITUDE": 29.7614,
-        "KeyMap": "493L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29820080,
-        "Agency": "F",
-        "Address": "BEAUMONT HWY",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1734694200000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E045",
-        "LONGITUDE": -95.239512,
-        "LATITUDE": 29.82008,
-        "KeyMap": "456N",
         "CombinedResponse": "F"
       }
     },
@@ -165,7 +148,7 @@
         "Agency": "F",
         "Address": "COURT GLEN DR",
         "CrossStreet": "BLK LARKDALE DR",
-        "CALL_TIME": 1734694140000,
+        "CALL_TIME": 1734694800000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -178,11 +161,28 @@
     },
     {
       "attributes": {
+        "UID": 29735605,
+        "Agency": "F",
+        "Address": "HARRISBURG BLVD",
+        "CrossStreet": "BLK 71ST ST",
+        "CALL_TIME": 1734694740000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A020,M018",
+        "LONGITUDE": -95.302266,
+        "LATITUDE": 29.735605,
+        "KeyMap": "494Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29584749,
         "Agency": "F",
         "Address": "QUAIL PARK DR",
         "CrossStreet": null,
-        "CALL_TIME": 1734694140000,
+        "CALL_TIME": 1734694680000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -195,11 +195,45 @@
     },
     {
       "attributes": {
+        "UID": 29737630,
+        "Agency": "F",
+        "Address": "WESTHEIMER RD",
+        "CrossStreet": "BLK HILLCROFT AVE",
+        "CALL_TIME": 1734694620000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "A060,SQ028,A028",
+        "LONGITUDE": -95.499504,
+        "LATITUDE": 29.73763,
+        "KeyMap": "490V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29761400,
+        "Agency": "F",
+        "Address": "MAIN ST",
+        "CrossStreet": "BLK PRAIRIE ST",
+        "CALL_TIME": 1734694560000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "SQ008,A017,E009",
+        "LONGITUDE": -95.361526,
+        "LATITUDE": 29.7614,
+        "KeyMap": "493L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29759951,
         "Agency": "F",
         "Address": "BAYOU GLEN RD",
         "CrossStreet": "BLK S RIPPLE CREEK DR",
-        "CALL_TIME": 1734694020000,
+        "CALL_TIME": 1734694440000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -207,6 +241,23 @@
         "LONGITUDE": -95.498096,
         "LATITUDE": 29.759951,
         "KeyMap": "490M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29739552,
+        "Agency": "F",
+        "Address": "LIVE OAK ST",
+        "CrossStreet": "BLK HADLEY ST",
+        "CALL_TIME": 1734694320000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A008",
+        "LONGITUDE": -95.358441,
+        "LATITUDE": 29.739552,
+        "KeyMap": "493V",
         "CombinedResponse": "F"
       }
     },
@@ -297,23 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29812836,
-        "Agency": "P",
-        "Address": "2999 N ELDRIDGE PKWY",
-        "CrossStreet": null,
-        "CALL_TIME": 1734693480000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "4F39N,4F27N",
-        "LONGITUDE": -95.617041,
-        "LATITUDE": 29.812836,
-        "KeyMap": "448Q",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29750674,
         "Agency": "P",
         "Address": "501 N GREENWOOD ST",
@@ -326,6 +360,23 @@
         "LONGITUDE": -95.312965,
         "LATITUDE": 29.750674,
         "KeyMap": "494Q",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29812836,
+        "Agency": "P",
+        "Address": "2999 N ELDRIDGE PKWY",
+        "CrossStreet": null,
+        "CALL_TIME": 1734693480000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "4F39N,4F27N",
+        "LONGITUDE": -95.617041,
+        "LATITUDE": 29.812836,
+        "KeyMap": "448Q",
         "CombinedResponse": "P"
       }
     },
@@ -518,23 +569,6 @@
     },
     {
       "attributes": {
-        "UID": 29707477,
-        "Agency": "F",
-        "Address": "DASHWOOD DR",
-        "CrossStreet": "BLK MAPLERIDGE ST",
-        "CALL_TIME": 1734688320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A028",
-        "LONGITUDE": -95.472824,
-        "LATITUDE": 29.707477,
-        "KeyMap": "531F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29746739,
         "Agency": "P",
         "Address": "2117 HAZARD ST",
@@ -565,23 +599,6 @@
         "LATITUDE": 29.996585,
         "KeyMap": "334Z",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29644321,
-        "Agency": "F",
-        "Address": "W AIRPORT BLVD",
-        "CrossStreet": "BLK SANDPIPER DR",
-        "CALL_TIME": 1734684240000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M059",
-        "LONGITUDE": -95.502424,
-        "LATITUDE": 29.644321,
-        "KeyMap": "570H",
-        "CombinedResponse": "F"
       }
     },
     {
