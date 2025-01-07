@@ -13,7 +13,7 @@ url=$url"spatialRel=esriSpatialRelIntersects&";
 curl "$url" \
 -s \
 --compressed | \
-jq '' > data.json
+jq '.' > data.json
 
 #   -H 'Accept: */*' \
 #   -H 'Accept-Language: en-US,en;q=0.6' \
