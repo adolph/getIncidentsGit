@@ -93,45 +93,11 @@
   "features": [
     {
       "attributes": {
-        "UID": 29952237,
-        "Agency": "F",
-        "Address": "GREENS RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1736504400000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E064",
-        "LONGITUDE": -95.304314,
-        "LATITUDE": 29.952237,
-        "KeyMap": "375N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29740532,
-        "Agency": "F",
-        "Address": "BROWNWAY ST",
-        "CrossStreet": "BLK YORKTOWN ST",
-        "CALL_TIME": 1736504280000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E028",
-        "LONGITUDE": -95.467921,
-        "LATITUDE": 29.740532,
-        "KeyMap": "491U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29631993,
         "Agency": "F",
         "Address": "BUNGALOW LN",
         "CrossStreet": "BLK SANDROCK DR",
-        "CALL_TIME": 1736504280000,
+        "CALL_TIME": 1736504760000,
         "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +105,23 @@
         "LONGITUDE": -95.344434,
         "LATITUDE": 29.631993,
         "KeyMap": "574J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29952237,
+        "Agency": "F",
+        "Address": "GREENS RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1736504400000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E064,A064",
+        "LONGITUDE": -95.304314,
+        "LATITUDE": 29.952237,
+        "KeyMap": "375N",
         "CombinedResponse": "F"
       }
     },
@@ -168,8 +151,8 @@
         "CALL_TIME": 1736503980000,
         "IncidentType": "MOTOR VEHICLE INCIDENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E021,A021",
+        "NO_UNITS": 1,
+        "Units": "A021",
         "LONGITUDE": -95.446594,
         "LATITUDE": 29.653293,
         "KeyMap": "571D",
@@ -185,8 +168,8 @@
         "CALL_TIME": 1736503920000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "21I63N,21I59N",
+        "NO_UNITS": 3,
+        "Units": "21I63N,21I59N,21I56N",
         "LONGITUDE": -95.304314,
         "LATITUDE": 29.952237,
         "KeyMap": "375N",
@@ -280,23 +263,6 @@
     },
     {
       "attributes": {
-        "UID": 29727803,
-        "Agency": "P",
-        "Address": "1900 NORTH BLVD",
-        "CrossStreet": "BLK HAZARD ST",
-        "CALL_TIME": 1736502720000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "2A51N",
-        "LONGITUDE": -95.405683,
-        "LATITUDE": 29.727803,
-        "KeyMap": "492Z",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29851698,
         "Agency": "F",
         "Address": "GLENWOOD FOREST DR",
@@ -310,6 +276,23 @@
         "LATITUDE": 29.851698,
         "KeyMap": "455C",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29727803,
+        "Agency": "P",
+        "Address": "1900 NORTH BLVD",
+        "CrossStreet": "BLK HAZARD ST",
+        "CALL_TIME": 1736502720000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "2A51N",
+        "LONGITUDE": -95.405683,
+        "LATITUDE": 29.727803,
+        "KeyMap": "492Z",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -348,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29730444,
-        "Agency": "F",
-        "Address": "CREST PARK DR",
-        "CrossStreet": "BLK WAYPARK DR",
-        "CALL_TIME": 1736501340000,
-        "IncidentType": "HOUSE ON FIRE",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 1,
-        "Units": "E075",
-        "LONGITUDE": -95.621264,
-        "LATITUDE": 29.730444,
-        "KeyMap": "488Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29793873,
         "Agency": "F",
         "Address": "PANOLA WAY",
@@ -372,28 +338,11 @@
         "CALL_TIME": 1736500920000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E049,M049,AS050",
+        "NO_UNITS": 2,
+        "Units": "M049,AS050",
         "LONGITUDE": -95.525905,
         "LATITUDE": 29.793873,
         "KeyMap": "450X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29755345,
-        "Agency": "F",
-        "Address": "MCKINNEY ST",
-        "CrossStreet": "BLK AUSTIN ST",
-        "CALL_TIME": 1736500380000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A017",
-        "LONGITUDE": -95.362237,
-        "LATITUDE": 29.755345,
-        "KeyMap": "493Q",
         "CombinedResponse": "F"
       }
     },
@@ -535,23 +484,6 @@
     },
     {
       "attributes": {
-        "UID": 29683387,
-        "Agency": "F",
-        "Address": "LADY",
-        "CrossStreet": "BLK SAINT BENEDICT ST",
-        "CALL_TIME": 1736496480000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ046",
-        "LONGITUDE": -95.377789,
-        "LATITUDE": 29.683387,
-        "KeyMap": "533P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29696089,
         "Agency": "P",
         "Address": "5514 GRIGGS RD",
@@ -586,23 +518,6 @@
     },
     {
       "attributes": {
-        "UID": 29942376,
-        "Agency": "P",
-        "Address": "5731 EDWARD DR",
-        "CrossStreet": "BLK LEE RD",
-        "CALL_TIME": 1736489280000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "22B47N",
-        "LONGITUDE": -95.305327,
-        "LATITUDE": 29.942376,
-        "KeyMap": "374V",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29658988,
         "Agency": "P",
         "Address": "11600 MAIN ST OB",
@@ -620,23 +535,6 @@
     },
     {
       "attributes": {
-        "UID": 29750898,
-        "Agency": "P",
-        "Address": "1129 SEAGLER RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1736483940000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "20G26N",
-        "LONGITUDE": -95.553393,
-        "LATITUDE": 29.750898,
-        "KeyMap": "489R",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29740998,
         "Agency": "P",
         "Address": "12330 BURGOYNE RD",
@@ -649,6 +547,23 @@
         "LONGITUDE": -95.599211,
         "LATITUDE": 29.740998,
         "KeyMap": "488V",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29750898,
+        "Agency": "P",
+        "Address": "1129 SEAGLER RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1736483940000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "20G26N",
+        "LONGITUDE": -95.553393,
+        "LATITUDE": 29.750898,
+        "KeyMap": "489R",
         "CombinedResponse": "P"
       }
     },
