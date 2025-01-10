@@ -93,18 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29736656,
+        "UID": 29793873,
         "Agency": "F",
-        "Address": "SAGE RD",
-        "CrossStreet": "BLK HIDALGO ST",
-        "CALL_TIME": 1736499720000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "PANOLA WAY",
+        "CrossStreet": "BLK CONFEDERATE RD",
+        "CALL_TIME": 1736500560000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "E049,M049,AS050",
+        "LONGITUDE": -95.525905,
+        "LATITUDE": 29.793873,
+        "KeyMap": "450X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29755345,
+        "Agency": "F",
+        "Address": "MCKINNEY ST",
+        "CrossStreet": "BLK AUSTIN ST",
+        "CALL_TIME": 1736500380000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A017,SQ008",
+        "LONGITUDE": -95.362237,
+        "LATITUDE": 29.755345,
+        "KeyMap": "493Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29739419,
+        "Agency": "F",
+        "Address": "WESTHEIMER RD",
+        "CrossStreet": "BLK YORKTOWN ST",
+        "CALL_TIME": 1736500320000,
+        "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E028",
-        "LONGITUDE": -95.466749,
-        "LATITUDE": 29.736656,
+        "Units": "E002",
+        "LONGITUDE": -95.469725,
+        "LATITUDE": 29.739419,
         "KeyMap": "491U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29728713,
+        "Agency": "F",
+        "Address": "CAROLINE ST",
+        "CrossStreet": "BLK WICHITA ST",
+        "CALL_TIME": 1736500200000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A016",
+        "LONGITUDE": -95.383474,
+        "LATITUDE": 29.728713,
+        "KeyMap": "493X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29854289,
+        "Agency": "F",
+        "Address": "EXIT 138 N US 59 FWY OB",
+        "CrossStreet": "PARKER JENSEN SAUNDERS EXIT",
+        "CALL_TIME": 1736499960000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "L034,E034",
+        "LONGITUDE": -95.333396,
+        "LATITUDE": 29.854289,
+        "KeyMap": "454B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29847481,
+        "Agency": "F",
+        "Address": "NORTHWEST FWY IB",
+        "CrossStreet": "HOLLISTER OBIB",
+        "CALL_TIME": 1736499840000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "L004,E050,A005",
+        "LONGITUDE": -95.504387,
+        "LATITUDE": 29.847481,
+        "KeyMap": "450D",
         "CombinedResponse": "F"
       }
     },
@@ -127,57 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29739419,
-        "Agency": "F",
-        "Address": "WESTHEIMER RD",
-        "CrossStreet": "BLK YORKTOWN ST",
-        "CALL_TIME": 1736499660000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E002",
-        "LONGITUDE": -95.469725,
-        "LATITUDE": 29.739419,
-        "KeyMap": "491U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29728713,
-        "Agency": "F",
-        "Address": "CAROLINE ST",
-        "CrossStreet": "BLK WICHITA ST",
-        "CALL_TIME": 1736499660000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A016",
-        "LONGITUDE": -95.383474,
-        "LATITUDE": 29.728713,
-        "KeyMap": "493X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29854289,
-        "Agency": "F",
-        "Address": "EXIT 138 N US 59 FWY OB",
-        "CrossStreet": "PARKER JENSEN SAUNDERS EXIT",
-        "CALL_TIME": 1736499600000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E034,M034,L034",
-        "LONGITUDE": -95.333396,
-        "LATITUDE": 29.854289,
-        "KeyMap": "454B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29617851,
         "Agency": "F",
         "Address": "KINGSTON POINT LN",
@@ -190,23 +224,6 @@
         "LONGITUDE": -95.407627,
         "LATITUDE": 29.617851,
         "KeyMap": "572R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29847481,
-        "Agency": "F",
-        "Address": "NORTHWEST FWY IB",
-        "CrossStreet": "HOLLISTER OBIB",
-        "CALL_TIME": 1736499300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E004,L004,E050",
-        "LONGITUDE": -95.504387,
-        "LATITUDE": 29.847481,
-        "KeyMap": "450D",
         "CombinedResponse": "F"
       }
     },
@@ -564,57 +581,6 @@
         "LONGITUDE": -95.370612,
         "LATITUDE": 29.749895,
         "KeyMap": "493Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29829059,
-        "Agency": "F",
-        "Address": "N WAYSIDE DR",
-        "CrossStreet": "BLK FURRAY ST",
-        "CALL_TIME": 1736495640000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M043",
-        "LONGITUDE": -95.28442,
-        "LATITUDE": 29.829059,
-        "KeyMap": "455K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29738883,
-        "Agency": "F",
-        "Address": "W ALABAMA ST",
-        "CrossStreet": "BLK FLORA ST",
-        "CALL_TIME": 1736494380000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A007",
-        "LONGITUDE": -95.383563,
-        "LATITUDE": 29.738883,
-        "KeyMap": "493T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29673505,
-        "Agency": "F",
-        "Address": "W BELLFORT AVE",
-        "CrossStreet": "BLK FANNIN ST",
-        "CALL_TIME": 1736493780000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A021",
-        "LONGITUDE": -95.401166,
-        "LATITUDE": 29.673505,
-        "KeyMap": "532V",
         "CombinedResponse": "F"
       }
     },
