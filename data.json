@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29722451,
+        "UID": 29952237,
         "Agency": "F",
-        "Address": "HERMANN DR",
-        "CrossStreet": "BLK AUSTIN ST",
-        "CALL_TIME": 1736503320000,
+        "Address": "GREENS RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1736504400000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A016,AS016",
-        "LONGITUDE": -95.388145,
-        "LATITUDE": 29.722451,
-        "KeyMap": "533A",
+        "NO_UNITS": 1,
+        "Units": "E064",
+        "LONGITUDE": -95.304314,
+        "LATITUDE": 29.952237,
+        "KeyMap": "375N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29740532,
+        "Agency": "F",
+        "Address": "BROWNWAY ST",
+        "CrossStreet": "BLK YORKTOWN ST",
+        "CALL_TIME": 1736504280000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E028",
+        "LONGITUDE": -95.467921,
+        "LATITUDE": 29.740532,
+        "KeyMap": "491U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29631993,
+        "Agency": "F",
+        "Address": "BUNGALOW LN",
+        "CrossStreet": "BLK SANDROCK DR",
+        "CALL_TIME": 1736504280000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E055",
+        "LONGITUDE": -95.344434,
+        "LATITUDE": 29.631993,
+        "KeyMap": "574J",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +148,7 @@
         "Agency": "F",
         "Address": "SCOTT ST",
         "CrossStreet": "BLK MT PLEASANT ST",
-        "CALL_TIME": 1736503260000,
+        "CALL_TIME": 1736504100000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,32 +161,15 @@
     },
     {
       "attributes": {
-        "UID": 29655599,
-        "Agency": "F",
-        "Address": "W BELLFORT AVE",
-        "CrossStreet": "BLK BRAES PARK DR",
-        "CALL_TIME": 1736503200000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A068",
-        "LONGITUDE": -95.521608,
-        "LATITUDE": 29.655599,
-        "KeyMap": "570B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29653293,
         "Agency": "F",
         "Address": "MAIN ST IB",
         "CrossStreet": null,
-        "CALL_TIME": 1736503140000,
-        "IncidentType": "EMS EVENT",
+        "CALL_TIME": 1736503980000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E021",
+        "NO_UNITS": 2,
+        "Units": "E021,A021",
         "LONGITUDE": -95.446594,
         "LATITUDE": 29.653293,
         "KeyMap": "571D",
@@ -161,11 +178,28 @@
     },
     {
       "attributes": {
+        "UID": 29952237,
+        "Agency": "P",
+        "Address": "5801 GREENS RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1736503920000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "21I63N,21I59N",
+        "LONGITUDE": -95.304314,
+        "LATITUDE": 29.952237,
+        "KeyMap": "375N",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29681009,
         "Agency": "F",
         "Address": "KULDELL DR",
         "CrossStreet": "BLK BRAEWICK DR",
-        "CALL_TIME": 1736503140000,
+        "CALL_TIME": 1736503740000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -178,35 +212,18 @@
     },
     {
       "attributes": {
-        "UID": 29653293,
-        "Agency": "P",
-        "Address": "12001 MAIN ST IB",
-        "CrossStreet": null,
-        "CALL_TIME": 1736502960000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "15E43N",
-        "LONGITUDE": -95.446594,
-        "LATITUDE": 29.653293,
-        "KeyMap": "571D",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29708604,
+        "UID": 29655599,
         "Agency": "F",
-        "Address": "HARBOR TOWN DR",
-        "CrossStreet": "BLK SHARPSTOWN GREEN CIR",
-        "CALL_TIME": 1736502960000,
-        "IncidentType": "APARTMENT FIRE",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 4,
-        "Units": "E051,A051,E010,L051",
-        "LONGITUDE": -95.527971,
-        "LATITUDE": 29.708604,
-        "KeyMap": "530F",
+        "Address": "W BELLFORT AVE",
+        "CrossStreet": "BLK BRAES PARK DR",
+        "CALL_TIME": 1736503680000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A068,HME082",
+        "LONGITUDE": -95.521608,
+        "LATITUDE": 29.655599,
+        "KeyMap": "570B",
         "CombinedResponse": "F"
       }
     },
@@ -216,7 +233,7 @@
         "Agency": "F",
         "Address": "POST OAK BLVD",
         "CrossStreet": "BLK HIDALGO ST",
-        "CALL_TIME": 1736502840000,
+        "CALL_TIME": 1736503380000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -225,6 +242,40 @@
         "LATITUDE": 29.73715,
         "KeyMap": "491U",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29722451,
+        "Agency": "F",
+        "Address": "HERMANN DR",
+        "CrossStreet": "BLK AUSTIN ST",
+        "CALL_TIME": 1736503320000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A016",
+        "LONGITUDE": -95.388145,
+        "LATITUDE": 29.722451,
+        "KeyMap": "533A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29653293,
+        "Agency": "P",
+        "Address": "12001 MAIN ST IB",
+        "CrossStreet": null,
+        "CALL_TIME": 1736502960000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "15E43N,15E13C",
+        "LONGITUDE": -95.446594,
+        "LATITUDE": 29.653293,
+        "KeyMap": "571D",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -253,8 +304,8 @@
         "CALL_TIME": 1736502720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A032,M043",
+        "NO_UNITS": 1,
+        "Units": "M043",
         "LONGITUDE": -95.270261,
         "LATITUDE": 29.851698,
         "KeyMap": "455C",
@@ -304,8 +355,8 @@
         "CALL_TIME": 1736501340000,
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 2,
-        "Units": "E075,L075",
+        "NO_UNITS": 1,
+        "Units": "E075",
         "LONGITUDE": -95.621264,
         "LATITUDE": 29.730444,
         "KeyMap": "488Y",
@@ -406,8 +457,8 @@
         "CALL_TIME": 1736498640000,
         "IncidentType": "MOTOR VEHICLE INCIDENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A052,M029",
+        "NO_UNITS": 1,
+        "Units": "M029",
         "LONGITUDE": -95.221284,
         "LATITUDE": 29.647884,
         "KeyMap": "576G",
@@ -440,29 +491,12 @@
         "CALL_TIME": 1736498160000,
         "IncidentType": "CRASH/MAJOR/FSRA",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "12D11N,12D15N",
+        "NO_UNITS": 1,
+        "Units": "12D11N",
         "LONGITUDE": -95.221284,
         "LATITUDE": 29.647884,
         "KeyMap": "576G",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29821136,
-        "Agency": "F",
-        "Address": "SPENCE ST",
-        "CrossStreet": "BLK JENSEN DR",
-        "CALL_TIME": 1736498100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A039",
-        "LONGITUDE": -95.343406,
-        "LATITUDE": 29.821136,
-        "KeyMap": "454N",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -501,40 +535,6 @@
     },
     {
       "attributes": {
-        "UID": 29781171,
-        "Agency": "F",
-        "Address": "N POST OAK RD",
-        "CrossStreet": "BLK KATY FWY IB",
-        "CALL_TIME": 1736497740000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A038",
-        "LONGITUDE": -95.456715,
-        "LATITUDE": 29.781171,
-        "KeyMap": "491D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29963542,
-        "Agency": "F",
-        "Address": "NORTH FWY IB",
-        "CrossStreet": "RANKIN OBIB",
-        "CALL_TIME": 1736497560000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A084",
-        "LONGITUDE": -95.419069,
-        "LATITUDE": 29.963542,
-        "KeyMap": "372L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29683387,
         "Agency": "F",
         "Address": "LADY",
@@ -547,23 +547,6 @@
         "LONGITUDE": -95.377789,
         "LATITUDE": 29.683387,
         "KeyMap": "533P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29749895,
-        "Agency": "F",
-        "Address": "MAIN ST",
-        "CrossStreet": "BLK PIERCE ST",
-        "CALL_TIME": 1736495700000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M009",
-        "LONGITUDE": -95.370612,
-        "LATITUDE": 29.749895,
-        "KeyMap": "493Q",
         "CombinedResponse": "F"
       }
     },
@@ -603,6 +586,23 @@
     },
     {
       "attributes": {
+        "UID": 29942376,
+        "Agency": "P",
+        "Address": "5731 EDWARD DR",
+        "CrossStreet": "BLK LEE RD",
+        "CALL_TIME": 1736489280000,
+        "IncidentType": "CRASH/MINOR/FSGI",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "22B47N",
+        "LONGITUDE": -95.305327,
+        "LATITUDE": 29.942376,
+        "KeyMap": "374V",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29658988,
         "Agency": "P",
         "Address": "11600 MAIN ST OB",
@@ -620,23 +620,6 @@
     },
     {
       "attributes": {
-        "UID": 29740998,
-        "Agency": "P",
-        "Address": "12330 BURGOYNE RD",
-        "CrossStreet": "BLK PIPING ROCK DR",
-        "CALL_TIME": 1736483940000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "20G14N",
-        "LONGITUDE": -95.599211,
-        "LATITUDE": 29.740998,
-        "KeyMap": "488V",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29750898,
         "Agency": "P",
         "Address": "1129 SEAGLER RD",
@@ -649,6 +632,23 @@
         "LONGITUDE": -95.553393,
         "LATITUDE": 29.750898,
         "KeyMap": "489R",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29740998,
+        "Agency": "P",
+        "Address": "12330 BURGOYNE RD",
+        "CrossStreet": "BLK PIPING ROCK DR",
+        "CALL_TIME": 1736483940000,
+        "IncidentType": "CRASH/MINOR",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "20G14N",
+        "LONGITUDE": -95.599211,
+        "LATITUDE": 29.740998,
+        "KeyMap": "488V",
         "CombinedResponse": "P"
       }
     },
