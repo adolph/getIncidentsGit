@@ -93,18 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29845524,
+        "UID": 29937427,
         "Agency": "F",
-        "Address": "AIRLINE DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1737019860000,
-        "IncidentType": "BUILDING FIRE",
+        "Address": "CROSSWINDS DR",
+        "CrossStreet": "BLK N SAM HOUSTON PKWY E",
+        "CALL_TIME": 1737020760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M063,A064",
+        "LONGITUDE": -95.313463,
+        "LATITUDE": 29.937427,
+        "KeyMap": "374U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29591789,
+        "Agency": "F",
+        "Address": "ENCHANTED ISLE DR",
+        "CrossStreet": "BLK SPACE CENTER BLVD",
+        "CALL_TIME": 1737020640000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E071",
+        "LONGITUDE": -95.137133,
+        "LATITUDE": 29.591789,
+        "KeyMap": "618A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29735397,
+        "Agency": "F",
+        "Address": "HIDALGO ST",
+        "CrossStreet": "BLK SAGE RD",
+        "CALL_TIME": 1737020580000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A028,SQ028",
+        "LONGITUDE": -95.465115,
+        "LATITUDE": 29.735397,
+        "KeyMap": "491U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 30059856,
+        "Agency": "F",
+        "Address": "RIVER VILLAGE DR",
+        "CrossStreet": "BLK PLUM VALLEY DR",
+        "CALL_TIME": 1737020340000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M101",
+        "LONGITUDE": -95.215011,
+        "LATITUDE": 30.059856,
+        "KeyMap": "296Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29619333,
+        "Agency": "F",
+        "Address": "WARKWORTH DR",
+        "CrossStreet": "BLK MCKINSTRY BLVD",
+        "CALL_TIME": 1737020040000,
+        "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 10,
-        "Units": "E058,E031,A058,SF030,E030,L031,HR011,E034,L034,M031",
-        "LONGITUDE": -95.384436,
-        "LATITUDE": 29.845524,
-        "KeyMap": "453B",
+        "NO_UNITS": 8,
+        "Units": "E048,L059,M059,E059,E047,D021,E080,D059",
+        "LONGITUDE": -95.479879,
+        "LATITUDE": 29.619333,
+        "KeyMap": "571P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29860014,
+        "Agency": "F",
+        "Address": "CALIFORNIA LILY LN",
+        "CrossStreet": "BLK SOUTHERN GARDENIA DR",
+        "CALL_TIME": 1737019980000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A032",
+        "LONGITUDE": -95.283332,
+        "LATITUDE": 29.860014,
+        "KeyMap": "415X",
         "CombinedResponse": "F"
       }
     },
@@ -117,8 +202,8 @@
         "CALL_TIME": 1737019860000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A051,M010,E068",
+        "NO_UNITS": 2,
+        "Units": "M010,A051",
         "LONGITUDE": -95.525803,
         "LATITUDE": 29.68523,
         "KeyMap": "530P",
@@ -139,40 +224,6 @@
         "LONGITUDE": -95.505744,
         "LATITUDE": 29.63854,
         "KeyMap": "570H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29619333,
-        "Agency": "F",
-        "Address": "WARKWORTH DR",
-        "CrossStreet": "BLK MCKINSTRY BLVD",
-        "CALL_TIME": 1737019680000,
-        "IncidentType": "HOUSE ON FIRE",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 10,
-        "Units": "SF024,E048,L059,M059,D059,E059,L021,D021,RE010,E080",
-        "LONGITUDE": -95.479879,
-        "LATITUDE": 29.619333,
-        "KeyMap": "571P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29860014,
-        "Agency": "F",
-        "Address": "CALIFORNIA LILY LN",
-        "CrossStreet": "BLK SOUTHERN GARDENIA DR",
-        "CALL_TIME": 1737019620000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.283332,
-        "LATITUDE": 29.860014,
-        "KeyMap": "415X",
         "CombinedResponse": "F"
       }
     },
@@ -297,23 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29685195,
-        "Agency": "F",
-        "Address": "MURWORTH DR",
-        "CrossStreet": "BLK MAIN ST",
-        "CALL_TIME": 1737016680000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A021",
-        "LONGITUDE": -95.419456,
-        "LATITUDE": 29.685195,
-        "KeyMap": "532Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29754305,
         "Agency": "P",
         "Address": "1503 MCKINNEY ST",
@@ -321,8 +355,8 @@
         "CALL_TIME": 1737016380000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "3Y27N,3Y26N,3Y45N,3Y07N",
+        "NO_UNITS": 2,
+        "Units": "3Y27N,3Y26N",
         "LONGITUDE": -95.360494,
         "LATITUDE": 29.754305,
         "KeyMap": "493R",
@@ -338,8 +372,8 @@
         "CALL_TIME": 1737016380000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ008,A008",
+        "NO_UNITS": 1,
+        "Units": "SQ008",
         "LONGITUDE": -95.365491,
         "LATITUDE": 29.759502,
         "KeyMap": "493L",
@@ -399,23 +433,6 @@
     },
     {
       "attributes": {
-        "UID": 29838615,
-        "Agency": "F",
-        "Address": "PEACHTREE ST",
-        "CrossStreet": "BLK LAURA KOPPE RD",
-        "CALL_TIME": 1737011280000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M034",
-        "LONGITUDE": -95.315281,
-        "LATITUDE": 29.838615,
-        "KeyMap": "454G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29665025,
         "Agency": "F",
         "Address": "ASHBURN ST",
@@ -423,8 +440,8 @@
         "CALL_TIME": 1737010740000,
         "IncidentType": "GARAGE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 2,
-        "Units": "E036,L026",
+        "NO_UNITS": 1,
+        "Units": "L026",
         "LONGITUDE": -95.292837,
         "LATITUDE": 29.665025,
         "KeyMap": "535W",
