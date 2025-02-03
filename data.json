@@ -93,52 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29738370,
+        "UID": 29738122,
         "Agency": "F",
-        "Address": "LAZY HOLLOW DR",
+        "Address": "SHADOW VIEW LN",
         "CrossStreet": "BLK WESTHEIMER RD",
-        "CALL_TIME": 1738575120000,
-        "IncidentType": "DUMPSTER ON FIRE",
+        "CALL_TIME": 1738576020000,
+        "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E028,E060",
-        "LONGITUDE": -95.517117,
-        "LATITUDE": 29.73837,
-        "KeyMap": "490U",
+        "NO_UNITS": 1,
+        "Units": "E075",
+        "LONGITUDE": -95.60083,
+        "LATITUDE": 29.738122,
+        "KeyMap": "488V",
         "CombinedResponse": "F"
       }
     },
     {
       "attributes": {
-        "UID": 29666208,
+        "UID": 29694646,
         "Agency": "F",
-        "Address": "S GESSNER RD",
-        "CrossStreet": "BLK WILLOW MEADOW DR",
-        "CALL_TIME": 1738575120000,
+        "Address": "EASTON ST",
+        "CrossStreet": "BLK HASTINGS ST",
+        "CALL_TIME": 1738575660000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A082",
-        "LONGITUDE": -95.528117,
-        "LATITUDE": 29.666208,
-        "KeyMap": "530X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29723662,
-        "Agency": "F",
-        "Address": "MEDINA ST",
-        "CrossStreet": "BLK CYPRESS ST",
-        "CALL_TIME": 1738575000000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A023",
-        "LONGITUDE": -95.279843,
-        "LATITUDE": 29.723662,
-        "KeyMap": "535B",
+        "NO_UNITS": 3,
+        "Units": "A036,M040,E023",
+        "LONGITUDE": -95.277022,
+        "LATITUDE": 29.694646,
+        "KeyMap": "535K",
         "CombinedResponse": "F"
       }
     },
@@ -148,7 +131,7 @@
         "Agency": "F",
         "Address": "EL CAMINO REAL",
         "CrossStreet": "BLK SEAFOAM RD",
-        "CALL_TIME": 1738574940000,
+        "CALL_TIME": 1738575540000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -161,18 +144,18 @@
     },
     {
       "attributes": {
-        "UID": 29778608,
+        "UID": 29846825,
         "Agency": "F",
-        "Address": "BARRYKNOLL LN",
-        "CrossStreet": "BLK MEMORIAL CITY WAY",
-        "CALL_TIME": 1738574880000,
-        "IncidentType": "FIRE EVENT",
+        "Address": "W TIDWELL RD",
+        "CrossStreet": "BLK GOLDSPIER ST",
+        "CALL_TIME": 1738575540000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E049",
-        "LONGITUDE": -95.534993,
-        "LATITUDE": 29.778608,
-        "KeyMap": "490B",
+        "Units": "E067",
+        "LONGITUDE": -95.444828,
+        "LATITUDE": 29.846825,
+        "KeyMap": "452A",
         "CombinedResponse": "F"
       }
     },
@@ -182,7 +165,7 @@
         "Agency": "F",
         "Address": "H MARK CROSSWELL JR ST",
         "CrossStreet": "SHENANDOAH ST",
-        "CALL_TIME": 1738574880000,
+        "CALL_TIME": 1738575420000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
@@ -190,6 +173,57 @@
         "LONGITUDE": -95.374808,
         "LATITUDE": 29.711197,
         "KeyMap": "533F",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29738370,
+        "Agency": "F",
+        "Address": "LAZY HOLLOW DR",
+        "CrossStreet": "BLK WESTHEIMER RD",
+        "CALL_TIME": 1738575420000,
+        "IncidentType": "DUMPSTER ON FIRE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E060",
+        "LONGITUDE": -95.517117,
+        "LATITUDE": 29.73837,
+        "KeyMap": "490U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29723662,
+        "Agency": "F",
+        "Address": "MEDINA ST",
+        "CrossStreet": "BLK CYPRESS ST",
+        "CALL_TIME": 1738575180000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A023",
+        "LONGITUDE": -95.279843,
+        "LATITUDE": 29.723662,
+        "KeyMap": "535B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29666208,
+        "Agency": "F",
+        "Address": "S GESSNER RD",
+        "CrossStreet": "BLK WILLOW MEADOW DR",
+        "CALL_TIME": 1738575120000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A082,SQ082",
+        "LONGITUDE": -95.528117,
+        "LATITUDE": 29.666208,
+        "KeyMap": "530X",
         "CombinedResponse": "F"
       }
     },
@@ -258,23 +292,6 @@
         "LONGITUDE": -95.361208,
         "LATITUDE": 29.725554,
         "KeyMap": "533C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29730153,
-        "Agency": "F",
-        "Address": "BEVERLY HILL ST",
-        "CrossStreet": "BLK YORKTOWN ST",
-        "CALL_TIME": 1738573800000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ028,A028",
-        "LONGITUDE": -95.468831,
-        "LATITUDE": 29.730153,
-        "KeyMap": "491Y",
         "CombinedResponse": "F"
       }
     },
@@ -433,23 +450,6 @@
     },
     {
       "attributes": {
-        "UID": 29640603,
-        "Agency": "F",
-        "Address": "DUNLAP ST",
-        "CrossStreet": "BLK FONMEADOW DR",
-        "CALL_TIME": 1738569420000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A048",
-        "LONGITUDE": -95.495407,
-        "LATITUDE": 29.640603,
-        "KeyMap": "571E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29874941,
         "Agency": "F",
         "Address": "RINGOLD ST",
@@ -513,23 +513,6 @@
         "LONGITUDE": -95.310454,
         "LATITUDE": 29.856187,
         "KeyMap": "454D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29796960,
-        "Agency": "F",
-        "Address": "WITTE RD",
-        "CrossStreet": "BLK HAZELHURST DR",
-        "CALL_TIME": 1738566000000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M049",
-        "LONGITUDE": -95.540181,
-        "LATITUDE": 29.79696,
-        "KeyMap": "450W",
         "CombinedResponse": "F"
       }
     },
