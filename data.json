@@ -93,18 +93,86 @@
   "features": [
     {
       "attributes": {
-        "UID": 29746682,
+        "UID": 29742551,
         "Agency": "F",
-        "Address": "DENNIS ST",
-        "CrossStreet": "BLK LOUISIANA ST",
-        "CALL_TIME": 1738664400000,
-        "IncidentType": "CHECK PATIENT*",
+        "Address": "MCCUE RD",
+        "CrossStreet": "BLK WESTHEIMER RD",
+        "CALL_TIME": 1738665120000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E001",
-        "LONGITUDE": -95.377961,
-        "LATITUDE": 29.746682,
-        "KeyMap": "493T",
+        "Units": "E028",
+        "LONGITUDE": -95.464235,
+        "LATITUDE": 29.742551,
+        "KeyMap": "491U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29680893,
+        "Agency": "F",
+        "Address": "IH610IB-SH288IB RAMP S IH 610 FWY E",
+        "CrossStreet": "SH 288 EXIT",
+        "CALL_TIME": 1738665120000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "E046,L046,A046",
+        "LONGITUDE": -95.37396,
+        "LATITUDE": 29.680893,
+        "KeyMap": "533T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29853050,
+        "Agency": "F",
+        "Address": "GUHN RD",
+        "CrossStreet": "BLK CASTLEFORD ST",
+        "CALL_TIME": 1738665120000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A004",
+        "LONGITUDE": -95.515415,
+        "LATITUDE": 29.85305,
+        "KeyMap": "450C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29729033,
+        "Agency": "F",
+        "Address": "ANITA ST",
+        "CrossStreet": "BLK LEEK ST",
+        "CALL_TIME": 1738664880000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A025",
+        "LONGITUDE": -95.346355,
+        "LATITUDE": 29.729033,
+        "KeyMap": "494W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29846080,
+        "Agency": "F",
+        "Address": "FRINGEWOOD DR",
+        "CrossStreet": "BLK MESA DR",
+        "CALL_TIME": 1738664700000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A034",
+        "LONGITUDE": -95.263612,
+        "LATITUDE": 29.84608,
+        "KeyMap": "455G",
         "CombinedResponse": "F"
       }
     },
@@ -144,23 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29729033,
-        "Agency": "F",
-        "Address": "ANITA ST",
-        "CrossStreet": "BLK LEEK ST",
-        "CALL_TIME": 1738664160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A025",
-        "LONGITUDE": -95.346355,
-        "LATITUDE": 29.729033,
-        "KeyMap": "494W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29793165,
         "Agency": "F",
         "Address": "GRANTON ST",
@@ -185,28 +236,11 @@
         "CALL_TIME": 1738663980000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A031",
+        "NO_UNITS": 2,
+        "Units": "A031,M031",
         "LONGITUDE": -95.397209,
         "LATITUDE": 29.813894,
         "KeyMap": "453N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29846080,
-        "Agency": "F",
-        "Address": "FRINGEWOOD DR",
-        "CrossStreet": "BLK MESA DR",
-        "CALL_TIME": 1738663980000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A034",
-        "LONGITUDE": -95.263612,
-        "LATITUDE": 29.84608,
-        "KeyMap": "455G",
         "CombinedResponse": "F"
       }
     },
@@ -259,23 +293,6 @@
         "LATITUDE": 29.837406,
         "KeyMap": "454F",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29850042,
-        "Agency": "F",
-        "Address": "TIDWELL RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1738663260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.262338,
-        "LATITUDE": 29.850042,
-        "KeyMap": "455C",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -491,8 +508,8 @@
         "CALL_TIME": 1738657680000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A093,M070,AS036",
+        "NO_UNITS": 2,
+        "Units": "A093,M070",
         "LONGITUDE": -95.218,
         "LATITUDE": 29.623139,
         "KeyMap": "576Q",
