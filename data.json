@@ -97,7 +97,7 @@
         "Agency": "F",
         "Address": "N TERMINAL RD",
         "CrossStreet": "BLK UNKNOWN",
-        "CALL_TIME": 1740133320000,
+        "CALL_TIME": 1740133920000,
         "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -110,11 +110,28 @@
     },
     {
       "attributes": {
+        "UID": 29849989,
+        "Agency": "F",
+        "Address": "SPAULDING ST",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1740133860000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A032",
+        "LONGITUDE": -95.303802,
+        "LATITUDE": 29.849989,
+        "KeyMap": "454D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29987394,
         "Agency": "F",
         "Address": "BUSH AIRPORT TERMINAL A 2800 N N TERMINAL RD",
         "CrossStreet": "BLK UNKNOWN",
-        "CALL_TIME": 1740133260000,
+        "CALL_TIME": 1740133860000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,18 +144,35 @@
     },
     {
       "attributes": {
-        "UID": 29679585,
+        "UID": 29677206,
         "Agency": "F",
-        "Address": "EISENHOWER RD",
-        "CrossStreet": "BLK DOOLITTLE BLVD",
-        "CALL_TIME": 1740133260000,
-        "IncidentType": "FIRE EVENT",
+        "Address": "MAIN ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1740133800000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E035",
-        "LONGITUDE": -95.348548,
-        "LATITUDE": 29.679585,
-        "KeyMap": "533V",
+        "Units": "E021",
+        "LONGITUDE": -95.427802,
+        "LATITUDE": 29.677206,
+        "KeyMap": "532T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29663432,
+        "Agency": "F",
+        "Address": "WESTOVER ST",
+        "CrossStreet": "BLK S WAYSIDE DR",
+        "CALL_TIME": 1740133740000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A035,M036",
+        "LONGITUDE": -95.323175,
+        "LATITUDE": 29.663432,
+        "KeyMap": "534X",
         "CombinedResponse": "F"
       }
     },
@@ -157,23 +191,6 @@
         "LATITUDE": 29.733441,
         "KeyMap": "489V",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29848899,
-        "Agency": "F",
-        "Address": "GROW LN",
-        "CrossStreet": "BLK DOW RD",
-        "CALL_TIME": 1740132840000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M050",
-        "LONGITUDE": -95.508877,
-        "LATITUDE": 29.848899,
-        "KeyMap": "450D",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -241,23 +258,6 @@
         "LONGITUDE": -95.298165,
         "LATITUDE": 29.860685,
         "KeyMap": "415W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29772141,
-        "Agency": "F",
-        "Address": "WINTER ST",
-        "CrossStreet": "BLK HEMPHILL ST",
-        "CALL_TIME": 1740131760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E006",
-        "LONGITUDE": -95.379324,
-        "LATITUDE": 29.772141,
-        "KeyMap": "493F",
         "CombinedResponse": "F"
       }
     },
@@ -535,23 +535,6 @@
     },
     {
       "attributes": {
-        "UID": 29847550,
-        "Agency": "P",
-        "Address": "13700 HEMPSTEAD RD",
-        "CrossStreet": "BLK STANLEY ST",
-        "CALL_TIME": 1740120360000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "5F30N",
-        "LONGITUDE": -95.524244,
-        "LATITUDE": 29.84755,
-        "KeyMap": "450B",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29775837,
         "Agency": "P",
         "Address": "801 FEDERAL RD",
@@ -564,6 +547,23 @@
         "LONGITUDE": -95.218278,
         "LATITUDE": 29.775837,
         "KeyMap": "496G",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29847550,
+        "Agency": "P",
+        "Address": "13700 HEMPSTEAD RD",
+        "CrossStreet": "BLK STANLEY ST",
+        "CALL_TIME": 1740120360000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "5F30N",
+        "LONGITUDE": -95.524244,
+        "LATITUDE": 29.84755,
+        "KeyMap": "450B",
         "CombinedResponse": "P"
       }
     },
