@@ -93,18 +93,69 @@
   "features": [
     {
       "attributes": {
-        "UID": 29816392,
+        "UID": 29661130,
         "Agency": "F",
-        "Address": "MELBOURNE ST",
-        "CrossStreet": "BLK IRVINGTON BLVD",
-        "CALL_TIME": 1741078860000,
+        "Address": "MORLEY ST",
+        "CrossStreet": "BLK PICCADILLY DR",
+        "CALL_TIME": 1741080120000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A036",
+        "LONGITUDE": -95.287884,
+        "LATITUDE": 29.66113,
+        "KeyMap": "535W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29939016,
+        "Agency": "F",
+        "Address": "N SAM HOUSTON PKWY E",
+        "CrossStreet": null,
+        "CALL_TIME": 1741080120000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
-        "Units": "A030,E030",
-        "LONGITUDE": -95.362453,
-        "LATITUDE": 29.816392,
-        "KeyMap": "453Q",
+        "Units": "M074,A064",
+        "LONGITUDE": -95.313566,
+        "LATITUDE": 29.939016,
+        "KeyMap": "374V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29714072,
+        "Agency": "F",
+        "Address": "SOUTHWEST FWY OB",
+        "CrossStreet": "BLK SAVOY DR",
+        "CALL_TIME": 1741080000000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A051",
+        "LONGITUDE": -95.502688,
+        "LATITUDE": 29.714072,
+        "KeyMap": "530D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29729312,
+        "Agency": "F",
+        "Address": "RICHMOND AVE",
+        "CrossStreet": "BLK DUNVALE RD",
+        "CALL_TIME": 1741079940000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "SQ028,A060",
+        "LONGITUDE": -95.512508,
+        "LATITUDE": 29.729312,
+        "KeyMap": "490Y",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +165,7 @@
         "Agency": "F",
         "Address": "BEVERLY HILL ST",
         "CrossStreet": "BLK E GREENRIDGE DR",
-        "CALL_TIME": 1741078680000,
+        "CALL_TIME": 1741078980000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -122,23 +173,6 @@
         "LONGITUDE": -95.486833,
         "LATITUDE": 29.730648,
         "KeyMap": "491W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 30054785,
-        "Agency": "F",
-        "Address": "STATELY OAK ST",
-        "CrossStreet": "BLK CARDINAL CREEK WAY",
-        "CALL_TIME": 1741078560000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E103",
-        "LONGITUDE": -95.149779,
-        "LATITUDE": 30.054785,
-        "KeyMap": "298W",
         "CombinedResponse": "F"
       }
     },
@@ -173,23 +207,6 @@
         "LONGITUDE": -95.364348,
         "LATITUDE": 29.725707,
         "KeyMap": "493Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29697644,
-        "Agency": "F",
-        "Address": "VINEWOOD LN",
-        "CrossStreet": "BLK CARVEL LN",
-        "CALL_TIME": 1741077540000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A076,M075",
-        "LONGITUDE": -95.610895,
-        "LATITUDE": 29.697644,
-        "KeyMap": "528L",
         "CombinedResponse": "F"
       }
     },
@@ -236,29 +253,12 @@
         "CALL_TIME": 1741077240000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M060,A051",
+        "NO_UNITS": 1,
+        "Units": "M060",
         "LONGITUDE": -95.504645,
         "LATITUDE": 29.713358,
         "KeyMap": "530D",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29737668,
-        "Agency": "P",
-        "Address": "2699 WINROCK BLVD",
-        "CrossStreet": null,
-        "CALL_TIME": 1741075500000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "18F41N",
-        "LONGITUDE": -95.496351,
-        "LATITUDE": 29.737668,
-        "KeyMap": "491S",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -355,8 +355,8 @@
         "CALL_TIME": 1741069140000,
         "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "12D38N,12D71N",
+        "NO_UNITS": 1,
+        "Units": "12D71N",
         "LONGITUDE": -95.156465,
         "LATITUDE": 29.581057,
         "KeyMap": "617H",
