@@ -93,18 +93,69 @@
   "features": [
     {
       "attributes": {
-        "UID": 29848731,
+        "UID": 29787883,
         "Agency": "F",
-        "Address": "TIDWELL RD",
-        "CrossStreet": "BLK FRIENDLY RD",
-        "CALL_TIME": 1742371320000,
+        "Address": "FULTON ST",
+        "CrossStreet": "BLK HAYS ST",
+        "CALL_TIME": 1742372520000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M009,A012",
+        "LONGITUDE": -95.360524,
+        "LATITUDE": 29.787883,
+        "KeyMap": "493D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29807473,
+        "Agency": "F",
+        "Address": "LAVENDER ST",
+        "CrossStreet": "BLK N LOOP E",
+        "CALL_TIME": 1742372520000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M019,A039",
+        "LONGITUDE": -95.320678,
+        "LATITUDE": 29.807473,
+        "KeyMap": "454U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29785049,
+        "Agency": "F",
+        "Address": "GESSNER RD",
+        "CrossStreet": "BLK KATY FWY OB",
+        "CALL_TIME": 1742372340000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "M034",
-        "LONGITUDE": -95.330856,
-        "LATITUDE": 29.848731,
-        "KeyMap": "454B",
+        "Units": "A077",
+        "LONGITUDE": -95.543973,
+        "LATITUDE": 29.785049,
+        "KeyMap": "490A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29670647,
+        "Agency": "F",
+        "Address": "GLENHURST DR",
+        "CrossStreet": "BLK S WAYSIDE DR",
+        "CALL_TIME": 1742372280000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E035",
+        "LONGITUDE": -95.322265,
+        "LATITUDE": 29.670647,
+        "KeyMap": "534X",
         "CombinedResponse": "F"
       }
     },
@@ -114,11 +165,11 @@
         "Agency": "F",
         "Address": "STANDIFER ST",
         "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1742371320000,
+        "CALL_TIME": 1742372100000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A056",
+        "NO_UNITS": 3,
+        "Units": "A056,HME063,M063",
         "LONGITUDE": -95.307919,
         "LATITUDE": 29.988774,
         "KeyMap": "334Z",
@@ -127,18 +178,18 @@
     },
     {
       "attributes": {
-        "UID": 29672440,
+        "UID": 29889830,
         "Agency": "F",
-        "Address": "TELEPHONE RD",
-        "CrossStreet": "BLK PECAN VILLAS DR",
-        "CALL_TIME": 1742371260000,
-        "IncidentType": "EMS EVENT",
+        "Address": "NORTH FWY OB",
+        "CrossStreet": "BLK PEACH SPRING DR",
+        "CALL_TIME": 1742371980000,
+        "IncidentType": "DUMPSTER ON FIRE",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A026",
-        "LONGITUDE": -95.289202,
-        "LATITUDE": 29.67244,
-        "KeyMap": "535S",
+        "Units": "E058",
+        "LONGITUDE": -95.411714,
+        "LATITUDE": 29.88983,
+        "KeyMap": "412M",
         "CombinedResponse": "F"
       }
     },
@@ -148,7 +199,7 @@
         "Agency": "F",
         "Address": "ELDER GLEN DR",
         "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1742371200000,
+        "CALL_TIME": 1742371740000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -161,18 +212,52 @@
     },
     {
       "attributes": {
-        "UID": 29872812,
+        "UID": 29678556,
         "Agency": "F",
-        "Address": "DE PRIEST ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1742371140000,
-        "IncidentType": "CHECK PATIENT*",
+        "Address": "N BRAESWOOD BLVD",
+        "CrossStreet": "BLK S BRAESWOOD BLVD",
+        "CALL_TIME": 1742371740000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E067",
-        "LONGITUDE": -95.420715,
-        "LATITUDE": 29.872812,
-        "KeyMap": "412U",
+        "Units": "A051",
+        "LONGITUDE": -95.49854,
+        "LATITUDE": 29.678556,
+        "KeyMap": "530V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29848731,
+        "Agency": "F",
+        "Address": "TIDWELL RD",
+        "CrossStreet": "BLK FRIENDLY RD",
+        "CALL_TIME": 1742371740000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M034",
+        "LONGITUDE": -95.330856,
+        "LATITUDE": 29.848731,
+        "KeyMap": "454B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29672440,
+        "Agency": "F",
+        "Address": "TELEPHONE RD",
+        "CrossStreet": "BLK PECAN VILLAS DR",
+        "CALL_TIME": 1742371560000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A026",
+        "LONGITUDE": -95.289202,
+        "LATITUDE": 29.67244,
+        "KeyMap": "535S",
         "CombinedResponse": "F"
       }
     },
@@ -263,23 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29732646,
-        "Agency": "F",
-        "Address": "RICHMOND AVE",
-        "CrossStreet": null,
-        "CALL_TIME": 1742369280000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A037",
-        "LONGITUDE": -95.441473,
-        "LATITUDE": 29.732646,
-        "KeyMap": "492W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29780882,
         "Agency": "F",
         "Address": "KINGSBROOK RD",
@@ -292,6 +360,23 @@
         "LONGITUDE": -95.486633,
         "LATITUDE": 29.780882,
         "KeyMap": "491A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29732646,
+        "Agency": "F",
+        "Address": "RICHMOND AVE",
+        "CrossStreet": null,
+        "CALL_TIME": 1742369280000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A037",
+        "LONGITUDE": -95.441473,
+        "LATITUDE": 29.732646,
+        "KeyMap": "492W",
         "CombinedResponse": "F"
       }
     },
@@ -440,8 +525,8 @@
         "CALL_TIME": 1742366820000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "14D21N,14D32N,14D29N",
+        "NO_UNITS": 2,
+        "Units": "14D32N,14D29N",
         "LONGITUDE": -95.355398,
         "LATITUDE": 29.624835,
         "KeyMap": "573R",
@@ -474,8 +559,8 @@
         "CALL_TIME": 1742364660000,
         "IncidentType": "MOTORCYCLE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ033,A033",
+        "NO_UNITS": 1,
+        "Units": "SQ033",
         "LONGITUDE": -95.39291,
         "LATITUDE": 29.680269,
         "KeyMap": "533S",
@@ -492,7 +577,7 @@
         "IncidentType": "CRASH/MAJOR/FATALITY",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 10,
-        "Units": "15E43N,15E49C,15E35C,15E11C,13D13N,16E29C,16E03N,15E37N,16E15N,16E25C",
+        "Units": "15E43N,15E49C,15E35C,15E11C,13D13N,16E29C,15E37N,16E15N,16E25C,70Z81N",
         "LONGITUDE": -95.393348,
         "LATITUDE": 29.680257,
         "KeyMap": "533S",
@@ -513,23 +598,6 @@
         "LONGITUDE": -95.544601,
         "LATITUDE": 29.678906,
         "KeyMap": "530S",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29736687,
-        "Agency": "P",
-        "Address": "WESTHEIMER RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1742362080000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "20G38N",
-        "LONGITUDE": -95.576163,
-        "LATITUDE": 29.736687,
-        "KeyMap": "489T",
         "CombinedResponse": "P"
       }
     },
