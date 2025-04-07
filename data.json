@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29582371,
+        "UID": 30047985,
         "Agency": "F",
-        "Address": "BAY POINTE CT",
-        "CrossStreet": "BLK CLEAR LAKE CITY BLVD",
-        "CALL_TIME": 1744021320000,
+        "Address": "GREEN OAK DR",
+        "CrossStreet": "BLK KINGWOOD DR",
+        "CALL_TIME": 1744021860000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E101",
+        "LONGITUDE": -95.233858,
+        "LATITUDE": 30.047985,
+        "KeyMap": "336B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29633306,
+        "Agency": "F",
+        "Address": "KNOTTY OAKS TRL",
+        "CrossStreet": "BLK SUNSHADOW DR",
+        "CALL_TIME": 1744021560000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E071,A093,M094",
-        "LONGITUDE": -95.156587,
-        "LATITUDE": 29.582371,
-        "KeyMap": "617H",
+        "NO_UNITS": 1,
+        "Units": "A021",
+        "LONGITUDE": -95.420276,
+        "LATITUDE": 29.633306,
+        "KeyMap": "572L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29627604,
+        "Agency": "F",
+        "Address": "W OREM DR",
+        "CrossStreet": "BLK GREEN COLLING PARK DR",
+        "CALL_TIME": 1744021500000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A055",
+        "LONGITUDE": -95.402218,
+        "LATITUDE": 29.627604,
+        "KeyMap": "572M",
         "CombinedResponse": "F"
       }
     },
@@ -115,13 +149,30 @@
         "Address": "WILLOW ST",
         "CrossStreet": "BLK ESTHER DR",
         "CALL_TIME": 1744021320000,
-        "IncidentType": "FIRE EVENT",
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "L067",
+        "NO_UNITS": 2,
+        "Units": "L067,A004",
         "LONGITUDE": -95.435551,
         "LATITUDE": 29.873619,
         "KeyMap": "412T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29582371,
+        "Agency": "F",
+        "Address": "BAY POINTE CT",
+        "CrossStreet": "BLK CLEAR LAKE CITY BLVD",
+        "CALL_TIME": 1744021320000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A093,M094",
+        "LONGITUDE": -95.156587,
+        "LATITUDE": 29.582371,
+        "KeyMap": "617H",
         "CombinedResponse": "F"
       }
     },
@@ -144,23 +195,6 @@
     },
     {
       "attributes": {
-        "UID": 29804327,
-        "Agency": "F",
-        "Address": "RAINBOW LODGE ELLA BLVD",
-        "CrossStreet": "BLK W 21ST ST",
-        "CALL_TIME": 1744021260000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E062",
-        "LONGITUDE": -95.429248,
-        "LATITUDE": 29.804327,
-        "KeyMap": "452T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29695134,
         "Agency": "F",
         "Address": "GALVESTON RD",
@@ -173,40 +207,6 @@
         "LONGITUDE": -95.264678,
         "LATITUDE": 29.695134,
         "KeyMap": "535L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29714244,
-        "Agency": "F",
-        "Address": "W SAM HOUSTON PKWY S",
-        "CrossStreet": "BLK TOWN PARK DR",
-        "CALL_TIME": 1744021020000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E010",
-        "LONGITUDE": -95.556748,
-        "LATITUDE": 29.714244,
-        "KeyMap": "529D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29784333,
-        "Agency": "F",
-        "Address": "IH10IB-WILCREST W IH 10 FWY IB",
-        "CrossStreet": "KIRKWOOD ENTR RAMP",
-        "CALL_TIME": 1744020720000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E057,E078",
-        "LONGITUDE": -95.575717,
-        "LATITUDE": 29.784333,
-        "KeyMap": "489B",
         "CombinedResponse": "F"
       }
     },
@@ -253,8 +253,8 @@
         "CALL_TIME": 1744020240000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A008,M009",
+        "NO_UNITS": 1,
+        "Units": "M009",
         "LONGITUDE": -95.365916,
         "LATITUDE": 29.757342,
         "KeyMap": "493Q",
@@ -423,8 +423,8 @@
         "CALL_TIME": 1744017720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "E035,A035,M040,AS036",
+        "NO_UNITS": 3,
+        "Units": "E035,M040,AS036",
         "LONGITUDE": -95.331778,
         "LATITUDE": 29.67038,
         "KeyMap": "534X",
@@ -446,23 +446,6 @@
         "LATITUDE": 29.665493,
         "KeyMap": "529W",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29848737,
-        "Agency": "P",
-        "Address": "9301 EASTEX FWY IB",
-        "CrossStreet": null,
-        "CALL_TIME": 1744017660000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "7C24F",
-        "LONGITUDE": -95.334158,
-        "LATITUDE": 29.848737,
-        "KeyMap": "454B",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -535,23 +518,6 @@
     },
     {
       "attributes": {
-        "UID": 29676383,
-        "Agency": "F",
-        "Address": "STANWICK DR",
-        "CrossStreet": "BLK EDINBURG ST",
-        "CALL_TIME": 1744015560000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A036",
-        "LONGITUDE": -95.292473,
-        "LATITUDE": 29.676383,
-        "KeyMap": "535S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29850949,
         "Agency": "F",
         "Address": "W TIDWELL RD",
@@ -569,40 +535,6 @@
     },
     {
       "attributes": {
-        "UID": 29745256,
-        "Agency": "F",
-        "Address": "FIDELITY ST",
-        "CrossStreet": "BLK NEW MEXICO ST",
-        "CALL_TIME": 1744014000000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M044",
-        "LONGITUDE": -95.255476,
-        "LATITUDE": 29.745256,
-        "KeyMap": "495V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29764570,
-        "Agency": "F",
-        "Address": "N SAN JACINTO ST",
-        "CrossStreet": "BLK ALLEN ST",
-        "CALL_TIME": 1744013880000,
-        "IncidentType": "EMS EVENT THRU FESY",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ008",
-        "LONGITUDE": -95.357144,
-        "LATITUDE": 29.76457,
-        "KeyMap": "493M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29804327,
         "Agency": "P",
         "Address": "RAINBOW LODGE 2011 ELLA BLVD",
@@ -610,8 +542,8 @@
         "CALL_TIME": 1744011060000,
         "IncidentType": "CRASH/MAJOR/FATALITY",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 10,
-        "Units": "2A62N,2A63N,2A53N,2A15N,2A55N,2A57N,3Z01N,70Z72N,70Z65N,70Z85N",
+        "NO_UNITS": 8,
+        "Units": "2A62N,2A63N,2A53N,2A57N,70Z72N,70Z65N,70Z85N,70Z89N",
         "LONGITUDE": -95.429248,
         "LATITUDE": 29.804327,
         "KeyMap": "452T",
