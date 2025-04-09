@@ -93,18 +93,86 @@
   "features": [
     {
       "attributes": {
-        "UID": 29739125,
+        "UID": 29743717,
         "Agency": "F",
-        "Address": "ZACHARY ST",
-        "CrossStreet": "BLK N CAROLINA ST",
-        "CALL_TIME": 1744176120000,
+        "Address": "HARRISBURG BLVD",
+        "CrossStreet": "BLK S LOCKWOOD DR",
+        "CALL_TIME": 1744176720000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A018",
+        "LONGITUDE": -95.329518,
+        "LATITUDE": 29.743717,
+        "KeyMap": "494T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29574038,
+        "Agency": "F",
+        "Address": "SPACE CENTER BLVD",
+        "CrossStreet": "BLK FALCON PASS DR",
+        "CALL_TIME": 1744176720000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M071",
+        "LONGITUDE": -95.113712,
+        "LATITUDE": 29.574038,
+        "KeyMap": "618L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29863441,
+        "Agency": "F",
+        "Address": "STUEBNER AIRLINE RD",
+        "CrossStreet": "BLK W RITTENHOUSE ST",
+        "CALL_TIME": 1744176720000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E067",
+        "LONGITUDE": -95.409554,
+        "LATITUDE": 29.863441,
+        "KeyMap": "412Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29776501,
+        "Agency": "F",
+        "Address": "COOLWOOD DR",
+        "CrossStreet": "BLK FLEMING DR",
+        "CALL_TIME": 1744176660000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A027",
+        "LONGITUDE": -95.224275,
+        "LATITUDE": 29.776501,
+        "KeyMap": "496F",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29754585,
+        "Agency": "F",
+        "Address": "CRITES ST",
+        "CrossStreet": "BLK N SIDNEY ST",
+        "CALL_TIME": 1744176540000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
-        "Units": "E042,A020",
-        "LONGITUDE": -95.262841,
-        "LATITUDE": 29.739125,
-        "KeyMap": "495U",
+        "Units": "M018,A017",
+        "LONGITUDE": -95.329003,
+        "LATITUDE": 29.754585,
+        "KeyMap": "494P",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +182,7 @@
         "Agency": "F",
         "Address": "BEECHNUT ST",
         "CrossStreet": null,
-        "CALL_TIME": 1744176120000,
+        "CALL_TIME": 1744176420000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,18 +195,18 @@
     },
     {
       "attributes": {
-        "UID": 29813403,
+        "UID": 29739125,
         "Agency": "F",
-        "Address": "HIRSCH RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1744176120000,
+        "Address": "ZACHARY ST",
+        "CrossStreet": "BLK N CAROLINA ST",
+        "CALL_TIME": 1744176420000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E039",
-        "LONGITUDE": -95.328681,
-        "LATITUDE": 29.813403,
-        "KeyMap": "454T",
+        "NO_UNITS": 2,
+        "Units": "E042,A020",
+        "LONGITUDE": -95.262841,
+        "LATITUDE": 29.739125,
+        "KeyMap": "495U",
         "CombinedResponse": "F"
       }
     },
@@ -148,7 +216,7 @@
         "Agency": "F",
         "Address": "MARKET ST",
         "CrossStreet": "BLK BRINGHURST ST",
-        "CALL_TIME": 1744176120000,
+        "CALL_TIME": 1744176300000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -161,6 +229,23 @@
     },
     {
       "attributes": {
+        "UID": 29676522,
+        "Agency": "F",
+        "Address": "COVENTRY SQUARE DR",
+        "CrossStreet": "BLK BISSONNET ST",
+        "CALL_TIME": 1744176300000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E073",
+        "LONGITUDE": -95.594002,
+        "LATITUDE": 29.676522,
+        "KeyMap": "529S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29689230,
         "Agency": "P",
         "Address": "9901 BEECHNUT ST",
@@ -168,8 +253,8 @@
         "CALL_TIME": 1744176000000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "19G49N",
+        "NO_UNITS": 2,
+        "Units": "19G49N,19G21N",
         "LONGITUDE": -95.554855,
         "LATITUDE": 29.68923,
         "KeyMap": "529R",
@@ -190,40 +275,6 @@
         "LONGITUDE": -95.316162,
         "LATITUDE": 29.774665,
         "KeyMap": "494G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29776501,
-        "Agency": "F",
-        "Address": "COOLWOOD DR",
-        "CrossStreet": "BLK FLEMING DR",
-        "CALL_TIME": 1744175880000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A027",
-        "LONGITUDE": -95.224275,
-        "LATITUDE": 29.776501,
-        "KeyMap": "496F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29676522,
-        "Agency": "F",
-        "Address": "COVENTRY SQUARE DR",
-        "CrossStreet": "BLK BISSONNET ST",
-        "CALL_TIME": 1744175760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E073",
-        "LONGITUDE": -95.594002,
-        "LATITUDE": 29.676522,
-        "KeyMap": "529S",
         "CombinedResponse": "F"
       }
     },
@@ -292,23 +343,6 @@
         "LONGITUDE": -95.302055,
         "LATITUDE": 29.709615,
         "KeyMap": "534H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29847165,
-        "Agency": "F",
-        "Address": "SANDRA ST",
-        "CrossStreet": "BLK TIDWELL RD",
-        "CALL_TIME": 1744175520000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A056",
-        "LONGITUDE": -95.313818,
-        "LATITUDE": 29.847165,
-        "KeyMap": "454C",
         "CombinedResponse": "F"
       }
     },
@@ -552,40 +586,6 @@
     },
     {
       "attributes": {
-        "UID": 29737183,
-        "Agency": "F",
-        "Address": "EMANCIPATION AVE",
-        "CrossStreet": "BLK DREW ST",
-        "CALL_TIME": 1744173360000,
-        "IncidentType": "CHECK PATIENT*",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A007",
-        "LONGITUDE": -95.362836,
-        "LATITUDE": 29.737183,
-        "KeyMap": "493U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29776736,
-        "Agency": "F",
-        "Address": "ELYSIAN ST",
-        "CrossStreet": "BLK MILLS ST",
-        "CALL_TIME": 1744173180000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M031",
-        "LONGITUDE": -95.350492,
-        "LATITUDE": 29.776736,
-        "KeyMap": "493H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29646324,
         "Agency": "F",
         "Address": "SHAWNEE ST",
@@ -598,23 +598,6 @@
         "LONGITUDE": -95.237128,
         "LATITUDE": 29.646324,
         "KeyMap": "576E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29937396,
-        "Agency": "F",
-        "Address": "CROSSWINDS DR",
-        "CrossStreet": "BLK N SAM HOUSTON PKWY E",
-        "CALL_TIME": 1744173120000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A064",
-        "LONGITUDE": -95.313482,
-        "LATITUDE": 29.937396,
-        "KeyMap": "374U",
         "CombinedResponse": "F"
       }
     },
@@ -649,23 +632,6 @@
         "LONGITUDE": -95.319223,
         "LATITUDE": 29.694427,
         "KeyMap": "534L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29767316,
-        "Agency": "F",
-        "Address": "GILLESPIE ST",
-        "CrossStreet": "BLK BAYOU ST",
-        "CALL_TIME": 1744172520000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ008",
-        "LONGITUDE": -95.338387,
-        "LATITUDE": 29.767316,
-        "KeyMap": "494J",
         "CombinedResponse": "F"
       }
     },
@@ -746,8 +712,8 @@
         "CALL_TIME": 1744170780000,
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 6,
-        "Units": "E032,E056,L056,ARS753,ARS717,ARS744",
+        "NO_UNITS": 3,
+        "Units": "E032,L056,E056",
         "LONGITUDE": -95.305866,
         "LATITUDE": 29.846383,
         "KeyMap": "454D",
@@ -780,8 +746,8 @@
         "CALL_TIME": 1744169760000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ028,A060",
+        "NO_UNITS": 1,
+        "Units": "A060",
         "LONGITUDE": -95.495036,
         "LATITUDE": 29.728176,
         "KeyMap": "491W",
