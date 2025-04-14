@@ -93,35 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29799596,
+        "UID": 29847306,
         "Agency": "F",
-        "Address": "JANAK DR",
-        "CrossStreet": "BLK WOODVINE DR",
-        "CALL_TIME": 1744621200000,
-        "IncidentType": "SMOKE DETECTOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E038",
-        "LONGITUDE": -95.477547,
-        "LATITUDE": 29.799596,
-        "KeyMap": "451X",
+        "Address": "PATRICK ST",
+        "CrossStreet": "BLK YALE ST",
+        "CALL_TIME": 1744622460000,
+        "IncidentType": "APARTMENT FIRE",
+        "ALARM_LEVEL": 1,
+        "NO_UNITS": 10,
+        "Units": "D034,E015,L031,HR011,L067,SF030,D031,E031,E067,M031",
+        "LONGITUDE": -95.401493,
+        "LATITUDE": 29.847306,
+        "KeyMap": "452D",
         "CombinedResponse": "F"
       }
     },
     {
       "attributes": {
-        "UID": 29814276,
+        "UID": 29739089,
         "Agency": "F",
-        "Address": "PARK PATRICK MILTON JENSEN DR",
-        "CrossStreet": "BLK REID ST",
-        "CALL_TIME": 1744621140000,
+        "Address": "ELDRIDGE PKWY",
+        "CrossStreet": "BLK WICKERSHAM LN",
+        "CALL_TIME": 1744622160000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A083",
+        "LONGITUDE": -95.623531,
+        "LATITUDE": 29.739089,
+        "KeyMap": "488T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29699305,
+        "Agency": "F",
+        "Address": "SHARPVIEW DR",
+        "CrossStreet": "BLK BELLE GLEN DR",
+        "CALL_TIME": 1744622100000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
-        "Units": "M034,A039",
-        "LONGITUDE": -95.342389,
-        "LATITUDE": 29.814276,
-        "KeyMap": "454N",
+        "Units": "A076,M010",
+        "LONGITUDE": -95.585485,
+        "LATITUDE": 29.699305,
+        "KeyMap": "529J",
         "CombinedResponse": "F"
       }
     },
@@ -131,7 +148,7 @@
         "Agency": "F",
         "Address": "AIRPORT BLVD",
         "CrossStreet": "BLK E RENT CAR RD",
-        "CALL_TIME": 1744621140000,
+        "CALL_TIME": 1744621440000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -151,8 +168,8 @@
         "CALL_TIME": 1744620720000,
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 7,
-        "Units": "E070,E036,E061,L061,D070,M070,RE042",
+        "NO_UNITS": 3,
+        "Units": "E061,L061,D070",
         "LONGITUDE": -95.256682,
         "LATITUDE": 29.611957,
         "KeyMap": "575V",
@@ -202,8 +219,8 @@
         "CALL_TIME": 1744620300000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M105,E105",
+        "NO_UNITS": 1,
+        "Units": "M105",
         "LONGITUDE": -95.170369,
         "LATITUDE": 29.934556,
         "KeyMap": "377Y",
@@ -253,8 +270,8 @@
         "CALL_TIME": 1744619160000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ046,A040",
+        "NO_UNITS": 1,
+        "Units": "A040",
         "LONGITUDE": -95.354343,
         "LATITUDE": 29.697999,
         "KeyMap": "533M",
@@ -280,23 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29661546,
-        "Agency": "F",
-        "Address": "KEEGANS GLEN DR",
-        "CrossStreet": "BLK APRIL ARBOR CT",
-        "CALL_TIME": 1744618440000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ082,A068",
-        "LONGITUDE": -95.530892,
-        "LATITUDE": 29.661546,
-        "KeyMap": "530X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29678340,
         "Agency": "P",
         "Address": "2198 S LOOP W",
@@ -314,6 +314,23 @@
     },
     {
       "attributes": {
+        "UID": 29661546,
+        "Agency": "F",
+        "Address": "KEEGANS GLEN DR",
+        "CrossStreet": "BLK APRIL ARBOR CT",
+        "CALL_TIME": 1744618440000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "SQ082,A068",
+        "LONGITUDE": -95.530892,
+        "LATITUDE": 29.661546,
+        "KeyMap": "530X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29710016,
         "Agency": "F",
         "Address": "BEATTY ST",
@@ -327,23 +344,6 @@
         "LATITUDE": 29.710016,
         "KeyMap": "534G",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29961282,
-        "Agency": "P",
-        "Address": "7948 W FM 1960 RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1744618260000,
-        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "22B14N",
-        "LONGITUDE": -95.547228,
-        "LATITUDE": 29.961282,
-        "KeyMap": "370J",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -395,23 +395,6 @@
         "LATITUDE": 29.758922,
         "KeyMap": "493P",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29605552,
-        "Agency": "F",
-        "Address": "KIRKSHIRE DR",
-        "CrossStreet": "BLK BEAMER RD",
-        "CALL_TIME": 1744616340000,
-        "IncidentType": "CHECK PATIENT*",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A052",
-        "LONGITUDE": -95.23023,
-        "LATITUDE": 29.605552,
-        "KeyMap": "576X",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -530,23 +513,6 @@
         "LONGITUDE": -95.39743,
         "LATITUDE": 29.776667,
         "KeyMap": "492H",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29688971,
-        "Agency": "P",
-        "Address": "10615 BEECHNUT ST",
-        "CrossStreet": "BLK WILCREST DR",
-        "CALL_TIME": 1744606260000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "19G13N",
-        "LONGITUDE": -95.567323,
-        "LATITUDE": 29.688971,
-        "KeyMap": "529Q",
         "CombinedResponse": "P"
       }
     },
