@@ -93,18 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29741383,
+        "UID": 29670119,
         "Agency": "F",
-        "Address": "HAROLD ST",
-        "CrossStreet": "BLK STANFORD ST",
-        "CALL_TIME": 1744713120000,
-        "IncidentType": "GAS LEAKING",
+        "Address": "SPRING GROVE DR",
+        "CrossStreet": "BLK GROVE GLEN DR",
+        "CALL_TIME": 1744713900000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 4,
+        "Units": "M010,E073,AS082,A073",
+        "LONGITUDE": -95.58785,
+        "LATITUDE": 29.670119,
+        "KeyMap": "529S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29751630,
+        "Agency": "F",
+        "Address": "NUS59IB-GEORGE R BROWN N US 59 FWY IB",
+        "CrossStreet": "N US 59 IB ENTR RAMP",
+        "CALL_TIME": 1744713780000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E017,E009",
+        "LONGITUDE": -95.356908,
+        "LATITUDE": 29.75163,
+        "KeyMap": "493R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29770583,
+        "Agency": "F",
+        "Address": "NUS59IB-IH10 N US 59 FWY IB",
+        "CrossStreet": "E IH 10 ENTR RAMP",
+        "CALL_TIME": 1744713720000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "L019,A019,E019",
+        "LONGITUDE": -95.340831,
+        "LATITUDE": 29.770583,
+        "KeyMap": "494E",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29848485,
+        "Agency": "F",
+        "Address": "TIDWELL RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1744713720000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E007",
-        "LONGITUDE": -95.386711,
-        "LATITUDE": 29.741383,
-        "KeyMap": "493S",
+        "Units": "E056",
+        "LONGITUDE": -95.302154,
+        "LATITUDE": 29.848485,
+        "KeyMap": "454D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29848485,
+        "Agency": "P",
+        "Address": "7001 TIDWELL RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1744713600000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "9C34F",
+        "LONGITUDE": -95.302154,
+        "LATITUDE": 29.848485,
+        "KeyMap": "454D",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29849627,
+        "Agency": "F",
+        "Address": "DRODDY ST",
+        "CrossStreet": "BLK RANDON RD",
+        "CALL_TIME": 1744713600000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A013",
+        "LONGITUDE": -95.46364,
+        "LATITUDE": 29.849627,
+        "KeyMap": "451C",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +199,7 @@
         "Agency": "F",
         "Address": "HARRISBURG BLVD",
         "CrossStreet": "BLK SAMPSON ST",
-        "CALL_TIME": 1744712940000,
+        "CALL_TIME": 1744713360000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -131,7 +216,7 @@
         "Agency": "F",
         "Address": "BESSEMER ST",
         "CrossStreet": "BLK RODNEY ST",
-        "CALL_TIME": 1744712880000,
+        "CALL_TIME": 1744713300000,
         "IncidentType": "TRASH FIRE",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +224,23 @@
         "LONGITUDE": -95.236543,
         "LATITUDE": 29.637644,
         "KeyMap": "576J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29730457,
+        "Agency": "F",
+        "Address": "US59IB-KIRBY S US 59 FWY IB",
+        "CrossStreet": "BUFFALO SPEEDWAY ENTR RAMP",
+        "CALL_TIME": 1744713300000,
+        "IncidentType": "BUS FIRE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E016,E003",
+        "LONGITUDE": -95.418652,
+        "LATITUDE": 29.730457,
+        "KeyMap": "492Y",
         "CombinedResponse": "F"
       }
     },
@@ -156,23 +258,6 @@
         "LONGITUDE": -95.316376,
         "LATITUDE": 29.659909,
         "KeyMap": "574C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29730457,
-        "Agency": "F",
-        "Address": "US59IB-KIRBY S US 59 FWY IB",
-        "CrossStreet": "BUFFALO SPEEDWAY ENTR RAMP",
-        "CALL_TIME": 1744712820000,
-        "IncidentType": "BUS FIRE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E003,L016,E016",
-        "LONGITUDE": -95.418652,
-        "LATITUDE": 29.730457,
-        "KeyMap": "492Y",
         "CombinedResponse": "F"
       }
     },
@@ -202,28 +287,11 @@
         "CALL_TIME": 1744712400000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A076,M075",
+        "NO_UNITS": 4,
+        "Units": "E076,A076,M075,AS069",
         "LONGITUDE": -95.606217,
         "LATITUDE": 29.688911,
         "KeyMap": "528R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29673219,
-        "Agency": "F",
-        "Address": "W BELLFORT AVE",
-        "CrossStreet": "BLK GREENWILLOW DR",
-        "CALL_TIME": 1744712340000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ033,A021",
-        "LONGITUDE": -95.446365,
-        "LATITUDE": 29.673219,
-        "KeyMap": "532S",
         "CombinedResponse": "F"
       }
     },
@@ -258,6 +326,23 @@
         "LONGITUDE": -95.310764,
         "LATITUDE": 29.730303,
         "KeyMap": "494Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29673219,
+        "Agency": "F",
+        "Address": "W BELLFORT AVE",
+        "CrossStreet": "BLK GREENWILLOW DR",
+        "CALL_TIME": 1744712340000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "SQ033,A021",
+        "LONGITUDE": -95.446365,
+        "LATITUDE": 29.673219,
+        "KeyMap": "532S",
         "CombinedResponse": "F"
       }
     },
@@ -348,23 +433,6 @@
     },
     {
       "attributes": {
-        "UID": 29784103,
-        "Agency": "F",
-        "Address": "PANNELL ST",
-        "CrossStreet": "BLK LIBERTY RD",
-        "CALL_TIME": 1744711140000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A012",
-        "LONGITUDE": -95.332667,
-        "LATITUDE": 29.784103,
-        "KeyMap": "494B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29781411,
         "Agency": "F",
         "Address": "N MAIN ST",
@@ -377,6 +445,23 @@
         "LONGITUDE": -95.364046,
         "LATITUDE": 29.781411,
         "KeyMap": "493C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29784103,
+        "Agency": "F",
+        "Address": "PANNELL ST",
+        "CrossStreet": "BLK LIBERTY RD",
+        "CALL_TIME": 1744711140000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A012",
+        "LONGITUDE": -95.332667,
+        "LATITUDE": 29.784103,
+        "KeyMap": "494B",
         "CombinedResponse": "F"
       }
     },
@@ -428,23 +513,6 @@
         "LONGITUDE": -95.4932,
         "LATITUDE": 29.710508,
         "KeyMap": "531E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29599248,
-        "Agency": "F",
-        "Address": "BROOKFORD DR",
-        "CrossStreet": "BLK CAVENDISH DR",
-        "CALL_TIME": 1744710300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M071",
-        "LONGITUDE": -95.109046,
-        "LATITUDE": 29.599248,
-        "KeyMap": "578Y",
         "CombinedResponse": "F"
       }
     },
@@ -552,23 +620,6 @@
     },
     {
       "attributes": {
-        "UID": 29698175,
-        "Agency": "F",
-        "Address": "GRIGGS RD",
-        "CrossStreet": "BLK MARTIN LUTHER KING BLVD",
-        "CALL_TIME": 1744706580000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A035",
-        "LONGITUDE": -95.337651,
-        "LATITUDE": 29.698175,
-        "KeyMap": "534J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29668684,
         "Agency": "F",
         "Address": "STERLING ST",
@@ -594,28 +645,11 @@
         "IncidentType": "CRASH/MAJOR/FATALITY",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 10,
-        "Units": "18F11N,18F41N,18F50N,18F51K,5F15N,5F17N,5F09N,3Z01N,4F23N,70Z69N",
+        "Units": "18F41N,18F51K,5F15N,5F17N,5F09N,3Z01N,4F23N,70Z69N,70Z98N,5F34N",
         "LONGITUDE": -95.453972,
         "LATITUDE": 29.780319,
         "KeyMap": "491D",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29656638,
-        "Agency": "F",
-        "Address": "W BELLFORT AVE",
-        "CrossStreet": "BLK SANDPIPER DR",
-        "CALL_TIME": 1744705620000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A082",
-        "LONGITUDE": -95.500994,
-        "LATITUDE": 29.656638,
-        "KeyMap": "570D",
-        "CombinedResponse": "F"
       }
     },
     {
