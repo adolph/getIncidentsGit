@@ -93,11 +93,28 @@
   "features": [
     {
       "attributes": {
+        "UID": 29948167,
+        "Agency": "F",
+        "Address": "SEMINAR DR",
+        "CrossStreet": "BLK IVY CREEK LN",
+        "CALL_TIME": 1744785900000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A074",
+        "LONGITUDE": -95.391294,
+        "LATITUDE": 29.948167,
+        "KeyMap": "373N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29845764,
         "Agency": "F",
         "Address": "ANTOINE DR",
         "CrossStreet": "BLK W TIDWELL RD",
-        "CALL_TIME": 1744785420000,
+        "CALL_TIME": 1744785840000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "CAMPBELL RD",
         "CrossStreet": "BLK EMNORA LN",
-        "CALL_TIME": 1744785420000,
+        "CALL_TIME": 1744785780000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,18 +144,18 @@
     },
     {
       "attributes": {
-        "UID": 29756235,
+        "UID": 29623559,
         "Agency": "F",
-        "Address": "UPTOWN PARK BLVD",
-        "CrossStreet": "BLK POST OAK BLVD",
-        "CALL_TIME": 1744785360000,
+        "Address": "ROANDALE DR",
+        "CrossStreet": "BLK GREENSHIRE DR",
+        "CALL_TIME": 1744785660000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E002",
-        "LONGITUDE": -95.457716,
-        "LATITUDE": 29.756235,
-        "KeyMap": "491R",
+        "Units": "M055",
+        "LONGITUDE": -95.351476,
+        "LATITUDE": 29.623559,
+        "KeyMap": "573R",
         "CombinedResponse": "F"
       }
     },
@@ -148,14 +165,31 @@
         "Agency": "F",
         "Address": "SAINT AUGUSTINE ST",
         "CrossStreet": "BLK PERRY ST",
-        "CALL_TIME": 1744785300000,
+        "CALL_TIME": 1744785660000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E046",
+        "NO_UNITS": 2,
+        "Units": "E046,A046",
         "LONGITUDE": -95.355823,
         "LATITUDE": 29.698584,
         "KeyMap": "533M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29819696,
+        "Agency": "F",
+        "Address": "HIRSCH RD",
+        "CrossStreet": "BLK LYNNFIELD ST",
+        "CALL_TIME": 1744785480000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A039",
+        "LONGITUDE": -95.328745,
+        "LATITUDE": 29.819696,
+        "KeyMap": "454P",
         "CombinedResponse": "F"
       }
     },
@@ -208,23 +242,6 @@
         "LATITUDE": 29.756235,
         "KeyMap": "491R",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29819696,
-        "Agency": "F",
-        "Address": "HIRSCH RD",
-        "CrossStreet": "BLK LYNNFIELD ST",
-        "CALL_TIME": 1744785120000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A039",
-        "LONGITUDE": -95.328745,
-        "LATITUDE": 29.819696,
-        "KeyMap": "454P",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -355,8 +372,8 @@
         "CALL_TIME": 1744784160000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M044,A020",
+        "NO_UNITS": 1,
+        "Units": "M044",
         "LONGITUDE": -95.271626,
         "LATITUDE": 29.766514,
         "KeyMap": "495L",
@@ -428,23 +445,6 @@
         "LONGITUDE": -95.279697,
         "LATITUDE": 29.664761,
         "KeyMap": "535X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29781813,
-        "Agency": "F",
-        "Address": "LEE ST",
-        "CrossStreet": "BLK HOGG ST",
-        "CALL_TIME": 1744783500000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A012",
-        "LONGITUDE": -95.339137,
-        "LATITUDE": 29.781813,
-        "KeyMap": "494A",
         "CombinedResponse": "F"
       }
     },
@@ -644,8 +644,8 @@
         "CALL_TIME": 1744781160000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M059,A021",
+        "NO_UNITS": 1,
+        "Units": "A021",
         "LONGITUDE": -95.468429,
         "LATITUDE": 29.632801,
         "KeyMap": "571L",
@@ -666,40 +666,6 @@
         "LONGITUDE": -95.478887,
         "LATITUDE": 29.651024,
         "KeyMap": "571B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29793467,
-        "Agency": "F",
-        "Address": "EASY ST",
-        "CrossStreet": "BLK COLLINGSWORTH ST",
-        "CALL_TIME": 1744779660000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M027",
-        "LONGITUDE": -95.312321,
-        "LATITUDE": 29.793467,
-        "KeyMap": "454Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29948961,
-        "Agency": "F",
-        "Address": "NORTH FWY OB",
-        "CrossStreet": null,
-        "CALL_TIME": 1744776420000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M074",
-        "LONGITUDE": -95.416372,
-        "LATITUDE": 29.948961,
-        "KeyMap": "372Q",
         "CombinedResponse": "F"
       }
     },
