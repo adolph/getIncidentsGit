@@ -93,36 +93,19 @@
   "features": [
     {
       "attributes": {
-        "UID": 29849151,
+        "UID": 29637236,
         "Agency": "F",
-        "Address": "VALLEY BREEZE DR",
-        "CrossStreet": "BLK VALLEY POND CT",
-        "CALL_TIME": 1744885320000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "SELINSKY RD",
+        "CrossStreet": "BLK ELM TREE DR",
+        "CALL_TIME": 1744885860000,
+        "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E032",
-        "LONGITUDE": -95.236012,
-        "LATITUDE": 29.849151,
-        "KeyMap": "456B",
+        "Units": "E055",
+        "LONGITUDE": -95.336713,
+        "LATITUDE": 29.637236,
+        "KeyMap": "574J",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29866917,
-        "Agency": "P",
-        "Address": "14709 NORTHWEST FWY IB",
-        "CrossStreet": null,
-        "CALL_TIME": 1744885260000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "5F33N",
-        "LONGITUDE": -95.54158,
-        "LATITUDE": 29.866917,
-        "KeyMap": "410S",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -131,7 +114,7 @@
         "Agency": "F",
         "Address": "AVENUE J",
         "CrossStreet": "BLK ENGEL ST",
-        "CALL_TIME": 1744885260000,
+        "CALL_TIME": 1744885860000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -144,15 +127,49 @@
     },
     {
       "attributes": {
+        "UID": 29849151,
+        "Agency": "F",
+        "Address": "VALLEY BREEZE DR",
+        "CrossStreet": "BLK VALLEY POND CT",
+        "CALL_TIME": 1744885800000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E032",
+        "LONGITUDE": -95.236012,
+        "LATITUDE": 29.849151,
+        "KeyMap": "456B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29770612,
+        "Agency": "F",
+        "Address": "EAST FWY OB",
+        "CrossStreet": "NORMANDY EXIT RAMP",
+        "CALL_TIME": 1744885740000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M044",
+        "LONGITUDE": -95.2098,
+        "LATITUDE": 29.770612,
+        "KeyMap": "496H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29821395,
         "Agency": "F",
         "Address": "MANGUM RD",
         "CrossStreet": null,
-        "CALL_TIME": 1744885260000,
-        "IncidentType": "EMS EVENT",
+        "CALL_TIME": 1744885560000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E013",
+        "NO_UNITS": 2,
+        "Units": "E013,A013",
         "LONGITUDE": -95.459401,
         "LATITUDE": 29.821395,
         "KeyMap": "451R",
@@ -161,19 +178,36 @@
     },
     {
       "attributes": {
-        "UID": 29637236,
-        "Agency": "F",
-        "Address": "SELINSKY RD",
-        "CrossStreet": "BLK ELM TREE DR",
-        "CALL_TIME": 1744885200000,
-        "IncidentType": "FIRE EVENT",
+        "UID": 29866917,
+        "Agency": "P",
+        "Address": "14709 NORTHWEST FWY IB",
+        "CrossStreet": null,
+        "CALL_TIME": 1744885260000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E055",
-        "LONGITUDE": -95.336713,
-        "LATITUDE": 29.637236,
-        "KeyMap": "574J",
-        "CombinedResponse": "F"
+        "NO_UNITS": 2,
+        "Units": "5F33N,4F23N",
+        "LONGITUDE": -95.54158,
+        "LATITUDE": 29.866917,
+        "KeyMap": "410S",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29821395,
+        "Agency": "P",
+        "Address": "3601 MANGUM RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1744885260000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "3B11N,6B33N",
+        "LONGITUDE": -95.459401,
+        "LATITUDE": 29.821395,
+        "KeyMap": "451R",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -297,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29764570,
-        "Agency": "F",
-        "Address": "JPC N SAN JACINTO ST",
-        "CrossStreet": "BLK ALLEN ST",
-        "CALL_TIME": 1744883400000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A017",
-        "LONGITUDE": -95.357144,
-        "LATITUDE": 29.76457,
-        "KeyMap": "493M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29873013,
         "Agency": "F",
         "Address": "N SHEPHERD DR",
@@ -326,6 +343,23 @@
         "LONGITUDE": -95.412409,
         "LATITUDE": 29.873013,
         "KeyMap": "412U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29764570,
+        "Agency": "F",
+        "Address": "JPC N SAN JACINTO ST",
+        "CrossStreet": "BLK ALLEN ST",
+        "CALL_TIME": 1744883400000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A017",
+        "LONGITUDE": -95.357144,
+        "LATITUDE": 29.76457,
+        "KeyMap": "493M",
         "CombinedResponse": "F"
       }
     },
@@ -382,23 +416,6 @@
     },
     {
       "attributes": {
-        "UID": 29776566,
-        "Agency": "F",
-        "Address": "ALAMO ST",
-        "CrossStreet": "BLK COLORADO ST",
-        "CALL_TIME": 1744882740000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A009",
-        "LONGITUDE": -95.373896,
-        "LATITUDE": 29.776566,
-        "KeyMap": "493F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29874415,
         "Agency": "F",
         "Address": "ESTHER DR",
@@ -416,35 +433,18 @@
     },
     {
       "attributes": {
-        "UID": 29734256,
+        "UID": 29776566,
         "Agency": "F",
-        "Address": "RICHMOND AVE",
-        "CrossStreet": "BLK MCDUFFIE ST",
-        "CALL_TIME": 1744882440000,
+        "Address": "ALAMO ST",
+        "CrossStreet": "BLK COLORADO ST",
+        "CALL_TIME": 1744882740000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A016",
-        "LONGITUDE": -95.407147,
-        "LATITUDE": 29.734256,
-        "KeyMap": "492Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29927873,
-        "Agency": "F",
-        "Address": "CHAPAL GATE LN",
-        "CrossStreet": "BLK COTTAGE TIMBERS LN",
-        "CALL_TIME": 1744882200000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M105",
-        "LONGITUDE": -95.169646,
-        "LATITUDE": 29.927873,
-        "KeyMap": "377Y",
+        "Units": "A009",
+        "LONGITUDE": -95.373896,
+        "LATITUDE": 29.776566,
+        "KeyMap": "493F",
         "CombinedResponse": "F"
       }
     },
@@ -462,6 +462,23 @@
         "LONGITUDE": -95.514238,
         "LATITUDE": 29.659026,
         "KeyMap": "530Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29927873,
+        "Agency": "F",
+        "Address": "CHAPAL GATE LN",
+        "CrossStreet": "BLK COTTAGE TIMBERS LN",
+        "CALL_TIME": 1744882200000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M105",
+        "LONGITUDE": -95.169646,
+        "LATITUDE": 29.927873,
+        "KeyMap": "377Y",
         "CombinedResponse": "F"
       }
     },
@@ -513,23 +530,6 @@
         "LONGITUDE": -95.387693,
         "LATITUDE": 29.627457,
         "KeyMap": "573N",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29844354,
-        "Agency": "P",
-        "Address": "5500 ANTOINE DR",
-        "CrossStreet": "BLK W TIDWELL RD",
-        "CALL_TIME": 1744881120000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "3B12N",
-        "LONGITUDE": -95.473228,
-        "LATITUDE": 29.844354,
-        "KeyMap": "451C",
         "CombinedResponse": "P"
       }
     },
@@ -666,23 +666,6 @@
         "LONGITUDE": -95.375193,
         "LATITUDE": 29.748837,
         "KeyMap": "493P",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29702557,
-        "Agency": "P",
-        "Address": "7098 ROOKIN ST",
-        "CrossStreet": "BLK SCRIBNER RD",
-        "CALL_TIME": 1744875660000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "17E10N",
-        "LONGITUDE": -95.49735,
-        "LATITUDE": 29.702557,
-        "KeyMap": "530H",
         "CombinedResponse": "P"
       }
     },
