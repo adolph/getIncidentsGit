@@ -93,6 +93,74 @@
   "features": [
     {
       "attributes": {
+        "UID": 29879103,
+        "Agency": "F",
+        "Address": "CONKLIN ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1744971660000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A031",
+        "LONGITUDE": -95.420737,
+        "LATITUDE": 29.879103,
+        "KeyMap": "412Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29791614,
+        "Agency": "P",
+        "Address": "3501 W 12TH ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1744971420000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "2A57N",
+        "LONGITUDE": -95.43786,
+        "LATITUDE": 29.791614,
+        "KeyMap": "452W",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29630431,
+        "Agency": "F",
+        "Address": "MAIN ST IB",
+        "CrossStreet": "FONDREN RD",
+        "CALL_TIME": 1744970580000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A068",
+        "LONGITUDE": -95.507256,
+        "LATITUDE": 29.630431,
+        "KeyMap": "570M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29787539,
+        "Agency": "F",
+        "Address": "WALLISVILLE RD",
+        "CrossStreet": "BLK HARRIS ST",
+        "CALL_TIME": 1744970580000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A027",
+        "LONGITUDE": -95.298908,
+        "LATITUDE": 29.787539,
+        "KeyMap": "494D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29742696,
         "Agency": "F",
         "Address": "S SH 6",
@@ -105,23 +173,6 @@
         "LONGITUDE": -95.644376,
         "LATITUDE": 29.742696,
         "KeyMap": "488N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29670713,
-        "Agency": "F",
-        "Address": "CROSS POINT AVE",
-        "CrossStreet": "BLK CENTER POINT DR",
-        "CALL_TIME": 1744970340000,
-        "IncidentType": "CHECK WATER FLOW ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E024",
-        "LONGITUDE": -95.409291,
-        "LATITUDE": 29.670713,
-        "KeyMap": "532U",
         "CombinedResponse": "F"
       }
     },
@@ -161,40 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29630431,
-        "Agency": "F",
-        "Address": "MAIN ST IB",
-        "CrossStreet": "FONDREN RD",
-        "CALL_TIME": 1744970100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E080,A068",
-        "LONGITUDE": -95.507256,
-        "LATITUDE": 29.630431,
-        "KeyMap": "570M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29787539,
-        "Agency": "F",
-        "Address": "WALLISVILLE RD",
-        "CrossStreet": "BLK HARRIS ST",
-        "CALL_TIME": 1744969860000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A027",
-        "LONGITUDE": -95.298908,
-        "LATITUDE": 29.787539,
-        "KeyMap": "494D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29672769,
         "Agency": "F",
         "Address": "COURT GLEN DR",
@@ -207,23 +224,6 @@
         "LONGITUDE": -95.583025,
         "LATITUDE": 29.672769,
         "KeyMap": "529T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29624406,
-        "Agency": "F",
-        "Address": "VICTORIA GROVE LN",
-        "CrossStreet": "BLK VICTORIA RIDGE LN",
-        "CALL_TIME": 1744969620000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E052,M070",
-        "LONGITUDE": -95.23772,
-        "LATITUDE": 29.624406,
-        "KeyMap": "576N",
         "CombinedResponse": "F"
       }
     },
@@ -246,6 +246,23 @@
     },
     {
       "attributes": {
+        "UID": 29624406,
+        "Agency": "F",
+        "Address": "VICTORIA GROVE LN",
+        "CrossStreet": "BLK VICTORIA RIDGE LN",
+        "CALL_TIME": 1744969620000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E052,M070",
+        "LONGITUDE": -95.23772,
+        "LATITUDE": 29.624406,
+        "KeyMap": "576N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29654424,
         "Agency": "F",
         "Address": "BURDINE ST",
@@ -253,8 +270,8 @@
         "CALL_TIME": 1744969560000,
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 10,
-        "Units": "L021,D059,E021,E048,D021,L059,RE010,SF024,SQ082,E059",
+        "NO_UNITS": 7,
+        "Units": "E048,D059,L021,D021,E059,ARS725,ARS746",
         "LONGITUDE": -95.481163,
         "LATITUDE": 29.654424,
         "KeyMap": "571B",
@@ -270,8 +287,8 @@
         "CALL_TIME": 1744969140000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E058,M067",
+        "NO_UNITS": 1,
+        "Units": "M067",
         "LONGITUDE": -95.409479,
         "LATITUDE": 29.859391,
         "KeyMap": "412Z",
@@ -389,8 +406,8 @@
         "CALL_TIME": 1744967700000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A051,SQ028",
+        "NO_UNITS": 1,
+        "Units": "SQ028",
         "LONGITUDE": -95.500196,
         "LATITUDE": 29.711134,
         "KeyMap": "530H",
@@ -412,23 +429,6 @@
         "LATITUDE": 29.640486,
         "KeyMap": "571F",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29574038,
-        "Agency": "F",
-        "Address": "SPACE CENTER BLVD",
-        "CrossStreet": "BLK FALCON PASS DR",
-        "CALL_TIME": 1744967280000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M071",
-        "LONGITUDE": -95.113712,
-        "LATITUDE": 29.574038,
-        "KeyMap": "618L",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -467,23 +467,6 @@
     },
     {
       "attributes": {
-        "UID": 29733761,
-        "Agency": "F",
-        "Address": "W SAM HOUSTON PKWY S",
-        "CrossStreet": "RICHMOND OBIB UTRN",
-        "CALL_TIME": 1744965600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A010",
-        "LONGITUDE": -95.558331,
-        "LATITUDE": 29.733761,
-        "KeyMap": "489Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29867390,
         "Agency": "F",
         "Address": "SKINNER RD",
@@ -496,40 +479,6 @@
         "LONGITUDE": -95.351403,
         "LATITUDE": 29.86739,
         "KeyMap": "413V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29729910,
-        "Agency": "F",
-        "Address": "HAYES RD",
-        "CrossStreet": "BLK RICHMOND AVE",
-        "CALL_TIME": 1744965180000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A069",
-        "LONGITUDE": -95.575791,
-        "LATITUDE": 29.72991,
-        "KeyMap": "489X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29721265,
-        "Agency": "F",
-        "Address": "WESTPARK DR",
-        "CrossStreet": "BLK WILCREST DR",
-        "CALL_TIME": 1744964760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A083",
-        "LONGITUDE": -95.567582,
-        "LATITUDE": 29.721265,
-        "KeyMap": "529C",
         "CombinedResponse": "F"
       }
     },
@@ -598,6 +547,23 @@
         "LONGITUDE": -95.492814,
         "LATITUDE": 29.649999,
         "KeyMap": "571A",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29686664,
+        "Agency": "P",
+        "Address": "8181 FANNIN ST",
+        "CrossStreet": "RELIANT PKWY",
+        "CALL_TIME": 1744933140000,
+        "IncidentType": "CRASH/MINOR/FSGI",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "15E13C",
+        "LONGITUDE": -95.403252,
+        "LATITUDE": 29.686664,
+        "KeyMap": "532R",
         "CombinedResponse": "P"
       }
     }
