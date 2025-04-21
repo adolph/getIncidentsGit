@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29756923,
+        "UID": 29657975,
         "Agency": "F",
-        "Address": "MAIN ST",
-        "CrossStreet": "BLK LAMAR ST",
-        "CALL_TIME": 1745217360000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "REED RD",
+        "CrossStreet": "BLK KISH LN",
+        "CALL_TIME": 1745218020000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E008",
-        "LONGITUDE": -95.365046,
-        "LATITUDE": 29.756923,
-        "KeyMap": "493Q",
+        "Units": "A046",
+        "LONGITUDE": -95.382231,
+        "LATITUDE": 29.657975,
+        "KeyMap": "573B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29780385,
+        "Agency": "F",
+        "Address": "NOBLE ST",
+        "CrossStreet": "BLK CLEMENTINE ST",
+        "CALL_TIME": 1745217900000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M027",
+        "LONGITUDE": -95.319978,
+        "LATITUDE": 29.780385,
+        "KeyMap": "494C",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "WINKLER DR",
         "CrossStreet": "BLK JULIABORA ST",
-        "CALL_TIME": 1745217120000,
+        "CALL_TIME": 1745217780000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,18 +144,35 @@
     },
     {
       "attributes": {
-        "UID": 29753814,
+        "UID": 29749890,
         "Agency": "F",
-        "Address": "AVENIDA DE LAS AMERICAS",
-        "CrossStreet": null,
-        "CALL_TIME": 1745217120000,
+        "Address": "AUGUSTA DR",
+        "CrossStreet": "BLK BURGOYNE RD",
+        "CALL_TIME": 1745217720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A002,SQ028",
+        "LONGITUDE": -95.482653,
+        "LATITUDE": 29.74989,
+        "KeyMap": "491P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29756923,
+        "Agency": "F",
+        "Address": "MAIN ST",
+        "CrossStreet": "BLK LAMAR ST",
+        "CALL_TIME": 1745217540000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A017",
-        "LONGITUDE": -95.357679,
-        "LATITUDE": 29.753814,
-        "KeyMap": "493R",
+        "Units": "E008",
+        "LONGITUDE": -95.365046,
+        "LATITUDE": 29.756923,
+        "KeyMap": "493Q",
         "CombinedResponse": "F"
       }
     },
@@ -297,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29987325,
-        "Agency": "F",
-        "Address": "JOHN F KENNEDY BLVD OB",
-        "CrossStreet": "BLK N TERMINAL RD",
-        "CALL_TIME": 1745216100000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E063",
-        "LONGITUDE": -95.342156,
-        "LATITUDE": 29.987325,
-        "KeyMap": "374A",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29709806,
         "Agency": "F",
         "Address": "DRYDEN RD",
@@ -348,23 +365,6 @@
     },
     {
       "attributes": {
-        "UID": 29675555,
-        "Agency": "F",
-        "Address": "TETON ST",
-        "CrossStreet": "BLK ROCK ROSE ST",
-        "CALL_TIME": 1745215680000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A035,SQ046",
-        "LONGITUDE": -95.358451,
-        "LATITUDE": 29.675555,
-        "KeyMap": "533V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29669097,
         "Agency": "F",
         "Address": "BELLFORT ST",
@@ -377,6 +377,23 @@
         "LONGITUDE": -95.355668,
         "LATITUDE": 29.669097,
         "KeyMap": "533Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29675555,
+        "Agency": "F",
+        "Address": "TETON ST",
+        "CrossStreet": "BLK ROCK ROSE ST",
+        "CALL_TIME": 1745215680000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A035,SQ046",
+        "LONGITUDE": -95.358451,
+        "LATITUDE": 29.675555,
+        "KeyMap": "533V",
         "CombinedResponse": "F"
       }
     },
@@ -501,18 +518,18 @@
     },
     {
       "attributes": {
-        "UID": 29688375,
+        "UID": 29781261,
         "Agency": "F",
-        "Address": "BEECHNUT ST",
-        "CrossStreet": null,
+        "Address": "HUTTON ST",
+        "CrossStreet": "BLK LEE ST",
         "CALL_TIME": 1745214480000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A073",
-        "LONGITUDE": -95.570259,
-        "LATITUDE": 29.688375,
-        "KeyMap": "529Q",
+        "Units": "M009",
+        "LONGITUDE": -95.331791,
+        "LATITUDE": 29.781261,
+        "KeyMap": "494B",
         "CombinedResponse": "F"
       }
     },
@@ -535,18 +552,18 @@
     },
     {
       "attributes": {
-        "UID": 29781261,
+        "UID": 29688375,
         "Agency": "F",
-        "Address": "HUTTON ST",
-        "CrossStreet": "BLK LEE ST",
+        "Address": "BEECHNUT ST",
+        "CrossStreet": null,
         "CALL_TIME": 1745214480000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "M009",
-        "LONGITUDE": -95.331791,
-        "LATITUDE": 29.781261,
-        "KeyMap": "494B",
+        "Units": "A073",
+        "LONGITUDE": -95.570259,
+        "LATITUDE": 29.688375,
+        "KeyMap": "529Q",
         "CombinedResponse": "F"
       }
     },
@@ -632,23 +649,6 @@
         "LONGITUDE": -95.498902,
         "LATITUDE": 29.716455,
         "KeyMap": "530D",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29726940,
-        "Agency": "P",
-        "Address": "4401 EMANCIPATION AVE",
-        "CrossStreet": null,
-        "CALL_TIME": 1745213280000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "10H55N,10H11N",
-        "LONGITUDE": -95.370963,
-        "LATITUDE": 29.72694,
-        "KeyMap": "493Y",
         "CombinedResponse": "P"
       }
     },
