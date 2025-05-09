@@ -93,18 +93,86 @@
   "features": [
     {
       "attributes": {
-        "UID": 29764221,
+        "UID": 29731734,
         "Agency": "F",
-        "Address": "N SAN JACINTO ST",
-        "CrossStreet": "BLK ALLEN ST",
-        "CALL_TIME": 1746783120000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "LEXINGTON ST",
+        "CrossStreet": "BLK S SHEPHERD DR",
+        "CALL_TIME": 1746784020000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E017",
-        "LONGITUDE": -95.357262,
-        "LATITUDE": 29.764221,
-        "KeyMap": "493M",
+        "Units": "E016",
+        "LONGITUDE": -95.407347,
+        "LATITUDE": 29.731734,
+        "KeyMap": "492Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29754273,
+        "Agency": "F",
+        "Address": "MILAM ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1746784020000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E008",
+        "LONGITUDE": -95.369613,
+        "LATITUDE": 29.754273,
+        "KeyMap": "493Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29655615,
+        "Agency": "F",
+        "Address": "WILMINGTON ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1746784020000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E024",
+        "LONGITUDE": -95.368614,
+        "LATITUDE": 29.655615,
+        "KeyMap": "573C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29665585,
+        "Agency": "F",
+        "Address": "S POST OAK RD",
+        "CrossStreet": "BLK WILLOWBEND BLVD",
+        "CALL_TIME": 1746783840000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A048",
+        "LONGITUDE": -95.463672,
+        "LATITUDE": 29.665585,
+        "KeyMap": "531Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29802910,
+        "Agency": "F",
+        "Address": "W 19TH ST",
+        "CrossStreet": "BLK ASHLAND ST",
+        "CALL_TIME": 1746783660000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M031,A015",
+        "LONGITUDE": -95.402124,
+        "LATITUDE": 29.80291,
+        "KeyMap": "452V",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +182,7 @@
         "Agency": "F",
         "Address": "MEMORIAL DR",
         "CrossStreet": "BLK LONGWOODS LN",
-        "CALL_TIME": 1746783120000,
+        "CALL_TIME": 1746783600000,
         "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -131,7 +199,7 @@
         "Agency": "F",
         "Address": "NBW8IB-JFK N BW 8 TWY E",
         "CrossStreet": "JFK ENTR RAMP",
-        "CALL_TIME": 1746783060000,
+        "CALL_TIME": 1746783540000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 3,
@@ -144,28 +212,11 @@
     },
     {
       "attributes": {
-        "UID": 29809882,
-        "Agency": "F",
-        "Address": "RIDGEVIEW DR",
-        "CrossStreet": "BLK RIDGECREST DR",
-        "CALL_TIME": 1746782940000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A005,M062",
-        "LONGITUDE": -95.489706,
-        "LATITUDE": 29.809882,
-        "KeyMap": "451S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29630640,
         "Agency": "F",
         "Address": "WOODRING CT",
         "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1746782820000,
+        "CALL_TIME": 1746783540000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
@@ -173,6 +224,40 @@
         "LONGITUDE": -95.428731,
         "LATITUDE": 29.63064,
         "KeyMap": "572K",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29931769,
+        "Agency": "P",
+        "Address": "111 FALLBROOK DR",
+        "CrossStreet": "GREENS CROSSING BLVD",
+        "CALL_TIME": 1746783300000,
+        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "22B37N",
+        "LONGITUDE": -95.415945,
+        "LATITUDE": 29.931769,
+        "KeyMap": "372U",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29809882,
+        "Agency": "F",
+        "Address": "RIDGEVIEW DR",
+        "CrossStreet": "BLK RIDGECREST DR",
+        "CALL_TIME": 1746783240000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A005,M062",
+        "LONGITUDE": -95.489706,
+        "LATITUDE": 29.809882,
+        "KeyMap": "451S",
         "CombinedResponse": "F"
       }
     },
@@ -433,23 +518,6 @@
     },
     {
       "attributes": {
-        "UID": 29647578,
-        "Agency": "P",
-        "Address": "12600 MAIN ST OB",
-        "CrossStreet": null,
-        "CALL_TIME": 1746777540000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "15E41C",
-        "LONGITUDE": -95.463933,
-        "LATITUDE": 29.647578,
-        "KeyMap": "571G",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29777997,
         "Agency": "P",
         "Address": "4800 KATY FWY OB",
@@ -463,23 +531,6 @@
         "LATITUDE": 29.777997,
         "KeyMap": "492H",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29721009,
-        "Agency": "F",
-        "Address": "S RICE AVE",
-        "CrossStreet": "BLK GLENMONT DR",
-        "CALL_TIME": 1746776160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A037",
-        "LONGITUDE": -95.468135,
-        "LATITUDE": 29.721009,
-        "KeyMap": "531C",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -508,8 +559,8 @@
         "CALL_TIME": 1746775080000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A036,M040",
+        "NO_UNITS": 1,
+        "Units": "A036",
         "LONGITUDE": -95.277798,
         "LATITUDE": 29.657856,
         "KeyMap": "575B",
