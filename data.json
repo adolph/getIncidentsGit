@@ -93,18 +93,69 @@
   "features": [
     {
       "attributes": {
-        "UID": 30074467,
+        "UID": 29741034,
         "Agency": "F",
-        "Address": "OLD OAK LN",
-        "CrossStreet": "BLK PINE CONE DR",
-        "CALL_TIME": 1747207920000,
+        "Address": "CANAL ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1747208760000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E020",
+        "LONGITUDE": -95.304566,
+        "LATITUDE": 29.741034,
+        "KeyMap": "494V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29598805,
+        "Agency": "F",
+        "Address": "W RIDGECREEK DR",
+        "CrossStreet": "BLK WINTER BRIAR DR",
+        "CALL_TIME": 1747208460000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E080",
+        "LONGITUDE": -95.47987,
+        "LATITUDE": 29.598805,
+        "KeyMap": "571X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29755079,
+        "Agency": "F",
+        "Address": "NAVIGATION BLVD",
+        "CrossStreet": "BLK N YORK ST",
+        "CALL_TIME": 1747208340000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E018",
+        "LONGITUDE": -95.335333,
+        "LATITUDE": 29.755079,
+        "KeyMap": "494P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29857252,
+        "Agency": "F",
+        "Address": "HADDICK ST",
+        "CrossStreet": "BLK MADERA RD",
+        "CALL_TIME": 1747208220000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "M102",
-        "LONGITUDE": -95.204485,
-        "LATITUDE": 30.074467,
-        "KeyMap": "296V",
+        "Units": "A032",
+        "LONGITUDE": -95.271687,
+        "LATITUDE": 29.857252,
+        "KeyMap": "415Y",
         "CombinedResponse": "F"
       }
     },
@@ -114,14 +165,48 @@
         "Agency": "F",
         "Address": "US59IB-SH288IB S US 59 FWY IB",
         "CrossStreet": "SH 288 EXIT RAMP",
-        "CALL_TIME": 1747207860000,
-        "IncidentType": "EMS EVENT",
+        "CALL_TIME": 1747208220000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
-        "Units": "E007,L007",
+        "Units": "E007,A025",
         "LONGITUDE": -95.370865,
         "LATITUDE": 29.733706,
         "KeyMap": "493X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29672953,
+        "Agency": "F",
+        "Address": "W BELLFORT AVE",
+        "CrossStreet": "BLK BUFFALO SPEEDWAY",
+        "CALL_TIME": 1747208160000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A021,SQ033",
+        "LONGITUDE": -95.420917,
+        "LATITUDE": 29.672953,
+        "KeyMap": "532U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 30074467,
+        "Agency": "F",
+        "Address": "OLD OAK LN",
+        "CrossStreet": "BLK PINE CONE DR",
+        "CALL_TIME": 1747208040000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M102",
+        "LONGITUDE": -95.204485,
+        "LATITUDE": 30.074467,
+        "KeyMap": "296V",
         "CombinedResponse": "F"
       }
     },
@@ -139,57 +224,6 @@
         "LONGITUDE": -95.374746,
         "LATITUDE": 29.802059,
         "KeyMap": "453T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29665522,
-        "Agency": "F",
-        "Address": "CREEKBEND DR",
-        "CrossStreet": "BLK SHAWNBROOK DR",
-        "CALL_TIME": 1747207740000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E082",
-        "LONGITUDE": -95.518986,
-        "LATITUDE": 29.665522,
-        "KeyMap": "530Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 30068899,
-        "Agency": "F",
-        "Address": "NORTHPARK DR",
-        "CrossStreet": "BLK LOOP 494",
-        "CALL_TIME": 1747207740000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M101",
-        "LONGITUDE": -95.243342,
-        "LATITUDE": 30.068899,
-        "KeyMap": "296S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29672953,
-        "Agency": "F",
-        "Address": "W BELLFORT AVE",
-        "CrossStreet": "BLK BUFFALO SPEEDWAY",
-        "CALL_TIME": 1747207740000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A021,SQ033",
-        "LONGITUDE": -95.420917,
-        "LATITUDE": 29.672953,
-        "KeyMap": "532U",
         "CombinedResponse": "F"
       }
     },
@@ -220,7 +254,7 @@
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
-        "Units": "E047,M059",
+        "Units": "E047,A080",
         "LONGITUDE": -95.423491,
         "LATITUDE": 29.603801,
         "KeyMap": "572X",
@@ -263,23 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29847016,
-        "Agency": "F",
-        "Address": "W TIDWELL RD",
-        "CrossStreet": "BLK OAKMONT VILLAS DR",
-        "CALL_TIME": 1747207260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A067",
-        "LONGITUDE": -95.430666,
-        "LATITUDE": 29.847016,
-        "KeyMap": "452B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29615716,
         "Agency": "F",
         "Address": "GRAPEVINE ST",
@@ -292,23 +309,6 @@
         "LONGITUDE": -95.443296,
         "LATITUDE": 29.615716,
         "KeyMap": "572N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29857252,
-        "Agency": "F",
-        "Address": "HADDICK ST",
-        "CrossStreet": "BLK MADERA RD",
-        "CALL_TIME": 1747207020000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.271687,
-        "LATITUDE": 29.857252,
-        "KeyMap": "415Y",
         "CombinedResponse": "F"
       }
     },
@@ -360,23 +360,6 @@
         "LONGITUDE": -95.506127,
         "LATITUDE": 29.711018,
         "KeyMap": "530H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29820506,
-        "Agency": "F",
-        "Address": "E 38TH ST",
-        "CrossStreet": "BLK CORTLANDT ST",
-        "CALL_TIME": 1747205880000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M031",
-        "LONGITUDE": -95.397654,
-        "LATITUDE": 29.820506,
-        "KeyMap": "453N",
         "CombinedResponse": "F"
       }
     },
@@ -457,8 +440,8 @@
         "CALL_TIME": 1747205400000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A016,M006",
+        "NO_UNITS": 1,
+        "Units": "M006",
         "LONGITUDE": -95.411279,
         "LATITUDE": 29.748107,
         "KeyMap": "492Q",
@@ -513,23 +496,6 @@
         "LONGITUDE": -95.341001,
         "LATITUDE": 29.697902,
         "KeyMap": "534J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29953884,
-        "Agency": "F",
-        "Address": "HARVEST TIME LN",
-        "CrossStreet": "BLK WAYFOREST DR",
-        "CALL_TIME": 1747203960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A074",
-        "LONGITUDE": -95.393855,
-        "LATITUDE": 29.953884,
-        "KeyMap": "373J",
         "CombinedResponse": "F"
       }
     },
@@ -615,23 +581,6 @@
         "LONGITUDE": -95.285544,
         "LATITUDE": 29.80218,
         "KeyMap": "455X",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29609346,
-        "Agency": "P",
-        "Address": "15000 S POST OAK RD",
-        "CrossStreet": "BLK ANDERSON OAKS ST",
-        "CALL_TIME": 1747189680000,
-        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "16E37B",
-        "LONGITUDE": -95.464945,
-        "LATITUDE": 29.609346,
-        "KeyMap": "571U",
         "CombinedResponse": "P"
       }
     }
