@@ -93,18 +93,69 @@
   "features": [
     {
       "attributes": {
-        "UID": 29678556,
+        "UID": 29849824,
         "Agency": "F",
-        "Address": "N BRAESWOOD BLVD",
-        "CrossStreet": "BLK S BRAESWOOD BLVD",
-        "CALL_TIME": 1747907220000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "FULTON ST",
+        "CrossStreet": "BLK HANKLA ST",
+        "CALL_TIME": 1747908060000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M031,A058",
+        "LONGITUDE": -95.379728,
+        "LATITUDE": 29.849824,
+        "KeyMap": "453B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29931753,
+        "Agency": "F",
+        "Address": "ALDINE BENDER RD",
+        "CrossStreet": "BLK IMPERIAL VALLEY DR",
+        "CALL_TIME": 1747907940000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E082",
-        "LONGITUDE": -95.49854,
-        "LATITUDE": 29.678556,
-        "KeyMap": "530V",
+        "Units": "M074",
+        "LONGITUDE": -95.404438,
+        "LATITUDE": 29.931753,
+        "KeyMap": "372Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29760780,
+        "Agency": "F",
+        "Address": "PRAIRIE ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1747907760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A009",
+        "LONGITUDE": -95.361994,
+        "LATITUDE": 29.76078,
+        "KeyMap": "493L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29674768,
+        "Agency": "F",
+        "Address": "BISSONNET ST",
+        "CrossStreet": "BLK COURT GLEN DR",
+        "CALL_TIME": 1747907760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M073",
+        "LONGITUDE": -95.580239,
+        "LATITUDE": 29.674768,
+        "KeyMap": "529T",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +165,7 @@
         "Agency": "F",
         "Address": "LAKE ST",
         "CrossStreet": "BLK COLQUITT ST",
-        "CALL_TIME": 1747907160000,
+        "CALL_TIME": 1747907760000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
@@ -131,7 +182,7 @@
         "Agency": "F",
         "Address": "GESSNER RD",
         "CrossStreet": "BLK SPRING BROOK VILLAGE DR",
-        "CALL_TIME": 1747907100000,
+        "CALL_TIME": 1747907400000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +190,23 @@
         "LONGITUDE": -95.545306,
         "LATITUDE": 29.828081,
         "KeyMap": "450J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29664702,
+        "Agency": "F",
+        "Address": "PAULWOOD DR",
+        "CrossStreet": "BLK VALLEY HILLS DR",
+        "CALL_TIME": 1747907340000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A068",
+        "LONGITUDE": -95.518036,
+        "LATITUDE": 29.664702,
+        "KeyMap": "530Y",
         "CombinedResponse": "F"
       }
     },
@@ -169,7 +237,7 @@
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A010",
+        "Units": "A051",
         "LONGITUDE": -95.545615,
         "LATITUDE": 29.707192,
         "KeyMap": "529H",
@@ -185,28 +253,11 @@
         "CALL_TIME": 1747906620000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A052,E052,M036",
+        "NO_UNITS": 2,
+        "Units": "M036,A052",
         "LONGITUDE": -95.244387,
         "LATITUDE": 29.640058,
         "KeyMap": "576E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29664702,
-        "Agency": "F",
-        "Address": "PAULWOOD DR",
-        "CrossStreet": "BLK VALLEY HILLS DR",
-        "CALL_TIME": 1747906620000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A068",
-        "LONGITUDE": -95.518036,
-        "LATITUDE": 29.664702,
-        "KeyMap": "530Y",
         "CombinedResponse": "F"
       }
     },
@@ -355,8 +406,8 @@
         "CALL_TIME": 1747905360000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E061,M070",
+        "NO_UNITS": 1,
+        "Units": "M070",
         "LONGITUDE": -95.271481,
         "LATITUDE": 29.609197,
         "KeyMap": "575T",
@@ -433,23 +484,6 @@
     },
     {
       "attributes": {
-        "UID": 29876273,
-        "Agency": "F",
-        "Address": "MARDALE DR",
-        "CrossStreet": "BLK CHEEVES DR",
-        "CALL_TIME": 1747900740000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A056",
-        "LONGITUDE": -95.29537,
-        "LATITUDE": 29.876273,
-        "KeyMap": "415S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29841591,
         "Agency": "P",
         "Address": "9001 IRVINGTON BLVD",
@@ -480,23 +514,6 @@
         "LATITUDE": 29.821944,
         "KeyMap": "450K",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29879478,
-        "Agency": "F",
-        "Address": "GREEN LAWN DR",
-        "CrossStreet": "BLK ARNCLIFFE DR",
-        "CALL_TIME": 1747899180000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M067",
-        "LONGITUDE": -95.479075,
-        "LATITUDE": 29.879478,
-        "KeyMap": "411P",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -535,6 +552,23 @@
     },
     {
       "attributes": {
+        "UID": 29701533,
+        "Agency": "P",
+        "Address": "3399 HOLCOMBE BLVD",
+        "CrossStreet": null,
+        "CALL_TIME": 1747897980000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "10H98T",
+        "LONGITUDE": -95.372335,
+        "LATITUDE": 29.701533,
+        "KeyMap": "533K",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29710218,
         "Agency": "P",
         "Address": "2801 PRODUCE ROW",
@@ -548,40 +582,6 @@
         "LATITUDE": 29.710218,
         "KeyMap": "534F",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29701533,
-        "Agency": "P",
-        "Address": "3399 HOLCOMBE BLVD",
-        "CrossStreet": null,
-        "CALL_TIME": 1747897980000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "10H52N,10H98T",
-        "LONGITUDE": -95.372335,
-        "LATITUDE": 29.701533,
-        "KeyMap": "533K",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29682905,
-        "Agency": "F",
-        "Address": "CAMBRIDGE ST",
-        "CrossStreet": "BLK NAOMI ST",
-        "CALL_TIME": 1747896240000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A021,SQ033",
-        "LONGITUDE": -95.395569,
-        "LATITUDE": 29.682905,
-        "KeyMap": "533N",
-        "CombinedResponse": "F"
       }
     },
     {
