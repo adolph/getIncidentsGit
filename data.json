@@ -93,18 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29661915,
+        "UID": 29867455,
         "Agency": "F",
-        "Address": "FONDREN RD",
-        "CrossStreet": "BLK PORTAL DR",
-        "CALL_TIME": 1748506920000,
+        "Address": "NORDLING RD",
+        "CrossStreet": "BLK FRAIL LN",
+        "CALL_TIME": 1748507820000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M058",
+        "LONGITUDE": -95.391167,
+        "LATITUDE": 29.867455,
+        "KeyMap": "413S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29699652,
+        "Agency": "F",
+        "Address": "KIRBY DR",
+        "CrossStreet": "BLK SEUSS DR",
+        "CALL_TIME": 1748507700000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A037",
+        "LONGITUDE": -95.41826,
+        "LATITUDE": 29.699652,
+        "KeyMap": "532L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29807927,
+        "Agency": "F",
+        "Address": "W 24TH ST",
+        "CrossStreet": "BLK LAWRENCE ST",
+        "CALL_TIME": 1748507700000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E031",
+        "LONGITUDE": -95.406602,
+        "LATITUDE": 29.807927,
+        "KeyMap": "452V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29751564,
+        "Agency": "F",
+        "Address": "W LOOP S",
+        "CrossStreet": "BLK HALLMARK DR",
+        "CALL_TIME": 1748507700000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E002",
+        "LONGITUDE": -95.456093,
+        "LATITUDE": 29.751564,
+        "KeyMap": "491R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29728207,
+        "Agency": "F",
+        "Address": "CLEBURNE ST",
+        "CrossStreet": "BLK LIVE OAK ST",
+        "CALL_TIME": 1748507580000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E007,A025",
+        "LONGITUDE": -95.368472,
+        "LATITUDE": 29.728207,
+        "KeyMap": "493Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29642817,
+        "Agency": "F",
+        "Address": "OAKMOOR PKWY",
+        "CrossStreet": "BLK ACACIAWOOD WAY",
+        "CALL_TIME": 1748507580000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 3,
-        "Units": "M073,A068,E082",
-        "LONGITUDE": -95.508478,
-        "LATITUDE": 29.661915,
-        "KeyMap": "530Z",
+        "Units": "M024,A047,M055",
+        "LONGITUDE": -95.402058,
+        "LATITUDE": 29.642817,
+        "KeyMap": "572H",
         "CombinedResponse": "F"
       }
     },
@@ -114,11 +199,11 @@
         "Agency": "F",
         "Address": "GROW LN",
         "CrossStreet": "BLK DOW RD",
-        "CALL_TIME": 1748506920000,
+        "CALL_TIME": 1748507520000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E066",
+        "NO_UNITS": 2,
+        "Units": "E066,A004",
         "LONGITUDE": -95.508877,
         "LATITUDE": 29.848899,
         "KeyMap": "450D",
@@ -127,18 +212,35 @@
     },
     {
       "attributes": {
-        "UID": 29851711,
+        "UID": 29698522,
         "Agency": "F",
-        "Address": "W TIDWELL RD",
-        "CrossStreet": "BLK NORTHWEST FWY OB",
-        "CALL_TIME": 1748506860000,
-        "IncidentType": "CHECK WATER FLOW ALARM",
+        "Address": "GOLFCREST BLVD",
+        "CrossStreet": "BLK S LOOP E",
+        "CALL_TIME": 1748507340000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E004",
-        "LONGITUDE": -95.506471,
-        "LATITUDE": 29.851711,
-        "KeyMap": "450D",
+        "Units": "M040",
+        "LONGITUDE": -95.305999,
+        "LATITUDE": 29.698522,
+        "KeyMap": "534M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29661915,
+        "Agency": "F",
+        "Address": "FONDREN RD",
+        "CrossStreet": "BLK PORTAL DR",
+        "CALL_TIME": 1748507220000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A068,SQ082",
+        "LONGITUDE": -95.508478,
+        "LATITUDE": 29.661915,
+        "KeyMap": "530Z",
         "CombinedResponse": "F"
       }
     },
@@ -156,6 +258,23 @@
         "LONGITUDE": -95.378325,
         "LATITUDE": 29.736785,
         "KeyMap": "493T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29851711,
+        "Agency": "F",
+        "Address": "W TIDWELL RD",
+        "CrossStreet": "BLK NORTHWEST FWY OB",
+        "CALL_TIME": 1748506860000,
+        "IncidentType": "CHECK WATER FLOW ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E004",
+        "LONGITUDE": -95.506471,
+        "LATITUDE": 29.851711,
+        "KeyMap": "450D",
         "CombinedResponse": "F"
       }
     },
@@ -195,19 +314,36 @@
     },
     {
       "attributes": {
-        "UID": 29724972,
+        "UID": 29831331,
         "Agency": "F",
-        "Address": "WOODCHASE DR",
-        "CrossStreet": "BLK WESTPARK DR",
-        "CALL_TIME": 1748506380000,
+        "Address": "N WAYSIDE DR",
+        "CrossStreet": null,
+        "CALL_TIME": 1748506320000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A010",
-        "LONGITUDE": -95.545606,
-        "LATITUDE": 29.724972,
-        "KeyMap": "490W",
+        "Units": "A032",
+        "LONGITUDE": -95.284361,
+        "LATITUDE": 29.831331,
+        "KeyMap": "455K",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29798134,
+        "Agency": "P",
+        "Address": "NIH45OB-PATTON ST 2700 N IH 45 FWY OB",
+        "CrossStreet": "CAVALCADE EXIT RAMP",
+        "CALL_TIME": 1748506320000,
+        "IncidentType": "CRASH/MAJOR/FATALITY",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 10,
+        "Units": "2A31N,2A35N,71T07,96Z05,96Z13,2A38N,2A53N,2A62N,2A01N,2A03N",
+        "LONGITUDE": -95.371582,
+        "LATITUDE": 29.798134,
+        "KeyMap": "453Y",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -224,23 +360,6 @@
         "LONGITUDE": -95.395695,
         "LATITUDE": 29.757403,
         "KeyMap": "493N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29831331,
-        "Agency": "F",
-        "Address": "N WAYSIDE DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1748506320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.284361,
-        "LATITUDE": 29.831331,
-        "KeyMap": "455K",
         "CombinedResponse": "F"
       }
     },
@@ -287,8 +406,8 @@
         "CALL_TIME": 1748505300000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E048,A048",
+        "NO_UNITS": 1,
+        "Units": "A048",
         "LONGITUDE": -95.484354,
         "LATITUDE": 29.675872,
         "KeyMap": "531S",
@@ -304,8 +423,8 @@
         "CALL_TIME": 1748505180000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A082,SQ082",
+        "NO_UNITS": 1,
+        "Units": "A082",
         "LONGITUDE": -95.504324,
         "LATITUDE": 29.668217,
         "KeyMap": "530Z",
@@ -338,8 +457,8 @@
         "CALL_TIME": 1748503560000,
         "IncidentType": "GRASS FIRE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E029,E052",
+        "NO_UNITS": 1,
+        "Units": "E029",
         "LONGITUDE": -95.250467,
         "LATITUDE": 29.661258,
         "KeyMap": "575D",
@@ -372,28 +491,11 @@
         "CALL_TIME": 1748502900000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A027,M044",
+        "NO_UNITS": 1,
+        "Units": "M044",
         "LONGITUDE": -95.239512,
         "LATITUDE": 29.82008,
         "KeyMap": "456N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29838290,
-        "Agency": "F",
-        "Address": "LINDA VISTA RD",
-        "CrossStreet": "BLK STRATHMORE DR",
-        "CALL_TIME": 1748502780000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M043",
-        "LONGITUDE": -95.253345,
-        "LATITUDE": 29.83829,
-        "KeyMap": "455H",
         "CombinedResponse": "F"
       }
     },
@@ -411,23 +513,6 @@
         "LONGITUDE": -95.383748,
         "LATITUDE": 29.859289,
         "KeyMap": "413X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29886412,
-        "Agency": "F",
-        "Address": "SUNNYWOOD DR",
-        "CrossStreet": "BLK W MIERIANNE ST",
-        "CALL_TIME": 1748502420000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A067",
-        "LONGITUDE": -95.414573,
-        "LATITUDE": 29.886412,
-        "KeyMap": "412Q",
         "CombinedResponse": "F"
       }
     },
@@ -535,23 +620,6 @@
     },
     {
       "attributes": {
-        "UID": 29754910,
-        "Agency": "P",
-        "Address": "612 N DRENNAN ST",
-        "CrossStreet": "BLK UNKNOWN",
-        "CALL_TIME": 1748495940000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "10H10N",
-        "LONGITUDE": -95.329197,
-        "LATITUDE": 29.75491,
-        "KeyMap": "494P",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29968464,
         "Agency": "P",
         "Address": "7001 W FM 1960 RD",
@@ -582,23 +650,6 @@
         "LATITUDE": 29.841888,
         "KeyMap": "453F",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29657703,
-        "Agency": "P",
-        "Address": "2695 REED RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1748482380000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "15E21C",
-        "LONGITUDE": -95.387946,
-        "LATITUDE": 29.657703,
-        "KeyMap": "573A",
-        "CombinedResponse": "P"
       }
     },
     {
