@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29686144,
+        "UID": 29795116,
         "Agency": "F",
-        "Address": "GOFORTH ST",
-        "CrossStreet": "BLK DREYFUS ST",
-        "CALL_TIME": 1752139260000,
+        "Address": "ELYSIAN ST",
+        "CrossStreet": "BLK SHELBY ST",
+        "CALL_TIME": 1752139800000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A033",
-        "LONGITUDE": -95.35754,
-        "LATITUDE": 29.686144,
-        "KeyMap": "533R",
+        "Units": "A012",
+        "LONGITUDE": -95.351232,
+        "LATITUDE": 29.795116,
+        "KeyMap": "453Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29813439,
+        "Agency": "F",
+        "Address": "N LOOP E",
+        "CrossStreet": null,
+        "CALL_TIME": 1752139740000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E030",
+        "LONGITUDE": -95.354659,
+        "LATITUDE": 29.813439,
+        "KeyMap": "453R",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "RICHMOND AVE",
         "CrossStreet": "BLK TANGLEWILDE ST",
-        "CALL_TIME": 1752139260000,
+        "CALL_TIME": 1752139500000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,18 +144,18 @@
     },
     {
       "attributes": {
-        "UID": 29779742,
+        "UID": 29686144,
         "Agency": "F",
-        "Address": "PATTERSON ST",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1752139140000,
+        "Address": "GOFORTH ST",
+        "CrossStreet": "BLK DREYFUS ST",
+        "CALL_TIME": 1752139380000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A011,M006",
-        "LONGITUDE": -95.406312,
-        "LATITUDE": 29.779742,
-        "KeyMap": "492D",
+        "NO_UNITS": 1,
+        "Units": "A033",
+        "LONGITUDE": -95.35754,
+        "LATITUDE": 29.686144,
+        "KeyMap": "533R",
         "CombinedResponse": "F"
       }
     },
@@ -190,23 +207,6 @@
         "LONGITUDE": -95.371988,
         "LATITUDE": 29.65796,
         "KeyMap": "573B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29795116,
-        "Agency": "F",
-        "Address": "ELYSIAN ST",
-        "CrossStreet": "BLK SHELBY ST",
-        "CALL_TIME": 1752138720000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A012",
-        "LONGITUDE": -95.351232,
-        "LATITUDE": 29.795116,
-        "KeyMap": "453Z",
         "CombinedResponse": "F"
       }
     },
@@ -271,7 +271,7 @@
         "IncidentType": "BUILDING FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 10,
-        "Units": "D059,D021,E080,E021,E047,L021,L059,SF024,RE010,M059",
+        "Units": "D059,D021,E080,E021,E047,L021,L059,SF024,E059,RE010",
         "LONGITUDE": -95.439067,
         "LATITUDE": 29.614764,
         "KeyMap": "572S",
@@ -348,23 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 29797804,
-        "Agency": "F",
-        "Address": "N MCCARTY ST",
-        "CrossStreet": "BLK CITY PARK LP",
-        "CALL_TIME": 1752134700000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A041",
-        "LONGITUDE": -95.270827,
-        "LATITUDE": 29.797804,
-        "KeyMap": "455Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29849543,
         "Agency": "F",
         "Address": "CORTLANDT ST",
@@ -382,23 +365,6 @@
     },
     {
       "attributes": {
-        "UID": 29948228,
-        "Agency": "F",
-        "Address": "SEMINAR DR",
-        "CrossStreet": "BLK SUNSHINE BAY DR",
-        "CALL_TIME": 1752132360000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A074",
-        "LONGITUDE": -95.389074,
-        "LATITUDE": 29.948228,
-        "KeyMap": "373N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29675459,
         "Agency": "F",
         "Address": "PERSHING ST",
@@ -406,8 +372,8 @@
         "CALL_TIME": 1752131580000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A035,SQ046",
+        "NO_UNITS": 1,
+        "Units": "A035",
         "LONGITUDE": -95.334144,
         "LATITUDE": 29.675459,
         "KeyMap": "534S",
