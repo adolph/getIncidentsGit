@@ -97,7 +97,7 @@
         "Agency": "F",
         "Address": "DELBURY ST",
         "CrossStreet": "BLK MCKINSTRY BLVD",
-        "CALL_TIME": 1752222960000,
+        "CALL_TIME": 1752223320000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -105,6 +105,23 @@
         "LONGITUDE": -95.475201,
         "LATITUDE": 29.620553,
         "KeyMap": "571P",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29758900,
+        "Agency": "F",
+        "Address": "TRAVIS ST",
+        "CrossStreet": "BLK WALKER ST",
+        "CALL_TIME": 1752223200000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A007",
+        "LONGITUDE": -95.364667,
+        "LATITUDE": 29.7589,
+        "KeyMap": "493L",
         "CombinedResponse": "F"
       }
     },
@@ -134,45 +151,11 @@
         "CALL_TIME": 1752222840000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A023",
+        "NO_UNITS": 2,
+        "Units": "A023,M027",
         "LONGITUDE": -95.258679,
         "LATITUDE": 29.735311,
         "KeyMap": "495Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29758900,
-        "Agency": "F",
-        "Address": "TRAVIS ST",
-        "CrossStreet": "BLK WALKER ST",
-        "CALL_TIME": 1752222600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A007",
-        "LONGITUDE": -95.364667,
-        "LATITUDE": 29.7589,
-        "KeyMap": "493L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29585440,
-        "Agency": "F",
-        "Address": "GULF FWY IB",
-        "CrossStreet": "BLK TRISTAR DR",
-        "CALL_TIME": 1752222180000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M094,A093",
-        "LONGITUDE": -95.182318,
-        "LATITUDE": 29.58544,
-        "KeyMap": "617F",
         "CombinedResponse": "F"
       }
     },
@@ -195,6 +178,23 @@
     },
     {
       "attributes": {
+        "UID": 29585440,
+        "Agency": "F",
+        "Address": "GULF FWY IB",
+        "CrossStreet": "BLK TRISTAR DR",
+        "CALL_TIME": 1752222180000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M094,A093",
+        "LONGITUDE": -95.182318,
+        "LATITUDE": 29.58544,
+        "KeyMap": "617F",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29784948,
         "Agency": "F",
         "Address": "IH10OB-KIRKWOOD W IH 10 FWY",
@@ -202,8 +202,8 @@
         "CALL_TIME": 1752222060000,
         "IncidentType": "CAR FIRE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E057,E069",
+        "NO_UNITS": 1,
+        "Units": "E057",
         "LONGITUDE": -95.590274,
         "LATITUDE": 29.784948,
         "KeyMap": "489A",
@@ -263,23 +263,6 @@
     },
     {
       "attributes": {
-        "UID": 29842302,
-        "Agency": "F",
-        "Address": "HOMEWOOD LN",
-        "CrossStreet": "BLK TREMONT ST",
-        "CALL_TIME": 1752221520000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.283575,
-        "LATITUDE": 29.842302,
-        "KeyMap": "455F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29742515,
         "Agency": "F",
         "Address": "MCCUE RD",
@@ -297,6 +280,23 @@
     },
     {
       "attributes": {
+        "UID": 29842302,
+        "Agency": "F",
+        "Address": "HOMEWOOD LN",
+        "CrossStreet": "BLK TREMONT ST",
+        "CALL_TIME": 1752221520000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A032",
+        "LONGITUDE": -95.283575,
+        "LATITUDE": 29.842302,
+        "KeyMap": "455F",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29672130,
         "Agency": "F",
         "Address": "BUFFALO SPEEDWAY",
@@ -304,8 +304,8 @@
         "CALL_TIME": 1752221280000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A037,M024",
+        "NO_UNITS": 1,
+        "Units": "M024",
         "LONGITUDE": -95.42478,
         "LATITUDE": 29.67213,
         "KeyMap": "532T",
@@ -440,8 +440,8 @@
         "CALL_TIME": 1752220140000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ028,A002",
+        "NO_UNITS": 1,
+        "Units": "SQ028",
         "LONGITUDE": -95.487322,
         "LATITUDE": 29.746775,
         "KeyMap": "491N",
@@ -491,8 +491,8 @@
         "CALL_TIME": 1752219960000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 7,
-        "Units": "18F31N,18F52N,18F53K,18F05N,18F64N,18F43K,3Z04N",
+        "NO_UNITS": 9,
+        "Units": "18F31N,18F52N,18F53K,18F05N,18F64N,18F43K,3Z04N,70Z67N,70Z83N",
         "LONGITUDE": -95.476434,
         "LATITUDE": 29.731503,
         "KeyMap": "491X",
@@ -667,23 +667,6 @@
         "LATITUDE": 29.749071,
         "KeyMap": "492Q",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29741229,
-        "Agency": "F",
-        "Address": "WOODWAY DR",
-        "CrossStreet": "BLK FONDREN RD",
-        "CALL_TIME": 1752216360000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M060",
-        "LONGITUDE": -95.517391,
-        "LATITUDE": 29.741229,
-        "KeyMap": "490U",
-        "CombinedResponse": "F"
       }
     },
     {
