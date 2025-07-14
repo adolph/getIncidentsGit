@@ -93,18 +93,86 @@
   "features": [
     {
       "attributes": {
-        "UID": 29657675,
+        "UID": 29691240,
         "Agency": "F",
-        "Address": "REED RD",
-        "CrossStreet": "BLK SOUTH FWY OB",
-        "CALL_TIME": 1752484020000,
-        "IncidentType": "CHECK PATIENT*",
+        "Address": "CAMBRIDGE ST",
+        "CrossStreet": "BLK EL PASEO ST",
+        "CALL_TIME": 1752484920000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E024",
-        "LONGITUDE": -95.389471,
-        "LATITUDE": 29.657675,
-        "KeyMap": "573A",
+        "Units": "A033",
+        "LONGITUDE": -95.393035,
+        "LATITUDE": 29.69124,
+        "KeyMap": "533N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29790849,
+        "Agency": "F",
+        "Address": "GESSNER RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1752484860000,
+        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E049",
+        "LONGITUDE": -95.5446,
+        "LATITUDE": 29.790849,
+        "KeyMap": "450W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29662997,
+        "Agency": "F",
+        "Address": "WESTBRAE PKWY",
+        "CrossStreet": "BLK RANIER DR",
+        "CALL_TIME": 1752484740000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E068",
+        "LONGITUDE": -95.53087,
+        "LATITUDE": 29.662997,
+        "KeyMap": "530X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29569386,
+        "Agency": "P",
+        "Address": "3101 FM 2351 RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1752484740000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 4,
+        "Units": "12D51N,12D10N,12D11N,12D61N",
+        "LONGITUDE": -95.169165,
+        "LATITUDE": 29.569386,
+        "KeyMap": "617L",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29938341,
+        "Agency": "F",
+        "Address": "N SAM HOUSTON PKWY E",
+        "CrossStreet": "HARDY EXIT RAMP",
+        "CALL_TIME": 1752484740000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M074",
+        "LONGITUDE": -95.393351,
+        "LATITUDE": 29.938341,
+        "KeyMap": "373S",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +182,7 @@
         "Agency": "F",
         "Address": "N SHEPHERD DR",
         "CrossStreet": "BLK W RITTENHOUSE ST",
-        "CALL_TIME": 1752483960000,
+        "CALL_TIME": 1752484620000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,19 +195,19 @@
     },
     {
       "attributes": {
-        "UID": 29687663,
-        "Agency": "F",
-        "Address": "NORRIS DR",
-        "CrossStreet": "BLK BUFFALO SPEEDWAY",
-        "CALL_TIME": 1752483960000,
-        "IncidentType": "CHECK PATIENT*",
+        "UID": 29790849,
+        "Agency": "P",
+        "Address": "1299 GESSNER RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1752484380000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E021",
-        "LONGITUDE": -95.425733,
-        "LATITUDE": 29.687663,
-        "KeyMap": "532P",
-        "CombinedResponse": "F"
+        "NO_UNITS": 3,
+        "Units": "4F16N,4F38N,4F11N",
+        "LONGITUDE": -95.5446,
+        "LATITUDE": 29.790849,
+        "KeyMap": "450W",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -151,8 +219,8 @@
         "CALL_TIME": 1752483900000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M049,E057",
+        "NO_UNITS": 1,
+        "Units": "M049",
         "LONGITUDE": -95.570878,
         "LATITUDE": 29.780406,
         "KeyMap": "489C",
@@ -195,40 +263,6 @@
     },
     {
       "attributes": {
-        "UID": 29837119,
-        "Agency": "F",
-        "Address": "JENSEN DR",
-        "CrossStreet": "BLK BERRY RD",
-        "CALL_TIME": 1752482880000,
-        "IncidentType": "TRASH FIRE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E034",
-        "LONGITUDE": -95.342752,
-        "LATITUDE": 29.837119,
-        "KeyMap": "454E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29860632,
-        "Agency": "F",
-        "Address": "NORMEADOW LN",
-        "CrossStreet": "BLK RITTENHOUSE ST",
-        "CALL_TIME": 1752482580000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E058,M058",
-        "LONGITUDE": -95.372963,
-        "LATITUDE": 29.860632,
-        "KeyMap": "413Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29629646,
         "Agency": "F",
         "Address": "S CANCUN DR",
@@ -236,8 +270,8 @@
         "CALL_TIME": 1752482400000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M080,A047",
+        "NO_UNITS": 1,
+        "Units": "M080",
         "LONGITUDE": -95.45545,
         "LATITUDE": 29.629646,
         "KeyMap": "571M",
@@ -382,23 +416,6 @@
     },
     {
       "attributes": {
-        "UID": 30047486,
-        "Agency": "F",
-        "Address": "LAUREL HILL DR",
-        "CrossStreet": "BLK WOODLAND HILLS DR",
-        "CALL_TIME": 1752481260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M101",
-        "LONGITUDE": -95.218634,
-        "LATITUDE": 30.047486,
-        "KeyMap": "336C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29696620,
         "Agency": "F",
         "Address": "FANNIN ST",
@@ -411,23 +428,6 @@
         "LONGITUDE": -95.401032,
         "LATITUDE": 29.69662,
         "KeyMap": "532M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29731244,
-        "Agency": "F",
-        "Address": "SUS59IB-MANDELL ST S US 59 FWY",
-        "CrossStreet": "SHEPHERD ENTR RAMP",
-        "CALL_TIME": 1752480420000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A016",
-        "LONGITUDE": -95.399511,
-        "LATITUDE": 29.731244,
-        "KeyMap": "492Z",
         "CombinedResponse": "F"
       }
     },
@@ -552,19 +552,19 @@
     },
     {
       "attributes": {
-        "UID": 29677445,
-        "Agency": "F",
-        "Address": "RICHWOOD RD",
-        "CrossStreet": "BLK LANCASTER ST",
-        "CALL_TIME": 1752478440000,
-        "IncidentType": "EMS EVENT",
+        "UID": 29773533,
+        "Agency": "P",
+        "Address": "1400 PATTERSON ST",
+        "CrossStreet": "BLK KOEHLER ST",
+        "CALL_TIME": 1752478200000,
+        "IncidentType": "CRASH/MINOR/FSGI",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A026",
-        "LONGITUDE": -95.298165,
-        "LATITUDE": 29.677445,
-        "KeyMap": "534V",
-        "CombinedResponse": "F"
+        "Units": "2A44N",
+        "LONGITUDE": -95.406189,
+        "LATITUDE": 29.773533,
+        "KeyMap": "492H",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -627,8 +627,8 @@
         "CALL_TIME": 1752461460000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "22B34E,22B25E",
+        "NO_UNITS": 1,
+        "Units": "22B34E",
         "LONGITUDE": -95.416372,
         "LATITUDE": 29.948961,
         "KeyMap": "372Q",
@@ -661,8 +661,8 @@
         "CALL_TIME": 1752446640000,
         "IncidentType": "CRASH/MAJOR/FATALITY",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "70Z41E,96Z13,24C40N,24C11N",
+        "NO_UNITS": 3,
+        "Units": "70Z41E,24C40N,24C11N",
         "LONGITUDE": -95.174508,
         "LATITUDE": 30.032966,
         "KeyMap": "337G",
