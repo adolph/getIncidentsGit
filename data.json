@@ -93,6 +93,57 @@
   "features": [
     {
       "attributes": {
+        "UID": 29773794,
+        "Agency": "F",
+        "Address": "PERTHSHIRE RD",
+        "CrossStreet": "BLK THORNBRANCH DR",
+        "CALL_TIME": 1752817620000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E078",
+        "LONGITUDE": -95.610606,
+        "LATITUDE": 29.773794,
+        "KeyMap": "488G",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29987404,
+        "Agency": "F",
+        "Address": "N TERMINAL RD",
+        "CrossStreet": "BLK UNKNOWN",
+        "CALL_TIME": 1752817500000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "AR0854",
+        "LONGITUDE": -95.341357,
+        "LATITUDE": 29.987404,
+        "KeyMap": "334W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29853050,
+        "Agency": "F",
+        "Address": "GUHN RD",
+        "CrossStreet": "BLK CASTLEFORD ST",
+        "CALL_TIME": 1752817380000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "E066,A004,M049",
+        "LONGITUDE": -95.515415,
+        "LATITUDE": 29.85305,
+        "KeyMap": "450C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29713968,
         "Agency": "F",
         "Address": "EIH610OB-LAWNDALE E IH 610 FWY S",
@@ -162,31 +213,14 @@
     {
       "attributes": {
         "UID": 29987404,
-        "Agency": "F",
-        "Address": "N TERMINAL RD",
-        "CrossStreet": "BLK UNKNOWN",
-        "CALL_TIME": 1752816540000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "AR0854",
-        "LONGITUDE": -95.341357,
-        "LATITUDE": 29.987404,
-        "KeyMap": "334W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29987404,
         "Agency": "P",
         "Address": "3500 N TERMINAL RD",
         "CrossStreet": "BLK UNKNOWN",
         "CALL_TIME": 1752816480000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "21I56N,21I61N",
+        "NO_UNITS": 1,
+        "Units": "21I56N",
         "LONGITUDE": -95.341357,
         "LATITUDE": 29.987404,
         "KeyMap": "334W",
@@ -208,40 +242,6 @@
         "LATITUDE": 29.713968,
         "KeyMap": "535C",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29747696,
-        "Agency": "P",
-        "Address": "1400 HUTCHINS ST",
-        "CrossStreet": "BLK BELL ST",
-        "CALL_TIME": 1752816060000,
-        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "10H22N",
-        "LONGITUDE": -95.357069,
-        "LATITUDE": 29.747696,
-        "KeyMap": "493R",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29753184,
-        "Agency": "F",
-        "Address": "POST OAK BLVD",
-        "CrossStreet": "BLK GARRETTSON LN",
-        "CALL_TIME": 1752815340000,
-        "IncidentType": "BUILDING FIRE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E002,L028,E028",
-        "LONGITUDE": -95.458957,
-        "LATITUDE": 29.753184,
-        "KeyMap": "491R",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -285,7 +285,7 @@
         "Address": "6275 W AIRPORT BLVD",
         "CrossStreet": "BLK BOB WHITE DR",
         "CALL_TIME": 1752814740000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "IncidentType": "CRASH/MINOR/FSGI",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
         "Units": "17E45N",
@@ -360,23 +360,6 @@
         "LONGITUDE": -95.476611,
         "LATITUDE": 29.849429,
         "KeyMap": "451B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29802228,
-        "Agency": "F",
-        "Address": "BUNTE ST",
-        "CrossStreet": "BLK HOFFMAN ST",
-        "CALL_TIME": 1752813120000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M027",
-        "LONGITUDE": -95.314739,
-        "LATITUDE": 29.802228,
-        "KeyMap": "454U",
         "CombinedResponse": "F"
       }
     },
@@ -530,6 +513,23 @@
         "LONGITUDE": -95.513482,
         "LATITUDE": 29.704503,
         "KeyMap": "530G",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29734263,
+        "Agency": "P",
+        "Address": "5851 DOLORES ST",
+        "CrossStreet": "BLK FOUNTAIN VIEW DR",
+        "CALL_TIME": 1752801240000,
+        "IncidentType": "CRASH/MINOR/FSGI",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "18F63N",
+        "LONGITUDE": -95.481948,
+        "LATITUDE": 29.734263,
+        "KeyMap": "491X",
         "CombinedResponse": "P"
       }
     },
