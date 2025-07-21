@@ -93,18 +93,103 @@
   "features": [
     {
       "attributes": {
-        "UID": 29743752,
+        "UID": 29764748,
         "Agency": "F",
-        "Address": "HAYES RD",
-        "CrossStreet": "BLK OLYMPIA DR",
-        "CALL_TIME": 1753090620000,
+        "Address": "BERING DR",
+        "CrossStreet": "BLK TANGLEWOOD PARK ST",
+        "CALL_TIME": 1753091220000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A002,M062",
+        "LONGITUDE": -95.48032,
+        "LATITUDE": 29.764748,
+        "KeyMap": "491K",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29740002,
+        "Agency": "F",
+        "Address": "OWENS ST",
+        "CrossStreet": "BLK MIDWAY BLVD",
+        "CALL_TIME": 1753091160000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "M083",
-        "LONGITUDE": -95.576292,
-        "LATITUDE": 29.743752,
-        "KeyMap": "489T",
+        "Units": "A023",
+        "LONGITUDE": -95.262666,
+        "LATITUDE": 29.740002,
+        "KeyMap": "495U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29953506,
+        "Agency": "F",
+        "Address": "MILLS RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1753091160000,
+        "IncidentType": "WOODS ON FIRE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E096",
+        "LONGITUDE": -95.546692,
+        "LATITUDE": 29.953506,
+        "KeyMap": "370J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29689122,
+        "Agency": "P",
+        "Address": "5199 BEECHNUT ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1753091040000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "15E27C,15E15C",
+        "LONGITUDE": -95.467857,
+        "LATITUDE": 29.689122,
+        "KeyMap": "531Q",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29846825,
+        "Agency": "F",
+        "Address": "W TIDWELL RD",
+        "CrossStreet": "BLK LEXEN DR",
+        "CALL_TIME": 1753090920000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M067",
+        "LONGITUDE": -95.444828,
+        "LATITUDE": 29.846825,
+        "KeyMap": "452A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29690796,
+        "Agency": "F",
+        "Address": "COOK RD",
+        "CrossStreet": "BLK WHITE CAP LN",
+        "CALL_TIME": 1753090800000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E076",
+        "LONGITUDE": -95.595932,
+        "LATITUDE": 29.690796,
+        "KeyMap": "529J",
         "CombinedResponse": "F"
       }
     },
@@ -127,35 +212,18 @@
     },
     {
       "attributes": {
-        "UID": 29851687,
+        "UID": 29743752,
         "Agency": "F",
-        "Address": "EASTEX FWY OB",
-        "CrossStreet": "BLK KINKAID ST",
-        "CALL_TIME": 1753090380000,
+        "Address": "HAYES RD",
+        "CrossStreet": "BLK OLYMPIA DR",
+        "CALL_TIME": 1753090620000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A034",
-        "LONGITUDE": -95.333011,
-        "LATITUDE": 29.851687,
-        "KeyMap": "454B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29850022,
-        "Agency": "F",
-        "Address": "FS032 TIDWELL RD",
-        "CrossStreet": "BLK MESA DR",
-        "CALL_TIME": 1753090380000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E032,A056",
-        "LONGITUDE": -95.265719,
-        "LATITUDE": 29.850022,
-        "KeyMap": "455C",
+        "Units": "M083",
+        "LONGITUDE": -95.576292,
+        "LATITUDE": 29.743752,
+        "KeyMap": "489T",
         "CombinedResponse": "F"
       }
     },
@@ -173,6 +241,23 @@
         "LONGITUDE": -95.357144,
         "LATITUDE": 29.76457,
         "KeyMap": "493M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29850022,
+        "Agency": "F",
+        "Address": "FS032 TIDWELL RD",
+        "CrossStreet": "BLK MESA DR",
+        "CALL_TIME": 1753090380000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E032,A056",
+        "LONGITUDE": -95.265719,
+        "LATITUDE": 29.850022,
+        "KeyMap": "455C",
         "CombinedResponse": "F"
       }
     },
@@ -219,8 +304,8 @@
         "CALL_TIME": 1753089000000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A051,M060",
+        "NO_UNITS": 1,
+        "Units": "M060",
         "LONGITUDE": -95.510149,
         "LATITUDE": 29.71304,
         "KeyMap": "530C",
@@ -242,6 +327,23 @@
         "LATITUDE": 29.82008,
         "KeyMap": "456N",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29774733,
+        "Agency": "P",
+        "Address": "1510 STUDEMONT ST",
+        "CrossStreet": "BLK KATY FWY IB",
+        "CALL_TIME": 1753088880000,
+        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "2A55N",
+        "LONGITUDE": -95.390247,
+        "LATITUDE": 29.774733,
+        "KeyMap": "493E",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -484,23 +586,6 @@
     },
     {
       "attributes": {
-        "UID": 29705752,
-        "Agency": "F",
-        "Address": "HOLCOMBE BLVD",
-        "CrossStreet": "BLK CAMBRIDGE ST",
-        "CALL_TIME": 1753083600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A033",
-        "LONGITUDE": -95.391496,
-        "LATITUDE": 29.705752,
-        "KeyMap": "533E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29733555,
         "Agency": "F",
         "Address": "S DAIRY ASHFORD RD",
@@ -514,23 +599,6 @@
         "LATITUDE": 29.733555,
         "KeyMap": "488V",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29741025,
-        "Agency": "P",
-        "Address": "4795 WESTHEIMER RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1753069020000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "1A59N",
-        "LONGITUDE": -95.457718,
-        "LATITUDE": 29.741025,
-        "KeyMap": "491V",
-        "CombinedResponse": "P"
       }
     },
     {
