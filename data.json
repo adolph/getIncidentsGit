@@ -93,35 +93,69 @@
   "features": [
     {
       "attributes": {
-        "UID": 29723845,
+        "UID": 29743752,
         "Agency": "F",
-        "Address": "ALMEDA RD",
-        "CrossStreet": "BLK SOUTHMORE BLVD",
-        "CALL_TIME": 1753089720000,
+        "Address": "HAYES RD",
+        "CrossStreet": "BLK OLYMPIA DR",
+        "CALL_TIME": 1753090620000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E007",
-        "LONGITUDE": -95.378383,
-        "LATITUDE": 29.723845,
-        "KeyMap": "533B",
+        "Units": "M083",
+        "LONGITUDE": -95.576292,
+        "LATITUDE": 29.743752,
+        "KeyMap": "489T",
         "CombinedResponse": "F"
       }
     },
     {
       "attributes": {
-        "UID": 29725293,
+        "UID": 29987404,
         "Agency": "F",
-        "Address": "HILLCROFT AVE",
-        "CrossStreet": "BLK WESTPARK DR",
-        "CALL_TIME": 1753089720000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "Address": "N TERMINAL RD",
+        "CrossStreet": "BLK UNKNOWN",
+        "CALL_TIME": 1753090620000,
+        "IncidentType": "CK FOR FIRE AT TERMINAL",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E051",
-        "LONGITUDE": -95.501083,
-        "LATITUDE": 29.725293,
-        "KeyMap": "490Z",
+        "Units": "E063",
+        "LONGITUDE": -95.341357,
+        "LATITUDE": 29.987404,
+        "KeyMap": "334W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29851687,
+        "Agency": "F",
+        "Address": "EASTEX FWY OB",
+        "CrossStreet": "BLK KINKAID ST",
+        "CALL_TIME": 1753090380000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A034",
+        "LONGITUDE": -95.333011,
+        "LATITUDE": 29.851687,
+        "KeyMap": "454B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29850022,
+        "Agency": "F",
+        "Address": "FS032 TIDWELL RD",
+        "CrossStreet": "BLK MESA DR",
+        "CALL_TIME": 1753090380000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E032,A056",
+        "LONGITUDE": -95.265719,
+        "LATITUDE": 29.850022,
+        "KeyMap": "455C",
         "CombinedResponse": "F"
       }
     },
@@ -131,7 +165,7 @@
         "Agency": "F",
         "Address": "JPC N SAN JACINTO ST",
         "CrossStreet": "BLK ALLEN ST",
-        "CALL_TIME": 1753089660000,
+        "CALL_TIME": 1753090380000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -144,18 +178,18 @@
     },
     {
       "attributes": {
-        "UID": 29767654,
+        "UID": 29725293,
         "Agency": "F",
-        "Address": "MARKET ST",
-        "CrossStreet": "BLK DWIGHT ST",
-        "CALL_TIME": 1753089540000,
-        "IncidentType": "FIRE EVENT",
+        "Address": "HILLCROFT AVE",
+        "CrossStreet": "BLK WESTPARK DR",
+        "CALL_TIME": 1753089720000,
+        "IncidentType": "EMERGENCY BLS RESPONSE",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E044",
-        "LONGITUDE": -95.204441,
-        "LATITUDE": 29.767654,
-        "KeyMap": "496M",
+        "Units": "A060",
+        "LONGITUDE": -95.501083,
+        "LATITUDE": 29.725293,
+        "KeyMap": "490Z",
         "CombinedResponse": "F"
       }
     },
@@ -168,45 +202,11 @@
         "CALL_TIME": 1753089480000,
         "IncidentType": "HOUSE FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 4,
-        "Units": "E052,A052,M029,L061",
+        "NO_UNITS": 3,
+        "Units": "A052,E052,M029",
         "LONGITUDE": -95.236287,
         "LATITUDE": 29.645532,
         "KeyMap": "576E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29679397,
-        "Agency": "F",
-        "Address": "CONCOURSE DR",
-        "CrossStreet": "BLK LANSDALE DR",
-        "CALL_TIME": 1753089060000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M073,E073",
-        "LONGITUDE": -95.556008,
-        "LATITUDE": 29.679397,
-        "KeyMap": "529R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29706413,
-        "Agency": "F",
-        "Address": "TAMPA ST",
-        "CrossStreet": "BLK SEDALIA ST",
-        "CALL_TIME": 1753089000000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E025",
-        "LONGITUDE": -95.374207,
-        "LATITUDE": 29.706413,
-        "KeyMap": "533F",
         "CombinedResponse": "F"
       }
     },
@@ -236,8 +236,8 @@
         "CALL_TIME": 1753088880000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E045,A032",
+        "NO_UNITS": 1,
+        "Units": "A032",
         "LONGITUDE": -95.239512,
         "LATITUDE": 29.82008,
         "KeyMap": "456N",
@@ -344,23 +344,6 @@
         "LATITUDE": 29.669065,
         "KeyMap": "533Z",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29698916,
-        "Agency": "P",
-        "Address": "2800 OLD SPANISH TRL",
-        "CrossStreet": "BLK BURGESS ST",
-        "CALL_TIME": 1753087500000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "10H72N",
-        "LONGITUDE": -95.386623,
-        "LATITUDE": 29.698916,
-        "KeyMap": "533J",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -480,23 +463,6 @@
         "LATITUDE": 29.737551,
         "KeyMap": "490V",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29709158,
-        "Agency": "F",
-        "Address": "BLACK ST",
-        "CrossStreet": "BLK BROCK ST",
-        "CALL_TIME": 1753084800000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M018",
-        "LONGITUDE": -95.321526,
-        "LATITUDE": 29.709158,
-        "KeyMap": "534G",
-        "CombinedResponse": "F"
       }
     },
     {
