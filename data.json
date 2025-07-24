@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29717740,
+        "UID": 29616494,
         "Agency": "F",
-        "Address": "HARWIN DR",
-        "CrossStreet": "BLK BONHOMME RD",
-        "CALL_TIME": 1753349820000,
+        "Address": "FEATHERWOOD DR",
+        "CrossStreet": "BLK GULF FWY IB",
+        "CALL_TIME": 1753350420000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E070",
+        "LONGITUDE": -95.212492,
+        "LATITUDE": 29.616494,
+        "KeyMap": "576U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29730948,
+        "Agency": "F",
+        "Address": "WESTMINSTER PLAZA DR",
+        "CrossStreet": "BLK RICHMOND AVE",
+        "CALL_TIME": 1753350240000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E060",
-        "LONGITUDE": -95.512736,
-        "LATITUDE": 29.71774,
-        "KeyMap": "530C",
+        "Units": "A083",
+        "LONGITUDE": -95.595179,
+        "LATITUDE": 29.730948,
+        "KeyMap": "489W",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "BELLEFONTAINE ST",
         "CrossStreet": "BLK KIRBY DR",
-        "CALL_TIME": 1753349640000,
+        "CALL_TIME": 1753350180000,
         "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,6 +144,40 @@
     },
     {
       "attributes": {
+        "UID": 29703747,
+        "Agency": "F",
+        "Address": "VENTURA LN",
+        "CrossStreet": "BLK MILART ST",
+        "CALL_TIME": 1753350000000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M040",
+        "LONGITUDE": -95.340082,
+        "LATITUDE": 29.703747,
+        "KeyMap": "534J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29831775,
+        "Agency": "F",
+        "Address": "NORTH FWY IB",
+        "CrossStreet": "AIRLINE OBIB UTRN",
+        "CALL_TIME": 1753349940000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A031",
+        "LONGITUDE": -95.383669,
+        "LATITUDE": 29.831775,
+        "KeyMap": "453K",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29659079,
         "Agency": "F",
         "Address": "PHLOX ST",
@@ -134,28 +185,11 @@
         "CALL_TIME": 1753349460000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A055",
+        "NO_UNITS": 2,
+        "Units": "A055,E024",
         "LONGITUDE": -95.363265,
         "LATITUDE": 29.659079,
         "KeyMap": "573C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29561151,
-        "Agency": "F",
-        "Address": "RESEDA DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1753349400000,
-        "IncidentType": "TRASH FIRE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E094",
-        "LONGITUDE": -95.129448,
-        "LATITUDE": 29.561151,
-        "KeyMap": "618P",
         "CombinedResponse": "F"
       }
     },
@@ -185,28 +219,11 @@
         "CALL_TIME": 1753349160000,
         "IncidentType": "NON EMERGENCY RESPONSE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "M044,E044,L044",
+        "NO_UNITS": 1,
+        "Units": "M044",
         "LONGITUDE": -95.220357,
         "LATITUDE": 29.775758,
         "KeyMap": "496G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29863872,
-        "Agency": "F",
-        "Address": "INWOOD PARK DR",
-        "CrossStreet": "INWOOD PARK",
-        "CALL_TIME": 1753349160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A067",
-        "LONGITUDE": -95.455624,
-        "LATITUDE": 29.863872,
-        "KeyMap": "411Z",
         "CombinedResponse": "F"
       }
     },
@@ -304,8 +321,8 @@
         "CALL_TIME": 1753347960000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ008,A008",
+        "NO_UNITS": 1,
+        "Units": "SQ008",
         "LONGITUDE": -95.367726,
         "LATITUDE": 29.751774,
         "KeyMap": "493Q",
@@ -559,8 +576,8 @@
         "CALL_TIME": 1753322640000,
         "IncidentType": "CRASH/MAJOR/FATALITY",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 5,
-        "Units": "70Z73N,3Z04N,70Z67N,70Z69N,70Z91N",
+        "NO_UNITS": 3,
+        "Units": "70Z73N,70Z69N,70Z91N",
         "LONGITUDE": -95.300749,
         "LATITUDE": 29.686439,
         "KeyMap": "534R",
