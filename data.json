@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29757028,
+        "UID": 29759538,
         "Agency": "F",
-        "Address": "FANNIN ST",
-        "CrossStreet": "BLK MCKINNEY ST",
-        "CALL_TIME": 1753957260000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "PARK BAYOU DR",
+        "CrossStreet": "BLK WESTERLOCH DR",
+        "CALL_TIME": 1753958160000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E008",
-        "LONGITUDE": -95.363547,
-        "LATITUDE": 29.757028,
-        "KeyMap": "493Q",
+        "Units": "A090",
+        "LONGITUDE": -95.628349,
+        "LATITUDE": 29.759538,
+        "KeyMap": "488K",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29682077,
+        "Agency": "F",
+        "Address": "WESTRIDGE ST",
+        "CrossStreet": "BLK LANTERN POINT DR",
+        "CALL_TIME": 1753957980000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E021",
+        "LONGITUDE": -95.413758,
+        "LATITUDE": 29.682077,
+        "KeyMap": "532Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29728857,
+        "Agency": "F",
+        "Address": "US59IB-IH610IB S US 59 FWY",
+        "CrossStreet": "IH 610 EXIT RAMP",
+        "CALL_TIME": 1753957740000,
+        "IncidentType": "MOTOR VEHICLE INCIDENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "L034,A034,E034",
+        "LONGITUDE": -95.460234,
+        "LATITUDE": 29.728857,
+        "KeyMap": "491Z",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +148,7 @@
         "Agency": "F",
         "Address": "S DAIRY ASHFORD RD",
         "CrossStreet": "BLK HUNTINGTON VENTURE DR",
-        "CALL_TIME": 1753957020000,
+        "CALL_TIME": 1753957620000,
         "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,11 +161,45 @@
     },
     {
       "attributes": {
+        "UID": 29641817,
+        "Agency": "P",
+        "Address": "8703 TELEPHONE RD",
+        "CrossStreet": "BLK SANDGATE RD",
+        "CALL_TIME": 1753957560000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "23J59N",
+        "LONGITUDE": -95.288627,
+        "LATITUDE": 29.641817,
+        "KeyMap": "575E",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29757028,
+        "Agency": "F",
+        "Address": "FANNIN ST",
+        "CrossStreet": "BLK MCKINNEY ST",
+        "CALL_TIME": 1753957500000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E008",
+        "LONGITUDE": -95.363547,
+        "LATITUDE": 29.757028,
+        "KeyMap": "493Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29682077,
         "Agency": "F",
         "Address": "WESTRIDGE ST",
         "CrossStreet": "BLK LANTERN POINT DR",
-        "CALL_TIME": 1753957020000,
+        "CALL_TIME": 1753957440000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,23 +207,6 @@
         "LONGITUDE": -95.413758,
         "LATITUDE": 29.682077,
         "KeyMap": "532Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29872153,
-        "Agency": "F",
-        "Address": "N SHEPHERD DR",
-        "CrossStreet": "N IH45 HOVR",
-        "CALL_TIME": 1753956960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E067",
-        "LONGITUDE": -95.412468,
-        "LATITUDE": 29.872153,
-        "KeyMap": "412U",
         "CombinedResponse": "F"
       }
     },
@@ -207,40 +258,6 @@
         "LONGITUDE": -95.470213,
         "LATITUDE": 29.808897,
         "KeyMap": "451U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29709924,
-        "Agency": "F",
-        "Address": "BELLWOOD LN",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1753956780000,
-        "IncidentType": "APARTMENT FIRE",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 5,
-        "Units": "L051,M060,E010,E060,E051",
-        "LONGITUDE": -95.545866,
-        "LATITUDE": 29.709924,
-        "KeyMap": "530E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29623844,
-        "Agency": "F",
-        "Address": "SANDHURST DR",
-        "CrossStreet": "BLK RUSSELVILLE RD",
-        "CALL_TIME": 1753956540000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ046,A055",
-        "LONGITUDE": -95.344867,
-        "LATITUDE": 29.623844,
-        "KeyMap": "574N",
         "CombinedResponse": "F"
       }
     },
@@ -314,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29805639,
-        "Agency": "F",
-        "Address": "GALE ST",
-        "CrossStreet": "BLK IRVINGTON BLVD",
-        "CALL_TIME": 1753955760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A030",
-        "LONGITUDE": -95.363708,
-        "LATITUDE": 29.805639,
-        "KeyMap": "453U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29632896,
         "Agency": "F",
         "Address": "KNOTTY OAKS TRL",
@@ -399,23 +399,6 @@
     },
     {
       "attributes": {
-        "UID": 29606820,
-        "Agency": "F",
-        "Address": "CHASEWOOD DR",
-        "CrossStreet": "BLK BLUE RIDGE RD",
-        "CALL_TIME": 1753954020000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A082",
-        "LONGITUDE": -95.494119,
-        "LATITUDE": 29.60682,
-        "KeyMap": "571S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29732782,
         "Agency": "F",
         "Address": "MAIN ST",
@@ -445,23 +428,6 @@
         "LONGITUDE": -95.405271,
         "LATITUDE": 29.725634,
         "KeyMap": "492Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29820693,
-        "Agency": "F",
-        "Address": "RALSTON ST",
-        "CrossStreet": "BLK BENNINGTON ST",
-        "CALL_TIME": 1753953480000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A039",
-        "LONGITUDE": -95.333364,
-        "LATITUDE": 29.820693,
-        "KeyMap": "454P",
         "CombinedResponse": "F"
       }
     },
@@ -535,23 +501,6 @@
     },
     {
       "attributes": {
-        "UID": 29708580,
-        "Agency": "F",
-        "Address": "ROGERDALE RD",
-        "CrossStreet": "BLK TAJ DR",
-        "CALL_TIME": 1753952280000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A010",
-        "LONGITUDE": -95.560348,
-        "LATITUDE": 29.70858,
-        "KeyMap": "529G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29944002,
         "Agency": "F",
         "Address": "GREENSPOINT DR",
@@ -610,8 +559,8 @@
         "CALL_TIME": 1753949460000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "20G86N,20G31N",
+        "NO_UNITS": 1,
+        "Units": "20G31N",
         "LONGITUDE": -95.592498,
         "LATITUDE": 29.73072,
         "KeyMap": "489W",
@@ -627,29 +576,12 @@
         "CALL_TIME": 1753944000000,
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 3,
-        "Units": "L055,E035,E055",
+        "NO_UNITS": 2,
+        "Units": "E055,L055",
         "LONGITUDE": -95.361409,
         "LATITUDE": 29.662138,
         "KeyMap": "533Y",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29773430,
-        "Agency": "P",
-        "Address": "880 S SH 6",
-        "CrossStreet": "BLK ADDICKS HOWELL RD",
-        "CALL_TIME": 1753942620000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "20G38N",
-        "LONGITUDE": -95.643225,
-        "LATITUDE": 29.77343,
-        "KeyMap": "488E",
-        "CombinedResponse": "P"
       }
     },
     {
