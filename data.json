@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29683198,
+        "UID": 29752957,
         "Agency": "F",
-        "Address": "CLOVERDALE ST",
-        "CrossStreet": "BLK BEVLYN DR",
-        "CALL_TIME": 1756203720000,
-        "IncidentType": "GAS LEAKING",
+        "Address": "POST OAK BLVD",
+        "CrossStreet": "BLK GARRETTSON LN",
+        "CALL_TIME": 1756204080000,
+        "IncidentType": "ELEVATOR RESCUE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "HR011,E028,L028",
+        "LONGITUDE": -95.459342,
+        "LATITUDE": 29.752957,
+        "KeyMap": "491R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29839358,
+        "Agency": "F",
+        "Address": "YALE ST",
+        "CrossStreet": "BLK DELZ ST",
+        "CALL_TIME": 1756203780000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A031,M067",
+        "LONGITUDE": -95.402905,
+        "LATITUDE": 29.839358,
+        "KeyMap": "452H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29681229,
+        "Agency": "F",
+        "Address": "GULF FWY IB",
+        "CrossStreet": null,
+        "CALL_TIME": 1756203780000,
+        "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E021",
-        "LONGITUDE": -95.429132,
-        "LATITUDE": 29.683198,
-        "KeyMap": "532P",
+        "Units": "E029",
+        "LONGITUDE": -95.272863,
+        "LATITUDE": 29.681229,
+        "KeyMap": "535T",
         "CombinedResponse": "F"
       }
     },
@@ -122,23 +156,6 @@
         "LONGITUDE": -95.48271,
         "LATITUDE": 29.754719,
         "KeyMap": "491P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29752957,
-        "Agency": "F",
-        "Address": "POST OAK BLVD",
-        "CrossStreet": "BLK GARRETTSON LN",
-        "CALL_TIME": 1756203600000,
-        "IncidentType": "ELEVATOR RESCUE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "HR011,E028,L028",
-        "LONGITUDE": -95.459342,
-        "LATITUDE": 29.752957,
-        "KeyMap": "491R",
         "CombinedResponse": "F"
       }
     },
@@ -178,40 +195,6 @@
     },
     {
       "attributes": {
-        "UID": 29681229,
-        "Agency": "F",
-        "Address": "GULF FWY IB",
-        "CrossStreet": null,
-        "CALL_TIME": 1756203420000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E029",
-        "LONGITUDE": -95.272863,
-        "LATITUDE": 29.681229,
-        "KeyMap": "535T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29839358,
-        "Agency": "F",
-        "Address": "YALE ST",
-        "CrossStreet": "BLK DELZ ST",
-        "CALL_TIME": 1756203300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A031,M067",
-        "LONGITUDE": -95.402905,
-        "LATITUDE": 29.839358,
-        "KeyMap": "452H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29833128,
         "Agency": "F",
         "Address": "IH45IB-AIRLINE DR N IH 45 FWY",
@@ -219,8 +202,8 @@
         "CALL_TIME": 1756203060000,
         "IncidentType": "PEDESTRIAN",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E031,M031,L031",
+        "NO_UNITS": 2,
+        "Units": "M031,L031",
         "LONGITUDE": -95.384459,
         "LATITUDE": 29.833128,
         "KeyMap": "453K",
@@ -406,8 +389,8 @@
         "CALL_TIME": 1756196880000,
         "IncidentType": "CRASH/MINOR/DISTURBANCE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "17E30N,17E43N",
+        "NO_UNITS": 1,
+        "Units": "17E43N",
         "LONGITUDE": -95.508675,
         "LATITUDE": 29.679525,
         "KeyMap": "530V",
