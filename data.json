@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29853057,
+        "UID": 29666203,
         "Agency": "F",
-        "Address": "MESA DR",
-        "CrossStreet": "BLK STERLINGSHIRE ST",
-        "CALL_TIME": 1757320620000,
+        "Address": "S POST OAK RD",
+        "CrossStreet": "BLK WILLOWBEND BLVD",
+        "CALL_TIME": 1757321220000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A032,M043",
-        "LONGITUDE": -95.262377,
-        "LATITUDE": 29.853057,
-        "KeyMap": "455C",
+        "NO_UNITS": 1,
+        "Units": "A037",
+        "LONGITUDE": -95.463446,
+        "LATITUDE": 29.666203,
+        "KeyMap": "531Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29960811,
+        "Agency": "F",
+        "Address": "WILLOW CHASE DR",
+        "CrossStreet": "BLK WILLOW PLACE DR N",
+        "CALL_TIME": 1757321160000,
+        "IncidentType": "CHECK WATER FLOW ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E096",
+        "LONGITUDE": -95.552485,
+        "LATITUDE": 29.960811,
+        "KeyMap": "369M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 30050816,
+        "Agency": "F",
+        "Address": "KINGWOOD DR",
+        "CrossStreet": "BLK KINGS CROSSING DR",
+        "CALL_TIME": 1757321100000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E102",
+        "LONGITUDE": -95.181841,
+        "LATITUDE": 30.050816,
+        "KeyMap": "337B",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +148,7 @@
         "Agency": "F",
         "Address": "W LITTLE YORK RD",
         "CrossStreet": "BLK GREEN MEADOW LN",
-        "CALL_TIME": 1757320560000,
+        "CALL_TIME": 1757321040000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,18 +161,18 @@
     },
     {
       "attributes": {
-        "UID": 29960811,
+        "UID": 29853057,
         "Agency": "F",
-        "Address": "WILLOW CHASE DR",
-        "CrossStreet": "BLK WILLOW PLACE DR N",
-        "CALL_TIME": 1757320440000,
-        "IncidentType": "CHECK WATER FLOW ALARM",
+        "Address": "MESA DR",
+        "CrossStreet": "BLK STERLINGSHIRE ST",
+        "CALL_TIME": 1757320980000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E096",
-        "LONGITUDE": -95.552485,
-        "LATITUDE": 29.960811,
-        "KeyMap": "369M",
+        "NO_UNITS": 2,
+        "Units": "A032,M043",
+        "LONGITUDE": -95.262377,
+        "LATITUDE": 29.853057,
+        "KeyMap": "455C",
         "CombinedResponse": "F"
       }
     },
@@ -236,8 +270,8 @@
         "CALL_TIME": 1757319420000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A076,M073",
+        "NO_UNITS": 1,
+        "Units": "M073",
         "LONGITUDE": -95.599639,
         "LATITUDE": 29.677179,
         "KeyMap": "528V",
@@ -254,7 +288,7 @@
         "IncidentType": "MOTOR VEHICLE INCIDENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
-        "Units": "E006,E011",
+        "Units": "A011,E011",
         "LONGITUDE": -95.418066,
         "LATITUDE": 29.777561,
         "KeyMap": "492G",
@@ -348,23 +382,6 @@
     },
     {
       "attributes": {
-        "UID": 29727167,
-        "Agency": "F",
-        "Address": "ROSEWOOD ST",
-        "CrossStreet": "BLK EMANCIPATION AVE",
-        "CALL_TIME": 1757318580000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A016",
-        "LONGITUDE": -95.372934,
-        "LATITUDE": 29.727167,
-        "KeyMap": "493Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29675872,
         "Agency": "F",
         "Address": "N BRAESWOOD BLVD",
@@ -395,23 +412,6 @@
         "LATITUDE": 29.746704,
         "KeyMap": "493P",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29659822,
-        "Agency": "F",
-        "Address": "MALLOW ST",
-        "CrossStreet": "BLK FERDINAND ST",
-        "CALL_TIME": 1757317920000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M024",
-        "LONGITUDE": -95.366032,
-        "LATITUDE": 29.659822,
-        "KeyMap": "573C",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -513,74 +513,6 @@
         "LONGITUDE": -95.575645,
         "LATITUDE": 29.785242,
         "KeyMap": "489B",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29850547,
-        "Agency": "F",
-        "Address": "W TIDWELL RD",
-        "CrossStreet": "BLK LUMBERDALE RD",
-        "CALL_TIME": 1757314380000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A004",
-        "LONGITUDE": -95.481389,
-        "LATITUDE": 29.850547,
-        "KeyMap": "451B",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29697902,
-        "Agency": "F",
-        "Address": "SCHROEDER RD",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1757314200000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A026",
-        "LONGITUDE": -95.341001,
-        "LATITUDE": 29.697902,
-        "KeyMap": "534J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29803940,
-        "Agency": "F",
-        "Address": "W CAVALCADE ST",
-        "CrossStreet": "BLK AIRLINE DR",
-        "CALL_TIME": 1757313720000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M009",
-        "LONGITUDE": -95.380229,
-        "LATITUDE": 29.80394,
-        "KeyMap": "453T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29643717,
-        "Agency": "P",
-        "Address": "12318 KITTY BROOK DR",
-        "CrossStreet": "BLK SECRETARIAT LN",
-        "CALL_TIME": 1757285940000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "17E45N",
-        "LONGITUDE": -95.512519,
-        "LATITUDE": 29.643717,
-        "KeyMap": "570G",
         "CombinedResponse": "P"
       }
     }
