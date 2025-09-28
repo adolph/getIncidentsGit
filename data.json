@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29732580,
+        "UID": 29844163,
         "Agency": "F",
-        "Address": "NORFOLK ST",
-        "CrossStreet": "BLK S SHEPHERD DR",
-        "CALL_TIME": 1759052640000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "W DONOVAN ST",
+        "CrossStreet": "BLK SHEPHERD HEIGHTS DR",
+        "CALL_TIME": 1759053720000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A031,M034",
+        "LONGITUDE": -95.407309,
+        "LATITUDE": 29.844163,
+        "KeyMap": "452H",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29655109,
+        "Agency": "F",
+        "Address": "GULF FWY IB",
+        "CrossStreet": "AIRPORT OBIB UTRN",
+        "CALL_TIME": 1759053660000,
+        "IncidentType": "PEDESTRIAN",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E052,A052",
+        "LONGITUDE": -95.252601,
+        "LATITUDE": 29.655109,
+        "KeyMap": "575D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29849707,
+        "Agency": "F",
+        "Address": "KNOX ST",
+        "CrossStreet": "BLK PAUL QUINN ST",
+        "CALL_TIME": 1759052880000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E007",
-        "LONGITUDE": -95.407391,
-        "LATITUDE": 29.73258,
-        "KeyMap": "492Z",
+        "Units": "M067",
+        "LONGITUDE": -95.423015,
+        "LATITUDE": 29.849707,
+        "KeyMap": "452C",
         "CombinedResponse": "F"
       }
     },
@@ -156,23 +190,6 @@
         "LONGITUDE": -95.357678,
         "LATITUDE": 29.725302,
         "KeyMap": "533D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29849707,
-        "Agency": "F",
-        "Address": "KNOX ST",
-        "CrossStreet": "BLK PAUL QUINN ST",
-        "CALL_TIME": 1759051320000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M067",
-        "LONGITUDE": -95.423015,
-        "LATITUDE": 29.849707,
-        "KeyMap": "452C",
         "CombinedResponse": "F"
       }
     },
@@ -246,23 +263,6 @@
     },
     {
       "attributes": {
-        "UID": 29599689,
-        "Agency": "F",
-        "Address": "S SAM HOUSTON PKWY E",
-        "CrossStreet": null,
-        "CALL_TIME": 1759050960000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E055",
-        "LONGITUDE": -95.338676,
-        "LATITUDE": 29.599689,
-        "KeyMap": "574W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29603933,
         "Agency": "F",
         "Address": "PECAN HILL CT",
@@ -280,23 +280,6 @@
     },
     {
       "attributes": {
-        "UID": 29768268,
-        "Agency": "F",
-        "Address": "FLOYD ST",
-        "CrossStreet": "BLK PARKER ST",
-        "CALL_TIME": 1759050780000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A011",
-        "LONGITUDE": -95.407406,
-        "LATITUDE": 29.768268,
-        "KeyMap": "492M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29723088,
         "Agency": "P",
         "Address": "7400 WESTPARK DR",
@@ -304,29 +287,12 @@
         "CALL_TIME": 1759050480000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "18F05N,18F04N,18F64N",
+        "NO_UNITS": 2,
+        "Units": "18F05N,18F04N",
         "LONGITUDE": -95.500133,
         "LATITUDE": 29.723088,
         "KeyMap": "530D",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29681299,
-        "Agency": "F",
-        "Address": "SOUTHVILLE ST",
-        "CrossStreet": "BLK CRESTMONT ST",
-        "CALL_TIME": 1759050300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A040",
-        "LONGITUDE": -95.330563,
-        "LATITUDE": 29.681299,
-        "KeyMap": "534T",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -389,28 +355,11 @@
         "CALL_TIME": 1759049160000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 4,
-        "Units": "M094,A093,E070,AS036",
+        "NO_UNITS": 3,
+        "Units": "M094,A093,AS036",
         "LONGITUDE": -95.21287,
         "LATITUDE": 29.597835,
         "KeyMap": "576Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29701646,
-        "Agency": "F",
-        "Address": "SCOTTCREST DR",
-        "CrossStreet": "SOUTHEAST TC TER",
-        "CALL_TIME": 1759049160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A046",
-        "LONGITUDE": -95.358205,
-        "LATITUDE": 29.701646,
-        "KeyMap": "533M",
         "CombinedResponse": "F"
       }
     },
@@ -603,23 +552,6 @@
     },
     {
       "attributes": {
-        "UID": 29751879,
-        "Agency": "F",
-        "Address": "AUSTIN ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1759047360000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A007",
-        "LONGITUDE": -95.363821,
-        "LATITUDE": 29.751879,
-        "KeyMap": "493Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29748103,
         "Agency": "P",
         "Address": "2700BLK MCKINNEY ST",
@@ -667,23 +599,6 @@
         "LATITUDE": 29.603332,
         "KeyMap": "576X",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29735879,
-        "Agency": "F",
-        "Address": "CROSSVIEW DR",
-        "CrossStreet": "BLK CLARKCREST ST",
-        "CALL_TIME": 1759046460000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A028",
-        "LONGITUDE": -95.51971,
-        "LATITUDE": 29.735879,
-        "KeyMap": "490U",
-        "CombinedResponse": "F"
       }
     },
     {
@@ -802,23 +717,6 @@
         "LONGITUDE": -95.508537,
         "LATITUDE": 29.666559,
         "KeyMap": "530Z",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29731503,
-        "Agency": "P",
-        "Address": "5999 RICHMOND AVE",
-        "CrossStreet": null,
-        "CALL_TIME": 1759035120000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "18F21K",
-        "LONGITUDE": -95.484205,
-        "LATITUDE": 29.731503,
-        "KeyMap": "491X",
         "CombinedResponse": "P"
       }
     },
