@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29784393,
+        "UID": 29714709,
         "Agency": "F",
-        "Address": "KATY FWY IB",
-        "CrossStreet": "BLK GRISBY RD",
-        "CALL_TIME": 1759314120000,
-        "IncidentType": "CHECK PATIENT*",
+        "Address": "LA PORTE RD",
+        "CrossStreet": "BLK ROOSEVELT ST",
+        "CALL_TIME": 1759314660000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 4,
+        "Units": "AS036,A023,E023,M029",
+        "LONGITUDE": -95.275297,
+        "LATITUDE": 29.714709,
+        "KeyMap": "535F",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29761266,
+        "Agency": "F",
+        "Address": "TRAVIS ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1759314480000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E090",
-        "LONGITUDE": -95.650175,
-        "LATITUDE": 29.784393,
-        "KeyMap": "487D",
+        "Units": "E008",
+        "LONGITUDE": -95.362791,
+        "LATITUDE": 29.761266,
+        "KeyMap": "493L",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "DUNLAP ST",
         "CrossStreet": "BLK FONMEADOW DR",
-        "CALL_TIME": 1759314060000,
+        "CALL_TIME": 1759314480000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,11 +144,45 @@
     },
     {
       "attributes": {
+        "UID": 29629450,
+        "Agency": "F",
+        "Address": "FONDREN RD",
+        "CrossStreet": "BLK W OREM DR",
+        "CALL_TIME": 1759314420000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E082",
+        "LONGITUDE": -95.507413,
+        "LATITUDE": 29.62945,
+        "KeyMap": "570M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29600464,
+        "Agency": "F",
+        "Address": "S SAM HOUSTON PKWY E",
+        "CrossStreet": "MONROE ENTR RAMP",
+        "CALL_TIME": 1759314420000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M070,E061",
+        "LONGITUDE": -95.279847,
+        "LATITUDE": 29.600464,
+        "KeyMap": "575X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29797356,
         "Agency": "F",
         "Address": "STUDEWOOD ST",
         "CrossStreet": "BLK RALFALLEN ST",
-        "CALL_TIME": 1759314060000,
+        "CALL_TIME": 1759314240000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +190,57 @@
         "LONGITUDE": -95.387951,
         "LATITUDE": 29.797356,
         "KeyMap": "453W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29844901,
+        "Agency": "F",
+        "Address": "ANTOINE DR",
+        "CrossStreet": "BLK W TIDWELL RD",
+        "CALL_TIME": 1759314180000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M050",
+        "LONGITUDE": -95.473255,
+        "LATITUDE": 29.844901,
+        "KeyMap": "451C",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29852160,
+        "Agency": "F",
+        "Address": "CHICKASAW LN",
+        "CrossStreet": "BLK GESSNER RD",
+        "CALL_TIME": 1759314180000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A077",
+        "LONGITUDE": -95.54285,
+        "LATITUDE": 29.85216,
+        "KeyMap": "450A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29784393,
+        "Agency": "F",
+        "Address": "KATY FWY IB",
+        "CrossStreet": "BLK GRISBY RD",
+        "CALL_TIME": 1759314120000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E090,A083",
+        "LONGITUDE": -95.650175,
+        "LATITUDE": 29.784393,
+        "KeyMap": "487D",
         "CombinedResponse": "F"
       }
     },
@@ -156,23 +258,6 @@
         "LONGITUDE": -95.455606,
         "LATITUDE": 29.887439,
         "KeyMap": "411R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29852160,
-        "Agency": "F",
-        "Address": "CHICKASAW LN",
-        "CrossStreet": "BLK GESSNER RD",
-        "CALL_TIME": 1759313760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A077",
-        "LONGITUDE": -95.54285,
-        "LATITUDE": 29.85216,
-        "KeyMap": "450A",
         "CombinedResponse": "F"
       }
     },
@@ -207,40 +292,6 @@
         "LONGITUDE": -95.578114,
         "LATITUDE": 29.727856,
         "KeyMap": "489X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29763507,
-        "Agency": "F",
-        "Address": "CRESTWOOD DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1759313580000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A011",
-        "LONGITUDE": -95.427316,
-        "LATITUDE": 29.763507,
-        "KeyMap": "492K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29844901,
-        "Agency": "F",
-        "Address": "ANTOINE DR",
-        "CrossStreet": "BLK W TIDWELL RD",
-        "CALL_TIME": 1759313160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M050",
-        "LONGITUDE": -95.473255,
-        "LATITUDE": 29.844901,
-        "KeyMap": "451C",
         "CombinedResponse": "F"
       }
     },
@@ -297,40 +348,6 @@
     },
     {
       "attributes": {
-        "UID": 30069238,
-        "Agency": "F",
-        "Address": "ELM GROVE CT",
-        "CrossStreet": "BLK BROOKDALE DR",
-        "CALL_TIME": 1759311900000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M102",
-        "LONGITUDE": -95.197258,
-        "LATITUDE": 30.069238,
-        "KeyMap": "297S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29830271,
-        "Agency": "F",
-        "Address": "BONITA ST",
-        "CrossStreet": "BLK E CROSSTIMBERS ST",
-        "CALL_TIME": 1759311840000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A039",
-        "LONGITUDE": -95.323088,
-        "LATITUDE": 29.830271,
-        "KeyMap": "454L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29747629,
         "Agency": "F",
         "Address": "AVENUE O",
@@ -360,23 +377,6 @@
         "LONGITUDE": -95.53087,
         "LATITUDE": 29.662997,
         "KeyMap": "530X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29623643,
-        "Agency": "F",
-        "Address": "ROANDALE DR",
-        "CrossStreet": "BLK GREENSHIRE DR",
-        "CALL_TIME": 1759310880000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A055",
-        "LONGITUDE": -95.351476,
-        "LATITUDE": 29.623643,
-        "KeyMap": "573R",
         "CombinedResponse": "F"
       }
     },
@@ -497,23 +497,6 @@
         "LATITUDE": 29.599806,
         "KeyMap": "571Y",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29769980,
-        "Agency": "F",
-        "Address": "EIH10IB-MCKEE E IH 10 FWY",
-        "CrossStreet": "HARDY ST",
-        "CALL_TIME": 1759306980000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "HM1022",
-        "LONGITUDE": -95.35213,
-        "LATITUDE": 29.76998,
-        "KeyMap": "493H",
-        "CombinedResponse": "F"
       }
     },
     {
