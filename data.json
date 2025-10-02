@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29720278,
+        "UID": 29650895,
         "Agency": "F",
-        "Address": "MARTIN LUTHER KING BLVD",
-        "CrossStreet": "BLK UNIVERSITY DR",
-        "CALL_TIME": 1759394820000,
+        "Address": "RUE ST",
+        "CrossStreet": "BLK CLEARWAY DR",
+        "CALL_TIME": 1759395660000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A035,M055",
+        "LONGITUDE": -95.334918,
+        "LATITUDE": 29.650895,
+        "KeyMap": "574A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29673022,
+        "Agency": "F",
+        "Address": "W SAM HOUSTON PKWY S",
+        "CrossStreet": "BLK SUGAR BRANCH DR",
+        "CALL_TIME": 1759395540000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A025",
-        "LONGITUDE": -95.338528,
-        "LATITUDE": 29.720278,
-        "KeyMap": "534A",
+        "Units": "M073",
+        "LONGITUDE": -95.559948,
+        "LATITUDE": 29.673022,
+        "KeyMap": "529U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29714416,
+        "Agency": "F",
+        "Address": "SAVOY DR",
+        "CrossStreet": "BLK SOUTHWEST FWY OB",
+        "CALL_TIME": 1759395540000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A028",
+        "LONGITUDE": -95.503324,
+        "LATITUDE": 29.714416,
+        "KeyMap": "530D",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +148,7 @@
         "Agency": "F",
         "Address": "ASHFORD POINT DR",
         "CrossStreet": "BLK ASHBURNHAM DR",
-        "CALL_TIME": 1759394700000,
+        "CALL_TIME": 1759395540000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -131,7 +165,7 @@
         "Agency": "F",
         "Address": "RAMPART ST",
         "CrossStreet": "BLK GLENMONT DR",
-        "CALL_TIME": 1759394700000,
+        "CALL_TIME": 1759395300000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +173,23 @@
         "LONGITUDE": -95.48901,
         "LATITUDE": 29.72096,
         "KeyMap": "531A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29720278,
+        "Agency": "F",
+        "Address": "MARTIN LUTHER KING BLVD",
+        "CrossStreet": "BLK UNIVERSITY DR",
+        "CALL_TIME": 1759394820000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A025",
+        "LONGITUDE": -95.338528,
+        "LATITUDE": 29.720278,
+        "KeyMap": "534A",
         "CombinedResponse": "F"
       }
     },
@@ -212,23 +263,6 @@
     },
     {
       "attributes": {
-        "UID": 29561904,
-        "Agency": "F",
-        "Address": "SILVERPINES RD",
-        "CrossStreet": "BLK RESEDA DR",
-        "CALL_TIME": 1759393260000,
-        "IncidentType": "CHECK PATIENT*",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E072",
-        "LONGITUDE": -95.117682,
-        "LATITUDE": 29.561904,
-        "KeyMap": "618Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29878895,
         "Agency": "F",
         "Address": "MODLEY CT",
@@ -241,23 +275,6 @@
         "LONGITUDE": -95.418903,
         "LATITUDE": 29.878895,
         "KeyMap": "412Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29716344,
-        "Agency": "F",
-        "Address": "GULFTON ST",
-        "CrossStreet": "BLK WESTWARD ST",
-        "CALL_TIME": 1759392240000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ028",
-        "LONGITUDE": -95.491187,
-        "LATITUDE": 29.716344,
-        "KeyMap": "531A",
         "CombinedResponse": "F"
       }
     },
@@ -365,23 +382,6 @@
     },
     {
       "attributes": {
-        "UID": 29753023,
-        "Agency": "F",
-        "Address": "JEFFERSON ST",
-        "CrossStreet": "BLK LOUISIANA ST",
-        "CALL_TIME": 1759391040000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A009",
-        "LONGITUDE": -95.37301,
-        "LATITUDE": 29.753023,
-        "KeyMap": "493Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29692433,
         "Agency": "F",
         "Address": "LONG DR",
@@ -406,8 +406,8 @@
         "CALL_TIME": 1759390440000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A007,SQ008",
+        "NO_UNITS": 1,
+        "Units": "SQ008",
         "LONGITUDE": -95.381497,
         "LATITUDE": 29.754505,
         "KeyMap": "493P",
@@ -450,23 +450,6 @@
     },
     {
       "attributes": {
-        "UID": 29679266,
-        "Agency": "F",
-        "Address": "ANZIO RD",
-        "CrossStreet": "BLK MARTIN LUTHER KING BLVD",
-        "CALL_TIME": 1759389960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A035",
-        "LONGITUDE": -95.339216,
-        "LATITUDE": 29.679266,
-        "KeyMap": "534S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29668965,
         "Agency": "F",
         "Address": "SANDPIPER DR",
@@ -497,23 +480,6 @@
         "LATITUDE": 29.628462,
         "KeyMap": "571K",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29679141,
-        "Agency": "F",
-        "Address": "BRAESVALLEY DR",
-        "CrossStreet": "BLK RENWICK DR",
-        "CALL_TIME": 1759386360000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "SQ082",
-        "LONGITUDE": -95.483475,
-        "LATITUDE": 29.679141,
-        "KeyMap": "531T",
-        "CombinedResponse": "F"
       }
     },
     {
