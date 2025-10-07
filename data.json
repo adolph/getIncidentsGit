@@ -93,18 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29950611,
+        "UID": 29796345,
         "Agency": "F",
-        "Address": "GREENS RD",
-        "CrossStreet": "BLK WAYFOREST DR",
-        "CALL_TIME": 1759815120000,
+        "Address": "SHADYVILLA LN",
+        "CrossStreet": "BLK SHADY VILLA HAVEN",
+        "CALL_TIME": 1759815840000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E038",
+        "LONGITUDE": -95.481785,
+        "LATITUDE": 29.796345,
+        "KeyMap": "451X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29737646,
+        "Agency": "F",
+        "Address": "WESTHEIMER RD",
+        "CrossStreet": "BLK MARILEE LN",
+        "CALL_TIME": 1759815780000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E074,M074",
-        "LONGITUDE": -95.399187,
-        "LATITUDE": 29.950611,
-        "KeyMap": "373N",
+        "NO_UNITS": 1,
+        "Units": "E028",
+        "LONGITUDE": -95.497083,
+        "LATITUDE": 29.737646,
+        "KeyMap": "491S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29800409,
+        "Agency": "F",
+        "Address": "CAVALCADE ST",
+        "CrossStreet": "BLK HOFFMAN ST",
+        "CALL_TIME": 1759815660000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A039",
+        "LONGITUDE": -95.314583,
+        "LATITUDE": 29.800409,
+        "KeyMap": "454Y",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +148,7 @@
         "Agency": "F",
         "Address": "GULF FWY",
         "CrossStreet": "BLK TALLYHO RD",
-        "CALL_TIME": 1759815060000,
+        "CALL_TIME": 1759815600000,
         "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -122,6 +156,23 @@
         "LONGITUDE": -95.255728,
         "LATITUDE": 29.658437,
         "KeyMap": "575D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29950611,
+        "Agency": "F",
+        "Address": "GREENS RD",
+        "CrossStreet": "BLK WAYFOREST DR",
+        "CALL_TIME": 1759815540000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E074,M074",
+        "LONGITUDE": -95.399187,
+        "LATITUDE": 29.950611,
+        "KeyMap": "373N",
         "CombinedResponse": "F"
       }
     },
@@ -168,8 +219,8 @@
         "CALL_TIME": 1759814880000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M050,A004",
+        "NO_UNITS": 1,
+        "Units": "A004",
         "LONGITUDE": -95.489354,
         "LATITUDE": 29.88549,
         "KeyMap": "411N",
@@ -219,8 +270,8 @@
         "CALL_TIME": 1759814580000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E104,M101",
+        "NO_UNITS": 1,
+        "Units": "M101",
         "LONGITUDE": -95.247623,
         "LATITUDE": 30.034964,
         "KeyMap": "336E",
@@ -263,40 +314,6 @@
     },
     {
       "attributes": {
-        "UID": 29783897,
-        "Agency": "P",
-        "Address": "10099 KATY FWY IB",
-        "CrossStreet": "BLK GESSNER RD",
-        "CALL_TIME": 1759814280000,
-        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "4F30N",
-        "LONGITUDE": -95.54388,
-        "LATITUDE": 29.783897,
-        "KeyMap": "490A",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29696914,
-        "Agency": "F",
-        "Address": "KIRBY DR",
-        "CrossStreet": "BLK MAIN ST",
-        "CALL_TIME": 1759814220000,
-        "IncidentType": "GAS LEAK",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 2,
-        "Units": "E033,A033",
-        "LONGITUDE": -95.417785,
-        "LATITUDE": 29.696914,
-        "KeyMap": "532L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29613297,
         "Agency": "F",
         "Address": "CATALINA LN",
@@ -314,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29883161,
-        "Agency": "F",
-        "Address": "W GULF BANK RD",
-        "CrossStreet": "BLK STREAMSIDE DR",
-        "CALL_TIME": 1759813620000,
-        "IncidentType": "APARTMENT FIRE",
-        "ALARM_LEVEL": 1,
-        "NO_UNITS": 1,
-        "Units": "E067",
-        "LONGITUDE": -95.46586,
-        "LATITUDE": 29.883161,
-        "KeyMap": "411Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 30047585,
         "Agency": "F",
         "Address": "BEAVER LODGE DR",
@@ -343,23 +343,6 @@
         "LONGITUDE": -95.159053,
         "LATITUDE": 30.047585,
         "KeyMap": "337D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29740893,
-        "Agency": "F",
-        "Address": "MAIN ST",
-        "CrossStreet": "BLK FRANCIS ST",
-        "CALL_TIME": 1759813380000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A007,SQ008",
-        "LONGITUDE": -95.377739,
-        "LATITUDE": 29.740893,
-        "KeyMap": "493T",
         "CombinedResponse": "F"
       }
     },
@@ -569,23 +552,6 @@
     },
     {
       "attributes": {
-        "UID": 29767316,
-        "Agency": "F",
-        "Address": "GILLESPIE ST",
-        "CrossStreet": "BLK BAYOU ST",
-        "CALL_TIME": 1759809540000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M019",
-        "LONGITUDE": -95.338387,
-        "LATITUDE": 29.767316,
-        "KeyMap": "494J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29953002,
         "Agency": "F",
         "Address": "WAYFOREST DR",
@@ -671,23 +637,6 @@
     },
     {
       "attributes": {
-        "UID": 29740539,
-        "Agency": "P",
-        "Address": "5200 WESTHEIMER RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1759802580000,
-        "IncidentType": "CRASH/MINOR",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "18F44N",
-        "LONGITUDE": -95.466952,
-        "LATITUDE": 29.740539,
-        "KeyMap": "491U",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29807616,
         "Agency": "P",
         "Address": "5209 LOCKWOOD DR",
@@ -705,18 +654,18 @@
     },
     {
       "attributes": {
-        "UID": 29672769,
+        "UID": 29801044,
         "Agency": "P",
-        "Address": "9700 COURT GLEN DR",
-        "CrossStreet": "BLK LARKDALE DR",
-        "CALL_TIME": 1759797840000,
+        "Address": "1704 HEIGHTS BLVD",
+        "CrossStreet": "BLK E 18TH ST",
+        "CALL_TIME": 1759791480000,
         "IncidentType": "CRASH/MINOR/FSGI",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "19G47N",
-        "LONGITUDE": -95.583025,
-        "LATITUDE": 29.672769,
-        "KeyMap": "529T",
+        "Units": "2A57N",
+        "LONGITUDE": -95.397876,
+        "LATITUDE": 29.801044,
+        "KeyMap": "453S",
         "CombinedResponse": "P"
       }
     },
