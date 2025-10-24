@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29644559,
+        "UID": 29769213,
         "Agency": "F",
-        "Address": "REDFORD ST",
-        "CrossStreet": "BLK GULF FWY IB",
-        "CALL_TIME": 1761283320000,
+        "Address": "CENTER ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1761283860000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E052",
-        "LONGITUDE": -95.242437,
-        "LATITUDE": 29.644559,
-        "KeyMap": "576E",
+        "Units": "E006",
+        "LONGITUDE": -95.385507,
+        "LATITUDE": 29.769213,
+        "KeyMap": "493E",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29803199,
+        "Agency": "F",
+        "Address": "HEIGHTS BLVD",
+        "CrossStreet": "BLK W 20TH ST",
+        "CALL_TIME": 1761283740000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E015",
+        "LONGITUDE": -95.397943,
+        "LATITUDE": 29.803199,
+        "KeyMap": "453S",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "BRAES BAYOU DR",
         "CrossStreet": "BLK S BRAESWOOD BLVD",
-        "CALL_TIME": 1761283320000,
+        "CALL_TIME": 1761283680000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -131,7 +148,7 @@
         "Agency": "F",
         "Address": "SANDS POINT DR",
         "CrossStreet": "BLK BURNING TREE DR",
-        "CALL_TIME": 1761283200000,
+        "CALL_TIME": 1761283620000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +156,23 @@
         "LONGITUDE": -95.533231,
         "LATITUDE": 29.714557,
         "KeyMap": "530B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29829370,
+        "Agency": "F",
+        "Address": "PITNER RD",
+        "CrossStreet": "BLK HOLLISTER ST",
+        "CALL_TIME": 1761283620000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A005",
+        "LONGITUDE": -95.504569,
+        "LATITUDE": 29.82937,
+        "KeyMap": "450M",
         "CombinedResponse": "F"
       }
     },
@@ -156,40 +190,6 @@
         "LONGITUDE": -95.415054,
         "LATITUDE": 29.678243,
         "KeyMap": "532U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29829370,
-        "Agency": "F",
-        "Address": "PITNER RD",
-        "CrossStreet": "BLK HOLLISTER ST",
-        "CALL_TIME": 1761283140000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A005",
-        "LONGITUDE": -95.504569,
-        "LATITUDE": 29.82937,
-        "KeyMap": "450M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29803199,
-        "Agency": "F",
-        "Address": "HEIGHTS BLVD",
-        "CrossStreet": "BLK W 20TH ST",
-        "CALL_TIME": 1761283140000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E015",
-        "LONGITUDE": -95.397943,
-        "LATITUDE": 29.803199,
-        "KeyMap": "453S",
         "CombinedResponse": "F"
       }
     },
@@ -297,23 +297,6 @@
     },
     {
       "attributes": {
-        "UID": 29746228,
-        "Agency": "F",
-        "Address": "SIH45IB-CRAWFORD S IH 45 FWY",
-        "CrossStreet": "S IH 45 IB ENTR RAMP",
-        "CALL_TIME": 1761282420000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E018,L018,M018",
-        "LONGITUDE": -95.365765,
-        "LATITUDE": 29.746228,
-        "KeyMap": "493Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29747607,
         "Agency": "F",
         "Address": "BRIAR FOREST DR",
@@ -326,6 +309,23 @@
         "LONGITUDE": -95.569377,
         "LATITUDE": 29.747607,
         "KeyMap": "489Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29746228,
+        "Agency": "F",
+        "Address": "SIH45IB-CRAWFORD S IH 45 FWY",
+        "CrossStreet": "S IH 45 IB ENTR RAMP",
+        "CALL_TIME": 1761282420000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "E018,L018,M018",
+        "LONGITUDE": -95.365765,
+        "LATITUDE": 29.746228,
+        "KeyMap": "493Q",
         "CombinedResponse": "F"
       }
     },
@@ -457,8 +457,8 @@
         "CALL_TIME": 1761280620000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "4F33N,4F30N",
+        "NO_UNITS": 1,
+        "Units": "4F33N",
         "LONGITUDE": -95.5446,
         "LATITUDE": 29.790849,
         "KeyMap": "450W",
@@ -467,19 +467,19 @@
     },
     {
       "attributes": {
-        "UID": 29820080,
-        "Agency": "F",
-        "Address": "BEAUMONT HWY",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1761280320000,
-        "IncidentType": "EMS EVENT",
+        "UID": 29824166,
+        "Agency": "P",
+        "Address": "6300 JIM ST",
+        "CrossStreet": "BLK LUMBERDALE RD",
+        "CALL_TIME": 1761280080000,
+        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A032",
-        "LONGITUDE": -95.239512,
-        "LATITUDE": 29.82008,
-        "KeyMap": "456N",
-        "CombinedResponse": "F"
+        "Units": "3B30N",
+        "LONGITUDE": -95.481303,
+        "LATITUDE": 29.824166,
+        "KeyMap": "451K",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -501,18 +501,18 @@
     },
     {
       "attributes": {
-        "UID": 29824166,
+        "UID": 29771200,
         "Agency": "P",
-        "Address": "6300 JIM ST",
-        "CrossStreet": "BLK LUMBERDALE RD",
-        "CALL_TIME": 1761280080000,
-        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
+        "Address": "IH10OB-NORMANDY 12804 E IH 10 FWY",
+        "CrossStreet": "NORMANDY ENTR RAMP",
+        "CALL_TIME": 1761279840000,
+        "IncidentType": "CRASH/MAJOR/FSRA",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "3B30N",
-        "LONGITUDE": -95.481303,
-        "LATITUDE": 29.824166,
-        "KeyMap": "451K",
+        "Units": "9C40F",
+        "LONGITUDE": -95.20611,
+        "LATITUDE": 29.7712,
+        "KeyMap": "496H",
         "CombinedResponse": "P"
       }
     },
@@ -688,57 +688,6 @@
     },
     {
       "attributes": {
-        "UID": 29656155,
-        "Agency": "P",
-        "Address": "8801 MARTIN LUTHER KING BLVD",
-        "CrossStreet": null,
-        "CALL_TIME": 1761274920000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "14D26N",
-        "LONGITUDE": -95.336448,
-        "LATITUDE": 29.656155,
-        "KeyMap": "574A",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29638578,
-        "Agency": "F",
-        "Address": "DUNLAP ST",
-        "CrossStreet": "BLK ALANI ST",
-        "CALL_TIME": 1761273900000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M080",
-        "LONGITUDE": -95.495402,
-        "LATITUDE": 29.638578,
-        "KeyMap": "571E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29872056,
-        "Agency": "F",
-        "Address": "MESA DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1761272460000,
-        "IncidentType": "EMERGENCY BLS RESPONSE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A041",
-        "LONGITUDE": -95.262549,
-        "LATITUDE": 29.872056,
-        "KeyMap": "415U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29967771,
         "Agency": "P",
         "Address": "18598 TOMBALL PKWY OB",
@@ -751,23 +700,6 @@
         "LONGITUDE": -95.556619,
         "LATITUDE": 29.967771,
         "KeyMap": "369H",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29723133,
-        "Agency": "P",
-        "Address": "2111 SOUTHMORE BLVD",
-        "CrossStreet": "BLK SOUTH FWY OB",
-        "CALL_TIME": 1761258120000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "10H20E",
-        "LONGITUDE": -95.378485,
-        "LATITUDE": 29.723133,
-        "KeyMap": "533B",
         "CombinedResponse": "P"
       }
     },
