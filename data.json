@@ -93,6 +93,57 @@
   "features": [
     {
       "attributes": {
+        "UID": 29804976,
+        "Agency": "F",
+        "Address": "WIRT RD",
+        "CrossStreet": "BLK AMELIA RD",
+        "CALL_TIME": 1761554460000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A005",
+        "LONGITUDE": -95.484886,
+        "LATITUDE": 29.804976,
+        "KeyMap": "451T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29673973,
+        "Agency": "F",
+        "Address": "VAN FLEET ST",
+        "CrossStreet": "BLK CRESTMONT ST",
+        "CALL_TIME": 1761554460000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "A026,M036,E035",
+        "LONGITUDE": -95.331191,
+        "LATITUDE": 29.673973,
+        "KeyMap": "534T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29674755,
+        "Agency": "F",
+        "Address": "LAKEHURST DR",
+        "CrossStreet": "BLK BROCKLEY LN",
+        "CALL_TIME": 1761554460000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 3,
+        "Units": "A036,L026,M029",
+        "LONGITUDE": -95.295282,
+        "LATITUDE": 29.674755,
+        "KeyMap": "535S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29700443,
         "Agency": "F",
         "Address": "BUTLER BLVD",
@@ -122,23 +173,6 @@
         "LONGITUDE": -95.433073,
         "LATITUDE": 29.820671,
         "KeyMap": "452P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29674755,
-        "Agency": "F",
-        "Address": "LAKEHURST DR",
-        "CrossStreet": "BLK BROCKLEY LN",
-        "CALL_TIME": 1761554160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A036,L026,M029",
-        "LONGITUDE": -95.295282,
-        "LATITUDE": 29.674755,
-        "KeyMap": "535S",
         "CombinedResponse": "F"
       }
     },
@@ -178,23 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29673973,
-        "Agency": "F",
-        "Address": "VAN FLEET ST",
-        "CrossStreet": "BLK CRESTMONT ST",
-        "CALL_TIME": 1761554100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A026,M036,E035",
-        "LONGITUDE": -95.331191,
-        "LATITUDE": 29.673973,
-        "KeyMap": "534T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29725752,
         "Agency": "F",
         "Address": "BISSONNET ST",
@@ -207,23 +224,6 @@
         "LONGITUDE": -95.395487,
         "LATITUDE": 29.725752,
         "KeyMap": "493W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29718640,
-        "Agency": "F",
-        "Address": "IH45IB-TELEPHONE S IH 45 FWY",
-        "CrossStreet": "WAYSIDE ENTR RAMP",
-        "CALL_TIME": 1761553980000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A040,E040,E018",
-        "LONGITUDE": -95.32096,
-        "LATITUDE": 29.71864,
-        "KeyMap": "534C",
         "CombinedResponse": "F"
       }
     },
@@ -253,8 +253,8 @@
         "CALL_TIME": 1761553680000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E026,M040",
+        "NO_UNITS": 1,
+        "Units": "M040",
         "LONGITUDE": -95.307721,
         "LATITUDE": 29.685909,
         "KeyMap": "534R",
@@ -314,23 +314,6 @@
     },
     {
       "attributes": {
-        "UID": 29710930,
-        "Agency": "F",
-        "Address": "RANCHESTER DR",
-        "CrossStreet": "BLK BELLWOOD LN",
-        "CALL_TIME": 1761552780000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A010",
-        "LONGITUDE": -95.545511,
-        "LATITUDE": 29.71093,
-        "KeyMap": "530E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29760281,
         "Agency": "F",
         "Address": "RUIZ ST",
@@ -343,6 +326,23 @@
         "LONGITUDE": -95.351907,
         "LATITUDE": 29.760281,
         "KeyMap": "493M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29710930,
+        "Agency": "F",
+        "Address": "RANCHESTER DR",
+        "CrossStreet": "BLK BELLWOOD LN",
+        "CALL_TIME": 1761552780000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A010",
+        "LONGITUDE": -95.545511,
+        "LATITUDE": 29.71093,
+        "KeyMap": "530E",
         "CombinedResponse": "F"
       }
     },
@@ -440,8 +440,8 @@
         "CALL_TIME": 1761551100000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ046,A046",
+        "NO_UNITS": 1,
+        "Units": "SQ046",
         "LONGITUDE": -95.364605,
         "LATITUDE": 29.686305,
         "KeyMap": "533Q",
@@ -569,18 +569,18 @@
     },
     {
       "attributes": {
-        "UID": 29803892,
+        "UID": 29734651,
         "Agency": "F",
-        "Address": "IH45OB-CAVALCADE ST N IH 45 FWY",
-        "CrossStreet": "CAVALCADE ENTR RAMP",
-        "CALL_TIME": 1761548880000,
-        "IncidentType": "VEHICLE ON FIRE",
+        "Address": "MEADOWGLEN LN",
+        "CrossStreet": "BLK S KIRKWOOD RD",
+        "CALL_TIME": 1761548280000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E058",
-        "LONGITUDE": -95.37234,
-        "LATITUDE": 29.803892,
-        "KeyMap": "453U",
+        "Units": "A083",
+        "LONGITUDE": -95.585089,
+        "LATITUDE": 29.734651,
+        "KeyMap": "489S",
         "CombinedResponse": "F"
       }
     },
@@ -599,23 +599,6 @@
         "LATITUDE": 29.65431,
         "KeyMap": "575C",
         "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29734651,
-        "Agency": "F",
-        "Address": "MEADOWGLEN LN",
-        "CrossStreet": "BLK S KIRKWOOD RD",
-        "CALL_TIME": 1761548280000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A083",
-        "LONGITUDE": -95.585089,
-        "LATITUDE": 29.734651,
-        "KeyMap": "489S",
-        "CombinedResponse": "F"
       }
     },
     {
