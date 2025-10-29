@@ -93,18 +93,86 @@
   "features": [
     {
       "attributes": {
-        "UID": 29704240,
+        "UID": 29715672,
         "Agency": "F",
-        "Address": "BELLAIRE BLVD",
-        "CrossStreet": "BLK LARKWOOD DR",
-        "CALL_TIME": 1761731220000,
-        "IncidentType": "CHECK PATIENT*",
+        "Address": "REGENCY SQUARE BLVD",
+        "CrossStreet": "BLK STONEY BROOK DR",
+        "CALL_TIME": 1761732000000,
+        "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
         "Units": "E051",
-        "LONGITUDE": -95.50664,
-        "LATITUDE": 29.70424,
-        "KeyMap": "530H",
+        "LONGITUDE": -95.506912,
+        "LATITUDE": 29.715672,
+        "KeyMap": "530D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29745687,
+        "Agency": "F",
+        "Address": "DEL MONTE DR",
+        "CrossStreet": "BLK S VOSS RD",
+        "CALL_TIME": 1761732000000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "SQ028,A002",
+        "LONGITUDE": -95.49778,
+        "LATITUDE": 29.745687,
+        "KeyMap": "490R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29857629,
+        "Agency": "F",
+        "Address": "PARKER RD",
+        "CrossStreet": "BLK KELBURN DR",
+        "CALL_TIME": 1761731760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M056",
+        "LONGITUDE": -95.300055,
+        "LATITUDE": 29.857629,
+        "KeyMap": "414Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29952237,
+        "Agency": "F",
+        "Address": "GREENS RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1761731760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A064",
+        "LONGITUDE": -95.304314,
+        "LATITUDE": 29.952237,
+        "KeyMap": "375N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29958367,
+        "Agency": "F",
+        "Address": "KUYKENDAHL RD",
+        "CrossStreet": "BLK RUSHCREEK DR",
+        "CALL_TIME": 1761731640000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A084,M074",
+        "LONGITUDE": -95.419305,
+        "LATITUDE": 29.958367,
+        "KeyMap": "372L",
         "CombinedResponse": "F"
       }
     },
@@ -117,28 +185,11 @@
         "CALL_TIME": 1761731100000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "E027,E041,A041",
+        "NO_UNITS": 2,
+        "Units": "E041,E027",
         "LONGITUDE": -95.271247,
         "LATITUDE": 29.776712,
         "KeyMap": "495G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29958367,
-        "Agency": "F",
-        "Address": "KUYKENDAHL RD",
-        "CrossStreet": "BLK RUSHCREEK DR",
-        "CALL_TIME": 1761731100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A084,M058",
-        "LONGITUDE": -95.419305,
-        "LATITUDE": 29.958367,
-        "KeyMap": "372L",
         "CombinedResponse": "F"
       }
     },
@@ -195,23 +246,6 @@
     },
     {
       "attributes": {
-        "UID": 29672755,
-        "Agency": "F",
-        "Address": "BRISCOE ST",
-        "CrossStreet": "BLK ROCK ROSE ST",
-        "CALL_TIME": 1761730140000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ046,A046",
-        "LONGITUDE": -95.359491,
-        "LATITUDE": 29.672755,
-        "KeyMap": "533V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29662997,
         "Agency": "F",
         "Address": "WESTBRAE PKWY",
@@ -229,6 +263,23 @@
     },
     {
       "attributes": {
+        "UID": 29672755,
+        "Agency": "F",
+        "Address": "BRISCOE ST",
+        "CrossStreet": "BLK ROCK ROSE ST",
+        "CALL_TIME": 1761730140000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "SQ046,A046",
+        "LONGITUDE": -95.359491,
+        "LATITUDE": 29.672755,
+        "KeyMap": "533V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29824410,
         "Agency": "F",
         "Address": "CASTOR ST",
@@ -241,23 +292,6 @@
         "LONGITUDE": -95.388158,
         "LATITUDE": 29.82441,
         "KeyMap": "453J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29788118,
-        "Agency": "F",
-        "Address": "JENSEN DR",
-        "CrossStreet": "BLK JEWEL ST",
-        "CALL_TIME": 1761729300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A012,M019",
-        "LONGITUDE": -95.341978,
-        "LATITUDE": 29.788118,
-        "KeyMap": "494A",
         "CombinedResponse": "F"
       }
     },
@@ -292,23 +326,6 @@
         "LONGITUDE": -95.395518,
         "LATITUDE": 29.706214,
         "KeyMap": "533E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29937396,
-        "Agency": "F",
-        "Address": "CROSSWINDS DR",
-        "CrossStreet": "BLK N SAM HOUSTON PKWY E",
-        "CALL_TIME": 1761728100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M074",
-        "LONGITUDE": -95.313482,
-        "LATITUDE": 29.937396,
-        "KeyMap": "374U",
         "CombinedResponse": "F"
       }
     },
@@ -416,23 +433,6 @@
     },
     {
       "attributes": {
-        "UID": 29831430,
-        "Agency": "F",
-        "Address": "BARNEY RD",
-        "CrossStreet": "BLK BINGLE RD",
-        "CALL_TIME": 1761723720000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M050",
-        "LONGITUDE": -95.489654,
-        "LATITUDE": 29.83143,
-        "KeyMap": "451J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29751778,
         "Agency": "P",
         "Address": "402 GRAY ST",
@@ -457,8 +457,8 @@
         "CALL_TIME": 1761707820000,
         "IncidentType": "TRAFFIC HAZARD/NON URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "4F39N,66M36",
+        "NO_UNITS": 1,
+        "Units": "4F39N",
         "LONGITUDE": -95.659323,
         "LATITUDE": 29.78535,
         "KeyMap": "487D",
