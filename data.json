@@ -93,18 +93,69 @@
   "features": [
     {
       "attributes": {
-        "UID": 29790844,
+        "UID": 29762291,
         "Agency": "F",
-        "Address": "WESTVIEW DR",
-        "CrossStreet": "BLK CONRAD SAUER DR",
-        "CALL_TIME": 1762770720000,
+        "Address": "EXIT 47A N IH 45 FWY",
+        "CrossStreet": "MCKINNEY EXIT RAMP",
+        "CALL_TIME": 1762771380000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E019,E009",
+        "LONGITUDE": -95.372675,
+        "LATITUDE": 29.762291,
+        "KeyMap": "493L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29951343,
+        "Agency": "F",
+        "Address": "GREENS RD",
+        "CrossStreet": "BLK MILNER RD",
+        "CALL_TIME": 1762771380000,
+        "IncidentType": "AUTOMATIC ALARM",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E064",
+        "LONGITUDE": -95.341447,
+        "LATITUDE": 29.951343,
+        "KeyMap": "374N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29764570,
+        "Agency": "F",
+        "Address": "N SAN JACINTO ST",
+        "CrossStreet": "BLK ALLEN ST",
+        "CALL_TIME": 1762771380000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "A077",
-        "LONGITUDE": -95.545115,
-        "LATITUDE": 29.790844,
-        "KeyMap": "450W",
+        "Units": "A009",
+        "LONGITUDE": -95.357144,
+        "LATITUDE": 29.76457,
+        "KeyMap": "493M",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29786610,
+        "Agency": "F",
+        "Address": "WOODFOREST BLVD",
+        "CrossStreet": null,
+        "CALL_TIME": 1762771380000,
+        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E044",
+        "LONGITUDE": -95.218688,
+        "LATITUDE": 29.78661,
+        "KeyMap": "496C",
         "CombinedResponse": "F"
       }
     },
@@ -127,6 +178,23 @@
     },
     {
       "attributes": {
+        "UID": 29790844,
+        "Agency": "F",
+        "Address": "WESTVIEW DR",
+        "CrossStreet": "BLK CONRAD SAUER DR",
+        "CALL_TIME": 1762770720000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A077",
+        "LONGITUDE": -95.545115,
+        "LATITUDE": 29.790844,
+        "KeyMap": "450W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29648989,
         "Agency": "F",
         "Address": "GULF FWY OB",
@@ -144,40 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29951019,
-        "Agency": "F",
-        "Address": "GLENBOROUGH DR",
-        "CrossStreet": "BLK NORTHBOROUGH DR",
-        "CALL_TIME": 1762770600000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E084",
-        "LONGITUDE": -95.418209,
-        "LATITUDE": 29.951019,
-        "KeyMap": "372Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29731566,
-        "Agency": "F",
-        "Address": "SAGE RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1762770540000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E028,A028",
-        "LONGITUDE": -95.466619,
-        "LATITUDE": 29.731566,
-        "KeyMap": "491Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29817403,
         "Agency": "F",
         "Address": "EXIT 51 N IH 45 FWY",
@@ -186,27 +220,10 @@
         "IncidentType": "MOTOR VEHICLE ACCIDENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 7,
-        "Units": "E031,M031,L031,AS030,RE042,D031,A031",
+        "Units": "L031,M031,E031,D031,AS030,A031,HR011",
         "LONGITUDE": -95.377059,
         "LATITUDE": 29.817403,
         "KeyMap": "453P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29832476,
-        "Agency": "F",
-        "Address": "CLAY RD",
-        "CrossStreet": "BLK CAMPBELL RD",
-        "CALL_TIME": 1762770480000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E077",
-        "LONGITUDE": -95.529382,
-        "LATITUDE": 29.832476,
-        "KeyMap": "450F",
         "CombinedResponse": "F"
       }
     },
@@ -253,8 +270,8 @@
         "CALL_TIME": 1762768800000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A003,M006",
+        "NO_UNITS": 1,
+        "Units": "M006",
         "LONGITUDE": -95.444314,
         "LATITUDE": 29.736373,
         "KeyMap": "492S",
@@ -314,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29948932,
-        "Agency": "F",
-        "Address": "W GREENS RD",
-        "CrossStreet": "BLK DONNA DR",
-        "CALL_TIME": 1762766520000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M058",
-        "LONGITUDE": -95.426882,
-        "LATITUDE": 29.948932,
-        "KeyMap": "372P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29701989,
         "Agency": "F",
         "Address": "OLD SPANISH TRL",
@@ -365,23 +365,6 @@
     },
     {
       "attributes": {
-        "UID": 29767953,
-        "Agency": "F",
-        "Address": "COKE ST",
-        "CrossStreet": "BLK CARROLL OLIVER WAY",
-        "CALL_TIME": 1762764900000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M027",
-        "LONGITUDE": -95.318767,
-        "LATITUDE": 29.767953,
-        "KeyMap": "494L",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29760281,
         "Agency": "F",
         "Address": "RUIZ ST",
@@ -406,8 +389,8 @@
         "CALL_TIME": 1762763520000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "SQ028,A002,AS037",
+        "NO_UNITS": 1,
+        "Units": "SQ028",
         "LONGITUDE": -95.458957,
         "LATITUDE": 29.753184,
         "KeyMap": "491R",
@@ -424,7 +407,7 @@
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 10,
-        "Units": "E001,L033,E007,L007,E025,A025,HR011,E008,SQ008,E046",
+        "Units": "E025,L033,E001,L007,E007,A025,E008,E033,E046,RH008",
         "LONGITUDE": -95.374017,
         "LATITUDE": 29.720275,
         "KeyMap": "533B",
