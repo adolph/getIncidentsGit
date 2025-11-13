@@ -93,18 +93,18 @@
   "features": [
     {
       "attributes": {
-        "UID": 29687556,
+        "UID": 29776979,
         "Agency": "F",
-        "Address": "AMOS ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1763022960000,
-        "IncidentType": "EMS EVENT",
+        "Address": "THOMAS ST",
+        "CrossStreet": "BLK PASCHALL ST",
+        "CALL_TIME": 1763023620000,
+        "IncidentType": "AUTOMATIC ALARM",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ046,A046",
-        "LONGITUDE": -95.364096,
-        "LATITUDE": 29.687556,
-        "KeyMap": "533Q",
+        "NO_UNITS": 1,
+        "Units": "E009",
+        "LONGITUDE": -95.365141,
+        "LATITUDE": 29.776979,
+        "KeyMap": "493G",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +114,7 @@
         "Agency": "F",
         "Address": "OASIS PRK",
         "CrossStreet": "BLK OASIS PALM",
-        "CALL_TIME": 1763022900000,
+        "CALL_TIME": 1763023620000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -131,7 +131,7 @@
         "Agency": "F",
         "Address": "CHARLESTON PARK DR",
         "CrossStreet": "BLK MAIN ST OB",
-        "CALL_TIME": 1763022840000,
+        "CALL_TIME": 1763023260000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -139,6 +139,57 @@
         "LONGITUDE": -95.435759,
         "LATITUDE": 29.669219,
         "KeyMap": "532W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29740395,
+        "Agency": "F",
+        "Address": "BRIARWEST BLVD",
+        "CrossStreet": "BLK ASHFORD OAK DR",
+        "CALL_TIME": 1763023140000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A083",
+        "LONGITUDE": -95.614189,
+        "LATITUDE": 29.740395,
+        "KeyMap": "488U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29701803,
+        "Agency": "P",
+        "Address": "7000 GULF FWY OB",
+        "CrossStreet": null,
+        "CALL_TIME": 1763023080000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "13D42N",
+        "LONGITUDE": -95.295732,
+        "LATITUDE": 29.701803,
+        "KeyMap": "535J",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29687556,
+        "Agency": "F",
+        "Address": "AMOS ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1763022960000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A046",
+        "LONGITUDE": -95.364096,
+        "LATITUDE": 29.687556,
+        "KeyMap": "533Q",
         "CombinedResponse": "F"
       }
     },
@@ -212,23 +263,6 @@
     },
     {
       "attributes": {
-        "UID": 29886027,
-        "Agency": "F",
-        "Address": "WOODSMAN TRL",
-        "CrossStreet": "BLK WOODSMAN HEIGHTS DR",
-        "CALL_TIME": 1763022120000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E004",
-        "LONGITUDE": -95.49473,
-        "LATITUDE": 29.886027,
-        "KeyMap": "411N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29801681,
         "Agency": "F",
         "Address": "FRAWLEY ST",
@@ -287,8 +321,8 @@
         "CALL_TIME": 1763020980000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M050,A077",
+        "NO_UNITS": 1,
+        "Units": "A077",
         "LONGITUDE": -95.526348,
         "LATITUDE": 29.827326,
         "KeyMap": "450K",
@@ -373,7 +407,7 @@
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 10,
-        "Units": "M006,E008,L006,E007,E006,D006,E001,L008,RH008,CC015",
+        "Units": "M006,L008,L006,E007,E006,E008,E001,RH008,CC015,ARS764",
         "LONGITUDE": -95.387543,
         "LATITUDE": 29.75757,
         "KeyMap": "493N",
@@ -395,23 +429,6 @@
         "LATITUDE": 29.723152,
         "KeyMap": "488Y",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29845524,
-        "Agency": "P",
-        "Address": "1 TIDWELL RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1763016300000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "6B11N",
-        "LONGITUDE": -95.384436,
-        "LATITUDE": 29.845524,
-        "KeyMap": "453B",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -559,8 +576,8 @@
         "CALL_TIME": 1762999560000,
         "IncidentType": "CRASH/MINOR/FSGI",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "4F28N,4F23N",
+        "NO_UNITS": 1,
+        "Units": "4F28N",
         "LONGITUDE": -95.553882,
         "LATITUDE": 29.808553,
         "KeyMap": "449V",
