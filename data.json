@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29737920,
+        "UID": 29741428,
         "Agency": "F",
-        "Address": "CHIMNEY ROCK RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1763551920000,
+        "Address": "AVENUE L",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1763552460000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E020",
+        "LONGITUDE": -95.29375,
+        "LATITUDE": 29.741428,
+        "KeyMap": "495S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29820080,
+        "Agency": "F",
+        "Address": "BEAUMONT HWY",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1763552340000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A002,A051",
-        "LONGITUDE": -95.476578,
-        "LATITUDE": 29.73792,
-        "KeyMap": "491T",
+        "NO_UNITS": 1,
+        "Units": "A041",
+        "LONGITUDE": -95.239512,
+        "LATITUDE": 29.82008,
+        "KeyMap": "456N",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "GARDEN TRACE LN",
         "CrossStreet": "BLK NEW GARDEN VIEW LN",
-        "CALL_TIME": 1763551860000,
+        "CALL_TIME": 1763552160000,
         "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,45 +144,11 @@
     },
     {
       "attributes": {
-        "UID": 29777061,
-        "Agency": "F",
-        "Address": "KATY FWY IB",
-        "CrossStreet": null,
-        "CALL_TIME": 1763551860000,
-        "IncidentType": "MOTORCYCLE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E011,M062",
-        "LONGITUDE": -95.4096,
-        "LATITUDE": 29.777061,
-        "KeyMap": "492H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29744744,
-        "Agency": "F",
-        "Address": "CITYWEST BLVD",
-        "CrossStreet": "BLK CITYWAY DR",
-        "CALL_TIME": 1763551680000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E069",
-        "LONGITUDE": -95.561031,
-        "LATITUDE": 29.744744,
-        "KeyMap": "489U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29671223,
         "Agency": "F",
         "Address": "KIPP WAY DR",
         "CrossStreet": "BLK KINNEY RD",
-        "CALL_TIME": 1763551680000,
+        "CALL_TIME": 1763552100000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -173,6 +156,40 @@
         "LONGITUDE": -95.570773,
         "LATITUDE": 29.671223,
         "KeyMap": "529U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29737920,
+        "Agency": "F",
+        "Address": "CHIMNEY ROCK RD",
+        "CrossStreet": null,
+        "CALL_TIME": 1763552100000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A002,A051",
+        "LONGITUDE": -95.476578,
+        "LATITUDE": 29.73792,
+        "KeyMap": "491T",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29887511,
+        "Agency": "F",
+        "Address": "YELLOW PINE DR",
+        "CrossStreet": "BLK KINDLETREE DR",
+        "CALL_TIME": 1763552040000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A004",
+        "LONGITUDE": -95.498712,
+        "LATITUDE": 29.887511,
+        "KeyMap": "411J",
         "CombinedResponse": "F"
       }
     },
@@ -195,57 +212,6 @@
     },
     {
       "attributes": {
-        "UID": 29820080,
-        "Agency": "F",
-        "Address": "BEAUMONT HWY",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1763551560000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A041",
-        "LONGITUDE": -95.239512,
-        "LATITUDE": 29.82008,
-        "KeyMap": "456N",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29887511,
-        "Agency": "F",
-        "Address": "YELLOW PINE DR",
-        "CrossStreet": "BLK KINDLETREE DR",
-        "CALL_TIME": 1763551560000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A004",
-        "LONGITUDE": -95.498712,
-        "LATITUDE": 29.887511,
-        "KeyMap": "411J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29777061,
-        "Agency": "P",
-        "Address": "4799 KATY FWY IB",
-        "CrossStreet": null,
-        "CALL_TIME": 1763551440000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "2A57N",
-        "LONGITUDE": -95.4096,
-        "LATITUDE": 29.777061,
-        "KeyMap": "492H",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29763874,
         "Agency": "F",
         "Address": "BAKER ST",
@@ -259,6 +225,23 @@
         "LATITUDE": 29.763874,
         "KeyMap": "493M",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29777061,
+        "Agency": "P",
+        "Address": "4799 KATY FWY IB",
+        "CrossStreet": null,
+        "CALL_TIME": 1763551440000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "2A57N,2A35N",
+        "LONGITUDE": -95.4096,
+        "LATITUDE": 29.777061,
+        "KeyMap": "492H",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -287,8 +270,8 @@
         "CALL_TIME": 1763550960000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M006,A008",
+        "NO_UNITS": 3,
+        "Units": "M006,A008,AS037",
         "LONGITUDE": -95.422863,
         "LATITUDE": 29.747687,
         "KeyMap": "492P",
@@ -355,8 +338,8 @@
         "CALL_TIME": 1763550480000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E075,A076",
+        "NO_UNITS": 1,
+        "Units": "A076",
         "LONGITUDE": -95.621085,
         "LATITUDE": 29.730445,
         "KeyMap": "488Y",
@@ -525,8 +508,8 @@
         "CALL_TIME": 1763546940000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M009,AS027",
+        "NO_UNITS": 1,
+        "Units": "M009",
         "LONGITUDE": -95.357144,
         "LATITUDE": 29.76457,
         "KeyMap": "493M",
@@ -581,23 +564,6 @@
         "LONGITUDE": -95.19689,
         "LATITUDE": 29.767998,
         "KeyMap": "497J",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29735337,
-        "Agency": "P",
-        "Address": "4999 HIDALGO ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1763546100000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "18F64N",
-        "LONGITUDE": -95.460616,
-        "LATITUDE": 29.735337,
-        "KeyMap": "491U",
         "CombinedResponse": "P"
       }
     },
