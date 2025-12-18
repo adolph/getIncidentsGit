@@ -93,6 +93,74 @@
   "features": [
     {
       "attributes": {
+        "UID": 29674983,
+        "Agency": "F",
+        "Address": "BISSONNET ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1766033400000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E073",
+        "LONGITUDE": -95.555152,
+        "LATITUDE": 29.674983,
+        "KeyMap": "529V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29732991,
+        "Agency": "F",
+        "Address": "BREMOND ST",
+        "CrossStreet": "BLK LUCINDA ST",
+        "CALL_TIME": 1766033400000,
+        "IncidentType": "FIRE EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E018",
+        "LONGITUDE": -95.348019,
+        "LATITUDE": 29.732991,
+        "KeyMap": "493Z",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29761400,
+        "Agency": "F",
+        "Address": "MAIN ST",
+        "CrossStreet": "BLK PRAIRIE ST",
+        "CALL_TIME": 1766033400000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A009",
+        "LONGITUDE": -95.361526,
+        "LATITUDE": 29.7614,
+        "KeyMap": "493L",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29734275,
+        "Agency": "F",
+        "Address": "DOLORES ST",
+        "CrossStreet": "BLK BERING DR",
+        "CALL_TIME": 1766033400000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A028",
+        "LONGITUDE": -95.479791,
+        "LATITUDE": 29.734275,
+        "KeyMap": "491X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29732889,
         "Agency": "F",
         "Address": "SCOTT ST",
@@ -127,32 +195,15 @@
     },
     {
       "attributes": {
-        "UID": 29624864,
-        "Agency": "F",
-        "Address": "KLECKLEY DR",
-        "CrossStreet": "BLK THERMON ST",
-        "CALL_TIME": 1766032740000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E052",
-        "LONGITUDE": -95.229661,
-        "LATITUDE": 29.624864,
-        "KeyMap": "576P",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29619367,
         "Agency": "F",
         "Address": "CANTERLANE DR",
         "CrossStreet": "BLK NORTHUMB RD",
         "CALL_TIME": 1766032740000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "IncidentType": "ALS EMERGENCY RESPONSE",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E047",
+        "NO_UNITS": 2,
+        "Units": "E047,M024",
         "LONGITUDE": -95.402809,
         "LATITUDE": 29.619367,
         "KeyMap": "572R",
@@ -185,8 +236,8 @@
         "CALL_TIME": 1766032620000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E006,L006",
+        "NO_UNITS": 1,
+        "Units": "L006",
         "LONGITUDE": -95.372441,
         "LATITUDE": 29.77837,
         "KeyMap": "493F",
@@ -365,23 +416,6 @@
     },
     {
       "attributes": {
-        "UID": 29727798,
-        "Agency": "F",
-        "Address": "RICHMOND AVE",
-        "CrossStreet": "BLK WALNUT BEND LN",
-        "CALL_TIME": 1766031000000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A076",
-        "LONGITUDE": -95.565765,
-        "LATITUDE": 29.727798,
-        "KeyMap": "489Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29680373,
         "Agency": "F",
         "Address": "SOUTHINGTON ST",
@@ -394,23 +428,6 @@
         "LONGITUDE": -95.334151,
         "LATITUDE": 29.680373,
         "KeyMap": "534T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29606493,
-        "Agency": "F",
-        "Address": "E ANDERSON RD",
-        "CrossStreet": "BLK MERIDA DR",
-        "CALL_TIME": 1766030940000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M059,A047",
-        "LONGITUDE": -95.411153,
-        "LATITUDE": 29.606493,
-        "KeyMap": "572U",
         "CombinedResponse": "F"
       }
     },
@@ -429,6 +446,23 @@
         "LATITUDE": 29.738138,
         "KeyMap": "495Y",
         "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29606493,
+        "Agency": "F",
+        "Address": "E ANDERSON RD",
+        "CrossStreet": "BLK MERIDA DR",
+        "CALL_TIME": 1766030940000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M059,A047",
+        "LONGITUDE": -95.411153,
+        "LATITUDE": 29.606493,
+        "KeyMap": "572U",
+        "CombinedResponse": "F"
       }
     },
     {
@@ -530,23 +564,6 @@
         "LONGITUDE": -95.331464,
         "LATITUDE": 29.697513,
         "KeyMap": "534K",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29883915,
-        "Agency": "F",
-        "Address": "W GULF BANK RD",
-        "CrossStreet": "BLK GARDEN CITY DR",
-        "CALL_TIME": 1766030100000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M058",
-        "LONGITUDE": -95.452525,
-        "LATITUDE": 29.883915,
-        "KeyMap": "411R",
         "CombinedResponse": "F"
       }
     },
@@ -807,40 +824,6 @@
     },
     {
       "attributes": {
-        "UID": 29653240,
-        "Agency": "P",
-        "Address": "11300 RICECREST ST",
-        "CrossStreet": "BLK GASMER DR",
-        "CALL_TIME": 1766027640000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "15E21C",
-        "LONGITUDE": -95.47118,
-        "LATITUDE": 29.65324,
-        "KeyMap": "571B",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29609748,
-        "Agency": "F",
-        "Address": "ROSEBUD DR",
-        "CrossStreet": "BLK HIRAM CLARKE RD",
-        "CALL_TIME": 1766027160000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A035",
-        "LONGITUDE": -95.442965,
-        "LATITUDE": 29.609748,
-        "KeyMap": "572S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29625024,
         "Agency": "F",
         "Address": "KILKENNY DR",
@@ -950,8 +933,8 @@
         "CALL_TIME": 1765996920000,
         "IncidentType": "GAS LEAKING",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A082,HM1022,E080",
+        "NO_UNITS": 2,
+        "Units": "HM1022,A082",
         "LONGITUDE": -95.484061,
         "LATITUDE": 29.59032,
         "KeyMap": "611A",
