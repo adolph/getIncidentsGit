@@ -93,18 +93,86 @@
   "features": [
     {
       "attributes": {
-        "UID": 29812449,
+        "UID": 29717526,
         "Agency": "F",
-        "Address": "CRITTENDEN ST",
-        "CrossStreet": "BLK WAVERLY ST",
-        "CALL_TIME": 1766467320000,
-        "IncidentType": "CHECK PATIENT*",
+        "Address": "MEDFIELD DR",
+        "CrossStreet": "BLK ASHBURNHAM DR",
+        "CALL_TIME": 1766468220000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E030",
-        "LONGITUDE": -95.348613,
-        "LATITUDE": 29.812449,
-        "KeyMap": "454S",
+        "Units": "A073",
+        "LONGITUDE": -95.604727,
+        "LATITUDE": 29.717526,
+        "KeyMap": "528D",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29709907,
+        "Agency": "F",
+        "Address": "BELLWOOD LN",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1766468220000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A060",
+        "LONGITUDE": -95.545786,
+        "LATITUDE": 29.709907,
+        "KeyMap": "530E",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29688023,
+        "Agency": "F",
+        "Address": "CINNAMON LN",
+        "CrossStreet": "BLK SPICE LN",
+        "CALL_TIME": 1766468160000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E073",
+        "LONGITUDE": -95.565638,
+        "LATITUDE": 29.688023,
+        "KeyMap": "529Q",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29613481,
+        "Agency": "F",
+        "Address": "W FUQUA ST",
+        "CrossStreet": "BLK BATHURST DR",
+        "CALL_TIME": 1766468100000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E080",
+        "LONGITUDE": -95.43424,
+        "LATITUDE": 29.613481,
+        "KeyMap": "572S",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29685740,
+        "Agency": "F",
+        "Address": "CORDER ST",
+        "CrossStreet": "BLK SAINT AUGUSTINE ST",
+        "CALL_TIME": 1766468040000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E046",
+        "LONGITUDE": -95.3627,
+        "LATITUDE": 29.68574,
+        "KeyMap": "533Q",
         "CombinedResponse": "F"
       }
     },
@@ -114,11 +182,11 @@
         "Agency": "F",
         "Address": "W GULF BANK RD",
         "CrossStreet": "BLK DAMASCUS DR",
-        "CALL_TIME": 1766467260000,
+        "CALL_TIME": 1766467740000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "L067,M058",
+        "NO_UNITS": 1,
+        "Units": "M058",
         "LONGITUDE": -95.422605,
         "LATITUDE": 29.8878,
         "KeyMap": "412Q",
@@ -127,18 +195,52 @@
     },
     {
       "attributes": {
-        "UID": 29769132,
+        "UID": 29847005,
+        "Agency": "P",
+        "Address": "5500 NORTH FWY OB",
+        "CrossStreet": "UNNAMED",
+        "CALL_TIME": 1766467740000,
+        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "78B30N",
+        "LONGITUDE": -95.393442,
+        "LATITUDE": 29.847005,
+        "KeyMap": "453A",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29614111,
         "Agency": "F",
-        "Address": "N WAYSIDE DR",
-        "CrossStreet": null,
-        "CALL_TIME": 1766467260000,
+        "Address": "FUQUA ST",
+        "CrossStreet": "ACCESS RD FUQUA ST",
+        "CALL_TIME": 1766467740000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E041",
-        "LONGITUDE": -95.293365,
-        "LATITUDE": 29.769132,
-        "KeyMap": "495J",
+        "Units": "M070",
+        "LONGITUDE": -95.218406,
+        "LATITUDE": 29.614111,
+        "KeyMap": "576U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29812449,
+        "Agency": "F",
+        "Address": "CRITTENDEN ST",
+        "CrossStreet": "BLK WAVERLY ST",
+        "CALL_TIME": 1766467320000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "E030,A030",
+        "LONGITUDE": -95.348613,
+        "LATITUDE": 29.812449,
+        "KeyMap": "454S",
         "CombinedResponse": "F"
       }
     },
@@ -168,8 +270,8 @@
         "CALL_TIME": 1766467200000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "9C22F",
+        "NO_UNITS": 2,
+        "Units": "9C22F,9C32F",
         "LONGITUDE": -95.293365,
         "LATITUDE": 29.769132,
         "KeyMap": "495J",
@@ -178,19 +280,19 @@
     },
     {
       "attributes": {
-        "UID": 29613481,
-        "Agency": "F",
-        "Address": "W FUQUA ST",
-        "CrossStreet": "BLK BATHURST DR",
+        "UID": 29940258,
+        "Agency": "P",
+        "Address": "5801 N SAM HOUSTON PKWY E",
+        "CrossStreet": null,
         "CALL_TIME": 1766467200000,
-        "IncidentType": "EMS EVENT",
+        "IncidentType": "CRASH/MINOR/FSGI",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E080",
-        "LONGITUDE": -95.43424,
-        "LATITUDE": 29.613481,
-        "KeyMap": "572S",
-        "CombinedResponse": "F"
+        "Units": "22B44N",
+        "LONGITUDE": -95.30345,
+        "LATITUDE": 29.940258,
+        "KeyMap": "374V",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -200,47 +302,13 @@
         "Address": "HAVENDALE DR",
         "CrossStreet": "BLK HIGH STAR DR",
         "CALL_TIME": 1766467080000,
-        "IncidentType": "FIRE EVENT",
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E010",
+        "NO_UNITS": 2,
+        "Units": "E010,A010",
         "LONGITUDE": -95.567429,
         "LATITUDE": 29.714001,
         "KeyMap": "529C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29863469,
-        "Agency": "F",
-        "Address": "W LITTLE YORK RD",
-        "CrossStreet": "BLK T C JESTER BLVD",
-        "CALL_TIME": 1766467020000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E067",
-        "LONGITUDE": -95.456203,
-        "LATITUDE": 29.863469,
-        "KeyMap": "411Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29537533,
-        "Agency": "F",
-        "Address": "W BAY AREA BLVD",
-        "CrossStreet": "BLK BEAMER RD",
-        "CALL_TIME": 1766466780000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M072",
-        "LONGITUDE": -95.154228,
-        "LATITUDE": 29.537533,
-        "KeyMap": "617Z",
         "CombinedResponse": "F"
       }
     },
@@ -263,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29711730,
-        "Agency": "F",
-        "Address": "S MACGREGOR WAY",
-        "CrossStreet": null,
-        "CALL_TIME": 1766466780000,
-        "IncidentType": "MOTOR VEHICLE INCIDENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ046,E033",
-        "LONGITUDE": -95.377578,
-        "LATITUDE": 29.71173,
-        "KeyMap": "533F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29673505,
         "Agency": "F",
         "Address": "W BELLFORT AVE",
@@ -287,8 +338,8 @@
         "CALL_TIME": 1766466720000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A055,E024",
+        "NO_UNITS": 1,
+        "Units": "A055",
         "LONGITUDE": -95.401166,
         "LATITUDE": 29.673505,
         "KeyMap": "532V",
@@ -309,23 +360,6 @@
         "LONGITUDE": -95.505794,
         "LATITUDE": 29.887534,
         "KeyMap": "410M",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29650329,
-        "Agency": "F",
-        "Address": "S WILCREST DR",
-        "CrossStreet": "BLK MURPHY RD",
-        "CALL_TIME": 1766466660000,
-        "IncidentType": "AUTOMATIC ALARM",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E073",
-        "LONGITUDE": -95.567131,
-        "LATITUDE": 29.650329,
-        "KeyMap": "569C",
         "CombinedResponse": "F"
       }
     },
@@ -365,23 +399,6 @@
     },
     {
       "attributes": {
-        "UID": 29663262,
-        "Agency": "F",
-        "Address": "WESTOVER ST",
-        "CrossStreet": "BLK CRESTMONT ST",
-        "CALL_TIME": 1766466300000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E035",
-        "LONGITUDE": -95.332315,
-        "LATITUDE": 29.663262,
-        "KeyMap": "534X",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29749949,
         "Agency": "F",
         "Address": "SAN FELIPE ST",
@@ -406,8 +423,8 @@
         "CALL_TIME": 1766466000000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "L059,SQ028,A080",
+        "NO_UNITS": 2,
+        "Units": "SQ028,A080",
         "LONGITUDE": -95.479078,
         "LATITUDE": 29.628964,
         "KeyMap": "571K",
@@ -450,6 +467,23 @@
     },
     {
       "attributes": {
+        "UID": 29560417,
+        "Agency": "F",
+        "Address": "PROKOP CT",
+        "CrossStreet": "DEAD-END",
+        "CALL_TIME": 1766465760000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A093",
+        "LONGITUDE": -95.150182,
+        "LATITUDE": 29.560417,
+        "KeyMap": "617R",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29613963,
         "Agency": "F",
         "Address": "ALMEDA GENOA RD",
@@ -462,23 +496,6 @@
         "LONGITUDE": -95.39272,
         "LATITUDE": 29.613963,
         "KeyMap": "573S",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29560417,
-        "Agency": "F",
-        "Address": "PROKOP CT",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1766465760000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "E072,A093",
-        "LONGITUDE": -95.150182,
-        "LATITUDE": 29.560417,
-        "KeyMap": "617R",
         "CombinedResponse": "F"
       }
     },
@@ -576,8 +593,8 @@
         "CALL_TIME": 1766465220000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "16E27C,16E25C,16E21C",
+        "NO_UNITS": 2,
+        "Units": "16E27C,16E25C",
         "LONGITUDE": -95.39272,
         "LATITUDE": 29.613963,
         "KeyMap": "573S",
@@ -620,23 +637,6 @@
     },
     {
       "attributes": {
-        "UID": 29792356,
-        "Agency": "F",
-        "Address": "WITTE RD",
-        "CrossStreet": "BLK LONG POINT RD",
-        "CALL_TIME": 1766465040000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M049",
-        "LONGITUDE": -95.54013,
-        "LATITUDE": 29.792356,
-        "KeyMap": "450W",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29682120,
         "Agency": "F",
         "Address": "WESTRIDGE ST",
@@ -671,6 +671,23 @@
     },
     {
       "attributes": {
+        "UID": 29666238,
+        "Agency": "F",
+        "Address": "ASHBURN ST",
+        "CrossStreet": "BLK TELEPHONE RD",
+        "CALL_TIME": 1766464560000,
+        "IncidentType": "EMS EVENT THRU FESY",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M036",
+        "LONGITUDE": -95.291115,
+        "LATITUDE": 29.666238,
+        "KeyMap": "535W",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29701959,
         "Agency": "F",
         "Address": "MILART ST",
@@ -700,23 +717,6 @@
         "LONGITUDE": -95.445631,
         "LATITUDE": 29.596053,
         "KeyMap": "571Z",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29666238,
-        "Agency": "F",
-        "Address": "ASHBURN ST",
-        "CrossStreet": "BLK TELEPHONE RD",
-        "CALL_TIME": 1766464560000,
-        "IncidentType": "EMS EVENT THRU FESY",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M036",
-        "LONGITUDE": -95.291115,
-        "LATITUDE": 29.666238,
-        "KeyMap": "535W",
         "CombinedResponse": "F"
       }
     },
@@ -763,45 +763,11 @@
         "CALL_TIME": 1766463780000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A082,SQ082",
+        "NO_UNITS": 1,
+        "Units": "SQ082",
         "LONGITUDE": -95.501368,
         "LATITUDE": 29.653512,
         "KeyMap": "570D",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29687892,
-        "Agency": "F",
-        "Address": "IDAHO ST",
-        "CrossStreet": "BLK LONDON ST",
-        "CALL_TIME": 1766463600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A040",
-        "LONGITUDE": -95.353388,
-        "LATITUDE": 29.687892,
-        "KeyMap": "533R",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29695535,
-        "Agency": "F",
-        "Address": "ALMEDA RD",
-        "CrossStreet": "BLK CORDER ST",
-        "CALL_TIME": 1766463600000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A033",
-        "LONGITUDE": -95.388059,
-        "LATITUDE": 29.695535,
-        "KeyMap": "533J",
         "CombinedResponse": "F"
       }
     },
@@ -820,23 +786,6 @@
         "LATITUDE": 29.967922,
         "KeyMap": "372G",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29859416,
-        "Agency": "P",
-        "Address": "4101 PARKER RD",
-        "CrossStreet": "BLK PEACH ST",
-        "CALL_TIME": 1766463300000,
-        "IncidentType": "CRASH/MINOR/DISTURBANCE",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "7C24F",
-        "LONGITUDE": -95.327405,
-        "LATITUDE": 29.859416,
-        "KeyMap": "414X",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -899,8 +848,8 @@
         "CALL_TIME": 1766462820000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ008,A008",
+        "NO_UNITS": 1,
+        "Units": "A008",
         "LONGITUDE": -95.363602,
         "LATITUDE": 29.758356,
         "KeyMap": "493L",
@@ -921,23 +870,6 @@
         "LONGITUDE": -95.221072,
         "LATITUDE": 29.775749,
         "KeyMap": "496G",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29710410,
-        "Agency": "F",
-        "Address": "HILLCROFT AVE",
-        "CrossStreet": "BLK CLAREWOOD DR",
-        "CALL_TIME": 1766462700000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M010,AS037",
-        "LONGITUDE": -95.493179,
-        "LATITUDE": 29.71041,
-        "KeyMap": "531E",
         "CombinedResponse": "F"
       }
     },
@@ -1006,23 +938,6 @@
         "LONGITUDE": -95.468313,
         "LATITUDE": 29.883317,
         "KeyMap": "411Q",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29835652,
-        "Agency": "F",
-        "Address": "VICTORIA DR",
-        "CrossStreet": "BLK WERNER ST",
-        "CALL_TIME": 1766458740000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M031",
-        "LONGITUDE": -95.397469,
-        "LATITUDE": 29.835652,
-        "KeyMap": "453E",
         "CombinedResponse": "F"
       }
     },
