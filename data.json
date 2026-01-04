@@ -93,15 +93,83 @@
   "features": [
     {
       "attributes": {
+        "UID": 29753277,
+        "Agency": "F",
+        "Address": "W GRAY ST",
+        "CrossStreet": "BLK HAZEL ST",
+        "CALL_TIME": 1767526020000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A008",
+        "LONGITUDE": -95.395128,
+        "LATITUDE": 29.753277,
+        "KeyMap": "493N",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29613556,
+        "Agency": "F",
+        "Address": "S POST OAK RD",
+        "CrossStreet": "BLK W FUQUA ST",
+        "CALL_TIME": 1767525960000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E059",
+        "LONGITUDE": -95.464938,
+        "LATITUDE": 29.613556,
+        "KeyMap": "571U",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29851522,
+        "Agency": "F",
+        "Address": "N WAYSIDE DR",
+        "CrossStreet": "BLK HAMLET ST",
+        "CALL_TIME": 1767525960000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A032",
+        "LONGITUDE": -95.28365,
+        "LATITUDE": 29.851522,
+        "KeyMap": "455B",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29638578,
+        "Agency": "F",
+        "Address": "DUNLAP ST",
+        "CrossStreet": "BLK ALANI ST",
+        "CALL_TIME": 1767525960000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "A048",
+        "LONGITUDE": -95.495402,
+        "LATITUDE": 29.638578,
+        "KeyMap": "571E",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
         "UID": 29734347,
         "Agency": "F",
         "Address": "WALLINGFORD DR",
         "CrossStreet": "BLK MEADOWGLEN LN",
-        "CALL_TIME": 1767525420000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "CALL_TIME": 1767525900000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A083",
+        "NO_UNITS": 2,
+        "Units": "A083,M075",
         "LONGITUDE": -95.563873,
         "LATITUDE": 29.734347,
         "KeyMap": "489U",
@@ -117,8 +185,8 @@
         "CALL_TIME": 1767525060000,
         "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "L067,A084",
+        "NO_UNITS": 1,
+        "Units": "L067",
         "LONGITUDE": -95.430702,
         "LATITUDE": 29.893033,
         "KeyMap": "412K",
@@ -151,8 +219,8 @@
         "CALL_TIME": 1767524700000,
         "IncidentType": "CRASH/MINOR/FSGI",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "8C12F,7C12F",
+        "NO_UNITS": 3,
+        "Units": "8C12F,7C12F,7C20F",
         "LONGITUDE": -95.321535,
         "LATITUDE": 29.846975,
         "KeyMap": "454C",
@@ -195,19 +263,19 @@
     },
     {
       "attributes": {
-        "UID": 29669572,
-        "Agency": "F",
-        "Address": "MCLEAN ST",
-        "CrossStreet": "BLK ROSEMONT ST",
-        "CALL_TIME": 1767524160000,
-        "IncidentType": "EMS EVENT",
+        "UID": 29657950,
+        "Agency": "P",
+        "Address": "7916 AIRPORT BLVD",
+        "CrossStreet": "HOBBY AIRPORT EXIT RAMP",
+        "CALL_TIME": 1767524040000,
+        "IncidentType": "TRAFFIC HAZARD/URGENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A046",
-        "LONGITUDE": -95.361841,
-        "LATITUDE": 29.669572,
-        "KeyMap": "533Y",
-        "CombinedResponse": "F"
+        "NO_UNITS": 2,
+        "Units": "13D19N,14D23N",
+        "LONGITUDE": -95.273827,
+        "LATITUDE": 29.65795,
+        "KeyMap": "575B",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -225,23 +293,6 @@
         "LATITUDE": 29.675068,
         "KeyMap": "529U",
         "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29657950,
-        "Agency": "P",
-        "Address": "7916 AIRPORT BLVD",
-        "CrossStreet": "HOBBY AIRPORT EXIT RAMP",
-        "CALL_TIME": 1767524040000,
-        "IncidentType": "TRAFFIC HAZARD/URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "13D19N,14D23N",
-        "LONGITUDE": -95.273827,
-        "LATITUDE": 29.65795,
-        "KeyMap": "575B",
-        "CombinedResponse": "P"
       }
     },
     {
@@ -559,8 +610,8 @@
         "CALL_TIME": 1767520080000,
         "IncidentType": "APARTMENT FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 9,
-        "Units": "E010,E068,M010,L068,RH042,A068,ARS754,ARS737,ARS724",
+        "NO_UNITS": 8,
+        "Units": "E010,E068,M010,L068,RH042,A068,ARS754,ARS724",
         "LONGITUDE": -95.55141,
         "LATITUDE": 29.686142,
         "KeyMap": "529R",
@@ -654,23 +705,6 @@
     },
     {
       "attributes": {
-        "UID": 29626401,
-        "Agency": "P",
-        "Address": "15302 MAIN ST OB",
-        "CrossStreet": null,
-        "CALL_TIME": 1767519240000,
-        "IncidentType": "CRASH/MAJOR/FSRA",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "16E47C",
-        "LONGITUDE": -95.518635,
-        "LATITUDE": 29.626401,
-        "KeyMap": "570L",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29801672,
         "Agency": "F",
         "Address": "W 18TH ST",
@@ -700,23 +734,6 @@
         "LONGITUDE": -95.251368,
         "LATITUDE": 29.689114,
         "KeyMap": "535R",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29630370,
-        "Agency": "P",
-        "Address": "13501 S POST OAK RD",
-        "CrossStreet": null,
-        "CALL_TIME": 1767518880000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "16E37C",
-        "LONGITUDE": -95.464099,
-        "LATITUDE": 29.63037,
-        "KeyMap": "571L",
         "CombinedResponse": "P"
       }
     },
