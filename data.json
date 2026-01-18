@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29651655,
+        "UID": 29667124,
         "Agency": "F",
-        "Address": "BARBERRY DR",
-        "CrossStreet": "BLK FERDINAND ST",
-        "CALL_TIME": 1768749420000,
-        "IncidentType": "CHECK PATIENT*",
+        "Address": "SOUTH DR",
+        "CrossStreet": "BLK S WILCREST DR",
+        "CALL_TIME": 1768749720000,
+        "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E055",
-        "LONGITUDE": -95.36735,
-        "LATITUDE": 29.651655,
-        "KeyMap": "573C",
+        "Units": "E073",
+        "LONGITUDE": -95.562825,
+        "LATITUDE": 29.667124,
+        "KeyMap": "529Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29796613,
+        "Agency": "F",
+        "Address": "DIAN ST",
+        "CrossStreet": "BLK W 15TH ST",
+        "CALL_TIME": 1768749600000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A011,M062",
+        "LONGITUDE": -95.413986,
+        "LATITUDE": 29.796613,
+        "KeyMap": "452Y",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "HAYES RD",
         "CrossStreet": "BLK RICHMOND AVE",
-        "CALL_TIME": 1768749360000,
+        "CALL_TIME": 1768749600000,
         "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -122,6 +139,40 @@
         "LONGITUDE": -95.575661,
         "LATITUDE": 29.732516,
         "KeyMap": "489X",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29622926,
+        "Agency": "P",
+        "Address": "9900 GALVESTON RD",
+        "CrossStreet": "BLK FUQUA ST",
+        "CALL_TIME": 1768749540000,
+        "IncidentType": "CRASH/MINOR/FSGI",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "12D10D",
+        "LONGITUDE": -95.197945,
+        "LATITUDE": 29.622926,
+        "KeyMap": "576R",
+        "CombinedResponse": "P"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29651655,
+        "Agency": "F",
+        "Address": "BARBERRY DR",
+        "CrossStreet": "BLK FERDINAND ST",
+        "CALL_TIME": 1768749480000,
+        "IncidentType": "CHECK PATIENT*",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E055",
+        "LONGITUDE": -95.36735,
+        "LATITUDE": 29.651655,
+        "KeyMap": "573C",
         "CombinedResponse": "F"
       }
     },
@@ -173,23 +224,6 @@
         "LONGITUDE": -95.410581,
         "LATITUDE": 29.770464,
         "KeyMap": "492H",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29784729,
-        "Agency": "F",
-        "Address": "FULTON ST",
-        "CrossStreet": null,
-        "CALL_TIME": 1768749000000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E009",
-        "LONGITUDE": -95.36109,
-        "LATITUDE": 29.784729,
-        "KeyMap": "493C",
         "CombinedResponse": "F"
       }
     },
@@ -331,23 +365,6 @@
     },
     {
       "attributes": {
-        "UID": 29781232,
-        "Agency": "P",
-        "Address": "5635 KIAM ST",
-        "CrossStreet": "BLK ARABELLE ST",
-        "CALL_TIME": 1768747680000,
-        "IncidentType": "TRAFFIC HAZARD/NON URGENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "2A54D",
-        "LONGITUDE": -95.422854,
-        "LATITUDE": 29.781232,
-        "KeyMap": "492C",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29681563,
         "Agency": "P",
         "Address": "9222 KAPRI LN",
@@ -450,23 +467,6 @@
     },
     {
       "attributes": {
-        "UID": 29679348,
-        "Agency": "F",
-        "Address": "CALHOUN RD",
-        "CrossStreet": "BLK SOUTHWIND ST",
-        "CALL_TIME": 1768746000000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M024",
-        "LONGITUDE": -95.352069,
-        "LATITUDE": 29.679348,
-        "KeyMap": "533V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29812836,
         "Agency": "F",
         "Address": "N ELDRIDGE PKWY",
@@ -508,45 +508,11 @@
         "CALL_TIME": 1768745040000,
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
-        "NO_UNITS": 8,
-        "Units": "L101,D102,L102,E102,M101,CC015,ARS768,ARS765",
+        "NO_UNITS": 7,
+        "Units": "L101,L102,M101,E102,CC015,ARS768,ARS765",
         "LONGITUDE": -95.223173,
         "LATITUDE": 30.054473,
         "KeyMap": "296Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29734835,
-        "Agency": "F",
-        "Address": "S DAIRY ASHFORD RD",
-        "CrossStreet": "BLK ASHFORD MEADOW DR",
-        "CALL_TIME": 1768745040000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M075",
-        "LONGITUDE": -95.605826,
-        "LATITUDE": 29.734835,
-        "KeyMap": "488V",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29690318,
-        "Agency": "F",
-        "Address": "SOUTHLAWN ST",
-        "CrossStreet": "BLK SCOTT ST",
-        "CALL_TIME": 1768745040000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A046",
-        "LONGITUDE": -95.366558,
-        "LATITUDE": 29.690318,
-        "KeyMap": "533Q",
         "CombinedResponse": "F"
       }
     },
@@ -559,8 +525,8 @@
         "CALL_TIME": 1768744800000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ082,A048",
+        "NO_UNITS": 1,
+        "Units": "A048",
         "LONGITUDE": -95.495407,
         "LATITUDE": 29.640603,
         "KeyMap": "571E",
