@@ -93,18 +93,35 @@
   "features": [
     {
       "attributes": {
-        "UID": 29750893,
+        "UID": 29724771,
         "Agency": "F",
-        "Address": "MAIN ST",
-        "CrossStreet": "BLK ST JOSEPH PKWY",
-        "CALL_TIME": 1768901820000,
+        "Address": "BINZ ST",
+        "CrossStreet": null,
+        "CALL_TIME": 1768902420000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 3,
-        "Units": "A008,M009,SQ008",
-        "LONGITUDE": -95.369831,
-        "LATITUDE": 29.750893,
-        "KeyMap": "493Q",
+        "NO_UNITS": 1,
+        "Units": "A007",
+        "LONGITUDE": -95.387869,
+        "LATITUDE": 29.724771,
+        "KeyMap": "533A",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29764092,
+        "Agency": "F",
+        "Address": "WIGGINS ST",
+        "CrossStreet": "BLK LEDWICKE ST",
+        "CALL_TIME": 1768902180000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "M043,A041",
+        "LONGITUDE": -95.270026,
+        "LATITUDE": 29.764092,
+        "KeyMap": "495L",
         "CombinedResponse": "F"
       }
     },
@@ -114,7 +131,7 @@
         "Agency": "F",
         "Address": "MONROE RD",
         "CrossStreet": null,
-        "CALL_TIME": 1768901820000,
+        "CALL_TIME": 1768902060000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -127,18 +144,18 @@
     },
     {
       "attributes": {
-        "UID": 29764092,
+        "UID": 29750893,
         "Agency": "F",
-        "Address": "WIGGINS ST",
-        "CrossStreet": "BLK LEDWICKE ST",
-        "CALL_TIME": 1768901760000,
+        "Address": "MAIN ST",
+        "CrossStreet": "BLK ST JOSEPH PKWY",
+        "CALL_TIME": 1768901820000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 2,
-        "Units": "M043,A041",
-        "LONGITUDE": -95.270026,
-        "LATITUDE": 29.764092,
-        "KeyMap": "495L",
+        "Units": "A008,SQ008",
+        "LONGITUDE": -95.369831,
+        "LATITUDE": 29.750893,
+        "KeyMap": "493Q",
         "CombinedResponse": "F"
       }
     },
@@ -168,8 +185,8 @@
         "CALL_TIME": 1768901580000,
         "IncidentType": "MOTOR VEHICLE INCIDENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M055,E055",
+        "NO_UNITS": 1,
+        "Units": "E055",
         "LONGITUDE": -95.351286,
         "LATITUDE": 29.600629,
         "KeyMap": "573Z",
@@ -208,6 +225,23 @@
         "LATITUDE": 29.931753,
         "KeyMap": "372Z",
         "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29600612,
+        "Agency": "P",
+        "Address": "14402 OLD CHOCOLATE BAYOU RD",
+        "CrossStreet": "BLK S SAM HOUSTON PKWY E",
+        "CALL_TIME": 1768900980000,
+        "IncidentType": "CRASH/MAJOR/NON FATAL",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "14D42N",
+        "LONGITUDE": -95.351306,
+        "LATITUDE": 29.600612,
+        "KeyMap": "573Z",
+        "CombinedResponse": "P"
       }
     },
     {
@@ -297,23 +331,6 @@
     },
     {
       "attributes": {
-        "UID": 29724191,
-        "Agency": "F",
-        "Address": "BINZ ST",
-        "CrossStreet": "BLK AUSTIN ST",
-        "CALL_TIME": 1768900260000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M006",
-        "LONGITUDE": -95.386922,
-        "LATITUDE": 29.724191,
-        "KeyMap": "533A",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29819433,
         "Agency": "F",
         "Address": "W 34TH ST",
@@ -365,23 +382,6 @@
     },
     {
       "attributes": {
-        "UID": 29605183,
-        "Agency": "F",
-        "Address": "TRINITY MEADOW DR",
-        "CrossStreet": "DEAD-END",
-        "CALL_TIME": 1768898520000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A068",
-        "LONGITUDE": -95.508136,
-        "LATITUDE": 29.605183,
-        "KeyMap": "570U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29703931,
         "Agency": "P",
         "Address": "10900 BELLAIRE BLVD",
@@ -407,7 +407,7 @@
         "IncidentType": "HOUSE ON FIRE",
         "ALARM_LEVEL": 1,
         "NO_UNITS": 10,
-        "Units": "E056,M056,E043,SF030,RE042,E034,D045,L034,D034,E032",
+        "Units": "M056,E056,E034,L034,L056,E043,D034,E032,CC015,RH008",
         "LONGITUDE": -95.307316,
         "LATITUDE": 29.867851,
         "KeyMap": "414V",
@@ -467,40 +467,6 @@
     },
     {
       "attributes": {
-        "UID": 29774458,
-        "Agency": "F",
-        "Address": "TRALLE ST",
-        "CrossStreet": "BLK LYONS AVE",
-        "CALL_TIME": 1768896960000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M019",
-        "LONGITUDE": -95.325709,
-        "LATITUDE": 29.774458,
-        "KeyMap": "494F",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29775158,
-        "Agency": "F",
-        "Address": "ADDICKS HOWELL RD",
-        "CrossStreet": "BLK S SH 6",
-        "CALL_TIME": 1768895400000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A090",
-        "LONGITUDE": -95.642414,
-        "LATITUDE": 29.775158,
-        "KeyMap": "488E",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29817535,
         "Agency": "P",
         "Address": "3233 MANGUM RD",
@@ -508,8 +474,8 @@
         "CALL_TIME": 1768892280000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "3B14N,6B37N",
+        "NO_UNITS": 1,
+        "Units": "3B14N",
         "LONGITUDE": -95.459378,
         "LATITUDE": 29.817535,
         "KeyMap": "451R",
