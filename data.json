@@ -93,35 +93,52 @@
   "features": [
     {
       "attributes": {
-        "UID": 29685322,
+        "UID": 29734478,
         "Agency": "F",
-        "Address": "SCOTT ST",
-        "CrossStreet": "BLK MT PLEASANT ST",
-        "CALL_TIME": 1769685060000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "WALNUT BEND LN",
+        "CrossStreet": "BLK MEADOWGLEN LN",
+        "CALL_TIME": 1769685960000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E046",
-        "LONGITUDE": -95.365013,
-        "LATITUDE": 29.685322,
-        "KeyMap": "533Q",
+        "Units": "M083",
+        "LONGITUDE": -95.566851,
+        "LATITUDE": 29.734478,
+        "KeyMap": "489U",
         "CombinedResponse": "F"
       }
     },
     {
       "attributes": {
-        "UID": 29778608,
+        "UID": 29734730,
         "Agency": "F",
-        "Address": "BARRYKNOLL LN",
-        "CrossStreet": "BLK MEMORIAL CITY WAY",
-        "CALL_TIME": 1769685000000,
+        "Address": "SHADOWBRIAR DR",
+        "CrossStreet": "BLK OXFORD PARK DR",
+        "CALL_TIME": 1769685780000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E049",
-        "LONGITUDE": -95.534993,
-        "LATITUDE": 29.778608,
-        "KeyMap": "490B",
+        "Units": "A083",
+        "LONGITUDE": -95.598044,
+        "LATITUDE": 29.73473,
+        "KeyMap": "488V",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29828408,
+        "Agency": "F",
+        "Address": "GEORGI LN",
+        "CrossStreet": "BLK DONNA LYNN DR",
+        "CALL_TIME": 1769685600000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "E013",
+        "LONGITUDE": -95.463655,
+        "LATITUDE": 29.828408,
+        "KeyMap": "451L",
         "CombinedResponse": "F"
       }
     },
@@ -131,7 +148,7 @@
         "Agency": "F",
         "Address": "S GESSNER RD",
         "CrossStreet": "BLK ELLA LEE LN",
-        "CALL_TIME": 1769685000000,
+        "CALL_TIME": 1769685600000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
@@ -144,35 +161,18 @@
     },
     {
       "attributes": {
-        "UID": 29606927,
+        "UID": 29778608,
         "Agency": "F",
-        "Address": "GULF POINTE DR",
-        "CrossStreet": "BLK DICKINSON RD",
-        "CALL_TIME": 1769684640000,
+        "Address": "BARRYKNOLL LN",
+        "CrossStreet": "BLK MEMORIAL CITY WAY",
+        "CALL_TIME": 1769685240000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E070",
-        "LONGITUDE": -95.213333,
-        "LATITUDE": 29.606927,
-        "KeyMap": "576Y",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29687270,
-        "Agency": "F",
-        "Address": "LINKWOOD DR",
-        "CrossStreet": "BLK LINKFAIR LN",
-        "CALL_TIME": 1769684520000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E037",
-        "LONGITUDE": -95.437185,
-        "LATITUDE": 29.68727,
-        "KeyMap": "532N",
+        "NO_UNITS": 2,
+        "Units": "E049,A005",
+        "LONGITUDE": -95.534993,
+        "LATITUDE": 29.778608,
+        "KeyMap": "490B",
         "CombinedResponse": "F"
       }
     },
@@ -440,8 +440,8 @@
         "CALL_TIME": 1769680800000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A041,M019",
+        "NO_UNITS": 1,
+        "Units": "M019",
         "LONGITUDE": -95.197962,
         "LATITUDE": 29.784334,
         "KeyMap": "497A",
@@ -474,8 +474,8 @@
         "CALL_TIME": 1769679900000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "M027,AS027",
+        "NO_UNITS": 1,
+        "Units": "M027",
         "LONGITUDE": -95.317806,
         "LATITUDE": 29.800389,
         "KeyMap": "454Y",
@@ -518,23 +518,6 @@
     },
     {
       "attributes": {
-        "UID": 29654832,
-        "Agency": "F",
-        "Address": "HENO ST",
-        "CrossStreet": "BLK DAWSON LN",
-        "CALL_TIME": 1769679360000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "M024",
-        "LONGITUDE": -95.367679,
-        "LATITUDE": 29.654832,
-        "KeyMap": "573C",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
         "UID": 29669768,
         "Agency": "F",
         "Address": "ROLKE RD",
@@ -559,28 +542,11 @@
         "CALL_TIME": 1769676480000,
         "IncidentType": "CRASH/MAJOR/NON FATAL",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "3B53N,3B54N",
+        "NO_UNITS": 1,
+        "Units": "3B53N",
         "LONGITUDE": -95.407719,
         "LATITUDE": 29.827794,
         "KeyMap": "452M",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29796988,
-        "Agency": "P",
-        "Address": "5001 CRANE ST",
-        "CrossStreet": "BLK PICKFAIR ST",
-        "CALL_TIME": 1769673360000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "7C24F",
-        "LONGITUDE": -95.320392,
-        "LATITUDE": 29.796988,
-        "KeyMap": "454Y",
         "CombinedResponse": "P"
       }
     },
@@ -598,40 +564,6 @@
         "LONGITUDE": -95.476965,
         "LATITUDE": 29.750052,
         "KeyMap": "491P",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29852429,
-        "Agency": "P",
-        "Address": "6120 MAYBELL ST",
-        "CrossStreet": "BLK BEALL ST",
-        "CALL_TIME": 1769662740000,
-        "IncidentType": "CRASH/MAJOR/NON FATAL",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "3B42N",
-        "LONGITUDE": -95.417225,
-        "LATITUDE": 29.852429,
-        "KeyMap": "452C",
-        "CombinedResponse": "P"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29815181,
-        "Agency": "P",
-        "Address": "10419 EMNORA LN",
-        "CrossStreet": "BLK SHADOWDALE DR",
-        "CALL_TIME": 1769658840000,
-        "IncidentType": "CRASH/MINOR/FSGI",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "4F38N",
-        "LONGITUDE": -95.550385,
-        "LATITUDE": 29.815181,
-        "KeyMap": "449R",
         "CombinedResponse": "P"
       }
     },
