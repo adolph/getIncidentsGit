@@ -93,35 +93,69 @@
   "features": [
     {
       "attributes": {
-        "UID": 29784324,
+        "UID": 29886742,
         "Agency": "F",
-        "Address": "KATY FWY IB",
-        "CrossStreet": null,
-        "CALL_TIME": 1787133120000,
-        "IncidentType": "UNKNOWN EVENT A LEVEL RESPONSE",
+        "Address": "MICOLLET ST",
+        "CrossStreet": "BLK DANFORD LN",
+        "CALL_TIME": 1787133720000,
+        "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E078",
-        "LONGITUDE": -95.617738,
-        "LATITUDE": 29.784324,
-        "KeyMap": "488C",
+        "Units": "M056",
+        "LONGITUDE": -95.298252,
+        "LATITUDE": 29.886742,
+        "KeyMap": "415N",
         "CombinedResponse": "F"
       }
     },
     {
       "attributes": {
-        "UID": 29854106,
+        "UID": 29690796,
         "Agency": "F",
-        "Address": "NORTHWEST FWY OB",
-        "CrossStreet": "FAIRBANKS N HOUSTON EXIT RAMP",
-        "CALL_TIME": 1787133120000,
-        "IncidentType": "AUTOMATIC ALARM",
+        "Address": "COOK RD",
+        "CrossStreet": "BLK WHITE CAP LN",
+        "CALL_TIME": 1787133660000,
+        "IncidentType": "FIRE EVENT",
         "ALARM_LEVEL": 0,
         "NO_UNITS": 1,
-        "Units": "E050",
-        "LONGITUDE": -95.513951,
-        "LATITUDE": 29.854106,
-        "KeyMap": "450C",
+        "Units": "E076",
+        "LONGITUDE": -95.595932,
+        "LATITUDE": 29.690796,
+        "KeyMap": "529J",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29724688,
+        "Agency": "F",
+        "Address": "ROGERDALE RD",
+        "CrossStreet": "BLK WESTPARK DR",
+        "CALL_TIME": 1787133480000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 1,
+        "Units": "M083",
+        "LONGITUDE": -95.559639,
+        "LATITUDE": 29.724688,
+        "KeyMap": "489Y",
+        "CombinedResponse": "F"
+      }
+    },
+    {
+      "attributes": {
+        "UID": 29778361,
+        "Agency": "F",
+        "Address": "OATS ST",
+        "CrossStreet": "BLK YATES ST",
+        "CALL_TIME": 1787133180000,
+        "IncidentType": "EMS EVENT",
+        "ALARM_LEVEL": 0,
+        "NO_UNITS": 2,
+        "Units": "A019,M019",
+        "LONGITUDE": -95.324692,
+        "LATITUDE": 29.778361,
+        "KeyMap": "494F",
         "CombinedResponse": "F"
       }
     },
@@ -139,40 +173,6 @@
         "LONGITUDE": -95.470679,
         "LATITUDE": 29.739664,
         "KeyMap": "491U",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29680380,
-        "Agency": "F",
-        "Address": "SOUTHINGTON ST",
-        "CrossStreet": "BLK CRESTMONT ST",
-        "CALL_TIME": 1787132940000,
-        "IncidentType": "FIRE EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "E035",
-        "LONGITUDE": -95.330773,
-        "LATITUDE": 29.68038,
-        "KeyMap": "534T",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29778361,
-        "Agency": "F",
-        "Address": "OATS ST",
-        "CrossStreet": "BLK YATES ST",
-        "CALL_TIME": 1787132640000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A019",
-        "LONGITUDE": -95.324692,
-        "LATITUDE": 29.778361,
-        "KeyMap": "494F",
         "CombinedResponse": "F"
       }
     },
@@ -321,8 +321,8 @@
         "CALL_TIME": 1787130300000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "A040,M018",
+        "NO_UNITS": 1,
+        "Units": "A040",
         "LONGITUDE": -95.335392,
         "LATITUDE": 29.707473,
         "KeyMap": "534E",
@@ -445,23 +445,6 @@
         "LONGITUDE": -95.337651,
         "LATITUDE": 29.698175,
         "KeyMap": "534J",
-        "CombinedResponse": "F"
-      }
-    },
-    {
-      "attributes": {
-        "UID": 29764748,
-        "Agency": "F",
-        "Address": "BERING DR",
-        "CrossStreet": "BLK TANGLEWOOD PARK ST",
-        "CALL_TIME": 1787128620000,
-        "IncidentType": "EMS EVENT",
-        "ALARM_LEVEL": 0,
-        "NO_UNITS": 1,
-        "Units": "A002",
-        "LONGITUDE": -95.48032,
-        "LATITUDE": 29.764748,
-        "KeyMap": "491K",
         "CombinedResponse": "F"
       }
     },
@@ -593,8 +576,8 @@
         "CALL_TIME": 1787123340000,
         "IncidentType": "EMS EVENT",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "SQ046,A046",
+        "NO_UNITS": 1,
+        "Units": "SQ046",
         "LONGITUDE": -95.366682,
         "LATITUDE": 29.668684,
         "KeyMap": "533Y",
@@ -661,8 +644,8 @@
         "CALL_TIME": 1787109600000,
         "IncidentType": "CRASH/MAJOR/FATALITY",
         "ALARM_LEVEL": 0,
-        "NO_UNITS": 2,
-        "Units": "18F50N,70Z85N",
+        "NO_UNITS": 1,
+        "Units": "70Z85N",
         "LONGITUDE": -95.488885,
         "LATITUDE": 29.75817,
         "KeyMap": "491J",
